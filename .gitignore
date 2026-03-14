@@ -1,4 +1,17 @@
+# Dependencies
+node_modules/
+bun.lock
+
 # gstack build artifacts
 .claude/skills/gstack/node_modules/
 .claude/skills/gstack/browse/dist/
 .claude/skills/gstack/bun.lock
+
+# Environment
+.env
+
+# Project outputs (generated media)
+projects/
+
+# Build
+dist/

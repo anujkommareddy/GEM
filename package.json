@@ -1,0 +1,13 @@
+{
+  "name": "gem",
+  "version": "0.1.0",
+  "description": "Generative Entertainment Machine — concept to clips pipeline",
+  "type": "module",
+  "scripts": {
+    "gem": "bun run src/cli.ts",
+    "dev": "bun run --watch src/cli.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0"
+  }
+}

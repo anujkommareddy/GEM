@@ -6,6 +6,10 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
   exit 0
 fi
 
+# Install GEM project dependencies
+cd "$CLAUDE_PROJECT_DIR"
+bun install
+
 # Install gstack dependencies
 if [ -d "$CLAUDE_PROJECT_DIR/.claude/skills/gstack" ]; then
   cd "$CLAUDE_PROJECT_DIR/.claude/skills/gstack"
