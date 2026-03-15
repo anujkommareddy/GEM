@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GEM — The Intelligence Layer for Creators</title>
+    <meta name="description" content="Stop guessing who matters. GEM helps creators find the smartest path to representation, buyers, producers, and capital." />
+    <meta property="og:title" content="GEM — The Intelligence Layer for Creators" />
+    <meta property="og:description" content="Stop guessing who matters. GEM helps creators find the smartest path to representation, buyers, producers, and capital." />
+    <meta property="og:url" content="https://gem.studio" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              bg: '#0a0a0a',
+              fg: '#e8e6e1',
+              muted: '#8a8780',
+              accent: '#c9a96e',
+              'accent-hover': '#d4b87d',
+              surface: '#111111',
+              border: '#222222',
+            },
+          },
+        },
+      }
+    </script>
+    <style>
+      html { scroll-behavior: smooth; }
+      body { background: #0a0a0a; color: #e8e6e1; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+      @keyframes fade-in {
+        from { opacity: 0; transform: translateY(16px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .fade-in { animation: fade-in 0.8s ease-out forwards; }
+      .fade-in-d1 { animation: fade-in 0.8s ease-out 0.15s forwards; opacity: 0; }
+      .fade-in-d2 { animation: fade-in 0.8s ease-out 0.3s forwards; opacity: 0; }
+      #success-msg { display: none; }
+    </style>
+  </head>
+  <body class="antialiased">
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-bg/80 backdrop-blur-md border-b border-border">
+      <div class="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
+        <span class="text-lg font-semibold tracking-wider">GEM</span>
+        <a href="#waitlist" class="text-sm text-accent hover:text-accent-hover transition-colors">Join Waitlist</a>
+      </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="pt-32 pb-20 px-6 md:pt-44 md:pb-32">
+      <div class="max-w-3xl mx-auto text-center">
+        <h1 class="text-4xl md:text-6xl font-semibold tracking-tight leading-[1.1] fade-in">
+          Know exactly who<br />
+          <span class="text-accent">to talk to next.</span>
+        </h1>
+        <p class="mt-6 text-lg md:text-xl text-muted max-w-2xl mx-auto leading-relaxed fade-in-d1">
+          The entertainment industry runs on relationships most creators can't see.
+          GEM maps the smartest path to representation, buyers, producers, and capital
+          for your specific project.
+        </p>
+        <div class="mt-10 fade-in-d2">
+          <a href="#waitlist" class="inline-block px-8 py-3.5 bg-accent text-bg font-medium rounded-lg hover:bg-accent-hover transition-colors">
+            Request Early Access
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Problem -->
+    <section class="py-20 px-6 border-t border-border">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-sm uppercase tracking-widest text-accent mb-8">The Problem</h2>
+        <div class="space-y-6 text-lg leading-relaxed text-muted">
+          <p>
+            Hollywood is opaque by design. The people who could change your career are
+            behind walls you don't even know exist. Most creators spend years sending
+            material to the wrong people, in the wrong order, with no strategy.
+          </p>
+          <p>
+            The information about who's actually buying, who's looking for what, and
+            which path makes sense for <em>your</em> specific project — that information
+            exists. It's just locked inside the heads of a small number of insiders.
+          </p>
+          <p class="text-fg font-medium">GEM unlocks it.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="py-20 px-6 border-t border-border bg-surface">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-sm uppercase tracking-widest text-accent mb-12">How It Works</h2>
+        <div class="grid gap-10 md:grid-cols-3">
+          <div>
+            <div class="text-accent font-mono text-sm mb-3">01</div>
+            <h3 class="text-lg font-medium mb-2">Submit your project</h3>
+            <p class="text-muted text-sm leading-relaxed">
+              Share your script, concept, or IP. Tell us what you're looking for —
+              representation, production, distribution, financing, or all of it.
+            </p>
+          </div>
+          <div>
+            <div class="text-accent font-mono text-sm mb-3">02</div>
+            <h3 class="text-lg font-medium mb-2">Get your map</h3>
+            <p class="text-muted text-sm leading-relaxed">
+              GEM analyzes your material against the current landscape and returns the
+              most relevant people and companies to approach — prioritized and strategic.
+            </p>
+          </div>
+          <div>
+            <div class="text-accent font-mono text-sm mb-3">03</div>
+            <h3 class="text-lg font-medium mb-2">Move with clarity</h3>
+            <p class="text-muted text-sm leading-relaxed">
+              Stop guessing. Know which reps are actively looking for your genre.
+              Which producers have deals at the right studios. Which buyers are
+              actually in-market.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- What You Get -->
+    <section class="py-20 px-6 border-t border-border">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-sm uppercase tracking-widest text-accent mb-12">What You Get</h2>
+        <div class="grid gap-6 md:grid-cols-2">
+          <div class="p-6 border border-border rounded-lg hover:border-accent/30 transition-colors">
+            <h3 class="font-medium mb-2">Targeted allies</h3>
+            <p class="text-muted text-sm leading-relaxed">
+              The specific reps, producers, executives, and companies most likely to
+              respond to your material.
+            </p>
+          </div>
+          <div class="p-6 border border-border rounded-lg hover:border-accent/30 transition-colors">
+            <h3 class="font-medium mb-2">Prioritized outreach</h3>
+            <p class="text-muted text-sm leading-relaxed">
+              Not just who — but in what order, and why. A sequenced strategy,
+              not a spray-and-pray list.
+            </p>
+          </div>
+          <div class="p-6 border border-border rounded-lg hover:border-accent/30 transition-colors">
+            <h3 class="font-medium mb-2">Market intelligence</h3>
+            <p class="text-muted text-sm leading-relaxed">
+              Who's buying in your space right now. What's selling. Where the real
+              opportunities are.
+            </p>
+          </div>
+          <div class="p-6 border border-border rounded-lg hover:border-accent/30 transition-colors">
+            <h3 class="font-medium mb-2">A smarter path forward</h3>
+            <p class="text-muted text-sm leading-relaxed">
+              Whether you need a manager first or should go direct to producers.
+              Whether your project is a feature, series, or something else entirely.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Who It's For -->
+    <section class="py-20 px-6 border-t border-border bg-surface">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-sm uppercase tracking-widest text-accent mb-8">Who It's For</h2>
+        <div class="space-y-4 text-muted">
+          <div class="flex items-start gap-3">
+            <span class="text-accent mt-1.5 text-xs">&#9670;</span>
+            <span class="text-sm leading-relaxed">Screenwriters with material ready to go out</span>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-accent mt-1.5 text-xs">&#9670;</span>
+            <span class="text-sm leading-relaxed">Creators developing original IP across film, TV, and audio</span>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-accent mt-1.5 text-xs">&#9670;</span>
+            <span class="text-sm leading-relaxed">Authors, journalists, and IP holders exploring adaptation</span>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-accent mt-1.5 text-xs">&#9670;</span>
+            <span class="text-sm leading-relaxed">Independent producers looking for the right partners</span>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-accent mt-1.5 text-xs">&#9670;</span>
+            <span class="text-sm leading-relaxed">Anyone tired of guessing how the industry actually works</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Waitlist -->
+    <section id="waitlist" class="py-24 px-6 border-t border-border">
+      <div class="max-w-3xl mx-auto text-center">
+        <h2 class="text-3xl md:text-4xl font-semibold tracking-tight mb-4">
+          Stop guessing. Start moving.
+        </h2>
+        <p class="text-muted mb-10 max-w-lg mx-auto">
+          GEM is in early development. Request access and be among the first to use it
+          when we launch.
+        </p>
+
+        <!-- Form — powered by Formspree -->
+        <form id="waitlist-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="space-y-4 max-w-md mx-auto">
+          <input type="text" name="name" placeholder="Your name" required
+            class="w-full px-4 py-3 bg-surface border border-border rounded-lg text-fg placeholder:text-muted focus:outline-none focus:border-accent transition-colors" />
+          <input type="email" name="email" placeholder="Email" required
+            class="w-full px-4 py-3 bg-surface border border-border rounded-lg text-fg placeholder:text-muted focus:outline-none focus:border-accent transition-colors" />
+          <textarea name="project" placeholder="What are you working on? (optional)" rows="3"
+            class="w-full px-4 py-3 bg-surface border border-border rounded-lg text-fg placeholder:text-muted focus:outline-none focus:border-accent transition-colors resize-none"></textarea>
+          <button type="submit" id="submit-btn"
+            class="w-full py-3 bg-accent text-bg font-medium rounded-lg hover:bg-accent-hover transition-colors cursor-pointer">
+            Request Early Access
+          </button>
+        </form>
+
+        <!-- Success message -->
+        <div id="success-msg" class="py-12">
+          <div class="text-accent text-lg font-medium mb-2">You're on the list.</div>
+          <p class="text-muted text-sm">We'll be in touch when it's your turn. In the meantime, keep building.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-8 px-6 border-t border-border">
+      <div class="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted">
+        <span class="tracking-wider font-medium text-fg">GEM</span>
+        <span>&copy; 2026 GEM Studio. All rights reserved.</span>
+      </div>
+    </footer>
+
+    <script>
+      const form = document.getElementById('waitlist-form');
+      const successMsg = document.getElementById('success-msg');
+      const submitBtn = document.getElementById('submit-btn');
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        submitBtn.textContent = 'Joining...';
+        submitBtn.disabled = true;
+
+        try {
+          const res = await fetch(form.action, {
+            method: 'POST',
+            body: new FormData(form),
+            headers: { 'Accept': 'application/json' },
+          });
+
+          if (res.ok) {
+            form.style.display = 'none';
+            successMsg.style.display = 'block';
+          } else {
+            throw new Error();
+          }
+        } catch {
+          submitBtn.textContent = 'Something went wrong. Try again.';
+          submitBtn.disabled = false;
+          setTimeout(() => { submitBtn.textContent = 'Request Early Access'; }, 3000);
+        }
+      });
+    </script>
+  </body>
+</html>
