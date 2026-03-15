@@ -1,0 +1,8 @@
+data/sheets/*.csv
+data/sheets/*.tsv
+data/sheets/*.xlsx
+data/scripts/
+data/linked_dataset.json
+output/
+__pycache__/
+*.pyc
