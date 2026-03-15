@@ -1,115 +1,99 @@
-# GEM Research Pipeline
+# GEM Research Pipeline — TV Script Factor Analysis
 
-Script factor analysis pipeline for studying what distinguishes TV show winners from losers.
+Research infrastructure for identifying which factors in TV pilot scripts best predict breakout success.
 
-## Setup
+## Dataset
 
-```bash
-pip install pydantic
-pip install anthropic   # only needed for real (non-mock) analysis
-```
+- **1,102 shows** from the Master Pilots List (73 winners, 1,029 losers)
+- **909 pilot scripts** as PDFs in `data/scripts/pdf_backup/`
+- **809 shows** successfully linked to scripts (52 winners, 757 losers)
 
-## Data Preparation
-
-1. **Export your Google Sheet** as CSV and place it in `data/sheets/`
-2. **Copy your script files** into `data/scripts/`
-   - Supports: `.txt`, `.pdf`, `.fdx` (Final Draft), `.fountain`, `.md`
-   - Naming conventions (any of these work):
-     - `Show Name - Pilot.txt`
-     - `Show Name - S01E01 - Episode Title.txt`
-     - `show_name.txt`
-     - Or organize as `data/scripts/ShowName/episode.txt`
-
-## Usage
-
-All commands run from the `research/` directory:
+## Quick Start
 
 ```bash
-# 1. Check pipeline status
-python cli.py status
+cd research
 
-# 2. Ingest and link your data
-python cli.py ingest data/sheets/my_shows.csv data/scripts/
+# 1. Ingest — parse sheet + link scripts
+python cli.py ingest
 
-# 3. Inspect label schemes
+# 2. Inspect labels — see how schemes partition the data
 python cli.py labels
 
-# 4. View candidate factors
+# 3. List candidate factors
 python cli.py factors
 
-# 5. Run analysis (--mock for testing without API)
+# 4. Analyze scripts (--mock for testing, remove for real Claude API analysis)
 python cli.py analyze --mock
-# Or with real Claude analysis:
-ANTHROPIC_API_KEY=sk-... python cli.py analyze
+# For real analysis: ANTHROPIC_API_KEY=... python cli.py analyze
 
-# 6. Run hypothesis testing
+# 5. Hypothesis testing — compare factors across label schemes
 python cli.py test
 
-# 7. Generate full report
+# 6. Generate full report
 python cli.py report
 ```
 
-## Pipeline Phases
+## Pipeline Stages
 
-| Phase | Module | Purpose |
-|-------|--------|---------|
-| 1 | `ingest.py` | Load sheet + scripts, link by title, normalize |
-| 2 | `labels.py` | Flexible winner/loser definitions, multiple schemes |
-| 3 | `factors.py` | 12 candidate factors with definitions and rationale |
-| 4 | `analyze.py` | Script analysis via Claude API, structured JSON output |
-| 5 | `hypothesis.py` | Factor comparison, stability testing across schemes |
-| 6 | `report.py` | Summary reports (JSON + text) with recommendations |
+### Phase 1 — Ingest (`ingest.py`)
+- Parses `Master Pilots list - 2.0.pdf` → structured CSV in `data/sheets/`
+- Loads script PDFs via PyPDF2
+- Links sheet rows to scripts by PDF filename (primary) and fuzzy title matching (fallback)
+- Outputs `data/linked_dataset.json`
 
-## Label Schemes
+### Phase 2 — Labeling (`labels.py`)
+Three built-in label schemes to test factor stability:
+- **binary_all** — All 52 winners vs 757 losers
+- **strict_confident** — Only high-confidence filename matches
+- **balanced_sample** — 52 winners vs 52 randomly sampled losers (controls for class imbalance)
 
-The pipeline tests your data under multiple winner/loser interpretations:
+### Phase 3 — Factors (`factors.py`)
+12 candidate factors scored 1-10:
+- premise_strength, hook_clarity, character_magnetism, series_engine
+- originality, emotional_pull, world_distinctiveness, scene_propulsion
+- dialogue_sharpness, commercial_clarity, derivative_risk, word_of_mouth_potential
 
-- **binary_strict** — Only clear winners and losers, excludes ambiguous
-- **binary_broad** — Includes moderate cases, ambiguous kept separate
-- **top_vs_bottom** — Only breakout hits vs total flops, everything else excluded
+### Phase 4 — Analysis (`analyze.py`)
+- Sends each script to Claude for structured factor scoring
+- Caches results in `output/analyses/`
+- Mock mode available for testing without API
 
-You can add custom schemes in `labels.py` or programmatically via `create_scheme_from_raw_values()`.
+### Phase 5 — Hypothesis Testing (`hypothesis.py`)
+- Cohen's d effect size for each factor across winner/loser groups
+- Welch's t-test for significance
+- Stability analysis across all three label schemes
+- False positive/negative detection
 
-## Factors Analyzed
+### Phase 6 — Reporting (`report.py`)
+- `output/report.json` — structured data
+- `output/report.txt` — human-readable summary
+- Ranked factors, stable/unstable classification, recommendations
 
-| Factor | What It Measures |
-|--------|-----------------|
-| premise_strength | Is the central idea compelling and pitchable? |
-| hook_clarity | Does the opening grab attention and set stakes? |
-| character_magnetism | Are the characters watchable and distinctive? |
-| series_engine | Can this generate new stories for 100+ episodes? |
-| originality | Does it feel fresh vs. what's already on air? |
-| emotional_pull | Does it generate genuine emotional response? |
-| world_distinctiveness | Is the world vivid and immersive? |
-| scene_propulsion | Does every scene create momentum? |
-| dialogue_sharpness | Is the dialogue distinctive and quotable? |
-| commercial_clarity | How easy is this to market? |
-| derivative_risk | How much does this feel like a copy? (risk factor) |
-| word_of_mouth_potential | Will viewers actively recommend this? |
+## Dependencies
 
-## Output
+```bash
+pip install pydantic PyPDF2
+# For real analysis (not mock):
+pip install anthropic
+```
 
-- `output/analyses/` — Per-show JSON analysis files (cached)
-- `output/report.json` — Structured report data
-- `output/report.txt` — Human-readable summary with recommendations
-
-## Directory Structure
+## File Structure
 
 ```
 research/
-├── cli.py              # CLI entry point
+├── cli.py              # CLI entry point (7 commands)
 ├── models.py           # Pydantic data models
-├── ingest.py           # Phase 1: data loading and linking
-├── labels.py           # Phase 2: flexible labeling
-├── factors.py          # Phase 3: factor definitions
-├── analyze.py          # Phase 4: script analysis
-├── hypothesis.py       # Phase 5: hypothesis testing
-├── report.py           # Phase 6: reporting
+├── ingest.py           # Sheet + script loading + linking
+├── labels.py           # Flexible labeling schemes
+├── factors.py          # 12 candidate factor definitions
+├── analyze.py          # Claude API script analysis
+├── hypothesis.py       # Statistical testing
+├── report.py           # Report generation
 ├── data/
-│   ├── sheets/         # Place CSV exports here
-│   └── scripts/        # Place script files here
+│   ├── sheets/         # Master Pilots List CSV
+│   └── scripts/        # pdf_backup/ with 909 pilot PDFs
 └── output/
-    ├── analyses/       # Cached analysis results
+    ├── analyses/       # Per-show analysis JSON files
     ├── report.json     # Structured report
-    └── report.txt      # Text report
+    └── report.txt      # Human-readable report
 ```

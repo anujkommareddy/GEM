@@ -1,6 +1,8 @@
 """Phase 1: Data ingestion and normalization.
 
 Loads the winner/loser sheet and script files, links them into a unified dataset.
+Optimized for the actual GEM dataset: a CSV with show_name/pdf_file/label columns
+and a pdf_backup/ folder of pilot scripts.
 """
 
 from __future__ import annotations
@@ -19,8 +21,8 @@ from models import LinkedRecord, Script, ShowEntry
 # Sheet loading
 # ---------------------------------------------------------------------------
 
-def load_sheet_csv(path: str, label_column: str = "label", title_column: str = "title") -> list[ShowEntry]:
-    """Load the winner/loser labels from a CSV export of the Google Sheet.
+def load_sheet_csv(path: str) -> list[ShowEntry]:
+    """Load the winner/loser labels from a CSV.
 
     Auto-detects columns by scanning headers for likely matches.
     """
@@ -28,9 +30,7 @@ def load_sheet_csv(path: str, label_column: str = "label", title_column: str = "
     with open(path, newline="", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         headers = reader.fieldnames or []
-
-        # Auto-detect column names (case-insensitive fuzzy match)
-        col_map = _detect_columns(headers, title_column, label_column)
+        col_map = _detect_columns(headers)
 
         for row in reader:
             title = row.get(col_map["title"], "").strip()
@@ -38,8 +38,13 @@ def load_sheet_csv(path: str, label_column: str = "label", title_column: str = "
             if not title:
                 continue
 
-            extra = {k: v for k, v in row.items()
-                     if k not in (col_map["title"], col_map["label"]) and v and v.strip()}
+            # Capture pdf_file reference if present
+            pdf_file = row.get(col_map.get("pdf_file", ""), "").strip() or None
+
+            extra = {}
+            for k, v in row.items():
+                if k not in (col_map["title"], col_map["label"]) and v and v.strip():
+                    extra[k] = v.strip()
 
             entries.append(ShowEntry(
                 title=title,
@@ -53,39 +58,14 @@ def load_sheet_csv(path: str, label_column: str = "label", title_column: str = "
     return entries
 
 
-def load_sheet_tsv(path: str, **kwargs) -> list[ShowEntry]:
-    """Load from a TSV file (Google Sheets copy-paste format)."""
-    # Convert TSV to CSV-compatible by re-reading
-    with open(path, encoding="utf-8-sig") as f:
-        content = f.read()
-    # Write as temp CSV
-    csv_path = path + ".tmp.csv"
-    with open(csv_path, "w", encoding="utf-8") as f:
-        for line in content.splitlines():
-            f.write(",".join(f'"{cell}"' for cell in line.split("\t")) + "\n")
-    try:
-        return load_sheet_csv(csv_path, **kwargs)
-    finally:
-        os.remove(csv_path)
-
-
-def load_sheet(path: str, **kwargs) -> list[ShowEntry]:
+def load_sheet(path: str) -> list[ShowEntry]:
     """Auto-detect format and load sheet."""
     p = Path(path)
-    if p.suffix == ".tsv":
-        return load_sheet_tsv(path, **kwargs)
-    elif p.suffix == ".csv":
-        return load_sheet_csv(path, **kwargs)
-    elif p.suffix == ".json":
+    if p.suffix == ".json":
         with open(path) as f:
             data = json.load(f)
         return [ShowEntry(**row) for row in data]
-    else:
-        # Try CSV first
-        try:
-            return load_sheet_csv(path, **kwargs)
-        except Exception:
-            return load_sheet_tsv(path, **kwargs)
+    return load_sheet_csv(path)
 
 
 # ---------------------------------------------------------------------------
@@ -93,21 +73,22 @@ def load_sheet(path: str, **kwargs) -> list[ShowEntry]:
 # ---------------------------------------------------------------------------
 
 def load_scripts(directory: str) -> list[Script]:
-    """Load all script files from a directory.
+    """Load all script files from a directory (recursively).
 
-    Supports: .txt, .pdf (text extraction), .fdx (Final Draft XML), .fountain
-    Extracts show/episode title from filename conventions.
+    Supports: .txt, .pdf, .fdx, .fountain, .md
     """
     scripts: list[Script] = []
     script_dir = Path(directory)
 
     if not script_dir.exists():
         print(f"Warning: Script directory {directory} does not exist.")
-        print(f"Place your script files in: {script_dir.absolute()}")
         return scripts
 
     for path in sorted(script_dir.rglob("*")):
         if path.is_dir():
+            continue
+        # Skip the master list itself
+        if "master pilots" in path.name.lower():
             continue
         if path.suffix.lower() in (".txt", ".fountain", ".fdx", ".pdf", ".md"):
             script = _parse_script_file(path)
@@ -158,7 +139,6 @@ def _extract_pdf_text(path: Path) -> str:
     except FileNotFoundError:
         pass
 
-    # Fallback: try PyPDF2 if available
     try:
         from PyPDF2 import PdfReader
         reader = PdfReader(str(path))
@@ -189,20 +169,11 @@ def _extract_fdx_text(path: Path) -> str:
 
 
 def _parse_filename(path: Path) -> tuple[str, Optional[str]]:
-    """Extract show title and optional episode title from filename.
-
-    Handles patterns like:
-    - "Show Name - S01E01 - Episode Title.txt"
-    - "Show Name - Pilot.txt"
-    - "Show_Name_101.txt"
-    - "show-name.txt"
-    - Subdirectory structure: scripts/ShowName/episode.txt
-    """
+    """Extract show title and optional episode title from filename."""
     stem = path.stem
     parent_name = path.parent.name
 
-    # Check if parent directory is the show name (scripts/ShowName/episode.txt)
-    if parent_name.lower() not in ("scripts", "data", ".", ""):
+    if parent_name.lower() not in ("scripts", "data", "pdf_backup", ".", ""):
         show_title = _clean_title(parent_name)
         episode_title = _clean_title(stem)
         return show_title, episode_title
@@ -217,120 +188,140 @@ def _parse_filename(path: Path) -> tuple[str, Optional[str]]:
     if match:
         return _clean_title(match.group(1)), _clean_title(match.group(2))
 
-    # Just the show name
     return _clean_title(stem), None
 
 
 def _clean_title(raw: str) -> str:
     """Normalize a title string."""
-    # Replace underscores and hyphens with spaces
     cleaned = re.sub(r"[_-]", " ", raw)
-    # Collapse whitespace
     cleaned = re.sub(r"\s+", " ", cleaned).strip()
-    # Title case if all lower or all upper
     if cleaned == cleaned.lower() or cleaned == cleaned.upper():
         cleaned = cleaned.title()
     return cleaned
 
 
 # ---------------------------------------------------------------------------
-# Title matching / linking
+# Linking: match sheet rows to script files
 # ---------------------------------------------------------------------------
+
+def link_data(
+    shows: list[ShowEntry],
+    scripts: list[Script],
+    scripts_dir: str = "data/scripts/pdf_backup",
+) -> list[LinkedRecord]:
+    """Link show entries to scripts.
+
+    Primary strategy: use the pdf_file field from the sheet for direct filename match.
+    Fallback: fuzzy title matching.
+    """
+    # Build filename -> Script lookup
+    script_by_filename: dict[str, Script] = {}
+    for s in scripts:
+        script_by_filename[s.filename] = s
+        script_by_filename[s.filename.lower()] = s
+
+    records: list[LinkedRecord] = []
+    matched = 0
+    unmatched_shows: list[str] = []
+
+    for show in shows:
+        # Try direct filename match from the pdf_file extra field
+        pdf_ref = show.extra.get("pdf_file", "")
+        found_script = None
+        match_method = "unmatched"
+
+        if pdf_ref:
+            # Direct match
+            if pdf_ref in script_by_filename:
+                found_script = script_by_filename[pdf_ref]
+                match_method = "filename_exact"
+            elif pdf_ref.lower() in script_by_filename:
+                found_script = script_by_filename[pdf_ref.lower()]
+                match_method = "filename_case_insensitive"
+
+        # Fallback: fuzzy title matching against parsed show_title from scripts
+        if not found_script:
+            show_norm = normalize_for_matching(show.title)
+            best_match = None
+            best_score = 0.0
+
+            for script in scripts:
+                script_norm = normalize_for_matching(script.show_title)
+
+                if show_norm == script_norm:
+                    best_match = script
+                    best_score = 1.0
+                    break
+
+                if show_norm in script_norm or script_norm in show_norm:
+                    shorter = min(len(show_norm), len(script_norm))
+                    longer = max(len(show_norm), len(script_norm))
+                    score = shorter / longer if longer > 0 else 0
+                    if score > best_score and score > 0.5:
+                        best_match = script
+                        best_score = score
+
+                show_tokens = set(show_norm.split())
+                script_tokens = set(script_norm.split())
+                if show_tokens and script_tokens:
+                    jaccard = len(show_tokens & script_tokens) / len(show_tokens | script_tokens)
+                    if jaccard > best_score and jaccard > 0.5:
+                        best_match = script
+                        best_score = jaccard
+
+            if best_match:
+                found_script = best_match
+                match_method = "title_fuzzy"
+
+        if found_script:
+            matched += 1
+            records.append(LinkedRecord(
+                show=show,
+                scripts=[found_script],
+                match_confidence=1.0 if "filename" in match_method else 0.8,
+                match_method=match_method,
+            ))
+        else:
+            unmatched_shows.append(show.title)
+            records.append(LinkedRecord(
+                show=show,
+                scripts=[],
+                match_confidence=0.0,
+                match_method="unmatched",
+            ))
+
+    if unmatched_shows:
+        print(f"\n  {len(unmatched_shows)} shows could not be matched to scripts")
+
+    print(f"\n  Linked {matched}/{len(shows)} shows to scripts")
+    return records
+
 
 def normalize_for_matching(title: str) -> str:
     """Normalize a title for fuzzy matching."""
     t = title.lower()
     t = re.sub(r"[^a-z0-9\s]", "", t)
     t = re.sub(r"\s+", " ", t).strip()
-    # Remove common prefixes/suffixes
     for word in ("the", "a", "an"):
         if t.startswith(word + " "):
             t = t[len(word) + 1:]
     return t
 
 
-def link_data(shows: list[ShowEntry], scripts: list[Script]) -> list[LinkedRecord]:
-    """Link show entries to scripts using title matching.
-
-    Uses a multi-pass approach:
-    1. Exact normalized match
-    2. Substring/contains match
-    3. Token overlap match
-    """
-    records: list[LinkedRecord] = []
-    unmatched_scripts = list(scripts)
-
-    for show in shows:
-        show_norm = normalize_for_matching(show.title)
-        matched: list[tuple[Script, float, str]] = []
-
-        for script in unmatched_scripts:
-            script_norm = normalize_for_matching(script.show_title)
-
-            # Exact match
-            if show_norm == script_norm:
-                matched.append((script, 1.0, "exact"))
-                continue
-
-            # Contains match
-            if show_norm in script_norm or script_norm in show_norm:
-                shorter = min(len(show_norm), len(script_norm))
-                longer = max(len(show_norm), len(script_norm))
-                conf = shorter / longer if longer > 0 else 0
-                if conf > 0.5:
-                    matched.append((script, conf, "contains"))
-                    continue
-
-            # Token overlap
-            show_tokens = set(show_norm.split())
-            script_tokens = set(script_norm.split())
-            if show_tokens and script_tokens:
-                overlap = len(show_tokens & script_tokens)
-                total = len(show_tokens | script_tokens)
-                jaccard = overlap / total
-                if jaccard > 0.5:
-                    matched.append((script, jaccard, "token_overlap"))
-
-        # Build record
-        record_scripts = []
-        for s, conf, method in matched:
-            record_scripts.append(s)
-            if s in unmatched_scripts:
-                unmatched_scripts.remove(s)
-
-        best_conf = max((c for _, c, _ in matched), default=1.0)
-        best_method = next((m for _, _, m in matched if m == "exact"), "fuzzy")
-
-        records.append(LinkedRecord(
-            show=show,
-            scripts=record_scripts,
-            match_confidence=best_conf,
-            match_method=best_method if matched else "unmatched",
-        ))
-
-    # Report unmatched scripts
-    if unmatched_scripts:
-        print(f"\n⚠ {len(unmatched_scripts)} scripts could not be matched to any show:")
-        for s in unmatched_scripts:
-            print(f"  - {s.filename} (parsed title: '{s.show_title}')")
-
-    matched_count = sum(1 for r in records if r.scripts)
-    print(f"\n✓ Linked {matched_count}/{len(shows)} shows to scripts")
-
-    return records
-
+# ---------------------------------------------------------------------------
+# Save / load linked dataset
+# ---------------------------------------------------------------------------
 
 def save_linked_dataset(records: list[LinkedRecord], output_path: str):
-    """Save the linked dataset to JSON."""
+    """Save the linked dataset to JSON (without full script text)."""
     data = [r.model_dump() for r in records]
-    # Don't save full script text in the linked dataset — too large
     for entry in data:
         for script in entry.get("scripts", []):
             script["text"] = f"[{script.get('word_count', 0)} words — see source file]"
 
     with open(output_path, "w") as f:
         json.dump(data, f, indent=2)
-    print(f"✓ Saved linked dataset to {output_path}")
+    print(f"  Saved linked dataset to {output_path}")
 
 
 def load_linked_dataset(path: str) -> list[LinkedRecord]:
@@ -341,36 +332,42 @@ def load_linked_dataset(path: str) -> list[LinkedRecord]:
 
 
 # ---------------------------------------------------------------------------
-# Column detection helpers
+# Column detection
 # ---------------------------------------------------------------------------
 
-def _detect_columns(headers: list[str], title_hint: str, label_hint: str) -> dict[str, str]:
-    """Auto-detect which columns map to title, label, etc."""
+def _detect_columns(headers: list[str]) -> dict[str, str]:
+    """Auto-detect which columns map to title, label, pdf_file, etc."""
     col_map: dict[str, str] = {}
     lower_headers = {h.lower().strip(): h for h in headers}
 
     # Title column
-    for candidate in [title_hint, "title", "show", "show_name", "show name", "series", "name"]:
-        if candidate.lower() in lower_headers:
-            col_map["title"] = lower_headers[candidate.lower()]
+    for candidate in ["show_name", "show name", "title", "show", "series", "name"]:
+        if candidate in lower_headers:
+            col_map["title"] = lower_headers[candidate]
             break
     if "title" not in col_map and headers:
         col_map["title"] = headers[0]
 
     # Label column
-    for candidate in [label_hint, "label", "winner", "result", "outcome", "status",
-                      "winner/loser", "winner_loser", "w/l", "category"]:
-        if candidate.lower() in lower_headers:
-            col_map["label"] = lower_headers[candidate.lower()]
+    for candidate in ["label", "winner/loser", "winner_loser", "w/l", "result",
+                       "outcome", "status", "category", "winner", "loser"]:
+        if candidate in lower_headers:
+            col_map["label"] = lower_headers[candidate]
             break
     if "label" not in col_map and len(headers) > 1:
-        col_map["label"] = headers[1]
+        col_map["label"] = headers[-1]  # Usually last column
+
+    # PDF file column
+    for candidate in ["pdf_file", "pdf file", "file_name", "file name", "filename", "pdf"]:
+        if candidate in lower_headers:
+            col_map["pdf_file"] = lower_headers[candidate]
+            break
 
     # Optional columns
     for field, candidates in {
         "episode": ["episode", "episode_title", "episode title", "ep"],
         "network": ["network", "channel", "platform", "streamer"],
-        "genre": ["genre", "type", "category"],
+        "genre": ["genre", "type"],
         "year": ["year", "premiere", "air_date", "date", "premiere_year"],
     }.items():
         for c in candidates:
@@ -386,46 +383,3 @@ def _parse_year(val: str) -> Optional[int]:
         return None
     match = re.search(r"(19|20)\d{2}", val.strip())
     return int(match.group()) if match else None
-
-
-# ---------------------------------------------------------------------------
-# CLI entry point
-# ---------------------------------------------------------------------------
-
-if __name__ == "__main__":
-    import sys
-
-    if len(sys.argv) < 2:
-        print("Usage: python ingest.py <sheet_path> [scripts_dir]")
-        print()
-        print("Loads your Google Sheet data and script files, links them, and")
-        print("saves a normalized dataset.")
-        print()
-        print("  sheet_path   Path to CSV/TSV export of your labeled sheet")
-        print("  scripts_dir  Directory containing script files (default: data/scripts/)")
-        sys.exit(1)
-
-    sheet_path = sys.argv[1]
-    scripts_dir = sys.argv[2] if len(sys.argv) > 2 else "data/scripts"
-
-    print(f"Loading sheet from {sheet_path}...")
-    shows = load_sheet(sheet_path)
-    print(f"  Found {len(shows)} show entries")
-
-    # Show label distribution
-    labels = {}
-    for s in shows:
-        l = s.raw_label.lower().strip()
-        labels[l] = labels.get(l, 0) + 1
-    print(f"  Label distribution: {labels}")
-
-    print(f"\nLoading scripts from {scripts_dir}...")
-    scripts = load_scripts(scripts_dir)
-    print(f"  Found {len(scripts)} scripts")
-
-    print("\nLinking shows to scripts...")
-    records = link_data(shows, scripts)
-
-    output_path = "data/linked_dataset.json"
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    save_linked_dataset(records, output_path)

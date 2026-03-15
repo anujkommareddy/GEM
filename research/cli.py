@@ -2,12 +2,12 @@
 """GEM Research Pipeline — CLI entry point.
 
 Usage:
-    python cli.py ingest <sheet_path> [scripts_dir]   Ingest and link data
-    python cli.py labels [dataset_path]                Inspect label schemes
+    python cli.py ingest                               Ingest and link data
+    python cli.py labels                               Inspect label schemes
     python cli.py factors                              List candidate factors
-    python cli.py analyze [dataset_path] [--mock]      Run script analysis
-    python cli.py test [dataset_path] [analyses_dir]   Run hypothesis testing
-    python cli.py report [dataset_path] [analyses_dir] Generate full report
+    python cli.py analyze [--mock]                     Run script analysis
+    python cli.py test                                 Run hypothesis testing
+    python cli.py report                               Generate full report
     python cli.py status                               Show pipeline status
 """
 
@@ -20,19 +20,20 @@ import sys
 # Ensure research/ is on the path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+# Default paths
+SHEET_PATH = "data/sheets/master_pilots_list.csv"
+SCRIPTS_DIR = "data/scripts/pdf_backup"
+DATASET_PATH = "data/linked_dataset.json"
+ANALYSES_DIR = "output/analyses"
+OUTPUT_DIR = "output"
+
 
 def cmd_ingest(args: list[str]):
     """Ingest sheet + scripts, produce linked dataset."""
     from ingest import link_data, load_scripts, load_sheet, save_linked_dataset
 
-    if not args:
-        print("Usage: python cli.py ingest <sheet_path> [scripts_dir]")
-        print("\n  sheet_path   CSV/TSV/JSON export of your labeled Google Sheet")
-        print("  scripts_dir  Directory with script files (default: data/scripts/)")
-        sys.exit(1)
-
-    sheet_path = args[0]
-    scripts_dir = args[1] if len(args) > 1 else "data/scripts"
+    sheet_path = args[0] if args else SHEET_PATH
+    scripts_dir = args[1] if len(args) > 1 else SCRIPTS_DIR
 
     print(f"Loading sheet: {sheet_path}")
     shows = load_sheet(sheet_path)
@@ -48,11 +49,19 @@ def cmd_ingest(args: list[str]):
     scripts = load_scripts(scripts_dir)
     print(f"  {len(scripts)} scripts loaded")
 
-    print("\nLinking...")
-    records = link_data(shows, scripts)
+    print("\nLinking shows to scripts...")
+    records = link_data(shows, scripts, scripts_dir)
 
     os.makedirs("data", exist_ok=True)
-    save_linked_dataset(records, "data/linked_dataset.json")
+    save_linked_dataset(records, DATASET_PATH)
+
+    # Summary
+    with_scripts = sum(1 for r in records if r.scripts)
+    winners_with = sum(1 for r in records if r.scripts and r.show.raw_label.lower() == "winner")
+    losers_with = sum(1 for r in records if r.scripts and r.show.raw_label.lower() == "loser")
+    print(f"\n  Summary: {with_scripts} shows with scripts ({winners_with} winners, {losers_with} losers)")
+    print(f"  Dataset saved to {DATASET_PATH}")
+    print(f"\n  Next: python cli.py labels")
 
 
 def cmd_labels(args: list[str]):
@@ -60,12 +69,15 @@ def cmd_labels(args: list[str]):
     from ingest import load_linked_dataset
     from labels import build_default_schemes, inspect_labels, scheme_summary
 
-    path = args[0] if args else "data/linked_dataset.json"
+    path = args[0] if args else DATASET_PATH
     records = load_linked_dataset(path)
 
     print("Raw label distribution:")
     for label, count in inspect_labels(records).items():
         print(f"  {label}: {count}")
+
+    with_scripts = sum(1 for r in records if r.scripts)
+    print(f"\nShows with scripts: {with_scripts}")
 
     print("\nLabel scheme summaries:")
     for scheme in build_default_schemes():
@@ -97,12 +109,12 @@ def cmd_analyze(args: list[str]):
     use_mock = "--mock" in args
     args = [a for a in args if a != "--mock"]
 
-    dataset_path = args[0] if args else "data/linked_dataset.json"
-    scripts_dir = args[1] if len(args) > 1 else "data/scripts"
+    dataset_path = args[0] if args else DATASET_PATH
+    scripts_dir = args[1] if len(args) > 1 else SCRIPTS_DIR
 
     records = load_linked_dataset(dataset_path)
 
-    # Re-attach script text
+    # Re-attach script text (not stored in linked dataset)
     scripts = load_scripts(scripts_dir)
     script_map = {s.filename: s for s in scripts}
     for record in records:
@@ -110,8 +122,10 @@ def cmd_analyze(args: list[str]):
             if rs.filename in script_map:
                 record.scripts[i] = script_map[rs.filename]
 
-    os.makedirs("output/analyses", exist_ok=True)
-    analyze_batch(records, use_mock=use_mock)
+    os.makedirs(ANALYSES_DIR, exist_ok=True)
+    results = analyze_batch(records, output_dir=ANALYSES_DIR, use_mock=use_mock)
+    print(f"\nResults saved to {ANALYSES_DIR}/")
+    print(f"\n  Next: python cli.py test")
 
 
 def cmd_test(args: list[str]):
@@ -121,8 +135,8 @@ def cmd_test(args: list[str]):
     from ingest import load_linked_dataset
     from labels import build_default_schemes
 
-    dataset_path = args[0] if args else "data/linked_dataset.json"
-    analyses_dir = args[1] if len(args) > 1 else "output/analyses"
+    dataset_path = args[0] if args else DATASET_PATH
+    analyses_dir = args[1] if len(args) > 1 else ANALYSES_DIR
 
     records = load_linked_dataset(dataset_path)
     analyses = load_analyses(analyses_dir)
@@ -149,9 +163,9 @@ def cmd_report(args: list[str]):
     from ingest import load_linked_dataset
     from report import generate_report
 
-    dataset_path = args[0] if args else "data/linked_dataset.json"
-    analyses_dir = args[1] if len(args) > 1 else "output/analyses"
-    output_dir = args[2] if len(args) > 2 else "output"
+    dataset_path = args[0] if args else DATASET_PATH
+    analyses_dir = args[1] if len(args) > 1 else ANALYSES_DIR
+    output_dir = args[2] if len(args) > 2 else OUTPUT_DIR
 
     records = load_linked_dataset(dataset_path)
     analyses = load_analyses(analyses_dir)
@@ -168,12 +182,12 @@ def cmd_report(args: list[str]):
 def cmd_status(args: list[str]):
     """Show pipeline status."""
     checks = [
-        ("data/sheets/", "Sheet data directory"),
-        ("data/scripts/", "Script files directory"),
-        ("data/linked_dataset.json", "Linked dataset"),
-        ("output/analyses/", "Analysis results"),
-        ("output/report.json", "JSON report"),
-        ("output/report.txt", "Text report"),
+        (SHEET_PATH, "Sheet data (CSV)"),
+        (SCRIPTS_DIR, "Script files (pdf_backup)"),
+        (DATASET_PATH, "Linked dataset"),
+        (ANALYSES_DIR, "Analysis results"),
+        (f"{OUTPUT_DIR}/report.json", "JSON report"),
+        (f"{OUTPUT_DIR}/report.txt", "Text report"),
     ]
 
     print("GEM Research Pipeline — Status\n")
@@ -189,13 +203,11 @@ def cmd_status(args: list[str]):
             print(f"  [--] {desc}: {path} (not found)")
 
     print("\nNext steps:")
-    if not os.path.exists("data/linked_dataset.json"):
-        print("  1. Export your Google Sheet as CSV to data/sheets/")
-        print("  2. Place script files in data/scripts/")
-        print("  3. Run: python cli.py ingest data/sheets/<your-file>.csv")
-    elif not os.path.exists("output/analyses"):
+    if not os.path.exists(DATASET_PATH):
+        print("  1. Run: python cli.py ingest")
+    elif not os.path.exists(ANALYSES_DIR) or not os.listdir(ANALYSES_DIR):
         print("  1. Run: python cli.py analyze [--mock for testing]")
-    elif not os.path.exists("output/report.json"):
+    elif not os.path.exists(f"{OUTPUT_DIR}/report.json"):
         print("  1. Run: python cli.py report")
     else:
         print("  Pipeline complete! Review output/report.txt")
