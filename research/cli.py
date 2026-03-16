@@ -22,7 +22,20 @@ import os
 import sys
 
 # Ensure research/ is on the path
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_research_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, _research_dir)
+
+# Load .env from repo root (parent of research/)
+_env_path = os.path.join(os.path.dirname(_research_dir), ".env")
+if os.path.exists(_env_path):
+    with open(_env_path) as _f:
+        for _line in _f:
+            _line = _line.strip()
+            if _line and not _line.startswith("#") and "=" in _line:
+                _key, _, _val = _line.partition("=")
+                _key, _val = _key.strip(), _val.strip()
+                if _key and _key not in os.environ:
+                    os.environ[_key] = _val
 
 # Default paths
 SHEET_PATH = "data/sheets/master_pilots_list.csv"
