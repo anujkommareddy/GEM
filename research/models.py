@@ -76,7 +76,7 @@ class FactorScore(BaseModel):
     """Score for a single factor on a single script."""
 
     factor_name: str
-    score: int
+    score: float
     confidence: float = 1.0
     evidence: str = ""
     notes: str = ""

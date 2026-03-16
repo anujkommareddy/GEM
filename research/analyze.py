@@ -8,7 +8,9 @@ from __future__ import annotations
 
 import json
 import os
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Optional
 
@@ -91,15 +93,17 @@ class CostTracker:
         self.total_output_tokens = 0
         self.total_cost = 0.0
         self.calls = 0
+        self._lock = threading.Lock()
 
     def record(self, model: str, input_tokens: int, output_tokens: int):
         pricing = self.PRICING.get(model, {"input": 3.0, "output": 15.0})
         cost = (input_tokens / 1_000_000) * pricing["input"] + \
                (output_tokens / 1_000_000) * pricing["output"]
-        self.total_input_tokens += input_tokens
-        self.total_output_tokens += output_tokens
-        self.total_cost += cost
-        self.calls += 1
+        with self._lock:
+            self.total_input_tokens += input_tokens
+            self.total_output_tokens += output_tokens
+            self.total_cost += cost
+            self.calls += 1
 
     def over_budget(self) -> bool:
         return self.total_cost >= self.budget
@@ -137,12 +141,25 @@ def analyze_script_with_claude(
     prompt = build_analysis_prompt(script_text, show_title, episode_title)
 
     client = anthropic.Anthropic(api_key=key)
-    response = client.messages.create(
-        model=model,
-        max_tokens=4096,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": prompt}],
-    )
+
+    # Retry with backoff for rate limits
+    for attempt in range(5):
+        try:
+            response = client.messages.create(
+                model=model,
+                max_tokens=4096,
+                system=SYSTEM_PROMPT,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            break
+        except Exception as e:
+            if "429" in str(e) or "rate_limit" in str(e):
+                wait = 2 ** attempt + 1
+                time.sleep(wait)
+                if attempt == 4:
+                    raise
+            else:
+                raise
 
     # Track costs
     if cost_tracker and response.usage:
@@ -201,95 +218,118 @@ def analyze_script_mock(
 # Batch analysis
 # ---------------------------------------------------------------------------
 
+def _analyze_one(
+    show: str,
+    script,
+    cache_path: str,
+    use_mock: bool,
+    api_key: Optional[str],
+    model: str,
+    cost_tracker: Optional[CostTracker],
+) -> tuple[str, Optional[ScriptAnalysis], Optional[str]]:
+    """Analyze a single script. Returns (show, result_or_None, error_or_None)."""
+    try:
+        if use_mock:
+            analysis = analyze_script_mock(show, script.episode_title)
+        else:
+            analysis = analyze_script_with_claude(
+                script.text, show, script.episode_title,
+                api_key=api_key, model=model,
+                cost_tracker=cost_tracker,
+            )
+        analysis.script_filename = script.filename
+        with open(cache_path, "w") as f:
+            json.dump(analysis.model_dump(), f, indent=2)
+        return (show, analysis, None)
+    except Exception as e:
+        return (show, None, str(e))
+
+
 def analyze_batch(
     records: list[LinkedRecord],
     output_dir: str = "output/analyses",
     use_mock: bool = False,
     api_key: Optional[str] = None,
     model: str = "claude-haiku-4-5-20251001",
-    delay_between: float = 0.5,
     budget: float = 100.0,
+    max_workers: int = 5,
 ) -> list[ScriptAnalysis]:
-    """Run analysis on all linked records that have scripts."""
+    """Run analysis on all linked records that have scripts (parallel)."""
     os.makedirs(output_dir, exist_ok=True)
     results: list[ScriptAnalysis] = []
-    total = sum(1 for r in records if r.scripts)
     tracker = CostTracker(budget=budget)
 
-    print(f"\nAnalyzing {total} shows with scripts...")
-    print(f"  Model: {model} | Budget: ${budget:.2f}")
-    if use_mock:
-        print("  (Using mock analysis — no API calls)")
-
-    done = 0
-    for i, record in enumerate(records):
+    # Build work list, checking cache first
+    work = []
+    for record in records:
         if not record.scripts:
             continue
-
         show = record.show.title
         script = record.scripts[0]
-
-        done += 1
-        print(f"  [{done}/{total}] {show}...", end=" ", flush=True)
-
-        # Check for cached result
         cache_path = os.path.join(output_dir, f"{_safe_filename(show)}.json")
+
         if os.path.exists(cache_path):
             try:
                 with open(cache_path) as f:
                     cached = ScriptAnalysis(**json.load(f))
-                # Skip mock results when doing real analysis
                 if not use_mock and cached.prompt_version.endswith("-mock"):
-                    print("(replacing mock)", end=" ", flush=True)
+                    pass  # Need to re-analyze
                 else:
-                    print("(cached)")
                     results.append(cached)
                     continue
             except Exception:
-                pass  # Re-analyze on corrupted cache
+                pass
+        work.append((show, script, cache_path))
 
-        # Budget check
-        if not use_mock and tracker.over_budget():
-            print(f"\n  BUDGET LIMIT REACHED: ${tracker.total_cost:.2f} / ${budget:.2f}")
-            print(f"  Stopping analysis. {tracker.summary()}")
-            break
+    total = len(work) + len(results)
+    print(f"\nAnalyzing {total} shows with scripts...")
+    print(f"  Model: {model} | Budget: ${budget:.2f} | Workers: {max_workers}")
+    print(f"  {len(results)} cached, {len(work)} to analyze")
+    if use_mock:
+        print("  (Using mock analysis — no API calls)")
 
-        try:
-            if use_mock:
-                analysis = analyze_script_mock(show, script.episode_title)
-            else:
-                analysis = analyze_script_with_claude(
-                    script.text, show, script.episode_title,
-                    api_key=api_key, model=model,
-                    cost_tracker=tracker,
-                )
-            analysis.script_filename = script.filename
+    if not work:
+        print(f"\n✓ All {total} analyses already cached")
+        return results
 
-            # Cache result
-            with open(cache_path, "w") as f:
-                json.dump(analysis.model_dump(), f, indent=2)
+    done = 0
+    errors = 0
+    fatal = False
+    print_lock = threading.Lock()
 
-            results.append(analysis)
-            print("done")
-
-            if not use_mock and delay_between > 0:
-                time.sleep(delay_between)
-
-            # Print cost every 50 scripts
-            if not use_mock and tracker.calls % 50 == 0:
-                print(f"    [{tracker.summary()}]")
-
-        except Exception as e:
-            err_msg = str(e)
-            print(f"ERROR: {err_msg[:120]}")
-            # Stop early on billing / auth errors — no point retrying 809 times
-            if "credit balance" in err_msg or "authentication" in err_msg.lower() or "invalid x-api-key" in err_msg.lower():
-                print(f"\n  FATAL: API credential/billing error. Stopping.")
-                print(f"  Fix your API key or add credits, then re-run. Cached results will be preserved.")
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {}
+        for show, script, cache_path in work:
+            if not use_mock and tracker.over_budget():
                 break
-            continue
+            fut = executor.submit(
+                _analyze_one, show, script, cache_path,
+                use_mock, api_key, model, tracker,
+            )
+            futures[fut] = show
 
-    print(f"\n✓ Completed {len(results)}/{total} analyses")
+        for fut in as_completed(futures):
+            show_name, analysis, err = fut.result()
+            with print_lock:
+                done += 1
+                if analysis:
+                    results.append(analysis)
+                    print(f"  [{done}/{len(work)}] {show_name}... done")
+                else:
+                    errors += 1
+                    print(f"  [{done}/{len(work)}] {show_name}... ERROR: {err[:100] if err else 'unknown'}")
+                    if err and ("credit balance" in err or "authentication" in err.lower()):
+                        print(f"\n  FATAL: API billing error. Stopping.")
+                        fatal = True
+
+                if not use_mock and done % 50 == 0:
+                    print(f"    [{tracker.summary()}]")
+
+            if fatal:
+                executor.shutdown(wait=False, cancel_futures=True)
+                break
+
+    print(f"\n✓ Completed {len(results)}/{total} analyses ({errors} errors)")
     if not use_mock:
         print(f"  {tracker.summary()}")
     return results
