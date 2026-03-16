@@ -11,7 +11,7 @@ from datetime import datetime
 from typing import Optional
 
 from analyze import load_analyses
-from factors import get_default_factors
+from factors import get_default_facets
 from hypothesis import (
     compare_all_factors,
     find_misclassifications,
@@ -158,7 +158,7 @@ def _save_report_text(
     """Generate a human-readable text report."""
     lines = []
     lines.append("=" * 70)
-    lines.append("GEM RESEARCH REPORT — Script Factor Analysis")
+    lines.append("GEM RESEARCH REPORT — Script Facet Analysis")
     lines.append(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     lines.append("=" * 70)
 
@@ -177,19 +177,19 @@ def _save_report_text(
         lines.append(f"\n  ### {sc['scheme']}")
         lines.append(f"  {sc['description']}")
         lines.append(f"  Winners: {sc['winners']} | Losers: {sc['losers']} | Excluded: {sc['excluded']}")
-        lines.append(f"  Average factor separation: {sc['avg_factor_separation']:.3f}")
+        lines.append(f"  Average facet separation: {sc['avg_factor_separation']:.3f}")
 
     lines.append(f"\n  Best scheme: {report.best_label_scheme}")
 
     # Factor rankings
-    lines.append("\n## FACTOR RANKINGS (by discriminating power)")
-    lines.append(f"{'Factor':<25} {'Sep':>7} {'Stable':>8} {'Direction':>12}")
-    lines.append("-" * 55)
+    lines.append("\n## FACET RANKINGS (by discriminating power)")
+    lines.append(f"{'Facet':<45} {'Sep':>7} {'Stable':>8} {'Direction':>12}")
+    lines.append("-" * 75)
     for f in report.factors_ranked:
         direction = "W > L" if f["mean_separation"] > 0 else "L > W"
         stable = "YES" if f["stable"] else "no"
         lines.append(
-            f"  {f['factor']:<23} {f['mean_separation']:>+7.3f} {stable:>8} {direction:>12}"
+            f"  {f['factor']:<43} {f['mean_separation']:>+7.3f} {stable:>8} {direction:>12}"
         )
 
     # Recommendations
@@ -199,7 +199,7 @@ def _save_report_text(
 
     # Stable factors detail
     if report.stable_factors:
-        lines.append("\n## STABLE FACTORS (recommended for scoring rubric)")
+        lines.append("\n## STABLE FACETS (recommended for scoring rubric)")
         for fname in report.stable_factors:
             factor_data = next((f for f in report.factors_ranked if f["factor"] == fname), None)
             if factor_data:
@@ -210,7 +210,7 @@ def _save_report_text(
 
     # Unstable factors
     if report.unstable_factors:
-        lines.append("\n## UNSTABLE FACTORS (not recommended)")
+        lines.append("\n## UNSTABLE FACETS (review needed)")
         for fname in report.unstable_factors:
             factor_data = next((f for f in report.factors_ranked if f["factor"] == fname), None)
             if factor_data:

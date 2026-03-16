@@ -4,11 +4,15 @@
 Usage:
     python cli.py ingest                               Ingest and link data
     python cli.py labels                               Inspect label schemes
-    python cli.py factors                              List candidate factors
-    python cli.py analyze [--mock]                     Run script analysis
+    python cli.py facets                               List the 5 core facets
+    python cli.py analyze [--mock] [--provider X] [--model Y]  Run script analysis
     python cli.py test                                 Run hypothesis testing
     python cli.py report                               Generate full report
     python cli.py status                               Show pipeline status
+
+Environment variables:
+    OPENAI_API_KEY       Required for OpenAI provider
+    ANTHROPIC_API_KEY    Required for Anthropic provider
 """
 
 from __future__ import annotations
@@ -26,6 +30,21 @@ SCRIPTS_DIR = "data/scripts/txt_raw"
 DATASET_PATH = "data/linked_dataset.json"
 ANALYSES_DIR = "output/analyses"
 OUTPUT_DIR = "output"
+
+
+def _parse_flag(args: list[str], flag: str, default: str | None = None) -> tuple[str | None, list[str]]:
+    """Extract --flag value from args list. Returns (value, remaining_args)."""
+    remaining = []
+    value = default
+    i = 0
+    while i < len(args):
+        if args[i] == flag and i + 1 < len(args):
+            value = args[i + 1]
+            i += 2
+        else:
+            remaining.append(args[i])
+            i += 1
+    return value, remaining
 
 
 def cmd_ingest(args: list[str]):
@@ -55,7 +74,6 @@ def cmd_ingest(args: list[str]):
     os.makedirs("data", exist_ok=True)
     save_linked_dataset(records, DATASET_PATH)
 
-    # Summary
     with_scripts = sum(1 for r in records if r.scripts)
     winners_with = sum(1 for r in records if r.scripts and r.show.raw_label.lower() == "winner")
     losers_with = sum(1 for r in records if r.scripts and r.show.raw_label.lower() == "loser")
@@ -88,16 +106,17 @@ def cmd_labels(args: list[str]):
         print(f"    Excluded: {s['excluded']}")
 
 
-def cmd_factors(args: list[str]):
-    """List all candidate factors."""
-    from factors import get_default_factors
+def cmd_facets(args: list[str]):
+    """List all core facets."""
+    from factors import get_default_facets
 
-    factors = get_default_factors()
-    print(f"Candidate Factors ({len(factors)}):\n")
-    for f in factors:
+    facets = get_default_facets()
+    print(f"Core Facets ({len(facets)}):\n")
+    for f in facets:
         print(f"  {f.name}")
         print(f"    {f.description}")
-        print(f"    Why: {f.why_it_matters[:100]}...")
+        print(f"    Strong: {f.strong_signals[:80]}...")
+        print(f"    Weak:   {f.weak_signals[:80]}...")
         print()
 
 
@@ -108,6 +127,9 @@ def cmd_analyze(args: list[str]):
 
     use_mock = "--mock" in args
     args = [a for a in args if a != "--mock"]
+
+    provider, args = _parse_flag(args, "--provider", "openai")
+    model, args = _parse_flag(args, "--model")
 
     dataset_path = args[0] if args else DATASET_PATH
     scripts_dir = args[1] if len(args) > 1 else SCRIPTS_DIR
@@ -123,7 +145,13 @@ def cmd_analyze(args: list[str]):
                 record.scripts[i] = script_map[rs.filename]
 
     os.makedirs(ANALYSES_DIR, exist_ok=True)
-    results = analyze_batch(records, output_dir=ANALYSES_DIR, use_mock=use_mock)
+    results = analyze_batch(
+        records,
+        output_dir=ANALYSES_DIR,
+        use_mock=use_mock,
+        provider=provider,
+        model=model,
+    )
     print(f"\nResults saved to {ANALYSES_DIR}/")
     print(f"\n  Next: python cli.py test")
 
@@ -146,7 +174,7 @@ def cmd_test(args: list[str]):
     schemes = build_default_schemes()
     stability = test_stability(records, analyses, schemes)
 
-    print("Factor Stability Results:")
+    print("Facet Stability Results:")
     print("=" * 60)
     for r in stability:
         status = "STABLE" if r.stable else "UNSTABLE"
@@ -181,9 +209,11 @@ def cmd_report(args: list[str]):
 
 def cmd_status(args: list[str]):
     """Show pipeline status."""
+    from providers import DEFAULT_MODELS
+
     checks = [
         (SHEET_PATH, "Sheet data (CSV)"),
-        (SCRIPTS_DIR, "Script files (pdf_backup)"),
+        (SCRIPTS_DIR, "Script files"),
         (DATASET_PATH, "Linked dataset"),
         (ANALYSES_DIR, "Analysis results"),
         (f"{OUTPUT_DIR}/report.json", "JSON report"),
@@ -202,6 +232,13 @@ def cmd_status(args: list[str]):
         else:
             print(f"  [--] {desc}: {path} (not found)")
 
+    print("\nProvider config:")
+    for p, m in DEFAULT_MODELS.items():
+        env_var = "OPENAI_API_KEY" if p == "openai" else "ANTHROPIC_API_KEY"
+        has_key = bool(os.environ.get(env_var))
+        status = "configured" if has_key else "NOT SET"
+        print(f"  {p}: {m} [{env_var}: {status}]")
+
     print("\nNext steps:")
     if not os.path.exists(DATASET_PATH):
         print("  1. Run: python cli.py ingest")
@@ -213,10 +250,14 @@ def cmd_status(args: list[str]):
         print("  Pipeline complete! Review output/report.txt")
 
 
+# Keep old command name working
+cmd_factors = cmd_facets
+
 COMMANDS = {
     "ingest": cmd_ingest,
     "labels": cmd_labels,
-    "factors": cmd_factors,
+    "facets": cmd_facets,
+    "factors": cmd_facets,  # backward compat
     "analyze": cmd_analyze,
     "test": cmd_test,
     "report": cmd_report,

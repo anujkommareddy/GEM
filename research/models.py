@@ -19,9 +19,7 @@ class LabelScheme(BaseModel):
 
     name: str
     description: str
-    # Maps raw sheet values to WinnerLabel
     mapping: dict[str, WinnerLabel]
-    # If true, rows mapped to AMBIGUOUS are excluded from analysis
     exclude_ambiguous: bool = False
 
 
@@ -61,19 +59,39 @@ class LinkedRecord(BaseModel):
         return scheme.mapping.get(raw)
 
 
-class FactorDefinition(BaseModel):
-    """Definition of a single analysis factor."""
+# ---------------------------------------------------------------------------
+# Facet definitions (replaces old FactorDefinition)
+# ---------------------------------------------------------------------------
+
+class FacetDefinition(BaseModel):
+    """Definition of a single analysis facet."""
 
     name: str
     description: str
-    why_it_matters: str
-    script_evidence: str
+    strong_signals: str
+    weak_signals: str
+    scoring_guidance: str
     false_positives: str
     score_range: tuple[int, int] = (1, 10)
 
 
+# Backward compat alias
+FactorDefinition = FacetDefinition
+
+
+class FacetScore(BaseModel):
+    """Score for a single facet on a single script."""
+
+    facet_name: str
+    score: float
+    confidence: float = 1.0
+    rationale: str = ""
+    notes: str = ""
+
+
+# Backward compat: old code references FactorScore with factor_name field
 class FactorScore(BaseModel):
-    """Score for a single factor on a single script."""
+    """Legacy model — use FacetScore for new code."""
 
     factor_name: str
     score: float
@@ -88,13 +106,28 @@ class ScriptAnalysis(BaseModel):
     show_title: str
     episode_title: Optional[str] = None
     script_filename: str
+    facet_scores: list[FacetScore] = Field(default_factory=list)
+    summary: str = ""
+    analysis_version: str = "v2"
+    prompt_version: str = "v2"
+    provider: str = ""  # "openai" or "anthropic"
+    model: str = ""     # e.g. "gpt-4o-mini", "claude-haiku-4-5-20251001"
+
+    # Backward compat: accept old factor_scores field and convert
     factor_scores: list[FactorScore] = Field(default_factory=list)
-    analysis_version: str = "v1"
-    prompt_version: str = "v1"
+
+    def all_scores_by_name(self) -> dict[str, float]:
+        """Get all scores as {name: score} dict, merging both fields."""
+        out = {}
+        for s in self.facet_scores:
+            out[s.facet_name] = s.score
+        for s in self.factor_scores:
+            out[s.factor_name] = s.score
+        return out
 
 
 class FactorComparison(BaseModel):
-    """Comparison of a factor across winners vs losers."""
+    """Comparison of a facet across winners vs losers."""
 
     factor_name: str
     label_scheme: str
@@ -102,28 +135,28 @@ class FactorComparison(BaseModel):
     winner_std: float
     loser_mean: float
     loser_std: float
-    separation: float  # effect size (Cohen's d or similar)
+    separation: float
     n_winners: int
     n_losers: int
     p_value: Optional[float] = None
 
 
 class StabilityResult(BaseModel):
-    """How stable a factor is across different label schemes."""
+    """How stable a facet is across different label schemes."""
 
     factor_name: str
     schemes_tested: list[str]
-    separations: dict[str, float]  # scheme_name -> separation
+    separations: dict[str, float]
     mean_separation: float
     std_separation: float
-    stable: bool  # True if consistently separates winners/losers
-    direction_consistent: bool  # True if always same direction
+    stable: bool
+    direction_consistent: bool
 
 
 class PipelineReport(BaseModel):
     """Final report output."""
 
-    factors_ranked: list[dict]  # sorted by usefulness
+    factors_ranked: list[dict]
     stable_factors: list[str]
     unstable_factors: list[str]
     best_label_scheme: str

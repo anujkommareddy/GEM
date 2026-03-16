@@ -1,7 +1,7 @@
-"""Phase 5: Hypothesis testing.
+"""Hypothesis testing.
 
-Compares factor patterns across winners and losers under different labeling schemes.
-Identifies stable vs unstable factors.
+Compares facet patterns across winners and losers under different labeling schemes.
+Identifies stable vs unstable facets.
 """
 
 from __future__ import annotations
@@ -11,7 +11,7 @@ import math
 import os
 from typing import Optional
 
-from factors import get_factor_names
+from factors import get_facet_names
 from labels import apply_scheme, build_default_schemes
 from models import (
     FactorComparison,
@@ -32,7 +32,7 @@ def compare_factor(
     losers: list[ScriptAnalysis],
     scheme_name: str,
 ) -> Optional[FactorComparison]:
-    """Compare a single factor between winner and loser groups."""
+    """Compare a single facet between winner and loser groups."""
     winner_scores = _extract_scores(winners, factor_name)
     loser_scores = _extract_scores(losers, factor_name)
 
@@ -51,7 +51,6 @@ def compare_factor(
     )
     cohens_d = (w_mean - l_mean) / pooled_std if pooled_std > 0 else 0
 
-    # Simple t-test p-value (Welch's)
     p_val = _welch_t_test(winner_scores, loser_scores)
 
     return FactorComparison(
@@ -73,10 +72,9 @@ def compare_all_factors(
     analyses: list[ScriptAnalysis],
     scheme: LabelScheme,
 ) -> list[FactorComparison]:
-    """Compare all factors under a given labeling scheme."""
+    """Compare all facets under a given labeling scheme."""
     winners_rec, losers_rec, _ = apply_scheme(records, scheme)
 
-    # Map show titles to analyses
     analysis_map = {a.show_title.lower(): a for a in analyses}
 
     winner_analyses = [analysis_map[r.show.title.lower()] for r in winners_rec
@@ -85,8 +83,8 @@ def compare_all_factors(
                       if r.show.title.lower() in analysis_map]
 
     results = []
-    for factor in get_factor_names():
-        comp = compare_factor(factor, winner_analyses, loser_analyses, scheme.name)
+    for facet in get_facet_names():
+        comp = compare_factor(facet, winner_analyses, loser_analyses, scheme.name)
         if comp:
             results.append(comp)
 
@@ -102,11 +100,10 @@ def test_stability(
     analyses: list[ScriptAnalysis],
     schemes: Optional[list[LabelScheme]] = None,
 ) -> list[StabilityResult]:
-    """Test factor stability across multiple label schemes."""
+    """Test facet stability across multiple label schemes."""
     if schemes is None:
         schemes = build_default_schemes()
 
-    # Get all comparisons
     all_comparisons: dict[str, dict[str, float]] = {}
     for scheme in schemes:
         comparisons = compare_all_factors(records, analyses, scheme)
@@ -115,22 +112,19 @@ def test_stability(
                 all_comparisons[comp.factor_name] = {}
             all_comparisons[comp.factor_name][scheme.name] = comp.separation
 
-    # Build stability results
     results = []
     for factor_name, separations in all_comparisons.items():
         values = list(separations.values())
         mean_sep = _mean(values) if values else 0
         std_sep = _std(values) if len(values) > 1 else 0
 
-        # Check direction consistency (all positive or all negative)
         directions = [v > 0 for v in values if v != 0]
         direction_consistent = len(set(directions)) <= 1 if directions else False
 
-        # Consider stable if: consistent direction, meaningful effect, low variance
         stable = (
             direction_consistent
-            and abs(mean_sep) > 0.3  # at least small effect size
-            and std_sep < abs(mean_sep) * 0.5  # variance less than half the mean
+            and abs(mean_sep) > 0.3
+            and std_sep < abs(mean_sep) * 0.5
         )
 
         results.append(StabilityResult(
@@ -143,7 +137,6 @@ def test_stability(
             direction_consistent=direction_consistent,
         ))
 
-    # Sort by absolute mean separation (most useful first)
     results.sort(key=lambda r: abs(r.mean_separation), reverse=True)
     return results
 
@@ -158,16 +151,10 @@ def find_misclassifications(
     scheme: LabelScheme,
     stable_factors: list[str],
 ) -> dict:
-    """Find shows that the factors would 'misclassify'.
-
-    These are interesting cases:
-    - Winners that score poorly on stable factors (false negatives)
-    - Losers that score well on stable factors (false positives)
-    """
+    """Find shows that the facets would 'misclassify'."""
     winners_rec, losers_rec, _ = apply_scheme(records, scheme)
     analysis_map = {a.show_title.lower(): a for a in analyses}
 
-    # Get overall means for comparison
     all_comparisons = compare_all_factors(records, analyses, scheme)
     factor_means = {}
     for comp in all_comparisons:
@@ -178,12 +165,12 @@ def find_misclassifications(
                 "midpoint": (comp.winner_mean + comp.loser_mean) / 2,
             }
 
-    false_negatives = []  # Winners that look like losers
+    false_negatives = []
     for r in winners_rec:
         analysis = analysis_map.get(r.show.title.lower())
         if not analysis:
             continue
-        scores = {s.factor_name: s.score for s in analysis.factor_scores}
+        scores = analysis.all_scores_by_name()
         loser_like_count = sum(
             1 for f in stable_factors
             if f in scores and f in factor_means
@@ -198,12 +185,12 @@ def find_misclassifications(
                 "scores": {f: scores.get(f) for f in stable_factors},
             })
 
-    false_positives = []  # Losers that look like winners
+    false_positives = []
     for r in losers_rec:
         analysis = analysis_map.get(r.show.title.lower())
         if not analysis:
             continue
-        scores = {s.factor_name: s.score for s in analysis.factor_scores}
+        scores = analysis.all_scores_by_name()
         winner_like_count = sum(
             1 for f in stable_factors
             if f in scores and f in factor_means
@@ -229,12 +216,23 @@ def find_misclassifications(
 # ---------------------------------------------------------------------------
 
 def _extract_scores(analyses: list[ScriptAnalysis], factor_name: str) -> list[float]:
+    """Extract scores for a given facet/factor name from analyses.
+
+    Works with both new facet_scores and old factor_scores fields.
+    """
     scores = []
     for a in analyses:
-        for s in a.factor_scores:
-            if s.factor_name == factor_name:
+        # Try new facet_scores first
+        for s in a.facet_scores:
+            if s.facet_name == factor_name:
                 scores.append(float(s.score))
                 break
+        else:
+            # Fall back to old factor_scores
+            for s in a.factor_scores:
+                if s.factor_name == factor_name:
+                    scores.append(float(s.score))
+                    break
     return scores
 
 
@@ -264,21 +262,17 @@ def _welch_t_test(a: list[float], b: list[float]) -> Optional[float]:
 
     t_stat = (ma - mb) / se
 
-    # Welch-Satterthwaite degrees of freedom
     num = (sa ** 2 / na + sb ** 2 / nb) ** 2
     denom = (sa ** 2 / na) ** 2 / (na - 1) + (sb ** 2 / nb) ** 2 / (nb - 1)
     if denom == 0:
         return None
     df = num / denom
 
-    # Approximate p-value using normal distribution for large df
-    # For small samples, this is rough but avoids scipy dependency
     z = abs(t_stat)
     if z > 6:
         return 0.0001
-    # Simple approximation
     p = math.exp(-0.5 * z * z) / math.sqrt(2 * math.pi)
-    p = 2 * p  # two-tailed
+    p = 2 * p
     return min(p, 1.0)
 
 
@@ -303,19 +297,19 @@ if __name__ == "__main__":
     schemes = build_default_schemes()
     stability = test_stability(records, analyses, schemes)
 
-    print("Factor Stability Results:")
+    print("Facet Stability Results:")
     print("=" * 70)
     for r in stability:
-        status = "STABLE ✓" if r.stable else "UNSTABLE ✗"
-        direction = "↑ winners higher" if r.mean_separation > 0 else "↓ losers higher"
+        status = "STABLE" if r.stable else "UNSTABLE"
+        direction = "winners higher" if r.mean_separation > 0 else "losers higher"
         print(f"\n  {r.factor_name}: {status}")
-        print(f"    Mean separation: {r.mean_separation:.3f} ({direction})")
+        print(f"    Mean separation: {r.mean_separation:+.3f} ({direction})")
         print(f"    Std: {r.std_separation:.3f}")
         print(f"    Direction consistent: {r.direction_consistent}")
         for scheme, sep in r.separations.items():
-            print(f"      {scheme}: {sep:.3f}")
+            print(f"      {scheme}: {sep:+.3f}")
 
     stable_factors = [r.factor_name for r in stability if r.stable]
-    print(f"\n\nStable factors ({len(stable_factors)}):")
+    print(f"\n\nStable facets ({len(stable_factors)}):")
     for f in stable_factors:
         print(f"  - {f}")

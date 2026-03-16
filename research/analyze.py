@@ -1,6 +1,6 @@
-"""Phase 4: Script analysis pipeline.
+"""Script analysis pipeline.
 
-Runs structured factor analysis on scripts using Claude API.
+Runs structured facet analysis on scripts using configurable model providers.
 Outputs structured JSON with versioned prompts.
 """
 
@@ -14,11 +14,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Optional
 
-from factors import factors_as_prompt_context, get_default_factors, get_factor_names
-from models import FactorScore, LinkedRecord, ScriptAnalysis
+from factors import facets_as_prompt_context, get_default_facets, get_facet_names
+from models import FacetScore, FactorScore, LinkedRecord, ScriptAnalysis
+from providers import complete, get_cost, DEFAULT_MODELS
 
-PROMPT_VERSION = "v1"
-ANALYSIS_VERSION = "v1"
+PROMPT_VERSION = "v2"
+ANALYSIS_VERSION = "v2"
 
 # ---------------------------------------------------------------------------
 # Prompt construction
@@ -26,28 +27,27 @@ ANALYSIS_VERSION = "v1"
 
 SYSTEM_PROMPT = """You are an expert TV script analyst working for a research project studying what makes TV shows succeed or fail.
 
-You will analyze a TV pilot script and score it on specific factors. For each factor, provide:
-1. A score from 1-10
+You will analyze a TV pilot script and score it on 5 specific facets. For each facet, provide:
+1. A score from 1-10 (use the full range — 5 is average/neutral)
 2. A confidence level from 0.0-1.0 (how confident you are in your assessment)
-3. Specific evidence from the script supporting your score
-4. Brief notes on anything notable
+3. A concise rationale (2-3 sentences of specific evidence from the script)
 
-Be rigorous and honest. Avoid grade inflation — use the full 1-10 range. A score of 5 is average/neutral.
+After scoring all facets, provide a brief overall summary judgment (2-3 sentences).
 
-IMPORTANT: Base your scores ONLY on what's in the script text provided. Do not use knowledge of whether the show succeeded or failed. Analyze the script as if you don't know the outcome."""
+Be rigorous and honest. Avoid grade inflation. Base your scores ONLY on what's in the script text provided. Do not use knowledge of whether the show succeeded or failed. Analyze the script as if you don't know the outcome."""
 
 
 def build_analysis_prompt(script_text: str, show_title: str, episode_title: Optional[str] = None) -> str:
     """Build the full analysis prompt for a script."""
-    factor_context = factors_as_prompt_context()
-
+    facet_context = facets_as_prompt_context()
     ep_info = f" — Episode: {episode_title}" if episode_title else ""
+    facet_names = get_facet_names()
 
     return f"""Analyze the following TV pilot script for: **{show_title}**{ep_info}
 
-## Factors to Score
+## Facets to Score
 
-{factor_context}
+{facet_context}
 
 ## Script Text
 
@@ -61,17 +61,17 @@ Respond with ONLY a JSON object in this exact format:
 {{
   "scores": [
     {{
-      "factor_name": "premise_strength",
+      "facet_name": "{facet_names[0]}",
       "score": 7,
       "confidence": 0.8,
-      "evidence": "The pilot establishes a clear 'what if' in the first scene...",
-      "notes": ""
+      "rationale": "The pilot establishes a clear multi-quadrant premise..."
     }},
-    // ... one entry per factor
-  ]
+    // ... one entry per facet
+  ],
+  "summary": "Overall, this pilot..."
 }}
 
-Score ALL {len(get_default_factors())} factors: {', '.join(get_factor_names())}"""
+Score ALL {len(facet_names)} facets: {', '.join(facet_names)}"""
 
 
 # ---------------------------------------------------------------------------
@@ -80,12 +80,6 @@ Score ALL {len(get_default_factors())} factors: {', '.join(get_factor_names())}"
 
 class CostTracker:
     """Track API usage costs across a batch run."""
-
-    # Pricing per million tokens (Haiku 4.5)
-    PRICING = {
-        "claude-haiku-4-5-20251001": {"input": 1.00, "output": 5.00},
-        "claude-sonnet-4-20250514": {"input": 3.00, "output": 15.00},
-    }
 
     def __init__(self, budget: float = 100.0):
         self.budget = budget
@@ -96,9 +90,7 @@ class CostTracker:
         self._lock = threading.Lock()
 
     def record(self, model: str, input_tokens: int, output_tokens: int):
-        pricing = self.PRICING.get(model, {"input": 3.0, "output": 15.0})
-        cost = (input_tokens / 1_000_000) * pricing["input"] + \
-               (output_tokens / 1_000_000) * pricing["output"]
+        cost = get_cost(model, input_tokens, output_tokens)
         with self._lock:
             self.total_input_tokens += input_tokens
             self.total_output_tokens += output_tokens
@@ -115,24 +107,18 @@ class CostTracker:
                 f"Cost: ${self.total_cost:.2f} / ${self.budget:.2f}")
 
 
-def analyze_script_with_claude(
+def analyze_script(
     script_text: str,
     show_title: str,
     episode_title: Optional[str] = None,
+    provider: str = "openai",
+    model: Optional[str] = None,
     api_key: Optional[str] = None,
-    model: str = "claude-haiku-4-5-20251001",
     max_script_chars: int = 150_000,
     cost_tracker: Optional[CostTracker] = None,
 ) -> ScriptAnalysis:
-    """Analyze a single script using the Claude API."""
-    try:
-        import anthropic
-    except ImportError:
-        raise ImportError("Install anthropic: pip install anthropic")
-
-    key = api_key or os.environ.get("ANTHROPIC_API_KEY")
-    if not key:
-        raise ValueError("ANTHROPIC_API_KEY not set")
+    """Analyze a single script using the configured provider."""
+    model = model or DEFAULT_MODELS.get(provider, "gpt-4o-mini")
 
     # Truncate very long scripts
     if len(script_text) > max_script_chars:
@@ -140,51 +126,45 @@ def analyze_script_with_claude(
 
     prompt = build_analysis_prompt(script_text, show_title, episode_title)
 
-    client = anthropic.Anthropic(api_key=key)
-
-    # Retry with backoff for rate limits
-    for attempt in range(5):
-        try:
-            response = client.messages.create(
-                model=model,
-                max_tokens=4096,
-                system=SYSTEM_PROMPT,
-                messages=[{"role": "user", "content": prompt}],
-            )
-            break
-        except Exception as e:
-            if "429" in str(e) or "rate_limit" in str(e):
-                wait = 2 ** attempt + 1
-                time.sleep(wait)
-                if attempt == 4:
-                    raise
-            else:
-                raise
+    result = complete(
+        system_prompt=SYSTEM_PROMPT,
+        user_prompt=prompt,
+        provider=provider,
+        model=model,
+        api_key=api_key,
+    )
 
     # Track costs
-    if cost_tracker and response.usage:
-        cost_tracker.record(model, response.usage.input_tokens, response.usage.output_tokens)
+    if cost_tracker:
+        cost_tracker.record(result.model, result.input_tokens, result.output_tokens)
 
     # Parse response
-    response_text = response.content[0].text.strip()
-
-    # Extract JSON from response (handle markdown code blocks)
+    response_text = result.text
     if "```json" in response_text:
         response_text = response_text.split("```json")[1].split("```")[0].strip()
     elif "```" in response_text:
         response_text = response_text.split("```")[1].split("```")[0].strip()
 
     data = json.loads(response_text)
-    scores = [FactorScore(**s) for s in data["scores"]]
+
+    facet_scores = [FacetScore(**s) for s in data["scores"]]
+    summary = data.get("summary", "")
 
     return ScriptAnalysis(
         show_title=show_title,
         episode_title=episode_title,
         script_filename="",
-        factor_scores=scores,
+        facet_scores=facet_scores,
+        summary=summary,
         analysis_version=ANALYSIS_VERSION,
         prompt_version=PROMPT_VERSION,
+        provider=result.provider,
+        model=result.model,
     )
+
+
+# Keep old name as alias for any external callers
+analyze_script_with_claude = analyze_script
 
 
 def analyze_script_mock(
@@ -195,12 +175,12 @@ def analyze_script_mock(
     import random
 
     scores = []
-    for name in get_factor_names():
-        scores.append(FactorScore(
-            factor_name=name,
+    for name in get_facet_names():
+        scores.append(FacetScore(
+            facet_name=name,
             score=random.randint(3, 9),
             confidence=round(random.uniform(0.5, 1.0), 2),
-            evidence=f"[Mock evidence for {name}]",
+            rationale=f"[Mock rationale for {name}]",
             notes="",
         ))
 
@@ -208,9 +188,12 @@ def analyze_script_mock(
         show_title=show_title,
         episode_title=episode_title,
         script_filename="mock",
-        factor_scores=scores,
+        facet_scores=scores,
+        summary="[Mock summary]",
         analysis_version=ANALYSIS_VERSION,
         prompt_version=f"{PROMPT_VERSION}-mock",
+        provider="mock",
+        model="mock",
     )
 
 
@@ -223,8 +206,9 @@ def _analyze_one(
     script,
     cache_path: str,
     use_mock: bool,
+    provider: str,
+    model: Optional[str],
     api_key: Optional[str],
-    model: str,
     cost_tracker: Optional[CostTracker],
 ) -> tuple[str, Optional[ScriptAnalysis], Optional[str]]:
     """Analyze a single script. Returns (show, result_or_None, error_or_None)."""
@@ -232,9 +216,9 @@ def _analyze_one(
         if use_mock:
             analysis = analyze_script_mock(show, script.episode_title)
         else:
-            analysis = analyze_script_with_claude(
+            analysis = analyze_script(
                 script.text, show, script.episode_title,
-                api_key=api_key, model=model,
+                provider=provider, model=model, api_key=api_key,
                 cost_tracker=cost_tracker,
             )
         analysis.script_filename = script.filename
@@ -249,12 +233,14 @@ def analyze_batch(
     records: list[LinkedRecord],
     output_dir: str = "output/analyses",
     use_mock: bool = False,
+    provider: str = "openai",
+    model: Optional[str] = None,
     api_key: Optional[str] = None,
-    model: str = "claude-haiku-4-5-20251001",
     budget: float = 100.0,
     max_workers: int = 5,
 ) -> list[ScriptAnalysis]:
     """Run analysis on all linked records that have scripts (parallel)."""
+    model = model or DEFAULT_MODELS.get(provider, "gpt-4o-mini")
     os.makedirs(output_dir, exist_ok=True)
     results: list[ScriptAnalysis] = []
     tracker = CostTracker(budget=budget)
@@ -283,7 +269,7 @@ def analyze_batch(
 
     total = len(work) + len(results)
     print(f"\nAnalyzing {total} shows with scripts...")
-    print(f"  Model: {model} | Budget: ${budget:.2f} | Workers: {max_workers}")
+    print(f"  Provider: {provider} | Model: {model} | Budget: ${budget:.2f} | Workers: {max_workers}")
     print(f"  {len(results)} cached, {len(work)} to analyze")
     if use_mock:
         print("  (Using mock analysis — no API calls)")
@@ -304,7 +290,7 @@ def analyze_batch(
                 break
             fut = executor.submit(
                 _analyze_one, show, script, cache_path,
-                use_mock, api_key, model, tracker,
+                use_mock, provider, model, api_key, tracker,
             )
             futures[fut] = show
 
@@ -368,12 +354,10 @@ if __name__ == "__main__":
     use_mock = "--mock" in sys.argv
 
     records = load_linked_dataset(dataset_path)
-    # Reload scripts for text content
     from ingest import load_scripts
     scripts_dir = sys.argv[2] if len(sys.argv) > 2 else "data/scripts/txt_raw"
     scripts = load_scripts(scripts_dir)
 
-    # Re-attach script text to records
     script_map = {s.filename: s for s in scripts}
     for record in records:
         for i, rs in enumerate(record.scripts):
