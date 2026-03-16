@@ -173,7 +173,7 @@ def _parse_filename(path: Path) -> tuple[str, Optional[str]]:
     stem = path.stem
     parent_name = path.parent.name
 
-    if parent_name.lower() not in ("scripts", "data", "pdf_backup", ".", ""):
+    if parent_name.lower() not in ("scripts", "data", "pdf_backup", "txt_raw", ".", ""):
         show_title = _clean_title(parent_name)
         episode_title = _clean_title(stem)
         return show_title, episode_title
@@ -207,7 +207,7 @@ def _clean_title(raw: str) -> str:
 def link_data(
     shows: list[ShowEntry],
     scripts: list[Script],
-    scripts_dir: str = "data/scripts/pdf_backup",
+    scripts_dir: str = "data/scripts/txt_raw",
 ) -> list[LinkedRecord]:
     """Link show entries to scripts.
 

@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 # Default paths
 SHEET_PATH = "data/sheets/master_pilots_list.csv"
-SCRIPTS_DIR = "data/scripts/pdf_backup"
+SCRIPTS_DIR = "data/scripts/txt_raw"
 DATASET_PATH = "data/linked_dataset.json"
 ANALYSES_DIR = "output/analyses"
 OUTPUT_DIR = "output"
