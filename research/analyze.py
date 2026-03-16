@@ -370,7 +370,7 @@ if __name__ == "__main__":
     records = load_linked_dataset(dataset_path)
     # Reload scripts for text content
     from ingest import load_scripts
-    scripts_dir = sys.argv[2] if len(sys.argv) > 2 else "data/scripts"
+    scripts_dir = sys.argv[2] if len(sys.argv) > 2 else "data/scripts/txt_raw"
     scripts = load_scripts(scripts_dir)
 
     # Re-attach script text to records
