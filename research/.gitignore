@@ -1,0 +1,12 @@
+# Data files (large, user-specific)
+data/sheets/*.csv
+data/sheets/*.tsv
+data/sheets/*.xlsx
+data/linked_dataset.json
+
+# Output artifacts
+output/
+
+# Python
+__pycache__/
+*.pyc
