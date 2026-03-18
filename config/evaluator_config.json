@@ -1,0 +1,28 @@
+{
+  "version": "2.0",
+  "created_at": "2026-03-16",
+  "description": "Transcendence detection \u2014 optimized to separate culturally defining shows from competent ones",
+  "rubric_file": "rubric_prompt.md",
+  "extraction_prompt_file": "extraction_prompt.md",
+  "aggregation_strategy": "weighted_average",
+  "weights": {
+    "singular_vision": 0.25,
+    "character_depth": 0.2,
+    "thematic_ambition": 0.15,
+    "emotional_specificity": 0.15,
+    "world_originality": 0.1,
+    "dialogue_language": 0.1,
+    "boldness": 0.05,
+    "transcendence_verdict": 0.0
+  },
+  "scoring_rules": {
+    "aggregate_from_dimensions": true,
+    "require_justification": true,
+    "normalize_scores": true
+  },
+  "cache_extractions": true,
+  "cache_dir": "data/cache",
+  "singular_vision": 0.25,
+  "character_depth": 0.17,
+  "dialogue_language": 0.07
+}

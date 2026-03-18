@@ -1,0 +1,18 @@
+{
+  "run_id": "20260318_030614",
+  "model": "gpt-5-mini",
+  "status": "completed",
+  "started_at": "2026-03-18T03:06:14.594224+00:00",
+  "updated_at": "2026-03-18T07:05:04.556881+00:00",
+  "total_scripts": 909,
+  "evaluated": 909,
+  "successful": 906,
+  "failed": 3,
+  "output_dir": "data/results/live",
+  "files": {
+    "tsv": "data/results/live/results.tsv",
+    "leaderboard": "data/results/live/leaderboard.json",
+    "summary": "data/results/live/latest_summary.md",
+    "per_script": "data/results/live/per_script"
+  }
+}

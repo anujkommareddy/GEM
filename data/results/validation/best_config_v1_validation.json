@@ -1,0 +1,31 @@
+{
+  "config_name": "best_config_v1",
+  "validation_date": "2026-03-17",
+  "metrics": {
+    "tune": {
+      "num_scripts": 730,
+      "num_winners": 53,
+      "num_losers": 645,
+      "pairwise_accuracy": 0.8462191019452976,
+      "pairwise_correct": 28928,
+      "pairwise_total": 34185,
+      "top_10_pct_count": 70,
+      "top_10_pct_winners": 21,
+      "top_10_pct_winner_pct": 30.0,
+      "baseline_winner_pct": 7.5177304964539005
+    },
+    "holdout": {
+      "num_scripts": 179,
+      "num_winners": 13,
+      "num_losers": 158,
+      "pairwise_accuracy": 0.7122687439143135,
+      "pairwise_correct": 1463,
+      "pairwise_total": 2054,
+      "top_10_pct_count": 17,
+      "top_10_pct_winners": 4,
+      "top_10_pct_winner_pct": 23.52941176470588,
+      "baseline_winner_pct": 7.602339181286549
+    }
+  },
+  "interpretation": "\u274c Significant overfitting: tuning/holdout gap > 10% | \u26a0\ufe0f Moderate winner ranking: +15.9% lift in top 10%"
+}

@@ -1,0 +1,730 @@
+{
+  "updated_at": "2026-03-18T07:05:04.554228+00:00",
+  "run_id": "20260318_030614",
+  "model": "gpt-5-mini",
+  "scripts_scored": 906,
+  "top": [
+    {
+      "script_id": "breaking-bad-101-pilot-2008",
+      "weighted_avg": 9.0,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 10,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "the-sopranos-101-piot-1999",
+      "weighted_avg": 9.0,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 10,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Dexter_1x01_-_Pilot",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Screenplay-Shield-Pilot",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Sherlock_1x01_-_A_Study_in_Scarlet",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "The_Flash_1x01_-_Pilot",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "The_West_Wing_1x01_-_Pilot",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "fleabag-101-episode-1-1-2016",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "game-of-thrones-101-winter-is-coming-2011",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "lovecraft-country-101-sundown-2020",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "mr-robot-101-eps1-0-hellofriend-mov-2015",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "six-feet-under-101-pilot-2001",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "the-boys-101-the-name-of-the-game-2019",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 8,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "this-is-us-101-pilot-2016",
+      "weighted_avg": 8.8,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "77987-Bojack-Horseman-Pilot-by-Raphael-Bob-Waksberg",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "Catastrophe_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Cheers-Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "Empire_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 8,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Godfather_Of_Harlem_1x01_-_By_Whatever_Means_Necessary",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Hannibal_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 7,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Homeland_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "How_To_Get_Away_With_Murder_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Kidding_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "Mash-Pilot-Episode-Script-flattened",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "Mr_Robot_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "Person_of_Interest_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Ray_Donovan_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Sons_of_Anarchy_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "The_Americans_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "The_Bear_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "Will_1x01_-_Pilot",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 8,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "barry-101-chapter-one-make-your-mark",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "bloodline-101-part-1-2015",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "boardwalk-empire-101-boardwalk-empire-2010",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "house-of-card-101-chapter-1-2013",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "lost-101-pilot-2004",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 8,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "modern-family-101-pilot-2009",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "scrubs-101-my-first-day-2001",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "sense8-101-limbic-resonance-2015",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "severance-101-good-news-about-hell-2022",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 8,
+        "creative_originality_and_boldness": 9,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "succession-101-celebration-2018",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "supernatural-101-pilot-2005",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "ted-lasso-101-pilot-2020",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "the-good-place-101-everything-is-great-2017",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "the-handmaids-tale-1x01-offred-2017",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "the-office-101-pilot-2005",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 9,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    },
+    {
+      "script_id": "the-queens-gambit-101-openings-2020",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "the-walking-dead-1x01-days-gone-by-2010",
+      "weighted_avg": 8.6,
+      "category": "Transcendent",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 9
+      }
+    },
+    {
+      "script_id": "30_Rock_Pilot",
+      "weighted_avg": 8.4,
+      "category": "Exceptional",
+      "individual_scores": {
+        "audience_appeal_marketability": 8,
+        "conceptual_hook_clarity": 9,
+        "character_appeal_and_long_term_potential": 9,
+        "creative_originality_and_boldness": 8,
+        "narrative_momentum_engagement": 8
+      }
+    }
+  ],
+  "bottom": [
+    {
+      "script_id": "The_Returned_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "This_Little_Piggy_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "Threat_Matrix_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "Undercovers_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "Undone_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "Veronicas_Closet_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "White_Collar_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "Wu_Tang_1x01_-_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "ocr_30_Rock_Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    },
+    {
+      "script_id": "ocr_Veep-Pilot",
+      "weighted_avg": 1.0,
+      "category": "Generic",
+      "individual_scores": {
+        "audience_appeal_marketability": 1,
+        "conceptual_hook_clarity": 1,
+        "character_appeal_and_long_term_potential": 1,
+        "creative_originality_and_boldness": 1,
+        "narrative_momentum_engagement": 1
+      }
+    }
+  ]
+}

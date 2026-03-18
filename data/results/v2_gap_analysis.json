@@ -1,0 +1,47 @@
+{
+  "creative_originality_and_boldness": {
+    "winner_avg": 7.739,
+    "loser_avg": 5.988,
+    "gap": 1.751,
+    "winner_n": 69,
+    "loser_n": 829,
+    "std_winner": 0.958,
+    "std_loser": 1.904
+  },
+  "character_appeal_and_long_term_potential": {
+    "winner_avg": 8.58,
+    "loser_avg": 6.946,
+    "gap": 1.634,
+    "winner_n": 69,
+    "loser_n": 829,
+    "std_winner": 0.806,
+    "std_loser": 1.955
+  },
+  "audience_appeal_marketability": {
+    "winner_avg": 8.174,
+    "loser_avg": 6.708,
+    "gap": 1.466,
+    "winner_n": 69,
+    "loser_n": 829,
+    "std_winner": 0.564,
+    "std_loser": 1.847
+  },
+  "conceptual_hook_clarity": {
+    "winner_avg": 8.739,
+    "loser_avg": 7.35,
+    "gap": 1.389,
+    "winner_n": 69,
+    "loser_n": 829,
+    "std_winner": 0.556,
+    "std_loser": 2.064
+  },
+  "narrative_momentum_engagement": {
+    "winner_avg": 8.246,
+    "loser_avg": 6.965,
+    "gap": 1.281,
+    "winner_n": 69,
+    "loser_n": 829,
+    "std_winner": 0.69,
+    "std_loser": 1.975
+  }
+}

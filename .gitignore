@@ -1,0 +1,24 @@
+# Large data files — not tracked in git
+data/extracted_text/
+data/pdfs/
+data/results/live/per_script/
+data/results/live/per_script_v1_backup/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/

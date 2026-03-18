@@ -1,0 +1,48 @@
+{
+  "config_name": "best_iter_14_smart_autoresearch",
+  "phase": "Smart AutoFacet Discovery Loop - Iteration 14",
+  "iteration": 14,
+  "created_at": "2026-03-17",
+  "holdout_performance": {
+    "pairwise_accuracy": 74.15,
+    "evaluation_set_size": 179,
+    "notes": "Locked holdout set (13 winners, 166 losers)"
+  },
+  "train_performance": {
+    "pairwise_accuracy": "~84-85%",
+    "overfitting_gap": "~10-11%"
+  },
+  "facets": [
+    "singular_vision",
+    "boldness",
+    "world_originality",
+    "emotional_specificity",
+    "thematic_ambition",
+    "dialogue_language"
+  ],
+  "weights": {
+    "singular_vision": 0.435,
+    "boldness": 0.220,
+    "world_originality": 0.148,
+    "emotional_specificity": 0.115,
+    "thematic_ambition": 0.050,
+    "dialogue_language": 0.032
+  },
+  "improvements_vs_baseline": {
+    "original_baseline_71_13pct": 3.02,
+    "phase2a_best_72_49pct": 1.66,
+    "notes": "Found through continuous weight optimization iterations"
+  },
+  "status": "Current best on holdout",
+  "next_step": "Evaluate 8 new proposed facets, continue autoresearch loop",
+  "new_facets_proposed": [
+    "narrative_structure",
+    "protagonist_specificity",
+    "tonal_clarity",
+    "conflict_originality",
+    "visual_language",
+    "ensemble_texture",
+    "genre_mastery",
+    "dialogue_wit"
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "example_dimension",
+    "display_name": "Example Dimension",
+    "what_it_measures": "One sentence: what signal does this capture?",
+    "strong_signals": [
+      "Observable thing in the script that scores high (7-10)",
+      "Another strong signal"
+    ],
+    "weak_signals": [
+      "Observable thing that scores low (1-6)",
+      "Another weak signal"
+    ],
+    "anchors": {
+      "9-10": "Breaking Bad: [why it scores 9-10 on this dimension]",
+      "7-8": "The Office: [why it scores 7-8]",
+      "5-6": "A competent but forgettable show: [why]",
+      "3-4": "A weak pilot: [why]",
+      "1-2": "A failing pilot: [why]"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "project_name": "GEM Transcendence Detector",
+  "description": "Autoresearch system to identify pilots with the DNA of transcendent television",
+  "paths": {
+    "pdf_source": "../pdf_backup",
+    "extracted_text": "./data/extracted_text",
+    "benchmark_file": "./data/benchmark/benchmark.jsonl",
+    "results_log": "./data/results/results.tsv",
+    "experiment_dir": "./data/results"
+  },
+  "models": {
+    "default": "openai",
+    "available": ["claude", "openai"],
+    "claude": {
+      "model": "claude-opus-4-6",
+      "max_tokens": 2000,
+      "temperature": 0.7
+    },
+    "openai": {
+      "model": "gpt-5-mini",
+      "max_tokens": 2000,
+      "temperature": 0.7
+    }
+  },
+  "evaluation": {
+    "dimensions": [
+      "singular_vision",
+      "character_depth",
+      "thematic_ambition",
+      "emotional_specificity",
+      "world_originality",
+      "dialogue_language",
+      "boldness",
+      "transcendence_verdict"
+    ],
+    "scale": {
+      "min": 1,
+      "max": 10,
+      "labels": ["competent", "promising", "special", "exceptional", "transcendent"]
+    }
+  },
+  "research": {
+    "max_reruns": 3,
+    "stability_threshold": 0.85,
+    "logging_level": "INFO"
+  }
+}

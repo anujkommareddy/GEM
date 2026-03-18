@@ -1,0 +1,1757 @@
+[
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.9288,
+    "holdout_accuracy": 0.8284,
+    "holdout_top10": 0.3529,
+    "gap": 0.1003
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 1.5,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9254,
+    "holdout_accuracy": 0.8256,
+    "holdout_top10": 0.3529,
+    "gap": 0.0997
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 1.5,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 1.5
+    },
+    "tune_accuracy": 0.9171,
+    "holdout_accuracy": 0.8219,
+    "holdout_top10": 0.2941,
+    "gap": 0.0952
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 3.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9193,
+    "holdout_accuracy": 0.8214,
+    "holdout_top10": 0.4118,
+    "gap": 0.0978
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 2.0
+    },
+    "tune_accuracy": 0.9078,
+    "holdout_accuracy": 0.8177,
+    "holdout_top10": 0.3529,
+    "gap": 0.0901
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9146,
+    "holdout_accuracy": 0.8168,
+    "holdout_top10": 0.4118,
+    "gap": 0.0978
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 2.5,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.9114,
+    "holdout_accuracy": 0.814,
+    "holdout_top10": 0.3529,
+    "gap": 0.0974
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.31545732936191806,
+      "conceptual_hook_clarity": 0.35223294956926077,
+      "character_appeal_and_long_term_potential": 0.15835012197326648,
+      "creative_originality_and_boldness": 0.21864702286795756,
+      "narrative_momentum_engagement": 0.17993311399747108
+    },
+    "tune_accuracy": 0.9211,
+    "holdout_accuracy": 0.8135,
+    "holdout_top10": 0.4118,
+    "gap": 0.1075
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.916,
+    "holdout_accuracy": 0.8126,
+    "holdout_top10": 0.3529,
+    "gap": 0.1034
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.40553921346156185,
+      "conceptual_hook_clarity": 0.06766634086220472,
+      "character_appeal_and_long_term_potential": 0.16505109083525604,
+      "creative_originality_and_boldness": 0.15956150040350137,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9303,
+    "holdout_accuracy": 0.8126,
+    "holdout_top10": 0.4118,
+    "gap": 0.1177
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 2.5,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 3.0
+    },
+    "tune_accuracy": 0.914,
+    "holdout_accuracy": 0.8117,
+    "holdout_top10": 0.3529,
+    "gap": 0.1023
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.2570576990749077,
+      "conceptual_hook_clarity": 0.12112741888770986,
+      "character_appeal_and_long_term_potential": 0.02516243653304162,
+      "creative_originality_and_boldness": 0.17710362831799595,
+      "narrative_momentum_engagement": 0.15214019846513843
+    },
+    "tune_accuracy": 0.9205,
+    "holdout_accuracy": 0.8093,
+    "holdout_top10": 0.4118,
+    "gap": 0.1112
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9189,
+    "holdout_accuracy": 0.8089,
+    "holdout_top10": 0.4118,
+    "gap": 0.11
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 1.5
+    },
+    "tune_accuracy": 0.9246,
+    "holdout_accuracy": 0.8089,
+    "holdout_top10": 0.4118,
+    "gap": 0.1157
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.9051,
+    "holdout_accuracy": 0.8084,
+    "holdout_top10": 0.3529,
+    "gap": 0.0967
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.425623568988187,
+      "conceptual_hook_clarity": 0.38009241503788305,
+      "character_appeal_and_long_term_potential": 0.04024464950238216,
+      "creative_originality_and_boldness": 0.3358315019579501,
+      "narrative_momentum_engagement": 0.10924090903967898
+    },
+    "tune_accuracy": 0.9201,
+    "holdout_accuracy": 0.8084,
+    "holdout_top10": 0.4118,
+    "gap": 0.1117
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.2617906723249719,
+      "conceptual_hook_clarity": 0.03585424316639696,
+      "character_appeal_and_long_term_potential": 0.18346955924945363,
+      "creative_originality_and_boldness": 0.16279841540538637,
+      "narrative_momentum_engagement": 0.16399687851754968
+    },
+    "tune_accuracy": 0.9254,
+    "holdout_accuracy": 0.8084,
+    "holdout_top10": 0.4118,
+    "gap": 0.117
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.5,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.9236,
+    "holdout_accuracy": 0.8079,
+    "holdout_top10": 0.4118,
+    "gap": 0.1157
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9178,
+    "holdout_accuracy": 0.8075,
+    "holdout_top10": 0.4118,
+    "gap": 0.1103
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 1.5,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9231,
+    "holdout_accuracy": 0.8065,
+    "holdout_top10": 0.4118,
+    "gap": 0.1166
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9164,
+    "holdout_accuracy": 0.8061,
+    "holdout_top10": 0.4118,
+    "gap": 0.1103
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 3.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 3.0
+    },
+    "tune_accuracy": 0.897,
+    "holdout_accuracy": 0.8056,
+    "holdout_top10": 0.2941,
+    "gap": 0.0914
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9131,
+    "holdout_accuracy": 0.8047,
+    "holdout_top10": 0.3529,
+    "gap": 0.1084
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.26472842320345746,
+      "conceptual_hook_clarity": 0.024261822301051922,
+      "character_appeal_and_long_term_potential": 0.4651884587309853,
+      "creative_originality_and_boldness": 0.22556236853366074,
+      "narrative_momentum_engagement": 0.0414640489728187
+    },
+    "tune_accuracy": 0.9264,
+    "holdout_accuracy": 0.8042,
+    "holdout_top10": 0.4118,
+    "gap": 0.1222
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 0.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9071,
+    "holdout_accuracy": 0.8028,
+    "holdout_top10": 0.3529,
+    "gap": 0.1043
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 2.0
+    },
+    "tune_accuracy": 0.8964,
+    "holdout_accuracy": 0.8019,
+    "holdout_top10": 0.2941,
+    "gap": 0.0946
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 2.5,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.9079,
+    "holdout_accuracy": 0.8005,
+    "holdout_top10": 0.3529,
+    "gap": 0.1074
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.9135,
+    "holdout_accuracy": 0.7995,
+    "holdout_top10": 0.4118,
+    "gap": 0.1139
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 3.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.9161,
+    "holdout_accuracy": 0.7991,
+    "holdout_top10": 0.4118,
+    "gap": 0.117
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9054,
+    "holdout_accuracy": 0.7949,
+    "holdout_top10": 0.3529,
+    "gap": 0.1105
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.08730035338310957,
+      "conceptual_hook_clarity": 0.1282897140745254,
+      "character_appeal_and_long_term_potential": 0.2741797503641143,
+      "creative_originality_and_boldness": 0.14624327750900912,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.916,
+    "holdout_accuracy": 0.7949,
+    "holdout_top10": 0.4118,
+    "gap": 0.1211
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 1.5
+    },
+    "tune_accuracy": 0.9209,
+    "holdout_accuracy": 0.7944,
+    "holdout_top10": 0.4118,
+    "gap": 0.1264
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.45631227226574844,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.556010562382371,
+      "creative_originality_and_boldness": 0.235193227309072,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9214,
+    "holdout_accuracy": 0.7939,
+    "holdout_top10": 0.3529,
+    "gap": 0.1275
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9156,
+    "holdout_accuracy": 0.7935,
+    "holdout_top10": 0.3529,
+    "gap": 0.1221
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 3.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9112,
+    "holdout_accuracy": 0.7935,
+    "holdout_top10": 0.3529,
+    "gap": 0.1177
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.914,
+    "holdout_accuracy": 0.793,
+    "holdout_top10": 0.3529,
+    "gap": 0.121
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.9009,
+    "holdout_accuracy": 0.793,
+    "holdout_top10": 0.2941,
+    "gap": 0.1079
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 2.0
+    },
+    "tune_accuracy": 0.9137,
+    "holdout_accuracy": 0.7921,
+    "holdout_top10": 0.4118,
+    "gap": 0.1216
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9129,
+    "holdout_accuracy": 0.7916,
+    "holdout_top10": 0.3529,
+    "gap": 0.1213
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.8985,
+    "holdout_accuracy": 0.7916,
+    "holdout_top10": 0.2941,
+    "gap": 0.1069
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 2.0
+    },
+    "tune_accuracy": 0.9174,
+    "holdout_accuracy": 0.7916,
+    "holdout_top10": 0.4118,
+    "gap": 0.1258
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.15777360966839218,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.14692826168415624,
+      "creative_originality_and_boldness": 0.156235937812074,
+      "narrative_momentum_engagement": 0.14144320332675914
+    },
+    "tune_accuracy": 0.9237,
+    "holdout_accuracy": 0.7916,
+    "holdout_top10": 0.4118,
+    "gap": 0.1321
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0783493026295268,
+      "conceptual_hook_clarity": 0.04343602165736968,
+      "character_appeal_and_long_term_potential": 0.5346097716574132,
+      "creative_originality_and_boldness": 0.1536486749469967,
+      "narrative_momentum_engagement": 0.09207418901280806
+    },
+    "tune_accuracy": 0.916,
+    "holdout_accuracy": 0.7911,
+    "holdout_top10": 0.2941,
+    "gap": 0.1249
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9122,
+    "holdout_accuracy": 0.7907,
+    "holdout_top10": 0.4118,
+    "gap": 0.1215
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9119,
+    "holdout_accuracy": 0.7907,
+    "holdout_top10": 0.4118,
+    "gap": 0.1212
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.16930157910505375,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.22571302361436033,
+      "creative_originality_and_boldness": 0.16242075104370596,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9212,
+    "holdout_accuracy": 0.7907,
+    "holdout_top10": 0.3529,
+    "gap": 0.1305
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.35003072863487994,
+      "conceptual_hook_clarity": 0.11413907158888889,
+      "character_appeal_and_long_term_potential": 0.41702564486320143,
+      "creative_originality_and_boldness": 0.4539073321015011,
+      "narrative_momentum_engagement": 0.25905451971497956
+    },
+    "tune_accuracy": 0.9195,
+    "holdout_accuracy": 0.7907,
+    "holdout_top10": 0.3529,
+    "gap": 0.1288
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.11279866260672672,
+      "conceptual_hook_clarity": 0.19871893360044487,
+      "character_appeal_and_long_term_potential": 0.4573422459323769,
+      "creative_originality_and_boldness": 0.27004630727813483,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9138,
+    "holdout_accuracy": 0.7897,
+    "holdout_top10": 0.3529,
+    "gap": 0.124
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9098,
+    "holdout_accuracy": 0.7893,
+    "holdout_top10": 0.3529,
+    "gap": 0.1205
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9067,
+    "holdout_accuracy": 0.7888,
+    "holdout_top10": 0.4118,
+    "gap": 0.1179
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 3.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.9075,
+    "holdout_accuracy": 0.7888,
+    "holdout_top10": 0.4118,
+    "gap": 0.1187
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.5,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 3.0
+    },
+    "tune_accuracy": 0.9021,
+    "holdout_accuracy": 0.7883,
+    "holdout_top10": 0.3529,
+    "gap": 0.1138
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9093,
+    "holdout_accuracy": 0.7869,
+    "holdout_top10": 0.4118,
+    "gap": 0.1223
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 2.5,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 2.0
+    },
+    "tune_accuracy": 0.9072,
+    "holdout_accuracy": 0.786,
+    "holdout_top10": 0.3529,
+    "gap": 0.1212
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9041,
+    "holdout_accuracy": 0.7851,
+    "holdout_top10": 0.4118,
+    "gap": 0.119
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.24634143106131104,
+      "conceptual_hook_clarity": 0.29438350965085835,
+      "character_appeal_and_long_term_potential": 0.04275977971508127,
+      "creative_originality_and_boldness": 0.3212798857707473,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9106,
+    "holdout_accuracy": 0.7846,
+    "holdout_top10": 0.3529,
+    "gap": 0.126
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9114,
+    "holdout_accuracy": 0.7832,
+    "holdout_top10": 0.3529,
+    "gap": 0.1282
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9065,
+    "holdout_accuracy": 0.7828,
+    "holdout_top10": 0.3529,
+    "gap": 0.1238
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.5,
+      "conceptual_hook_clarity": 1.5,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.9028,
+    "holdout_accuracy": 0.7828,
+    "holdout_top10": 0.3529,
+    "gap": 0.12
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.5,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9155,
+    "holdout_accuracy": 0.7814,
+    "holdout_top10": 0.2941,
+    "gap": 0.1342
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9093,
+    "holdout_accuracy": 0.7809,
+    "holdout_top10": 0.2941,
+    "gap": 0.1284
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.9095,
+    "holdout_accuracy": 0.7804,
+    "holdout_top10": 0.3529,
+    "gap": 0.1291
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 2.5,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9089,
+    "holdout_accuracy": 0.779,
+    "holdout_top10": 0.2941,
+    "gap": 0.1298
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9082,
+    "holdout_accuracy": 0.779,
+    "holdout_top10": 0.4118,
+    "gap": 0.1292
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9092,
+    "holdout_accuracy": 0.779,
+    "holdout_top10": 0.2941,
+    "gap": 0.1302
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9071,
+    "holdout_accuracy": 0.7776,
+    "holdout_top10": 0.2941,
+    "gap": 0.1294
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.36380521945551025,
+      "character_appeal_and_long_term_potential": 0.43091949688917713,
+      "creative_originality_and_boldness": 0.21057853389480607,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8989,
+    "holdout_accuracy": 0.7776,
+    "holdout_top10": 0.3529,
+    "gap": 0.1213
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.18237503512674694,
+      "conceptual_hook_clarity": 0.16073100651710423,
+      "character_appeal_and_long_term_potential": 0.5949254662401244,
+      "creative_originality_and_boldness": 0.6784940584090005,
+      "narrative_momentum_engagement": 0.15316001403481638
+    },
+    "tune_accuracy": 0.9101,
+    "holdout_accuracy": 0.7767,
+    "holdout_top10": 0.3529,
+    "gap": 0.1335
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.16577076267579452,
+      "conceptual_hook_clarity": 0.09677465602752686,
+      "character_appeal_and_long_term_potential": 0.31630772263565127,
+      "creative_originality_and_boldness": 0.4211459626076944,
+      "narrative_momentum_engagement": 8.960533330943858e-07
+    },
+    "tune_accuracy": 0.9127,
+    "holdout_accuracy": 0.7762,
+    "holdout_top10": 0.3529,
+    "gap": 0.1365
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.011569108113229226,
+      "conceptual_hook_clarity": 0.08055842179428305,
+      "character_appeal_and_long_term_potential": 0.26054369952721324,
+      "creative_originality_and_boldness": 0.17774144050282373,
+      "narrative_momentum_engagement": 0.09539054576213091
+    },
+    "tune_accuracy": 0.9074,
+    "holdout_accuracy": 0.7762,
+    "holdout_top10": 0.2941,
+    "gap": 0.1312
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.03676319740578857,
+      "conceptual_hook_clarity": 0.05968539983215279,
+      "character_appeal_and_long_term_potential": 0.34223849999260336,
+      "creative_originality_and_boldness": 0.3026562483950283,
+      "narrative_momentum_engagement": 0.2903128822042224
+    },
+    "tune_accuracy": 0.9071,
+    "holdout_accuracy": 0.7744,
+    "holdout_top10": 0.2941,
+    "gap": 0.1327
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.5,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 2.5,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9116,
+    "holdout_accuracy": 0.7739,
+    "holdout_top10": 0.2941,
+    "gap": 0.1377
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9057,
+    "holdout_accuracy": 0.7734,
+    "holdout_top10": 0.2941,
+    "gap": 0.1323
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9038,
+    "holdout_accuracy": 0.7725,
+    "holdout_top10": 0.2941,
+    "gap": 0.1313
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.27969134193556733,
+      "conceptual_hook_clarity": 0.22454403971899997,
+      "character_appeal_and_long_term_potential": 0.2557031026341088,
+      "creative_originality_and_boldness": 0.5241581383906642,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.912,
+    "holdout_accuracy": 0.7725,
+    "holdout_top10": 0.3529,
+    "gap": 0.1395
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9072,
+    "holdout_accuracy": 0.772,
+    "holdout_top10": 0.3529,
+    "gap": 0.1352
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.16947020932338255,
+      "character_appeal_and_long_term_potential": 0.3541039100190189,
+      "creative_originality_and_boldness": 0.1811347119624475,
+      "narrative_momentum_engagement": 0.022581538514309503
+    },
+    "tune_accuracy": 0.9026,
+    "holdout_accuracy": 0.772,
+    "holdout_top10": 0.2941,
+    "gap": 0.1306
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.4168419034134916,
+      "conceptual_hook_clarity": 0.006569710695078057,
+      "character_appeal_and_long_term_potential": 0.5086295512185884,
+      "creative_originality_and_boldness": 0.6439397841254992,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9131,
+    "holdout_accuracy": 0.7716,
+    "holdout_top10": 0.3529,
+    "gap": 0.1416
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.4536495349730961,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.2814090297521616,
+      "creative_originality_and_boldness": 0.5445464306636888,
+      "narrative_momentum_engagement": 0.036545014918180914
+    },
+    "tune_accuracy": 0.9164,
+    "holdout_accuracy": 0.7711,
+    "holdout_top10": 0.2941,
+    "gap": 0.1453
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.1274052719487779,
+      "conceptual_hook_clarity": 0.10872686516747812,
+      "character_appeal_and_long_term_potential": 0.5002142444557136,
+      "creative_originality_and_boldness": 0.5332602507564104,
+      "narrative_momentum_engagement": 0.2641587682918651
+    },
+    "tune_accuracy": 0.9061,
+    "holdout_accuracy": 0.7706,
+    "holdout_top10": 0.2941,
+    "gap": 0.1354
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.15701946216608895,
+      "conceptual_hook_clarity": 0.12031501486437965,
+      "character_appeal_and_long_term_potential": 0.4503192621642338,
+      "creative_originality_and_boldness": 0.650575807692137,
+      "narrative_momentum_engagement": 0.04572788588587302
+    },
+    "tune_accuracy": 0.9071,
+    "holdout_accuracy": 0.7702,
+    "holdout_top10": 0.3529,
+    "gap": 0.1369
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 3.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.8911,
+    "holdout_accuracy": 0.7692,
+    "holdout_top10": 0.3529,
+    "gap": 0.1219
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0369203000439467,
+      "conceptual_hook_clarity": 0.21472955818762438,
+      "character_appeal_and_long_term_potential": 0.45461091308493085,
+      "creative_originality_and_boldness": 0.5911628796982666,
+      "narrative_momentum_engagement": 0.09712368322378023
+    },
+    "tune_accuracy": 0.9042,
+    "holdout_accuracy": 0.7678,
+    "holdout_top10": 0.3529,
+    "gap": 0.1364
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.91,
+    "holdout_accuracy": 0.7669,
+    "holdout_top10": 0.2941,
+    "gap": 0.1431
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9016,
+    "holdout_accuracy": 0.7664,
+    "holdout_top10": 0.2941,
+    "gap": 0.1352
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9044,
+    "holdout_accuracy": 0.7655,
+    "holdout_top10": 0.2941,
+    "gap": 0.1389
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.9024,
+    "holdout_accuracy": 0.7632,
+    "holdout_top10": 0.2941,
+    "gap": 0.1393
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9012,
+    "holdout_accuracy": 0.7632,
+    "holdout_top10": 0.3529,
+    "gap": 0.1381
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.05559267026183079,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.4181433074975488,
+      "creative_originality_and_boldness": 0.30965628028504,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9042,
+    "holdout_accuracy": 0.7632,
+    "holdout_top10": 0.2941,
+    "gap": 0.141
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.39046233511814255,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.5011210694746728,
+      "creative_originality_and_boldness": 0.634726098088718,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9089,
+    "holdout_accuracy": 0.7622,
+    "holdout_top10": 0.2941,
+    "gap": 0.1467
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.2659065051392323,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.4346327711522907,
+      "creative_originality_and_boldness": 0.4537934492077706,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9089,
+    "holdout_accuracy": 0.7622,
+    "holdout_top10": 0.2941,
+    "gap": 0.1467
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.23966400864364004,
+      "conceptual_hook_clarity": 0.1948071417868534,
+      "character_appeal_and_long_term_potential": 0.09108291203427193,
+      "creative_originality_and_boldness": 0.6611740636659492,
+      "narrative_momentum_engagement": 0.004274398474494573
+    },
+    "tune_accuracy": 0.9044,
+    "holdout_accuracy": 0.7613,
+    "holdout_top10": 0.2941,
+    "gap": 0.1431
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 1.5,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8902,
+    "holdout_accuracy": 0.7608,
+    "holdout_top10": 0.3529,
+    "gap": 0.1294
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.3775184519109329,
+      "conceptual_hook_clarity": 0.10002009088631916,
+      "character_appeal_and_long_term_potential": 0.16698047387758774,
+      "creative_originality_and_boldness": 0.6660413903388375,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9066,
+    "holdout_accuracy": 0.7604,
+    "holdout_top10": 0.2941,
+    "gap": 0.1463
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 3.0,
+      "conceptual_hook_clarity": 3.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 3.0
+    },
+    "tune_accuracy": 0.8856,
+    "holdout_accuracy": 0.7599,
+    "holdout_top10": 0.3529,
+    "gap": 0.1257
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.8984,
+    "holdout_accuracy": 0.759,
+    "holdout_top10": 0.2941,
+    "gap": 0.1394
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.2534786134527851,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.4532358757003609,
+      "creative_originality_and_boldness": 0.6015014691247136,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9047,
+    "holdout_accuracy": 0.7585,
+    "holdout_top10": 0.2941,
+    "gap": 0.1462
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.2659308090571203,
+      "conceptual_hook_clarity": 0.008981836796297882,
+      "character_appeal_and_long_term_potential": 0.35223783412197307,
+      "creative_originality_and_boldness": 0.6459735967323491,
+      "narrative_momentum_engagement": 0.28430310963570643
+    },
+    "tune_accuracy": 0.9034,
+    "holdout_accuracy": 0.7585,
+    "holdout_top10": 0.2941,
+    "gap": 0.1449
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9046,
+    "holdout_accuracy": 0.758,
+    "holdout_top10": 0.2941,
+    "gap": 0.1466
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.322997702972863,
+      "character_appeal_and_long_term_potential": 0.17303684046977738,
+      "creative_originality_and_boldness": 0.4694998028509191,
+      "narrative_momentum_engagement": 0.2901312397831854
+    },
+    "tune_accuracy": 0.8916,
+    "holdout_accuracy": 0.758,
+    "holdout_top10": 0.2941,
+    "gap": 0.1336
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.2865376755597421,
+      "conceptual_hook_clarity": 0.02629968958568743,
+      "character_appeal_and_long_term_potential": 0.03954248723512316,
+      "creative_originality_and_boldness": 0.4035599752592886,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.9068,
+    "holdout_accuracy": 0.7571,
+    "holdout_top10": 0.2941,
+    "gap": 0.1497
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.3079933787699747,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.27508616241064343,
+      "creative_originality_and_boldness": 0.6904706541904829,
+      "narrative_momentum_engagement": 0.2524634097841572
+    },
+    "tune_accuracy": 0.9057,
+    "holdout_accuracy": 0.7566,
+    "holdout_top10": 0.2941,
+    "gap": 0.1491
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.897,
+    "holdout_accuracy": 0.7557,
+    "holdout_top10": 0.2941,
+    "gap": 0.1413
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.1981236761304824,
+      "conceptual_hook_clarity": 0.14983872467373746,
+      "character_appeal_and_long_term_potential": 0.02062222602670738,
+      "creative_originality_and_boldness": 0.5458505305367669,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.901,
+    "holdout_accuracy": 0.7548,
+    "holdout_top10": 0.2941,
+    "gap": 0.1462
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.07645844012544586,
+      "conceptual_hook_clarity": 0.1024180613443493,
+      "character_appeal_and_long_term_potential": 0.42401859365180944,
+      "creative_originality_and_boldness": 0.6273426605709428,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8987,
+    "holdout_accuracy": 0.7543,
+    "holdout_top10": 0.2941,
+    "gap": 0.1444
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.08744340754647995,
+      "conceptual_hook_clarity": 0.02980124958344689,
+      "character_appeal_and_long_term_potential": 0.31836901414868896,
+      "creative_originality_and_boldness": 0.5643863287188292,
+      "narrative_momentum_engagement": 2.554929502410784e-12
+    },
+    "tune_accuracy": 0.899,
+    "holdout_accuracy": 0.7534,
+    "holdout_top10": 0.2941,
+    "gap": 0.1457
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 2.5,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.8646,
+    "holdout_accuracy": 0.7529,
+    "holdout_top10": 0.2353,
+    "gap": 0.1117
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.5,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.846,
+    "holdout_accuracy": 0.7501,
+    "holdout_top10": 0.2941,
+    "gap": 0.0959
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 2.5
+    },
+    "tune_accuracy": 0.8832,
+    "holdout_accuracy": 0.7492,
+    "holdout_top10": 0.2353,
+    "gap": 0.134
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.8938,
+    "holdout_accuracy": 0.7492,
+    "holdout_top10": 0.2353,
+    "gap": 0.1446
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.898,
+    "holdout_accuracy": 0.7487,
+    "holdout_top10": 0.3529,
+    "gap": 0.1492
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.007598457000844189,
+      "conceptual_hook_clarity": 0.04062309079901005,
+      "character_appeal_and_long_term_potential": 0.305122773418275,
+      "creative_originality_and_boldness": 0.6399361990258237,
+      "narrative_momentum_engagement": 0.24146661535966224
+    },
+    "tune_accuracy": 0.8929,
+    "holdout_accuracy": 0.7487,
+    "holdout_top10": 0.2941,
+    "gap": 0.1442
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 0.5
+    },
+    "tune_accuracy": 0.898,
+    "holdout_accuracy": 0.7483,
+    "holdout_top10": 0.3529,
+    "gap": 0.1497
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 3.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8883,
+    "holdout_accuracy": 0.7483,
+    "holdout_top10": 0.2941,
+    "gap": 0.14
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.2131221971801209,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.06549776593257656,
+      "creative_originality_and_boldness": 0.5155698612912079,
+      "narrative_momentum_engagement": 0.03913705035978677
+    },
+    "tune_accuracy": 0.9008,
+    "holdout_accuracy": 0.7473,
+    "holdout_top10": 0.2941,
+    "gap": 0.1534
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.18444644383811928,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.32100482083170234,
+      "creative_originality_and_boldness": 0.6319514898141673,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8965,
+    "holdout_accuracy": 0.745,
+    "holdout_top10": 0.2353,
+    "gap": 0.1515
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8911,
+    "holdout_accuracy": 0.7422,
+    "holdout_top10": 0.2941,
+    "gap": 0.1489
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.5,
+      "character_appeal_and_long_term_potential": 2.0,
+      "creative_originality_and_boldness": 2.5,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.8905,
+    "holdout_accuracy": 0.7408,
+    "holdout_top10": 0.2353,
+    "gap": 0.1497
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.3236508350116821,
+      "character_appeal_and_long_term_potential": 0.17498727552792787,
+      "creative_originality_and_boldness": 0.6549735868111198,
+      "narrative_momentum_engagement": 0.14545090644193231
+    },
+    "tune_accuracy": 0.8859,
+    "holdout_accuracy": 0.7408,
+    "holdout_top10": 0.2353,
+    "gap": 0.1452
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.3138661772096044,
+      "character_appeal_and_long_term_potential": 0.25857305342661774,
+      "creative_originality_and_boldness": 0.686103638945148,
+      "narrative_momentum_engagement": 0.041806142136244014
+    },
+    "tune_accuracy": 0.8866,
+    "holdout_accuracy": 0.7399,
+    "holdout_top10": 0.2353,
+    "gap": 0.1467
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.18407512933011658,
+      "character_appeal_and_long_term_potential": 0.2906424661779225,
+      "creative_originality_and_boldness": 0.6785569616310029,
+      "narrative_momentum_engagement": 0.26144146852022704
+    },
+    "tune_accuracy": 0.8887,
+    "holdout_accuracy": 0.7385,
+    "holdout_top10": 0.2353,
+    "gap": 0.1502
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 1.5,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 3.0
+    },
+    "tune_accuracy": 0.8616,
+    "holdout_accuracy": 0.7361,
+    "holdout_top10": 0.1176,
+    "gap": 0.1254
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.1185461083737335,
+      "character_appeal_and_long_term_potential": 0.10041710089251596,
+      "creative_originality_and_boldness": 0.23123878408003434,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8804,
+    "holdout_accuracy": 0.7343,
+    "holdout_top10": 0.2353,
+    "gap": 0.1461
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.5,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.5,
+      "creative_originality_and_boldness": 2.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.888,
+    "holdout_accuracy": 0.7333,
+    "holdout_top10": 0.2353,
+    "gap": 0.1546
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.04415130223980526,
+      "character_appeal_and_long_term_potential": 0.12392412068657549,
+      "creative_originality_and_boldness": 0.6758383397526218,
+      "narrative_momentum_engagement": 0.16943279374191206
+    },
+    "tune_accuracy": 0.8792,
+    "holdout_accuracy": 0.7315,
+    "holdout_top10": 0.1765,
+    "gap": 0.1477
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.15471740902017364,
+      "character_appeal_and_long_term_potential": 0.22371998964353143,
+      "creative_originality_and_boldness": 0.5930028695299036,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8815,
+    "holdout_accuracy": 0.731,
+    "holdout_top10": 0.2353,
+    "gap": 0.1505
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.14268551551981712,
+      "creative_originality_and_boldness": 0.32687413528364956,
+      "narrative_momentum_engagement": 0.1124991733341314
+    },
+    "tune_accuracy": 0.8751,
+    "holdout_accuracy": 0.7235,
+    "holdout_top10": 0.2353,
+    "gap": 0.1515
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.04639312499402343,
+      "creative_originality_and_boldness": 0.4072190728730553,
+      "narrative_momentum_engagement": 0.2516331745525782
+    },
+    "tune_accuracy": 0.8676,
+    "holdout_accuracy": 0.7231,
+    "holdout_top10": 0.1765,
+    "gap": 0.1445
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.25056077718833913,
+      "creative_originality_and_boldness": 0.6770568067432944,
+      "narrative_momentum_engagement": 0.17107851012980602
+    },
+    "tune_accuracy": 0.8741,
+    "holdout_accuracy": 0.7221,
+    "holdout_top10": 0.2353,
+    "gap": 0.1519
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.2145648160839505,
+      "creative_originality_and_boldness": 0.42963963449284787,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.8578,
+    "holdout_accuracy": 0.7012,
+    "holdout_top10": 0.1765,
+    "gap": 0.1566
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.795,
+    "holdout_accuracy": 0.6541,
+    "holdout_top10": 0.1765,
+    "gap": 0.1409
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.743,
+    "holdout_accuracy": 0.6438,
+    "holdout_top10": 0.2941,
+    "gap": 0.0992
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 1.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.7713,
+    "holdout_accuracy": 0.6075,
+    "holdout_top10": 0.1176,
+    "gap": 0.1639
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 1.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 0.0
+    },
+    "tune_accuracy": 0.7163,
+    "holdout_accuracy": 0.5897,
+    "holdout_top10": 0.1765,
+    "gap": 0.1265
+  },
+  {
+    "weights": {
+      "audience_appeal_marketability": 0.0,
+      "conceptual_hook_clarity": 0.0,
+      "character_appeal_and_long_term_potential": 0.0,
+      "creative_originality_and_boldness": 0.0,
+      "narrative_momentum_engagement": 1.0
+    },
+    "tune_accuracy": 0.6433,
+    "holdout_accuracy": 0.4643,
+    "holdout_top10": 0.1176,
+    "gap": 0.179
+  }
+]
