@@ -7,6 +7,9 @@ bun.lock
 .claude/skills/gstack/browse/dist/
 .claude/skills/gstack/bun.lock
 
+# gstack runtime
+.gstack/
+
 # Environment
 .env
 
