@@ -1,0 +1,192 @@
+{
+  "total_iterations": 5,
+  "improvements_found": 0,
+  "rejections": 5,
+  "final_accuracy": 72.49,
+  "starting_accuracy": 71.13,
+  "total_improvement": 1.3599999999999994,
+  "best_config": {
+    "config_name": "best_config_phase2a_m1",
+    "phase": "2a",
+    "mutation_id": "M1",
+    "mutation_name": "Remove character_depth (6-facet)",
+    "created_at": "2026-03-17T15:XX:XX",
+    "holdout_performance": {
+      "pairwise_accuracy": 72.49,
+      "top10_winner_enrichment": 30.77,
+      "evaluation_set_size": 179,
+      "winners": 13,
+      "losers": 166
+    },
+    "train_performance": {
+      "pairwise_accuracy": 84.86,
+      "evaluation_set_size": 730
+    },
+    "overfitting_gap": 12.37,
+    "facets": [
+      "singular_vision",
+      "boldness",
+      "world_originality",
+      "emotional_specificity",
+      "thematic_ambition",
+      "dialogue_language"
+    ],
+    "weights": {
+      "singular_vision": 0.43118606850536084,
+      "boldness": 0.20439967729838424,
+      "world_originality": 0.1553689121109027,
+      "emotional_specificity": 0.12355131901820415,
+      "thematic_ambition": 0.05215840385331375,
+      "dialogue_language": 0.033335619213834385
+    },
+    "improvements": {
+      "vs_original_baseline_71_13": 1.36,
+      "vs_phase1_best_72_40": 0.09,
+      "facet_count_reduction": "7 \u2192 6"
+    },
+    "rationale": "Removed character_depth (lowest-gap facet, 1.60 gap). Holds ~same accuracy as Phase 1 best but with simpler model. Character_depth was noise; most produced shows have decent characters, but only transcendent shows have singular vision.",
+    "frozen": false,
+    "promoted_from": "Phase 2a mutation M1"
+  },
+  "all_improvements": [],
+  "all_rejections": [
+    {
+      "iteration": 1,
+      "proposal_id": 0,
+      "name": "Current best (Phase 1 - P8)",
+      "type": "weight_mutation",
+      "holdout_accuracy": 72.39532619279454,
+      "tune_accuracy": 84.85593096387305,
+      "overfitting_gap": 12.460604771078508,
+      "improvement": -0.09467380720545293,
+      "facets": [
+        "singular_vision",
+        "boldness",
+        "world_originality",
+        "emotional_specificity",
+        "thematic_ambition",
+        "dialogue_language",
+        "character_depth"
+      ],
+      "weights": {
+        "singular_vision": 0.4273851854533774,
+        "boldness": 0.20259790463915314,
+        "world_originality": 0.15399934312901412,
+        "emotional_specificity": 0.12246222048555838,
+        "thematic_ambition": 0.051698630201739704,
+        "dialogue_language": 0.03304176744228611,
+        "character_depth": 0.00881494864887126
+      },
+      "timestamp": "2026-03-17T18:46:26.902508"
+    },
+    {
+      "iteration": 2,
+      "proposal_id": 1,
+      "name": "Remove character_depth (6-facet)",
+      "type": "weight_mutation",
+      "holdout_accuracy": 72.49269717624148,
+      "tune_accuracy": 84.85885622348984,
+      "overfitting_gap": 12.36615904724836,
+      "improvement": 0.0026971762414831346,
+      "facets": [
+        "singular_vision",
+        "boldness",
+        "world_originality",
+        "emotional_specificity",
+        "thematic_ambition",
+        "dialogue_language"
+      ],
+      "weights": {
+        "singular_vision": 0.43118606850536084,
+        "boldness": 0.20439967729838424,
+        "world_originality": 0.1553689121109027,
+        "emotional_specificity": 0.12355131901820415,
+        "thematic_ambition": 0.05215840385331375,
+        "dialogue_language": 0.033335619213834385
+      },
+      "timestamp": "2026-03-17T18:46:26.905379"
+    },
+    {
+      "iteration": 3,
+      "proposal_id": 2,
+      "name": "Remove dialogue_language (6-facet)",
+      "type": "weight_mutation",
+      "holdout_accuracy": 72.15189873417721,
+      "tune_accuracy": 84.77694895421969,
+      "overfitting_gap": 12.625050220042482,
+      "improvement": -0.338101265822786,
+      "facets": [
+        "singular_vision",
+        "boldness",
+        "world_originality",
+        "emotional_specificity",
+        "thematic_ambition",
+        "character_depth"
+      ],
+      "weights": {
+        "singular_vision": 0.44198929288072275,
+        "boldness": 0.20952084362864234,
+        "world_originality": 0.1592616288313389,
+        "emotional_specificity": 0.1266468564641432,
+        "thematic_ambition": 0.053465215415758945,
+        "character_depth": 0.009116162779394022
+      },
+      "timestamp": "2026-03-17T18:46:26.908508"
+    },
+    {
+      "iteration": 4,
+      "proposal_id": 3,
+      "name": "Remove both weak facets (5-facet)",
+      "type": "weight_mutation",
+      "holdout_accuracy": 72.15189873417721,
+      "tune_accuracy": 84.7389205792014,
+      "overfitting_gap": 12.587021845024196,
+      "improvement": -0.338101265822786,
+      "facets": [
+        "singular_vision",
+        "boldness",
+        "world_originality",
+        "emotional_specificity",
+        "thematic_ambition"
+      ],
+      "weights": {
+        "singular_vision": 0.4460556084157019,
+        "boldness": 0.21144844204578095,
+        "world_originality": 0.1607268408757803,
+        "emotional_specificity": 0.12781201156674746,
+        "thematic_ambition": 0.05395709709598955
+      },
+      "timestamp": "2026-03-17T18:46:26.911666"
+    },
+    {
+      "iteration": 5,
+      "proposal_id": "remove_singular_vision_5",
+      "name": "Remove singular_vision",
+      "type": "facet_removal",
+      "holdout_accuracy": 69.03602726387537,
+      "tune_accuracy": 83.56589147286822,
+      "overfitting_gap": 14.529864208992848,
+      "improvement": -3.4539727361246264,
+      "facets": [
+        "boldness",
+        "world_originality",
+        "emotional_specificity",
+        "thematic_ambition",
+        "dialogue_language"
+      ],
+      "weights": {
+        "boldness": 0.35934365524644435,
+        "world_originality": 0.2731454057439291,
+        "emotional_specificity": 0.21720867260328092,
+        "thematic_ambition": 0.09169677633643775,
+        "dialogue_language": 0.05860549006990796
+      },
+      "timestamp": "2026-03-17T18:46:26.914619"
+    }
+  ],
+  "budget": {
+    "initial": 200.0,
+    "spent": 14.0,
+    "remaining": 186.0
+  }
+}

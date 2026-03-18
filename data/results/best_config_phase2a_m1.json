@@ -1,0 +1,43 @@
+{
+  "config_name": "best_config_phase2a_m1",
+  "phase": "2a",
+  "mutation_id": "M1",
+  "mutation_name": "Remove character_depth (6-facet)",
+  "created_at": "2026-03-17T15:XX:XX",
+  "holdout_performance": {
+    "pairwise_accuracy": 72.49,
+    "top10_winner_enrichment": 30.77,
+    "evaluation_set_size": 179,
+    "winners": 13,
+    "losers": 166
+  },
+  "train_performance": {
+    "pairwise_accuracy": 84.86,
+    "evaluation_set_size": 730
+  },
+  "overfitting_gap": 12.37,
+  "facets": [
+    "singular_vision",
+    "boldness",
+    "world_originality",
+    "emotional_specificity",
+    "thematic_ambition",
+    "dialogue_language"
+  ],
+  "weights": {
+    "singular_vision": 0.43118606850536084,
+    "boldness": 0.20439967729838424,
+    "world_originality": 0.1553689121109027,
+    "emotional_specificity": 0.12355131901820415,
+    "thematic_ambition": 0.05215840385331375,
+    "dialogue_language": 0.033335619213834385
+  },
+  "improvements": {
+    "vs_original_baseline_71_13": 1.36,
+    "vs_phase1_best_72_40": 0.09,
+    "facet_count_reduction": "7 → 6"
+  },
+  "rationale": "Removed character_depth (lowest-gap facet, 1.60 gap). Holds ~same accuracy as Phase 1 best but with simpler model. Character_depth was noise; most produced shows have decent characters, but only transcendent shows have singular vision.",
+  "frozen": false,
+  "promoted_from": "Phase 2a mutation M1"
+}

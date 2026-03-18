@@ -1,0 +1,51 @@
+{
+  "boldness": {
+    "winner_avg": 7.409090909090909,
+    "loser_avg": 5.428393524283935,
+    "gap": 1.980697384806974,
+    "gap_percentile": 85.71428571428571,
+    "std_dev": 2.24553012154557
+  },
+  "character_depth": {
+    "winner_avg": 7.4393939393939394,
+    "loser_avg": 5.838107098381071,
+    "gap": 1.6012868410128682,
+    "gap_percentile": 14.285714285714285,
+    "std_dev": 2.0204906414916857
+  },
+  "dialogue_language": {
+    "winner_avg": 7.2727272727272725,
+    "loser_avg": 5.577833125778331,
+    "gap": 1.6948941469489416,
+    "gap_percentile": 28.57142857142857,
+    "std_dev": 1.9575978716670255
+  },
+  "emotional_specificity": {
+    "winner_avg": 7.53030303030303,
+    "loser_avg": 5.65628891656289,
+    "gap": 1.8740141137401407,
+    "gap_percentile": 57.14285714285714,
+    "std_dev": 2.0148351815687335
+  },
+  "singular_vision": {
+    "winner_avg": 7.606060606060606,
+    "loser_avg": 5.408468244084682,
+    "gap": 2.197592361975924,
+    "gap_percentile": 100.0,
+    "std_dev": 2.1266875120296977
+  },
+  "thematic_ambition": {
+    "winner_avg": 7.181818181818182,
+    "loser_avg": 5.438356164383562,
+    "gap": 1.74346201743462,
+    "gap_percentile": 42.857142857142854,
+    "std_dev": 2.0288192849395745
+  },
+  "world_originality": {
+    "winner_avg": 7.287878787878788,
+    "loser_avg": 5.3686176836861765,
+    "gap": 1.9192611041926115,
+    "gap_percentile": 71.42857142857143,
+    "std_dev": 2.0681902819007316
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "version_id": "v3_expanded",
+  "display_name": "v3 Expanded Dimensions",
+  "created_at": null,
+  "model": "gpt-5-mini",
+  "provider": "openai",
+  "rubric_version": "v3_expanded",
+  "rubric_file": "config/rubric_v2_producer_mind.md",
+  "dimensions_config": "config/new_dimensions.json",
+  "dimensions": [
+    "audience_appeal_marketability",
+    "conceptual_hook_clarity",
+    "character_appeal_and_long_term_potential",
+    "creative_originality_and_boldness",
+    "narrative_momentum_engagement",
+    "... (plus new dimensions from config/new_dimensions.json)"
+  ],
+  "scripts_scored": 0,
+  "scripts_failed": 0,
+  "corpus_size": null,
+  "label_version": "v2",
+  "per_script_dir": "data/scoring/v3_expanded/per_script",
+  "split_file": "data/results/validation/v2_split.json",
+  "best_config_file": null,
+  "gap_analysis_file": null,
+  "holdout_accuracy": null,
+  "tune_accuracy": null,
+  "best_weights": null,
+  "notes": "New scoring run with expanded dimensions. Will be populated by score_run.py.",
+  "status": "pending",
+  "read_only": false
+}

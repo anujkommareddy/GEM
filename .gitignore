@@ -22,3 +22,15 @@ Thumbs.db
 
 # Node
 node_modules/
+
+# New versioned scoring outputs (per-script JSONs are large)
+data/scoring/*/per_script/
+
+# Corpus evidence text files (can be regenerated)
+data/corpus/evidence/*/
+
+# Exported label files (regenerated from labels_v2.jsonl)
+data/labels/labels_v2_export.jsonl
+
+# .env (never commit secrets)
+.env

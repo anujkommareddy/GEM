@@ -1,0 +1,57 @@
+{
+  "total_experiments": 5,
+  "improvements_found": 2,
+  "total_improvement": 0.06449579229404878,
+  "experiments": [
+    {
+      "id": "20260317_191205",
+      "description": "Gap of +2.20 suggests this dimension is a strong predictor. Increasing weight.",
+      "baseline": 0.787,
+      "new": 0,
+      "improvement": -0.787,
+      "improvement_pct": -100.0,
+      "decision": "REVERT",
+      "full_dataset": false
+    },
+    {
+      "id": "20260317_191429",
+      "description": "Gap of +1.98 suggests this dimension is a strong predictor. Increasing weight.",
+      "baseline": 0.787,
+      "new": 0,
+      "improvement": -0.787,
+      "improvement_pct": -100.0,
+      "decision": "REVERT",
+      "full_dataset": false
+    },
+    {
+      "id": "20260317_191457",
+      "description": "Gap of +1.92 suggests this dimension is a strong predictor. Increasing weight.",
+      "baseline": 0.787,
+      "new": 0,
+      "improvement": -0.787,
+      "improvement_pct": -100.0,
+      "decision": "REVERT",
+      "full_dataset": true
+    },
+    {
+      "id": "20260317_191516",
+      "description": "Gap of +1.60 is lower than others. Decreasing weight slightly.",
+      "baseline": 0.787,
+      "new": 0.8193139363749575,
+      "improvement": 0.0323139363749575,
+      "improvement_pct": 4.105963961239834,
+      "decision": "KEEP",
+      "full_dataset": true
+    },
+    {
+      "id": "20260317_191852",
+      "description": "Gap of +1.69 is lower than others. Decreasing weight slightly.",
+      "baseline": 0.787,
+      "new": 0.8191818559190913,
+      "improvement": 0.032181855919091285,
+      "improvement_pct": 4.089181184128499,
+      "decision": "KEEP",
+      "full_dataset": true
+    }
+  ]
+}

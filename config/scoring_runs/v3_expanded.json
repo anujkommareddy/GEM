@@ -1,0 +1,21 @@
+{
+  "run_id": "v3_expanded",
+  "display_name": "v3 Expanded Dimensions",
+  "description": "Full re-score with original 5 dimensions + new candidate dimensions from new_dimensions.json",
+  "model": "gpt-5-mini",
+  "provider": "openai",
+  "rubric_file": "config/rubric_v2_producer_mind.md",
+  "dimensions_config": "config/new_dimensions.json",
+  "label_version": "v2",
+  "output_dir": "data/scoring/v3_expanded",
+  "score_all_5_base_dims": true,
+  "score_new_dims": true,
+  "max_text_chars": 15000,
+  "max_completion_tokens": 3000,
+  "cost_per_script_estimate": 0.010,
+  "corpus_sources": [
+    "data/extracted_text",
+    "data/corpus/evidence"
+  ],
+  "notes": "Run after adding new dimensions to config/new_dimensions.json"
+}
