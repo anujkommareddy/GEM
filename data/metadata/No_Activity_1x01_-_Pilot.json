@@ -1,0 +1,66 @@
+{
+  "show_id": "No_Activity_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/No_Activity_(American_TV_series)",
+  "wiki_page_title": "No Activity (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:51:13.123441+00:00",
+  "retrieval_confidence": "high",
+  "title": "No Activity (American TV series)",
+  "search_title_used": "No Activity",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 32,
+  "original_network": [
+    "Paramount+Known as CBS All Access from 2017–2019."
+  ],
+  "production_companies": [
+    "Funny or Die",
+    "Gary Sanchez Productions",
+    "Jungle Entertainment",
+    "Flight School Studio (season 4)",
+    "CBS Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Patrick Brammall",
+    "Tim Meadows",
+    "Amy Sedaris",
+    "Sunita Mani",
+    "Jesse Plemons",
+    "Jason Mantzoukas",
+    "Arturo Castro",
+    "Adrian Martinez",
+    "Cristin Milioti"
+  ],
+  "executive_producers": [
+    "Trent O'Donnell",
+    "Patrick Brammall",
+    "Will Ferrell",
+    "Adam McKay",
+    "Joe Farrell",
+    "Jason Burrows",
+    "Joe Hardesty"
+  ],
+  "premise_summary": "No Activity is an American comedy television series, based on the Australian series of the same name created by Trent O'Donnell, that premiered on November 12, 2017, on CBS All Access. The series was developed by O'Donnell and Patrick Brammall, both of whom executive produce alongside Will Ferrell, Adam McKay, Joe Farrell, Jason Burrows, and Joe Hardesty. In February 2018, it was announced that the series had been renewed for a second season, which premiered on November 22, 2018. In March 2019, CBS All Access renewed the series for a third season which premiered on November 21, 2019.",
+  "wikipedia_extract": "No Activity is an American comedy television series, based on the Australian series of the same name created by Trent O'Donnell, that premiered on November 12, 2017, on CBS All Access. The series was developed by O'Donnell and Patrick Brammall, both of whom executive produce alongside Will Ferrell, Adam McKay, Joe Farrell, Jason Burrows, and Joe Hardesty. In February 2018, it was announced that the series had been renewed for a second season, which premiered on November 22, 2018. In March 2019, CBS All Access renewed the series for a third season which premiered on November 21, 2019.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

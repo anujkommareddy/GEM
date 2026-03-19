@@ -1,0 +1,75 @@
+{
+  "show_id": "Russian_Doll_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Russian_Doll_(TV_series)",
+  "wiki_page_title": "Russian Doll (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:58:07.584921+00:00",
+  "retrieval_confidence": "high",
+  "title": "Russian Doll (TV series)",
+  "search_title_used": "Russian Doll",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "German",
+    "Hungarian"
+  ],
+  "genres": [
+    "science fiction",
+    "Comedy-drama",
+    "}}"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 15,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Universal Television",
+    "Paper Kite Productions",
+    "Jax Media",
+    "3 Arts Entertainment",
+    "Animal Pictures",
+    "Shoot to Midnight"
+  ],
+  "distributor": null,
+  "creators": [
+    "Natasha Lyonne",
+    "Leslye Headland",
+    "Amy Poehler"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Natasha Lyonne",
+    "Greta Lee",
+    "Yul Vazquez",
+    "Elizabeth Ashley",
+    "Charlie Barnett",
+    "Chloë Sevigny"
+  ],
+  "executive_producers": [
+    "Natasha Lyonne",
+    "Leslye Headland",
+    "Amy Poehler",
+    "Dave Becky",
+    "Tony Hernandez",
+    "Lilly Burns",
+    "Allison Silverman",
+    "Alex Buono",
+    "Regina Corrado",
+    "Kate ArendArend is credited as producer for the first season and credited as an executive producer for the second season."
+  ],
+  "premise_summary": "Russian Doll is an American science fiction comedy-drama television series, created by Natasha Lyonne, Leslye Headland, and Amy Poehler, that premiered on Netflix on February 1, 2019. The series follows Nadia Vulvokov (Lyonne), a game developer who repeatedly dies and relives the same night in an ongoing time loop and tries to solve it, leading to her finding Alan Zaveri in the same situation. It also stars Greta Lee, Yul Vazquez, Elizabeth Ashley, and Chloë Sevigny.",
+  "wikipedia_extract": "Russian Doll is an American science fiction comedy-drama television series, created by Natasha Lyonne, Leslye Headland, and Amy Poehler, that premiered on Netflix on February 1, 2019. The series follows Nadia Vulvokov (Lyonne), a game developer who repeatedly dies and relives the same night in an ongoing time loop and tries to solve it, leading to her finding Alan Zaveri in the same situation. It also stars Greta Lee, Yul Vazquez, Elizabeth Ashley, and Chloë Sevigny.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2022",
+  "franchise_status": null
+}

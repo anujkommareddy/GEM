@@ -1,0 +1,65 @@
+{
+  "show_id": "Krypton_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Krypton_(TV_series)",
+  "wiki_page_title": "Krypton (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:04.923587+00:00",
+  "retrieval_confidence": "high",
+  "title": "Krypton (TV series)",
+  "search_title_used": "Krypton",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Science fiction",
+    "Superhero"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "Phantom Four Films",
+    "DC Entertainment",
+    "Warner Horizon Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Cameron Cuffe",
+    "Georgina Campbell",
+    "Shaun Sipos",
+    "Elliot Cowan",
+    "Ann Ogbomo",
+    "Aaron Pierre",
+    "Rasmus Hardiker",
+    "Wallis Day",
+    "Blake Ritson",
+    "Ian McElhinney",
+    "Colin Salmon",
+    "Hannah Waddingham"
+  ],
+  "executive_producers": [
+    "David S. Goyer",
+    "Cameron Welsh",
+    "Damian Kindler"
+  ],
+  "premise_summary": "Krypton is an American science fiction television series developed by David S. Goyer for Syfy. Focusing on Seg-El, the grandfather of DC Comics superhero Kal-El / Superman, the series is set approximately 200 years before the birth of Superman and takes place on the eponymous fictional planet. Krypton premiered on March 21, 2018. Its first season consists of ten episodes. The second season of ten episodes premiered on June 12, 2019. After its broadcast, Syfy canceled the series after two seasons in August.",
+  "wikipedia_extract": "Krypton is an American science fiction television series developed by David S. Goyer for Syfy. Focusing on Seg-El, the grandfather of DC Comics superhero Kal-El / Superman, the series is set approximately 200 years before the birth of Superman and takes place on the eponymous fictional planet. Krypton premiered on March 21, 2018. Its first season consists of ten episodes. The second season of ten episodes premiered on June 12, 2019. After its broadcast, Syfy canceled the series after two seasons in August.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

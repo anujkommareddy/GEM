@@ -1,0 +1,60 @@
+{
+  "show_id": "Rob_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rob_(TV_series)",
+  "wiki_page_title": "Rob (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:57:17.341170+00:00",
+  "retrieval_confidence": "high",
+  "title": "Rob (TV series)",
+  "search_title_used": "Rob",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "The Tannenbaum Company",
+    "CBS Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Rob Schneider",
+    "Lew Morton"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Rob Schneider",
+    "Cheech Marin",
+    "Claudia Bassols",
+    "Diana Maria Riva",
+    "Eugenio Derbez",
+    "Lupe Ontiveros"
+  ],
+  "executive_producers": [
+    "Kim Tannenbaum",
+    "Eric Tannenbaum",
+    "Rob Schneider",
+    "Lew Morton"
+  ],
+  "premise_summary": "Rob is an American sitcom television series that premiered on CBS on January 12, 2012, at 8:30 pm (ET) as a mid-season replacement for Rules of Engagement, and ended on March 1, 2012. The series stars Rob Schneider alongside Cheech Marin, Claudia Bassols, Diana Maria Riva, Eugenio Derbez, Ricky Rico, and Lupe Ontiveros. The show was produced by Two and a Half Men's The Tannenbaum Company and CBS Productions.",
+  "wikipedia_extract": "Rob is an American sitcom television series that premiered on CBS on January 12, 2012, at 8:30 pm (ET) as a mid-season replacement for Rules of Engagement, and ended on March 1, 2012. The series stars Rob Schneider alongside Cheech Marin, Claudia Bassols, Diana Maria Riva, Eugenio Derbez, Ricky Rico, and Lupe Ontiveros. The show was produced by Two and a Half Men's The Tannenbaum Company and CBS Productions.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

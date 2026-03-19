@@ -1,0 +1,56 @@
+{
+  "show_id": "Moonlighting_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Moonlighting_(TV_series)",
+  "wiki_page_title": "Moonlighting (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:49:36.986744+00:00",
+  "retrieval_confidence": "high",
+  "title": "Moonlighting (TV series)",
+  "search_title_used": "Moonlighting",
+  "alternate_titles": [],
+  "start_year": 1985,
+  "end_year": 1989,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Mystery",
+    "Romance"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 67,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Picturemaker Productions",
+    "ABC Circle Films"
+  ],
+  "distributor": null,
+  "creators": [
+    "Glenn Gordon Caron"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Cybill Shepherd",
+    "Bruce Willis",
+    "Allyce Beasley",
+    "Curtis Armstrong"
+  ],
+  "executive_producers": [
+    "Glenn Gordon Caron"
+  ],
+  "premise_summary": "Moonlighting is an American comedy drama television series that aired on ABC from March 3, 1985, to May 14, 1989. The network aired a total of 67 episodes. Starring Cybill Shepherd and Bruce Willis as private detectives, Allyce Beasley as their quirky receptionist, and Curtis Armstrong as a temporary worker, the show was a mixture of drama, comedy, mystery, and romance, and was considered to be one of the first successful and influential examples of comedy drama, or \"dramedy\", emerging as a distinct television genre.",
+  "wikipedia_extract": "Moonlighting is an American comedy drama television series that aired on ABC from March 3, 1985, to May 14, 1989. The network aired a total of 67 episodes. Starring Cybill Shepherd and Bruce Willis as private detectives, Allyce Beasley as their quirky receptionist, and Curtis Armstrong as a temporary worker, the show was a mixture of drama, comedy, mystery, and romance, and was considered to be one of the first successful and influential examples of comedy drama, or \"dramedy\", emerging as a distinct television genre.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1989",
+  "franchise_status": null
+}

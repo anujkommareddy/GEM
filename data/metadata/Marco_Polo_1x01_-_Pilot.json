@@ -1,0 +1,85 @@
+{
+  "show_id": "Marco_Polo_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Marco_Polo_(2014_TV_series)",
+  "wiki_page_title": "Marco Polo (2014 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:47:26.405915+00:00",
+  "retrieval_confidence": "high",
+  "title": "Marco Polo (2014 TV series)",
+  "search_title_used": "Marco Polo",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical dramaAdventure"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "The Weinstein Company TV",
+    "Electus",
+    "Netflix Originals"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Fusco"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Lorenzo Richelmy",
+    "Benedict Wong",
+    "Joan Chen",
+    "Rick Yune",
+    "Amr Waked",
+    "Remy Hii",
+    "Zhu Zhu",
+    "Tom Wu",
+    "Mahesh Jadu",
+    "Olivia Cheng",
+    "Uli Latukefu",
+    "Chin Han",
+    "Pierfrancesco Favino",
+    "Ron Yuan",
+    "Claudia Kim",
+    "Jacqueline Chan",
+    "Leonard Wu",
+    "Thomas Chaanhing",
+    "Chris Pang",
+    "Gabriel Byrne",
+    "Michelle Yeoh"
+  ],
+  "executive_producers": [
+    "Daniel Minahan",
+    "John Fusco",
+    "Harvey Weinstein",
+    "Peter Friedlander",
+    "Bob Weinstein",
+    "Joachim Rønning",
+    "Espen Sandberg",
+    "Dave Erickson",
+    "Ben Silverman",
+    "Chris Grant",
+    "Elizabeth Sarnoff",
+    "Blair Fetter",
+    "Patrick Macmanus",
+    "David C. Glasser"
+  ],
+  "premise_summary": "Marco Polo is an American drama television series inspired by Marco Polo's early years in the court of Kublai Khan, the Khagan of the Mongol Empire and the founder of the Yuan dynasty (1271–1368). The show premiered on Netflix on December 12, 2014. The series was created by John Fusco and stars Lorenzo Richelmy in the title role, with Benedict Wong as Kublai Khan. It was produced by The Weinstein Company. On January 7, 2015, Marco Polo was renewed by Netflix for a 10-episode second season, which premiered on July 1, 2016.",
+  "wikipedia_extract": "Marco Polo is an American drama television series inspired by Marco Polo's early years in the court of Kublai Khan, the Khagan of the Mongol Empire and the founder of the Yuan dynasty (1271–1368). The show premiered on Netflix on December 12, 2014. The series was created by John Fusco and stars Lorenzo Richelmy in the title role, with Benedict Wong as Kublai Khan. It was produced by The Weinstein Company. On January 7, 2015, Marco Polo was renewed by Netflix for a 10-episode second season, which premiered on July 1, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

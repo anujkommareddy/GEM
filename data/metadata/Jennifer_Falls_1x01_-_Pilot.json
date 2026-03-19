@@ -1,0 +1,62 @@
+{
+  "show_id": "Jennifer_Falls_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Jennifer_Falls",
+  "wiki_page_title": "Jennifer Falls",
+  "retrieval_timestamp": "2026-03-19T04:42:59.146357+00:00",
+  "retrieval_confidence": "high",
+  "title": "Jennifer Falls",
+  "search_title_used": "Jennifer Falls",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "TV Land"
+  ],
+  "production_companies": [
+    "Vanity Logo Productions",
+    "Acme Productions",
+    "TV Land Original Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matthew Carlson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jaime Pressly",
+    "Missi Pyle",
+    "Ethan Suplee",
+    "Nora Kirkpatrick",
+    "Dylan Gelula",
+    "Jessica Walter"
+  ],
+  "executive_producers": [
+    "Matthew Carlson",
+    "Larry W. Jones",
+    "Jaime Pressly",
+    "Keith Cox",
+    "Mindy Schultheis",
+    "Michael Hanel"
+  ],
+  "premise_summary": "Jennifer Falls is an American sitcom created by Matthew Carlson, and starring Jaime Pressly in the title role. The series premiered on TV Land on June 4, 2014, and is the first single-camera comedy series for the network. It was cancelled on October 3, 2014, after ten episodes.",
+  "wikipedia_extract": "Jennifer Falls is an American sitcom created by Matthew Carlson, and starring Jaime Pressly in the title role. The series premiered on TV Land on June 4, 2014, and is the first single-camera comedy series for the network. It was cancelled on October 3, 2014, after ten episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,89 @@
+{
+  "show_id": "Dynasty_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dynasty_(1981_TV_series)",
+  "wiki_page_title": "Dynasty (1981 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:30.329501+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dynasty (1981 TV series)",
+  "search_title_used": "Dynasty",
+  "alternate_titles": [],
+  "start_year": 1981,
+  "end_year": 1989,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Soap opera"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 9,
+  "episodes": 222,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Aaron Spelling Productions",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Richard and Esther Shapiro"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "John Forsythe",
+    "Linda Evans",
+    "Joan Collins",
+    "Pamela Sue Martin",
+    "John James",
+    "Emma Samms",
+    "Jack Coleman",
+    "Al Corley",
+    "Pamela Bellwood",
+    "Bo Hopkins",
+    "Lloyd Bochner",
+    "Gordon Thomson",
+    "Heather Locklear",
+    "Lee Bergere",
+    "Kathleen Beller",
+    "Michael Nader",
+    "Diahann Carroll",
+    "Catherine Oxenberg",
+    "Michael Praed",
+    "Kate O'Mara",
+    "Stephanie Beacham",
+    "Christopher Cazenove",
+    "Geoffrey Scott",
+    "Ted McGinley",
+    "Leann Hunley",
+    "Terri Garber",
+    "Tracy Scoggins",
+    "Katy Kurtzman",
+    "Dale Robertson",
+    "Wayne Northrop",
+    "James Farentino",
+    "Karen Cellini",
+    "Deborah Adair",
+    "Helmut Berger",
+    "Billy Dee Williams",
+    "George Hamilton",
+    "James Healey"
+  ],
+  "executive_producers": [
+    "Aaron Spelling",
+    "Douglas S. Cramer",
+    "Richard and Esther Shapiro"
+  ],
+  "premise_summary": "Dynasty is an American prime time soap opera that aired on ABC from January 12, 1981, to May 11, 1989. The series, created by Richard and Esther Shapiro and produced by Aaron Spelling, revolves around the Carringtons, a wealthy family residing in Denver. Dynasty stars John Forsythe as oil magnate Blake Carrington, Linda Evans as his new wife Krystle, and later Joan Collins as his former wife Alexis.",
+  "wikipedia_extract": "Dynasty is an American prime time soap opera that aired on ABC from January 12, 1981, to May 11, 1989. The series, created by Richard and Esther Shapiro and produced by Aaron Spelling, revolves around the Carringtons, a wealthy family residing in Denver. Dynasty stars John Forsythe as oil magnate Blake Carrington, Linda Evans as his new wife Krystle, and later Joan Collins as his former wife Alexis.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1989",
+  "franchise_status": null
+}

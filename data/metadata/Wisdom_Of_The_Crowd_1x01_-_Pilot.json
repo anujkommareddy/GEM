@@ -1,0 +1,62 @@
+{
+  "show_id": "Wisdom_Of_The_Crowd_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Wisdom_of_the_Crowd",
+  "wiki_page_title": "Wisdom of the Crowd",
+  "retrieval_timestamp": "2026-03-19T05:18:01.422985+00:00",
+  "retrieval_confidence": "high",
+  "title": "Wisdom of the Crowd",
+  "search_title_used": "Wisdom Of The Crowd",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Algorithm Entertainment",
+    "Keshet International",
+    "Universal Television",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Jeremy Piven",
+    "Monica Potter",
+    "Richard T. Jones",
+    "Natalia Tena",
+    "Blake Lee"
+  ],
+  "executive_producers": [
+    "Ted Humphrey",
+    "Avi Nir",
+    "Alon Shtruzman",
+    "Peter Traugott",
+    "Rachel Kaplan",
+    "Dror Mishani",
+    "Shira Hadad",
+    "Adam Davidson"
+  ],
+  "premise_summary": "Wisdom of the Crowd is an American drama television series based on the Israeli series of the same name by Shira Hadad and Dror Mishani. The series premiered on CBS October 1, 2017, and ended on January 14, 2018. The series was produced by CBS Television Studios and Universal Television.",
+  "wikipedia_extract": "Wisdom of the Crowd is an American drama television series based on the Israeli series of the same name by Shira Hadad and Dror Mishani. The series premiered on CBS October 1, 2017, and ended on January 14, 2018. The series was produced by CBS Television Studios and Universal Television.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

@@ -1,0 +1,46 @@
+{
+  "show_id": "House_Calls_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/House_Calls_(TV_series)",
+  "wiki_page_title": "House Calls (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:40:19.169140+00:00",
+  "retrieval_confidence": "high",
+  "title": "House Calls (TV series)",
+  "search_title_used": "House Calls",
+  "alternate_titles": [],
+  "start_year": 1979,
+  "end_year": 1982,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 57,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Alex Winitsky-Arlene Sellers ProductionsUniversal Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Wayne RogersLynn Redgrave (1979–81)Sharon Gless (1982)David WayneRay Buktenica"
+  ],
+  "executive_producers": null,
+  "premise_summary": "House Calls is an American sitcom that lasted three seasons and 57 episodes, from December 17, 1979, to September 6, 1982, on CBS television, produced by Universal Television and based upon the 1978 feature film of the same name.",
+  "wikipedia_extract": "House Calls is an American sitcom that lasted three seasons and 57 episodes, from December 17, 1979, to September 6, 1982, on CBS television, produced by Universal Television and based upon the 1978 feature film of the same name.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1982",
+  "franchise_status": null
+}

@@ -1,0 +1,78 @@
+{
+  "show_id": "All_American_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/All_American_(TV_series)",
+  "wiki_page_title": "All American (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:43.909070+00:00",
+  "retrieval_confidence": "high",
+  "title": "All American (TV series)",
+  "search_title_used": "All American",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sports drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 119,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Berlanti Productions",
+    "April Blair's Company (season 1)",
+    "CBS StudiosCredited as CBS Television Studios for the first two seasons.",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "April Blair"
+  ],
+  "showrunners": [
+    "April Blair",
+    "Nkechi Okoro Carroll"
+  ],
+  "lead_cast": [
+    "Daniel Ezra",
+    "Bre-Z",
+    "Greta Onieogou",
+    "Samantha Logan",
+    "Michael Evans Behling",
+    "Cody Christian",
+    "Karimah Westbrook",
+    "Monet Mazur",
+    "Taye Diggs",
+    "Jalyn Hall",
+    "Chelsea Tavares",
+    "Hunter Clowdus",
+    "Osy Ikhile",
+    "Alexis Chikaeze",
+    "Nathaniel Logan McIntyre",
+    "Antonio J. Bell"
+  ],
+  "executive_producers": [
+    "April Blair",
+    "Greg Berlanti",
+    "Sarah Schechter",
+    "Rob Hardy",
+    "Nkechi Okoro Carroll",
+    "John A. Norris",
+    "Jameal Turner",
+    "Mike Herro & David Strauss"
+  ],
+  "premise_summary": "All American is an American sports drama television series created by April Blair that premiered on The CW on October 10, 2018. The series follows the lives of a group of people from both Crenshaw and Beverly Hills and features an ensemble cast starring Daniel Ezra in the lead role as well as Bre-Z, Greta Onieogou, Samantha Logan, Michael Evans Behling, Cody Christian, Karimah Westbrook, Monet Mazur, Taye Diggs, Jalyn Hall, Chelsea Tavares, Hunter Clowdus, Osy Ikhile, Alexis Chikaeze, Nathaniel Logan McIntyre and Antonio J. Bell.",
+  "wikipedia_extract": "All American is an American sports drama television series created by April Blair that premiered on The CW on October 10, 2018. The series follows the lives of a group of people from both Crenshaw and Beverly Hills and features an ensemble cast starring Daniel Ezra in the lead role as well as Bre-Z, Greta Onieogou, Samantha Logan, Michael Evans Behling, Cody Christian, Karimah Westbrook, Monet Mazur, Taye Diggs, Jalyn Hall, Chelsea Tavares, Hunter Clowdus, Osy Ikhile, Alexis Chikaeze, Nathaniel Logan McIntyre and Antonio J. Bell.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

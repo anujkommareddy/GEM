@@ -1,0 +1,65 @@
+{
+  "show_id": "When_We_Rise_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/When_We_Rise",
+  "wiki_page_title": "When We Rise",
+  "retrieval_timestamp": "2026-03-19T05:17:25.637532+00:00",
+  "retrieval_confidence": "high",
+  "title": "When We Rise",
+  "search_title_used": "When We Rise",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Docudrama"
+  ],
+  "format_type": "limited_series",
+  "runtime_class": "feature-length",
+  "seasons": null,
+  "episodes": 8,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Hungry Jackal Productions",
+    "Laurence Mark Productions",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dustin Lance Black"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Guy Pearce",
+    "Mary-Louise Parker",
+    "Rachel Griffiths",
+    "Michael K. Williams",
+    "Austin P. McKenzie",
+    "Emily Skeggs",
+    "Jonathan Majors",
+    "Fiona Dourif",
+    "Whoopi Goldberg",
+    "Alexandra Grey",
+    "Phylicia Rashad"
+  ],
+  "executive_producers": [
+    "Gus Van Sant",
+    "Dustin Lance Black",
+    "Laurence Mark",
+    "Bruce Cohen"
+  ],
+  "premise_summary": "When We Rise is an eight-part American docudrama miniseries about the history of LGBTQ rights advocacy in the United States from the 1970s to the 2010s. It was created by Dustin Lance Black and stars Guy Pearce, Rachel Griffiths, Mary-Louise Parker, Michael Kenneth Williams, Austin P. McKenzie, Emily Skeggs, Jonathan Majors, Fiona Dourif, and Sam Jaeger among 30 others. The miniseries premiered on ABC on February 27, 2017, with the rest of its episodes airing March 1 to 3.",
+  "wikipedia_extract": "When We Rise is an eight-part American docudrama miniseries about the history of LGBTQ rights advocacy in the United States from the 1970s to the 2010s. It was created by Dustin Lance Black and stars Guy Pearce, Rachel Griffiths, Mary-Louise Parker, Michael Kenneth Williams, Austin P. McKenzie, Emily Skeggs, Jonathan Majors, Fiona Dourif, and Sam Jaeger among 30 others. The miniseries premiered on ABC on February 27, 2017, with the rest of its episodes airing March 1 to 3.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

@@ -1,0 +1,56 @@
+{
+  "show_id": "Stalker_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Stalker_(TV_series)",
+  "wiki_page_title": "Stalker (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:13.592459+00:00",
+  "retrieval_confidence": "high",
+  "title": "Stalker (TV series)",
+  "search_title_used": "Stalker",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Psychological thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 20,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Outerbanks Entertainment",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kevin Williamson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Maggie Q",
+    "Dylan McDermott",
+    "Mariana Klaveno",
+    "Victor Rasuk",
+    "Elisabeth Röhm"
+  ],
+  "executive_producers": [
+    "Kevin Williamson"
+  ],
+  "premise_summary": "Stalker is an American crime drama television series created by Kevin Williamson that ran for one season on CBS, from October 1, 2014, to May 18, 2015. The series aired on Wednesdays for seventeen episodes and Monday for the last three. The show is about victims of stalking and the detectives of the LAPD's Threat Assessment Unit who investigate the crimes.",
+  "wikipedia_extract": "Stalker is an American crime drama television series created by Kevin Williamson that ran for one season on CBS, from October 1, 2014, to May 18, 2015. The series aired on Wednesdays for seventeen episodes and Monday for the last three. The show is about victims of stalking and the detectives of the LAPD's Threat Assessment Unit who investigate the crimes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

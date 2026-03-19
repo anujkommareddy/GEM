@@ -1,0 +1,92 @@
+{
+  "show_id": "You_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/You_(TV_series)",
+  "wiki_page_title": "You (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:18:39.971422+00:00",
+  "retrieval_confidence": "high",
+  "title": "You (TV series)",
+  "search_title_used": "You",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Psychological thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 50,
+  "original_network": [
+    "Lifetime"
+  ],
+  "production_companies": [
+    "Man Sewing Dinosaur",
+    "Berlanti Productions",
+    "Alloy Entertainment",
+    "A+E Studios",
+    "Warner Horizon Television (seasons 1–2)",
+    "Warner Bros. Television (seasons 3–5)"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Sera Gamble",
+    "Michael Foley",
+    "Justin W. Lo"
+  ],
+  "lead_cast": [
+    "Penn Badgley",
+    "Elizabeth Lail",
+    "Luca Padovan",
+    "Zach Cherry",
+    "Shay Mitchell",
+    "Victoria Pedretti",
+    "Jenna Ortega",
+    "James Scully",
+    "Ambyr Childers",
+    "Carmela Zumbado",
+    "Saffron Burrows",
+    "Tati Gabrielle",
+    "Shalita Grant",
+    "Travis Van Winkle",
+    "Dylan Arnold",
+    "Charlotte Ritchie",
+    "Tilly Keeper",
+    "Amy-Leigh Hickman",
+    "Ed Speleers",
+    "Lukas Gage",
+    "Griffin Matthews",
+    "Anna Camp",
+    "Madeline Brewer"
+  ],
+  "executive_producers": [
+    "Marcos Siega",
+    "Gina Girolamo",
+    "Les Morgenstein",
+    "Sarah Schechter",
+    "Sera Gamble",
+    "Greg Berlanti",
+    "Lee Toland Krieger",
+    "Silver Tree",
+    "Michael Foley",
+    "Azalea Brooke",
+    "David Madden",
+    "Justin W. Lo",
+    "Neil Reynolds",
+    "John Scott"
+  ],
+  "premise_summary": "You is an American psychological thriller television series based on the books by Caroline Kepnes, developed by Greg Berlanti and Sera Gamble, and produced by Berlanti Productions, Alloy Entertainment, and A+E Studios in association with Warner Horizon Television, now Warner Bros. Television.",
+  "wikipedia_extract": "You is an American psychological thriller television series based on the books by Caroline Kepnes, developed by Greg Berlanti and Sera Gamble, and produced by Berlanti Productions, Alloy Entertainment, and A+E Studios in association with Warner Horizon Television, now Warner Bros. Television.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

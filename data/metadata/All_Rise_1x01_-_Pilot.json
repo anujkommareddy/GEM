@@ -1,0 +1,71 @@
+{
+  "show_id": "All_Rise_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/All_Rise_(TV_series)",
+  "wiki_page_title": "All Rise (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:51.802335+00:00",
+  "retrieval_confidence": "high",
+  "title": "All Rise (TV series)",
+  "search_title_used": "All Rise",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 58,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Shimmering Pictures (seasons 1–2)",
+    "Skyemac Productions",
+    "Tall Baby Productions",
+    "CBS Studios (seasons 1–2)",
+    "Harpo Films (season 3)",
+    "Warner Bros. Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Greg Spottiswood"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Simone Missick",
+    "Wilson Bethel",
+    "Jessica Camacho",
+    "J. Alex Brinson",
+    "Ruthie Ann Miles",
+    "Lindsay Mendez",
+    "Marg Helgenberger",
+    "Lindsey Gort",
+    "Audrey Corsa",
+    "Reggie Lee"
+  ],
+  "executive_producers": [
+    "Greg Spottiswood",
+    "Michael M. Robin",
+    "Leonard Goldstein",
+    "Sunil Nayar",
+    "Lydia Woodward",
+    "Simone Missick",
+    "Oprah Winfrey",
+    "Denitria Harris-Lawrence"
+  ],
+  "premise_summary": "All Rise is an American legal drama television series created and developed by Greg Spottiswood for CBS and later the Oprah Winfrey Network. It aired from September 23, 2019, to November 18, 2023.",
+  "wikipedia_extract": "All Rise is an American legal drama television series created and developed by Greg Spottiswood for CBS and later the Oprah Winfrey Network. It aired from September 23, 2019, to November 18, 2023.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

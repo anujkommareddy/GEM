@@ -1,0 +1,61 @@
+{
+  "show_id": "Vida_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Vida_(TV_series)",
+  "wiki_page_title": "Vida (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:16:22.347040+00:00",
+  "retrieval_confidence": "high",
+  "title": "Vida (TV series)",
+  "search_title_used": "Vida",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "EnglishSpanish"
+  ],
+  "genres": [
+    "Comedy-drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 22,
+  "original_network": [
+    "Starz"
+  ],
+  "production_companies": [
+    "Big Beach",
+    "Chingona Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tanya Saracho"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Melissa Barrera",
+    "Mishel Prada",
+    "Ser Anzoategui",
+    "Chelsea Rendon",
+    "Carlos Miranda",
+    "Maria-Elena Laas",
+    "Roberta Colindrez"
+  ],
+  "executive_producers": [
+    "Marc Turtletaub",
+    "Peter Saraf",
+    "Robin Schwartz",
+    "Stephanie Langhoff",
+    "Tanya Saracho"
+  ],
+  "premise_summary": "Vida is an American comedy-drama television series created by Tanya Saracho and inspired by the short story \"Pour Vida\" by Richard Villegas Jr. The series stars Melissa Barrera, Mishel Prada, Ser Anzoategui, Chelsea Rendon, Carlos Miranda, Maria-Elena Laas, and Roberta Colindrez. Vida tells the story of two Mexican American sisters who move back to their childhood home in Boyle Heights, Los Angeles after the death of their mother.",
+  "wikipedia_extract": "Vida is an American comedy-drama television series created by Tanya Saracho and inspired by the short story \"Pour Vida\" by Richard Villegas Jr. The series stars Melissa Barrera, Mishel Prada, Ser Anzoategui, Chelsea Rendon, Carlos Miranda, Maria-Elena Laas, and Roberta Colindrez. Vida tells the story of two Mexican American sisters who move back to their childhood home in Boyle Heights, Los Angeles after the death of their mother.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

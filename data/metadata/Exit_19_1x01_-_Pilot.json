@@ -1,0 +1,50 @@
+{
+  "show_id": "Exit_19_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Protector_(American_TV_series)",
+  "wiki_page_title": "The Protector (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:30:51.374012+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "The Protector (American TV series)",
+  "search_title_used": "Exit 19",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Lifetime"
+  ],
+  "production_companies": [
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Nankin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ally Walker"
+  ],
+  "executive_producers": [
+    "Jeffrey Jackson Bell"
+  ],
+  "premise_summary": "The Protector, is an American police procedural drama television series starring Ally Walker as Gloria Sheppard, a single mother who struggles to maintain the balance between her personal and professional life as an LAPD homicide detective.",
+  "wikipedia_extract": "The Protector, is an American police procedural drama television series starring Ally Walker as Gloria Sheppard, a single mother who struggles to maintain the balance between her personal and professional life as an LAPD homicide detective.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

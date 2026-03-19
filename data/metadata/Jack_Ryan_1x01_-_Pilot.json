@@ -1,0 +1,94 @@
+{
+  "show_id": "Jack_Ryan_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Jack_Ryan_(TV_series)",
+  "wiki_page_title": "Jack Ryan (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:42:39.684003+00:00",
+  "retrieval_confidence": "high",
+  "title": "Jack Ryan (TV series)",
+  "search_title_used": "Jack Ryan",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Political thriller",
+    "Spy thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 30,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Genre Arts",
+    "Push",
+    "Boot. (seasons 1–2)",
+    "Platinum Dunes",
+    "Skydance Television",
+    "Paramount Television Studios",
+    "Amazon Studios",
+    "Sunday Night Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Carlton Cuse",
+    "Graham Roland"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "John Krasinski",
+    "Wendell Pierce",
+    "Abbie Cornish",
+    "Ali Suliman",
+    "Dina Shihabi",
+    "John Hoogenakker",
+    "Noomi Rapace",
+    "Jordi Mollà",
+    "Francisco Denis",
+    "Cristina Umaña",
+    "Jovan Adepo",
+    "Michael Kelly",
+    "Betty Gabriel",
+    "James Cosmo",
+    "Peter Guinness",
+    "Nina Hoss",
+    "Alexej Manvelov",
+    "Michael Peña",
+    "Okieriete Onaodowan",
+    "Louis Ozawa Changchien",
+    "Zuleikha Robinson"
+  ],
+  "executive_producers": [
+    "Carlton Cuse",
+    "Graham Roland",
+    "Daniel Sackheim",
+    "Morten Tyldum",
+    "Michael Bay",
+    "Brad Fuller",
+    "Andrew Form",
+    "John Krasinski",
+    "Tom Clancy",
+    "David Ellison",
+    "Dana Goldberg",
+    "Bill Bost",
+    "Marcy Ross",
+    "Mace NeufeldMace Neufeld let the production use his name and was credited as an executive producer but was not involved in the series. Neufeld was posthumously credited in the third and fourth seasons."
+  ],
+  "premise_summary": "Tom Clancy's Jack Ryan is an American political action thriller television series based on characters from the fictional Ryanverse created by author Tom Clancy. Featuring modern-day interpretations of the original characters, it stars John Krasinski as CIA analyst Jack Ryan. The series was created by Carlton Cuse and Graham Roland. Cuse, Roland, and Krasinski serve as executive producers, alongside Michael Bay, Morten Tyldum, and Brad Fuller, among others.",
+  "wikipedia_extract": "Tom Clancy's Jack Ryan is an American political action thriller television series based on characters from the fictional Ryanverse created by author Tom Clancy. Featuring modern-day interpretations of the original characters, it stars John Krasinski as CIA analyst Jack Ryan. The series was created by Carlton Cuse and Graham Roland. Cuse, Roland, and Krasinski serve as executive producers, alongside Michael Bay, Morten Tyldum, and Brad Fuller, among others.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

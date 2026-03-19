@@ -1,0 +1,57 @@
+{
+  "show_id": "Graceland_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Graceland_(TV_series)",
+  "wiki_page_title": "Graceland (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:34:32.288723+00:00",
+  "retrieval_confidence": "high",
+  "title": "Graceland (TV series)",
+  "search_title_used": "Graceland",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "DramaAction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 38,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Jeff Eastin & Warrior George Productions",
+    "Fox 21 Television StudiosCredited as Fox Television Studios for first two seasons"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jeff Eastin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Daniel Sunjata",
+    "Aaron Tveit",
+    "Brandon Jay McLaren",
+    "Vanessa Ferlito",
+    "Manny Montana",
+    "Serinda Swan"
+  ],
+  "executive_producers": [
+    "Jeff Eastin",
+    "Sean Daniel"
+  ],
+  "premise_summary": "Graceland is an American drama television series created by Jeff Eastin that premiered on the USA Network on June 6, 2013.\nOn October 1, 2015, USA Network cancelled Graceland after three seasons.",
+  "wikipedia_extract": "Graceland is an American drama television series created by Jeff Eastin that premiered on the USA Network on June 6, 2013.\nOn October 1, 2015, USA Network cancelled Graceland after three seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

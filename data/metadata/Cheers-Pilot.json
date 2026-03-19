@@ -1,0 +1,79 @@
+{
+  "show_id": "Cheers-Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Cheers",
+  "wiki_page_title": "Cheers",
+  "retrieval_timestamp": "2026-03-19T04:25:27.678205+00:00",
+  "retrieval_confidence": "high",
+  "title": "Cheers",
+  "search_title_used": "Cheers",
+  "alternate_titles": [],
+  "start_year": 1982,
+  "end_year": 1993,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 11,
+  "episodes": 275,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Charles/Burrows/Charles Productions",
+    "Paramount Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Glen and Les Charles",
+    "James Burrows"
+  ],
+  "showrunners": [
+    "Glen and Les Charles",
+    "Ken Estin",
+    "Sam Simon",
+    "David Angell",
+    "Peter Casey",
+    "David Lee",
+    "Bill and Cheri Steinkellner",
+    "Phoef Sutton",
+    "Tom Anderson",
+    "Dan O'Shannon"
+  ],
+  "lead_cast": [
+    "1=",
+    "Ted Danson",
+    "Shelley Long",
+    "Nicholas Colasanto",
+    "Rhea Perlman",
+    "George Wendt",
+    "John Ratzenberger",
+    "Kelsey Grammer",
+    "Woody Harrelson",
+    "Kirstie Alley",
+    "Bebe Neuwirth"
+  ],
+  "executive_producers": [
+    "James Burrows",
+    "Glen and Les Charles",
+    "Bill and Cheri Steinkellner (seasons 9–10)",
+    "Phoef Sutton (seasons 9–10)",
+    "Ted Danson (season 9-11)",
+    "Tom Anderson (season 11)",
+    "Dan O'Shannon (season 11)"
+  ],
+  "premise_summary": "Cheers is an American television sitcom, created by Glen Charles & Les Charles and James Burrows, aired on NBC for eleven seasons from September 30, 1982, to May 20, 1993. The show was produced by Charles/Burrows/Charles Productions in association with Paramount Television. The show is set in the titular bar in Boston, where a group of locals meet to drink, relax, socialize, and escape from their day-to-day issues.",
+  "wikipedia_extract": "Cheers is an American television sitcom, created by Glen Charles & Les Charles and James Burrows, aired on NBC for eleven seasons from September 30, 1982, to May 20, 1993. The show was produced by Charles/Burrows/Charles Productions in association with Paramount Television. The show is set in the titular bar in Boston, where a group of locals meet to drink, relax, socialize, and escape from their day-to-day issues.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1993",
+  "franchise_status": null
+}

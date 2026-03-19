@@ -1,0 +1,81 @@
+{
+  "show_id": "Will_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Hijack_(TV_series)",
+  "wiki_page_title": "Hijack (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:17:57.629329+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Hijack (TV series)",
+  "search_title_used": "Will",
+  "alternate_titles": [],
+  "start_year": 2023,
+  "end_year": 2023,
+  "country": [
+    "United Kingdom",
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "German"
+  ],
+  "genres": [
+    "Thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 15,
+  "original_network": [
+    "Apple TV+"
+  ],
+  "production_companies": [
+    "60Forty Films",
+    "Green Door Pictures",
+    "Idiotlamp Productions",
+    "Archery Pictures"
+  ],
+  "distributor": null,
+  "creators": [
+    "George Kay",
+    "Jim Field Smith"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Idris Elba",
+    "Neil Maskell",
+    "Christine Adams",
+    "Max Beesley",
+    "Ben Miles",
+    "Kate Phillips",
+    "Jasper Britton",
+    "Jack McMullen",
+    "Aimée Kelly",
+    "Mohamed Elsandel",
+    "Archie Panjabi",
+    "Eve Myles",
+    "Hattie Morahan",
+    "Christian Näthe",
+    "Clare-Hope Ashitey",
+    "Lisa Vicari",
+    "Karima McAdams",
+    "Jasmine Bayes",
+    "Toby Jones",
+    "Christiane Paul"
+  ],
+  "executive_producers": [
+    "Idris Elba",
+    "George Kay",
+    "Jim Field Smith",
+    "Kris Thykier",
+    "Hakan Kousetta",
+    "Jamie Laurenson",
+    "Tom Nash"
+  ],
+  "premise_summary": "Hijack is a thriller television series created by George Kay and Jim Field Smith, with Idris Elba starring in the lead role. It premiered on 28 June 2023 on Apple TV+. In January 2024, it was renewed for a second series, which premiered on 14 January 2026.",
+  "wikipedia_extract": "Hijack is a thriller television series created by George Kay and Jim Field Smith, with Idris Elba starring in the lead role. It premiered on 28 June 2023 on Apple TV+. In January 2024, it was renewed for a second series, which premiered on 14 January 2026.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

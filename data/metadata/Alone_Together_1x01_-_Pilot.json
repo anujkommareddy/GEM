@@ -1,0 +1,61 @@
+{
+  "show_id": "Alone_Together_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Alone_Together_(TV_series)",
+  "wiki_page_title": "Alone Together (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:19:03.168030+00:00",
+  "retrieval_confidence": "high",
+  "title": "Alone Together (TV series)",
+  "search_title_used": "Alone Together",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Freeform"
+  ],
+  "production_companies": [
+    "The Lonely Island"
+  ],
+  "distributor": null,
+  "creators": [
+    "Benji Aflalo",
+    "Esther Povitsky",
+    "Eben Russell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Esther Povitsky",
+    "Benji Aflalo"
+  ],
+  "executive_producers": [
+    "Andy Samberg",
+    "Akiva Schaffer",
+    "Jorma Taccone",
+    "Billy Rosenberg",
+    "Hunter Covington",
+    "Benji Aflalo",
+    "Esther Povitsky",
+    "Eben Russell",
+    "Becky Sloviter"
+  ],
+  "premise_summary": "Alone Together is an American sitcom that was created by and starring Benji Aflalo and Esther Povitsky. Eben Russell also co-created the series and executive produces alongside Aflalo and Povitsky. The series is also produced by The Lonely Island's Andy Samberg, Akiva Schaffer and Jorma Taccone. It follows two platonic best friends who attempt to find a foothold in Los Angeles. It premiered on January 10, 2018 on Freeform. The series' second season began airing on August 1, 2018.",
+  "wikipedia_extract": "Alone Together is an American sitcom that was created by and starring Benji Aflalo and Esther Povitsky. Eben Russell also co-created the series and executive produces alongside Aflalo and Povitsky. The series is also produced by The Lonely Island's Andy Samberg, Akiva Schaffer and Jorma Taccone. It follows two platonic best friends who attempt to find a foothold in Los Angeles. It premiered on January 10, 2018 on Freeform. The series' second season began airing on August 1, 2018.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

@@ -1,0 +1,52 @@
+{
+  "show_id": "the-good-wife-101-pilot-2009",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Good_Wife",
+  "wiki_page_title": "The Good Wife",
+  "retrieval_timestamp": "2026-03-19T05:25:20.935915+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Good Wife",
+  "search_title_used": "the good wife",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 156,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Scott Free Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robert King"
+  ],
+  "showrunners": [
+    "Robert King"
+  ],
+  "lead_cast": [
+    "Julianna Margulies"
+  ],
+  "executive_producers": [
+    "Ridley Scott"
+  ],
+  "premise_summary": "The Good Wife is an American legal political drama television series that aired on CBS from September 22, 2009, to May 8, 2016. It focuses on Alicia Florrick, the wife of the Cook County State's Attorney, who returns to her career in law after the events of a public sex and political corruption scandal involving her husband.",
+  "wikipedia_extract": "The Good Wife is an American legal political drama television series that aired on CBS from September 22, 2009, to May 8, 2016. It focuses on Alicia Florrick, the wife of the Cook County State's Attorney, who returns to her career in law after the events of a public sex and political corruption scandal involving her husband.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2016",
+  "franchise_status": null
+}

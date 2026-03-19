@@ -1,0 +1,83 @@
+{
+  "show_id": "ER-1x01-Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/ER_(TV_series)",
+  "wiki_page_title": "ER (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:38.126021+00:00",
+  "retrieval_confidence": "high",
+  "title": "ER (TV series)",
+  "search_title_used": "ER",
+  "alternate_titles": [],
+  "start_year": 1994,
+  "end_year": 2009,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 15,
+  "episodes": 331,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Constant c Productions",
+    "Amblin Television",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Crichton"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Anthony Edwards",
+    "George Clooney",
+    "Sherry Stringfield",
+    "Noah Wyle",
+    "Julianna Margulies",
+    "Eriq La Salle",
+    "Gloria Reuben",
+    "Laura Innes",
+    "Maria Bello",
+    "Alex Kingston",
+    "Kellie Martin",
+    "Paul McCrane",
+    "Goran Višnjić",
+    "Michael Michele",
+    "Erik Palladino",
+    "Ming-Na",
+    "Maura Tierney",
+    "Sharif Atkins",
+    "Mekhi Phifer",
+    "Parminder Nagra",
+    "Linda Cardellini",
+    "Shane West",
+    "Scott Grimes",
+    "John Stamos",
+    "David Lyons",
+    "Angela Bassett"
+  ],
+  "executive_producers": [
+    "Michael Crichton",
+    "John Wells",
+    "Christopher Chulack",
+    "Lydia Woodward",
+    "Carol Flint",
+    "Jack Orman",
+    "David Zabel"
+  ],
+  "premise_summary": "ER is an American medical drama television series created by Michael Crichton that aired on NBC from September 19, 1994, to April 2, 2009, with a total of 331 episodes spanning 15 seasons. It was produced by Constant c Productions and Amblin Television, in association with Warner Bros. Television. ER follows the inner life of the emergency room (ER) of Cook County General Hospital, a fictionalized version of the real Cook County Hospital, in Chicago, and the various critical professional, ethical, and personal issues faced by the department's physicians, nurses, and staff.",
+  "wikipedia_extract": "ER is an American medical drama television series created by Michael Crichton that aired on NBC from September 19, 1994, to April 2, 2009, with a total of 331 episodes spanning 15 seasons. It was produced by Constant c Productions and Amblin Television, in association with Warner Bros. Television. ER follows the inner life of the emergency room (ER) of Cook County General Hospital, a fictionalized version of the real Cook County Hospital, in Chicago, and the various critical professional, ethical, and personal issues faced by the department's physicians, nurses, and staff.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2009",
+  "franchise_status": null
+}

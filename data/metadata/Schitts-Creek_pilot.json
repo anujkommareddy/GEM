@@ -1,0 +1,67 @@
+{
+  "show_id": "Schitts-Creek_pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Schitt's_Creek",
+  "wiki_page_title": "Schitt's Creek",
+  "retrieval_timestamp": "2026-03-19T04:58:49.667228+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Schitt's Creek",
+  "search_title_used": "Schitts Creek",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2020,
+  "country": [
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 80,
+  "original_network": [
+    "CBC Television"
+  ],
+  "production_companies": [
+    "Not a Real Company Productions",
+    "Canadian Broadcasting Corporation",
+    "Pop Media Group"
+  ],
+  "distributor": null,
+  "creators": [
+    "Eugene Levy"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eugene Levy",
+    "Catherine O'Hara",
+    "Daniel Levy",
+    "Annie Murphy",
+    "Jennifer Robertson",
+    "Emily Hampshire",
+    "Tim Rozon",
+    "Chris Elliott",
+    "Dustin Milligan",
+    "Sarah Levy",
+    "John Hemphill",
+    "Karen Robinson",
+    "Rizwan Manji",
+    "Robin Duke",
+    "Steve Lund",
+    "Noah Reid"
+  ],
+  "executive_producers": [
+    "Eugene Levy"
+  ],
+  "premise_summary": "Schitt's Creek is a Canadian television sitcom created by Dan Levy and his father, Eugene Levy consisting of 80 episodes over six seasons, airing on CBC Television from January 13, 2015 to April 7, 2020. Produced by Not a Real Company Productions and the Canadian Broadcasting Corporation. The series follows the formerly wealthy Rose family. After their business manager embezzles the family company, Rose Video, they lose their fortune and move to a motel in the small (fictional) town of Schitt’s Creek, where they must adjust to a very different life.",
+  "wikipedia_extract": "Schitt's Creek is a Canadian television sitcom created by Dan Levy and his father, Eugene Levy consisting of 80 episodes over six seasons, airing on CBC Television from January 13, 2015 to April 7, 2020. Produced by Not a Real Company Productions and the Canadian Broadcasting Corporation. The series follows the formerly wealthy Rose family. After their business manager embezzles the family company, Rose Video, they lose their fortune and move to a motel in the small (fictional) town of Schitt’s Creek, where they must adjust to a very different life.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

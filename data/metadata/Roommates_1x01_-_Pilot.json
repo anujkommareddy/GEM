@@ -1,0 +1,46 @@
+{
+  "show_id": "Roommates_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Roommates_(TV_series)",
+  "wiki_page_title": "Roommates (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:57:36.407195+00:00",
+  "retrieval_confidence": "high",
+  "title": "Roommates (TV series)",
+  "search_title_used": "Roommates",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2009,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "QuenchProdCo Original"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robin FrenchMatt GreenKieron Quirke"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Dorian BrownTyler FrancavillaTamera MowryTommy DeweyDavid Weidoff"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Roommates is an American television sitcom developed by ABC Family and Acme Productions that premiered on March 23, 2009. On April 29, 2009, it was announced that Roommates would not return for a second season.",
+  "wikipedia_extract": "Roommates is an American television sitcom developed by ABC Family and Acme Productions that premiered on March 23, 2009. On April 29, 2009, it was announced that Roommates would not return for a second season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2009",
+  "franchise_status": null
+}

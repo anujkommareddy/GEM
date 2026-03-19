@@ -1,0 +1,60 @@
+{
+  "show_id": "The_Family_Tools_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Family_Tools",
+  "wiki_page_title": "Family Tools",
+  "retrieval_timestamp": "2026-03-19T05:07:20.261670+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Family Tools",
+  "search_title_used": "The Family Tools",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "The Mark Gordon Company",
+    "ITV Studios America",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Danielle Nicolet",
+    "Edi Gathegi",
+    "J.K. Simmons",
+    "Johnny Pemberton",
+    "Kyle Bornheimer",
+    "Leah Remini"
+  ],
+  "executive_producers": [
+    "Andrea Shay",
+    "Bobby Bowman",
+    "J.R. Ventimilia",
+    "Joshua Sternin",
+    "Mark Gordon",
+    "Paul Buccieri"
+  ],
+  "premise_summary": "Family Tools is an American sitcom that ran on ABC from May 1 to July 10, 2013, and aired on Wednesdays at 8:30 pm ET. The series was created by Bobby Bowman, is produced by Mark Gordon, ABC Studios and ITV Studios America. It is based on the British sitcom White Van Man aired on BBC 3 and produced by ITV Studios America's parent company, ITV Studios, and whose creator, Adrian Poynton, is also a co-creator and producer of the American version.",
+  "wikipedia_extract": "Family Tools is an American sitcom that ran on ABC from May 1 to July 10, 2013, and aired on Wednesdays at 8:30 pm ET. The series was created by Bobby Bowman, is produced by Mark Gordon, ABC Studios and ITV Studios America. It is based on the British sitcom White Van Man aired on BBC 3 and produced by ITV Studios America's parent company, ITV Studios, and whose creator, Adrian Poynton, is also a co-creator and producer of the American version.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

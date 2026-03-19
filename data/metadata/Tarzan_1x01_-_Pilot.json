@@ -1,0 +1,51 @@
+{
+  "show_id": "Tarzan_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Legend_of_Tarzan_(TV_series)",
+  "wiki_page_title": "The Legend of Tarzan (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:11.747429+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Legend of Tarzan (TV series)",
+  "search_title_used": "Tarzan",
+  "alternate_titles": [],
+  "start_year": 2001,
+  "end_year": 2003,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Animated seriesActionAdventureComedy"
+  ],
+  "format_type": "animated",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 39,
+  "original_network": [
+    "UPN (Disney's One Too)"
+  ],
+  "production_companies": [
+    "Walt Disney Television AnimationAnimation outsourced to Walt Disney Animation Australia",
+    "Wang Film Productions",
+    "Hong Guang Animation (Suzhou)",
+    "Toon City Animation",
+    "Rough Draft Korea",
+    "The Hana Animation Company and Jade Animation."
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Bill MotzBob Roth"
+  ],
+  "premise_summary": "The Legend of Tarzan is an American animated television series produced by Walt Disney Television Animation, based on Tarzan from the novels written by Edgar Rice Burroughs, the character's original creator who appears in one episode of the series. The series is also based on Disney's 1999 animated feature film Tarzan by Walt Disney Pictures and aired initially on the Disney's One Too block on UPN from September 3, 2001 to February 5, 2003. However, reruns were broadcast shortly after on Toon Disney.",
+  "wikipedia_extract": "The Legend of Tarzan is an American animated television series produced by Walt Disney Television Animation, based on Tarzan from the novels written by Edgar Rice Burroughs, the character's original creator who appears in one episode of the series. The series is also based on Disney's 1999 animated feature film Tarzan by Walt Disney Pictures and aired initially on the Disney's One Too block on UPN from September 3, 2001 to February 5, 2003. However, reruns were broadcast shortly after on Toon Disney.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2003",
+  "franchise_status": null
+}

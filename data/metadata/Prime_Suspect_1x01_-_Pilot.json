@@ -1,0 +1,57 @@
+{
+  "show_id": "Prime_Suspect_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Suspect_(TV_series)",
+  "wiki_page_title": "Suspect (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:54:36.076081+00:00",
+  "retrieval_confidence": "high",
+  "title": "Suspect (TV series)",
+  "search_title_used": "Suspect",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "half-hour",
+  "seasons": null,
+  "episodes": 16,
+  "original_network": [
+    "Channel 4"
+  ],
+  "production_companies": [
+    "Eagle Eye DramaFremantle"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "James Nesbitt",
+    "Sacha Dhawan",
+    "Anne-Marie Duff",
+    "Sam Heughan",
+    "Niamh Algar",
+    "Richard E. Grant",
+    "Ben Miller",
+    "Antonia Thomas",
+    "Joely Richardson"
+  ],
+  "executive_producers": [
+    "Walter Iuzzolino",
+    "Jo McGrath"
+  ],
+  "premise_summary": "Suspect is a British crime drama television series. Adapted by Matt Baker, it is based on the Danish series Face to Face, which was created by Christoffer Boe. Suspect premiered on 19 June 2022 on Channel 4.",
+  "wikipedia_extract": "Suspect is a British crime drama television series. Adapted by Matt Baker, it is based on the Danish series Face to Face, which was created by Christoffer Boe. Suspect premiered on 19 June 2022 on Channel 4.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

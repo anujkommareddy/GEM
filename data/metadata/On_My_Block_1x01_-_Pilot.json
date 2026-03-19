@@ -1,0 +1,63 @@
+{
+  "show_id": "On_My_Block_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/On_My_Block",
+  "wiki_page_title": "On My Block",
+  "retrieval_timestamp": "2026-03-19T04:52:00.555215+00:00",
+  "retrieval_confidence": "high",
+  "title": "On My Block",
+  "search_title_used": "On My Block",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Spanish"
+  ],
+  "genres": [
+    "Teen drama",
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 38,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Crazy Cat Lady Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lauren Iungerich",
+    "Eddie Gonzalez",
+    "Jeremy Haft"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sierra Capri",
+    "Jason Genao",
+    "Brett Gray",
+    "Diego Tinoco",
+    "Jessica Marie Garcia",
+    "Julio Macias",
+    "Peggy Blow"
+  ],
+  "executive_producers": [
+    "Lauren Iungerich",
+    "Eddie Gonzalez",
+    "Jeremy Haft",
+    "Jamie Dooner"
+  ],
+  "premise_summary": "On My Block is an American teen comedy-drama television series, created by Lauren Iungerich, Eddie Gonzalez, and Jeremy Haft. Set in the fictional Los Angeles neighborhood Freeridge, it revolves around four teenagers who find their friendship tested upon entering high school. It stars Sierra Capri, Jason Genao, Brett Gray, Diego Tinoco, Jessica Marie Garcia, Julio Macias, and Peggy Blow.",
+  "wikipedia_extract": "On My Block is an American teen comedy-drama television series, created by Lauren Iungerich, Eddie Gonzalez, and Jeremy Haft. Set in the fictional Los Angeles neighborhood Freeridge, it revolves around four teenagers who find their friendship tested upon entering high school. It stars Sierra Capri, Jason Genao, Brett Gray, Diego Tinoco, Jessica Marie Garcia, Julio Macias, and Peggy Blow.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

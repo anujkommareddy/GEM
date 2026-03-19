@@ -1,0 +1,62 @@
+{
+  "show_id": "One_Big_Happy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/One_Big_Happy_(TV_series)",
+  "wiki_page_title": "One Big Happy (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:52:08.374181+00:00",
+  "retrieval_confidence": "high",
+  "title": "One Big Happy (TV series)",
+  "search_title_used": "One Big Happy",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 6,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Visualized",
+    "Inc.",
+    "A Very Good Production",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Liz Feldman",
+    "Ellen DeGeneres"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kelly Brook",
+    "Elisha Cuthbert",
+    "Nick Zano",
+    "Rebecca Corry",
+    "Chris Williams",
+    "Brandon Mychal Smith"
+  ],
+  "executive_producers": [
+    "Ellen DeGeneres",
+    "Jeff Kleeman",
+    "Liz Feldman",
+    "Scott Ellis"
+  ],
+  "premise_summary": "One Big Happy is an American sitcom television series produced by Ellen DeGeneres starring Kelly Brook, Nick Zano and Elisha Cuthbert, about a gay woman, Lizzy, who is pregnant with her best friend Luke's baby, while he is in love with another woman, Prudence. The show was created by Liz Feldman, and it premiered on March 17, 2015. Six episodes were ordered by NBC.",
+  "wikipedia_extract": "One Big Happy is an American sitcom television series produced by Ellen DeGeneres starring Kelly Brook, Nick Zano and Elisha Cuthbert, about a gay woman, Lizzy, who is pregnant with her best friend Luke's baby, while he is in love with another woman, Prudence. The show was created by Liz Feldman, and it premiered on March 17, 2015. Six episodes were ordered by NBC.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

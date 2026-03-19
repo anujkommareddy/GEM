@@ -1,0 +1,45 @@
+{
+  "show_id": "The_Odd_Couple_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Odd_Couple_(1970_TV_series)",
+  "wiki_page_title": "The Odd Couple (1970 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:10:40.617539+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Odd Couple (1970 TV series)",
+  "search_title_used": "The Odd Couple",
+  "alternate_titles": [],
+  "start_year": 1970,
+  "end_year": 1975,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 5,
+  "episodes": 114,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Paramount Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Tony Randall",
+    "Jack Klugman"
+  ],
+  "executive_producers": [
+    "Garry Marshall"
+  ],
+  "premise_summary": "The Odd Couple is an American sitcom television series broadcast from September 24, 1970, to March 7, 1975, on ABC. It ran for five seasons and has become one of the most acclaimed sitcoms of its era. The show, which stars Tony Randall as Felix Unger and Jack Klugman as Oscar Madison, was the first of several sitcoms developed by Garry Marshall for Paramount Television. The series is based on the 1965 play The Odd Couple, written by Neil Simon, which was also adapted into a 1968 film. The story examines two divorced men, Oscar and Felix, who share Oscar's Manhattan apartment, and whose contrasting personalities inevitably lead to conflict and laughter.",
+  "wikipedia_extract": "The Odd Couple is an American sitcom television series broadcast from September 24, 1970, to March 7, 1975, on ABC. It ran for five seasons and has become one of the most acclaimed sitcoms of its era. The show, which stars Tony Randall as Felix Unger and Jack Klugman as Oscar Madison, was the first of several sitcoms developed by Garry Marshall for Paramount Television. The series is based on the 1965 play The Odd Couple, written by Neil Simon, which was also adapted into a 1968 film. The story examines two divorced men, Oscar and Felix, who share Oscar's Manhattan apartment, and whose contrasting personalities inevitably lead to conflict and laughter.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1975",
+  "franchise_status": null
+}

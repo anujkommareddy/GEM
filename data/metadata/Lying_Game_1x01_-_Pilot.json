@@ -1,0 +1,66 @@
+{
+  "show_id": "Lying_Game_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Lying_Game",
+  "wiki_page_title": "The Lying Game",
+  "retrieval_timestamp": "2026-03-19T04:46:21.131857+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Lying Game",
+  "search_title_used": "Lying Game",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Teen drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 30,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "Pratt Enterprises",
+    "Alloy Entertainment",
+    "Warner Horizon Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Alexandra Chando",
+    "Allie Gonino",
+    "Blair Redford",
+    "Andy Buckley",
+    "Helen Slater",
+    "Kirsten Prout",
+    "Alice Greczyn",
+    "Charisma Carpenter",
+    "Christian Alexander",
+    "Sharon Pierre-Louis"
+  ],
+  "executive_producers": [
+    "Charles Pratt",
+    "Jr.",
+    "Leslie Morgenstein",
+    "Gina Girolamo",
+    "Fred Gerber",
+    "Mark Piznarski"
+  ],
+  "premise_summary": "The Lying Game is an American teen drama mystery television series developed by Charles Pratt Jr. It premiered on ABC Family on August 15, 2011, and ended on March 12, 2013. The series was produced by Pratt Enterprises, Alloy Entertainment, and Warner Horizon Television and is loosely based on a series of books of the same name by Sara Shepard. It stars Alexandra Chando, playing as the twin sisters Sutton Mercer and Emma Becker. On July 15, 2013, Chando confirmed the series was canceled by the network after two seasons.",
+  "wikipedia_extract": "The Lying Game is an American teen drama mystery television series developed by Charles Pratt Jr. It premiered on ABC Family on August 15, 2011, and ended on March 12, 2013. The series was produced by Pratt Enterprises, Alloy Entertainment, and Warner Horizon Television and is loosely based on a series of books of the same name by Sara Shepard. It stars Alexandra Chando, playing as the twin sisters Sutton Mercer and Emma Becker. On July 15, 2013, Chando confirmed the series was canceled by the network after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

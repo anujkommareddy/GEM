@@ -1,0 +1,58 @@
+{
+  "show_id": "First_Wives_Club_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/First_Wives_Club_(TV_series)",
+  "wiki_page_title": "First Wives Club (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:31:48.858912+00:00",
+  "retrieval_confidence": "high",
+  "title": "First Wives Club (TV series)",
+  "search_title_used": "First Wives Club",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 29,
+  "original_network": [
+    "BET+"
+  ],
+  "production_companies": [
+    "Tracy Yvonne Productions",
+    "Jax Media",
+    "Paramount Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Michelle Buteau",
+    "Jill Scott",
+    "Ryan Michelle Bathe",
+    "Mark Tallman",
+    "RonReaco Lee",
+    "Malik Yoba",
+    "Michelle Mitchenor"
+  ],
+  "executive_producers": [
+    "Tracy Oliver",
+    "Karen Rosenfelt",
+    "Scott Rudin"
+  ],
+  "premise_summary": "First Wives Club is an American comedy television series based on the 1996 film of the same name written by Robert Harling; it premiered on September 19, 2019 on BET+. The series was renewed for a second season on November 26, 2019, premiering on July 15, 2021. On September 8, 2021, the series was renewed for a third season. Unlike the original film, the series features an entirely African-American cast.",
+  "wikipedia_extract": "First Wives Club is an American comedy television series based on the 1996 film of the same name written by Robert Harling; it premiered on September 19, 2019 on BET+. The series was renewed for a second season on November 26, 2019, premiering on July 15, 2021. On September 8, 2021, the series was renewed for a third season. Unlike the original film, the series features an entirely African-American cast.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

@@ -1,0 +1,60 @@
+{
+  "show_id": "Powerless_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Powerless_(TV_series)",
+  "wiki_page_title": "Powerless (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:54:20.897999+00:00",
+  "retrieval_confidence": "high",
+  "title": "Powerless (TV series)",
+  "search_title_used": "Powerless",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Action",
+    "Superhero"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Ehsugadee Productions",
+    "DC Entertainment",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Vanessa Hudgens",
+    "Danny Pudi",
+    "Christina Kirk",
+    "Ron Funches",
+    "Alan Tudyk"
+  ],
+  "executive_producers": [
+    "Justin Halpern",
+    "Patrick Schumacker",
+    "Dean Lorey",
+    "Marc Buckland",
+    "Len Goldstein"
+  ],
+  "premise_summary": "Powerless is an American sitcom television series developed by Ben Queen, that aired on NBC from February 2, to April 20, 2017. The series was a sitcom set within the world of the DC Universe. The pilot, which was greenlit in August 2015, was ordered to series on May 11, 2016. On April 25, 2017, NBC pulled the final three episodes of the series from its schedule, with no indication whether they would be rescheduled at a later date. The series was officially cancelled on May 11. The unaired episodes were made available on TVNZ OnDemand later that same day.",
+  "wikipedia_extract": "Powerless is an American sitcom television series developed by Ben Queen, that aired on NBC from February 2, to April 20, 2017. The series was a sitcom set within the world of the DC Universe. The pilot, which was greenlit in August 2015, was ordered to series on May 11, 2016. On April 25, 2017, NBC pulled the final three episodes of the series from its schedule, with no indication whether they would be rescheduled at a later date. The series was officially cancelled on May 11. The unaired episodes were made available on TVNZ OnDemand later that same day.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

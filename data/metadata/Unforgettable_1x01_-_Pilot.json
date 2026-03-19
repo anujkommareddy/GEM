@@ -1,0 +1,71 @@
+{
+  "show_id": "Unforgettable_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Unforgettable_(American_TV_series)",
+  "wiki_page_title": "Unforgettable (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:15:47.904976+00:00",
+  "retrieval_confidence": "high",
+  "title": "Unforgettable (American TV series)",
+  "search_title_used": "Unforgettable",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Crime drama",
+    "Mystery"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 61,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Timberman / Beverly Productions",
+    "CBS Studios (seasons 1–3)",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Poppy Montgomery",
+    "Dylan Walsh",
+    "Michael Gaston",
+    "Kevin Rankin",
+    "Daya Vaidya",
+    "Jane Curtin",
+    "Dallas Roberts",
+    "James Hiroyuki Liao",
+    "Tawny Cypress",
+    "E. J. Bonilla",
+    "Alani \"La La\" Anthony",
+    "Kathy Najimy"
+  ],
+  "executive_producers": [
+    "Sarah Timberman",
+    "Carl Beverly",
+    "Ed Redlich",
+    "John Bellucci",
+    "Jan Nash",
+    "Michael Reisz",
+    "Ed Decter",
+    "Poppy Montgomery",
+    "Bill Chais"
+  ],
+  "premise_summary": "Unforgettable is an American police procedural crime drama television series that premiered on CBS on September 20, 2011. Unforgettable was developed by Ed Redlich and John Bellucci, and stars Poppy Montgomery as Detective Carrie Wells, a police detective with an unusually detailed and photographic memory.",
+  "wikipedia_extract": "Unforgettable is an American police procedural crime drama television series that premiered on CBS on September 20, 2011. Unforgettable was developed by Ed Redlich and John Bellucci, and stars Poppy Montgomery as Detective Carrie Wells, a police detective with an unusually detailed and photographic memory.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

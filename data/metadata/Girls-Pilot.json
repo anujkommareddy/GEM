@@ -1,0 +1,66 @@
+{
+  "show_id": "Girls-Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Girls_(TV_series)",
+  "wiki_page_title": "Girls (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:33:34.040626+00:00",
+  "retrieval_confidence": "high",
+  "title": "Girls (TV series)",
+  "search_title_used": "Girls",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy-drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 62,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "Apatow Productions",
+    "I Am Jenni Konner Productions",
+    "HBO Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lena Dunham"
+  ],
+  "showrunners": [
+    "Lena Dunham"
+  ],
+  "lead_cast": [
+    "Lena Dunham",
+    "Allison Williams",
+    "Jemima Kirke",
+    "Zosia Mamet",
+    "Adam Driver",
+    "Alex Karpovsky",
+    "Andrew Rannells",
+    "Ebon Moss-Bachrach",
+    "Jake Lacy"
+  ],
+  "executive_producers": [
+    "Lena Dunham",
+    "Judd Apatow",
+    "Jenni Konner",
+    "Ilene S. Landress",
+    "Bruce Eric Kaplan"
+  ],
+  "premise_summary": "Girls is an American comedy-drama television series created by and starring Lena Dunham, executive-produced by Judd Apatow. The series depicts four young women living in New York City. The show's premise was drawn from Dunham's own life, as were major aspects of the main character, including financial isolation from her parents, becoming a writer, and making unfortunate decisions. The series is known for its postfeminist commentary and conversation around body politics and female sexuality.",
+  "wikipedia_extract": "Girls is an American comedy-drama television series created by and starring Lena Dunham, executive-produced by Judd Apatow. The series depicts four young women living in New York City. The show's premise was drawn from Dunham's own life, as were major aspects of the main character, including financial isolation from her parents, becoming a writer, and making unfortunate decisions. The series is known for its postfeminist commentary and conversation around body politics and female sexuality.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

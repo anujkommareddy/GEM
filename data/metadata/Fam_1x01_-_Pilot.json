@@ -1,0 +1,64 @@
+{
+  "show_id": "Fam_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fam_(TV_series)",
+  "wiki_page_title": "Fam (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:31:18.014343+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fam (TV series)",
+  "search_title_used": "Fam",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Kushellivision",
+    "Trill Television",
+    "CBS Television Studios",
+    "Kapital Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Corinne Kingsbury"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Nina Dobrev",
+    "Tone Bell",
+    "Odessa Adlon",
+    "Sheryl Lee Ralph",
+    "Brian Stokes Mitchell",
+    "Gary Cole"
+  ],
+  "executive_producers": [
+    "Corinne Kingsbury",
+    "Aaron Kaplan",
+    "Wendi Trilling",
+    "Dana Honor",
+    "Bob Kushell",
+    "Joe Port",
+    "Joe Wiseman"
+  ],
+  "premise_summary": "Fam is an American television sitcom created by Corinne Kingsbury and that aired on CBS from January 10 to April 11, 2019. It stars Nina Dobrev, Tone Bell, Odessa Adlon, Sheryl Lee Ralph, Brian Stokes Mitchell and Gary Cole.",
+  "wikipedia_extract": "Fam is an American television sitcom created by Corinne Kingsbury and that aired on CBS from January 10 to April 11, 2019. It stars Nina Dobrev, Tone Bell, Odessa Adlon, Sheryl Lee Ralph, Brian Stokes Mitchell and Gary Cole.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

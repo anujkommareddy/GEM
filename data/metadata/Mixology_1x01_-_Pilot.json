@@ -1,0 +1,50 @@
+{
+  "show_id": "Mixology_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mixology",
+  "wiki_page_title": "Mixology",
+  "retrieval_timestamp": "2026-03-19T04:49:10.287066+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mixology",
+  "search_title_used": "Mixology",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Lucas & Moore"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jon Lucas"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Adam Campbell"
+  ],
+  "executive_producers": [
+    "Adam Sher"
+  ],
+  "premise_summary": "Mixology is an American sitcom that aired during the 2013–14 television season on ABC. The series was co-created by Jon Lucas and Scott Moore, who also serve as co-executive producers with Ryan Seacrest and Nina Wass for Ryan Seacrest Productions and ABC Studios. The series was green-lit by ABC for a series order pick up on May 10, 2013.",
+  "wikipedia_extract": "Mixology is an American sitcom that aired during the 2013–14 television season on ABC. The series was co-created by Jon Lucas and Scott Moore, who also serve as co-executive producers with Ryan Seacrest and Nina Wass for Ryan Seacrest Productions and ABC Studios. The series was green-lit by ABC for a series order pick up on May 10, 2013.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

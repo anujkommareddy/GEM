@@ -1,0 +1,48 @@
+{
+  "show_id": "Uncle_Buck_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Uncle_Buck_(1990_TV_series)",
+  "wiki_page_title": "Uncle Buck (1990 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:15:21.530256+00:00",
+  "retrieval_confidence": "high",
+  "title": "Uncle Buck (1990 TV series)",
+  "search_title_used": "Uncle Buck",
+  "alternate_titles": [],
+  "start_year": 1990,
+  "end_year": 1991,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Verbatim ProductionsUniversal Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Kevin MeaneyDah-ve ChodanJacob GelmanLacey ChabertAudrey MeadowsDennis Cockrum Thomas Mikal Ford"
+  ],
+  "executive_producers": [
+    "Richard Gurman"
+  ],
+  "premise_summary": "Uncle Buck is an American surreal humour television series starring Kevin Meaney, based on the 1989 film of the same name. The series aired on CBS from September 10, 1990 to March 9, 1991 during the 1990–91 season. It is said John Candy of the original film was unavailable due in part to his commitment on the NBC Saturday morning animated series Camp Candy.",
+  "wikipedia_extract": "Uncle Buck is an American surreal humour television series starring Kevin Meaney, based on the 1989 film of the same name. The series aired on CBS from September 10, 1990 to March 9, 1991 during the 1990–91 season. It is said John Candy of the original film was unavailable due in part to his commitment on the NBC Saturday morning animated series Camp Candy.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1991",
+  "franchise_status": null
+}

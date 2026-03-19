@@ -1,0 +1,59 @@
+{
+  "show_id": "Helix_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Helix_(TV_series)",
+  "wiki_page_title": "Helix (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:36:30.713227+00:00",
+  "retrieval_confidence": "high",
+  "title": "Helix (TV series)",
+  "search_title_used": "Helix",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Horror",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 26,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "Sony Pictures TelevisionMuse Entertainment EnterprisesLynda Obst ProductionsTall Ship ProductionsKaji Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Cameron Porsandeh"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Billy Campbell",
+    "Hiroyuki Sanada",
+    "Kyra Zagorsky",
+    "Mark Ghanimé",
+    "Matt Long"
+  ],
+  "executive_producers": [
+    "Ronald D. Moore",
+    "Lynda Obst",
+    "Steven Maeda",
+    "Brad Turner"
+  ],
+  "premise_summary": "Helix is an American science fiction horror drama television series that aired on Syfy from January 10, 2014, to April 10, 2015. The series follows a team of scientists from the Centers for Disease Control and Prevention (CDC) who travel to a research facility in the Arctic to investigate a potential outbreak of disease. While there, they find themselves stuck in a life-or-death situation that could decide the future of mankind. The executive producers of Helix were Ronald D. Moore, Lynda Obst, Steven Maeda, and Cameron Porsandeh, with Maeda serving as day-to-day showrunner. On April 29, 2015, Syfy announced that the show was canceled after two seasons.",
+  "wikipedia_extract": "Helix is an American science fiction horror drama television series that aired on Syfy from January 10, 2014, to April 10, 2015. The series follows a team of scientists from the Centers for Disease Control and Prevention (CDC) who travel to a research facility in the Arctic to investigate a potential outbreak of disease. While there, they find themselves stuck in a life-or-death situation that could decide the future of mankind. The executive producers of Helix were Ronald D. Moore, Lynda Obst, Steven Maeda, and Cameron Porsandeh, with Maeda serving as day-to-day showrunner. On April 29, 2015, Syfy announced that the show was canceled after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

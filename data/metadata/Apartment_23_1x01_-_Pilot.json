@@ -1,0 +1,50 @@
+{
+  "show_id": "Apartment_23_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Don't_Trust_the_B----_in_Apartment_23",
+  "wiki_page_title": "Don't Trust the B---- in Apartment 23",
+  "retrieval_timestamp": "2026-03-19T04:20:00.690363+00:00",
+  "retrieval_confidence": "high",
+  "title": "Don't Trust the B---- in Apartment 23",
+  "search_title_used": "Apartment 23",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 26,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Fierce Baby Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nahnatchka Khan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Krysten Ritter"
+  ],
+  "executive_producers": [
+    "Jeff Morton"
+  ],
+  "premise_summary": "Don't Trust the B---- in Apartment 23 is an American television sitcom created by Nahnatchka Khan. It was broadcast on ABC between April 11, 2012, and September 6, 2014, comprising two seasons and 26 episodes. Originally a mid-season replacement, the network renewed the series for a second season in May 2012; six episodes from the first season were aired as part of the second without regard for continuity.",
+  "wikipedia_extract": "Don't Trust the B---- in Apartment 23 is an American television sitcom created by Nahnatchka Khan. It was broadcast on ABC between April 11, 2012, and September 6, 2014, comprising two seasons and 26 episodes. Originally a mid-season replacement, the network renewed the series for a second season in May 2012; six episodes from the first season were aired as part of the second without regard for continuity.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

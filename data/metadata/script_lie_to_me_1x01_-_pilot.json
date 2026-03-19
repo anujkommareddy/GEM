@@ -1,0 +1,52 @@
+{
+  "show_id": "script_lie_to_me_1x01_-_pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Lie_with_Me_(2021_TV_series)",
+  "wiki_page_title": "Lie with Me (2021 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:23:43.999395+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Lie with Me (2021 TV series)",
+  "search_title_used": "script lie to me",
+  "alternate_titles": [],
+  "start_year": 2021,
+  "end_year": 2021,
+  "country": [
+    "Australia"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 4,
+  "original_network": [
+    "Network 10 (Australia)Channel 5 (UK)"
+  ],
+  "production_companies": [
+    "Fremantle Australia"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jason Herbison"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Brett Tucker",
+    "Charlie Brooks",
+    "Phoebe Roberts"
+  ],
+  "executive_producers": [
+    "Jason HerbisonChris Oliver-TaylorJo Porter"
+  ],
+  "premise_summary": "Lie With Me is a television drama series that premiered on Channel 5 on 12 July 2021 and on Network 10 on 3 November 2021.",
+  "wikipedia_extract": "Lie With Me is a television drama series that premiered on Channel 5 on 12 July 2021 and on Network 10 on 3 November 2021.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

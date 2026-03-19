@@ -1,0 +1,50 @@
+{
+  "show_id": "Mystery_Girls_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mystery_Girls",
+  "wiki_page_title": "Mystery Girls",
+  "retrieval_timestamp": "2026-03-19T04:50:19.295670+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mystery Girls",
+  "search_title_used": "Mystery Girls",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "SitcomMystery"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "ProdCo Original"
+  ],
+  "distributor": null,
+  "creators": [
+    "Shepard Boucher"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tori Spelling"
+  ],
+  "executive_producers": [
+    "Shepard Boucher"
+  ],
+  "premise_summary": "Mystery Girls is an American sitcom starring Tori Spelling and Jennie Garth that aired on ABC Family on June 25 through August 27, 2014. The series follows Holly and Charlie, former stars of the fictional 1990s TV detective series Mystery Girls who reunite to solve actual mysteries.",
+  "wikipedia_extract": "Mystery Girls is an American sitcom starring Tori Spelling and Jennie Garth that aired on ABC Family on June 25 through August 27, 2014. The series follows Holly and Charlie, former stars of the fictional 1990s TV detective series Mystery Girls who reunite to solve actual mysteries.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

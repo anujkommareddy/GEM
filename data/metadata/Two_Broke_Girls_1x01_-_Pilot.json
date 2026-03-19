@@ -1,0 +1,60 @@
+{
+  "show_id": "Two_Broke_Girls_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/2_Broke_Girls",
+  "wiki_page_title": "2 Broke Girls",
+  "retrieval_timestamp": "2026-03-19T05:15:02.662709+00:00",
+  "retrieval_confidence": "medium",
+  "title": "2 Broke Girls",
+  "search_title_used": "Two Broke Girls",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 138,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Michael Patrick King Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Patrick King",
+    "Whitney Cummings"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kat Dennings",
+    "Beth Behrs",
+    "Garrett Morris",
+    "Jonathan Kite",
+    "Matthew Moy",
+    "Jennifer Coolidge"
+  ],
+  "executive_producers": [
+    "Michael Patrick King",
+    "Whitney Cummings",
+    "Michelle Nader",
+    "Liz Astrof"
+  ],
+  "premise_summary": "2 Broke Girls is an American television sitcom that aired on CBS from September 19, 2011, to April 17, 2017. The series was produced for Warner Bros. Television and created by Michael Patrick King and Whitney Cummings. Set in the Williamsburg neighborhood of Brooklyn in New York City, the show's plot follows the lives of best friends Max Black and Caroline Channing. Whereas Caroline was raised as the daughter of a billionaire, Max grew up in a poor and dysfunctional family, resulting in them having different perspectives on life, although together they work in a local diner while attempting to raise funds to start a cupcake business.",
+  "wikipedia_extract": "2 Broke Girls is an American television sitcom that aired on CBS from September 19, 2011, to April 17, 2017. The series was produced for Warner Bros. Television and created by Michael Patrick King and Whitney Cummings. Set in the Williamsburg neighborhood of Brooklyn in New York City, the show's plot follows the lives of best friends Max Black and Caroline Channing. Whereas Caroline was raised as the daughter of a billionaire, Max grew up in a poor and dysfunctional family, resulting in them having different perspectives on life, although together they work in a local diner while attempting to raise funds to start a cupcake business.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

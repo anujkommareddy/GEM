@@ -1,0 +1,61 @@
+{
+  "show_id": "bloodlands-episode-1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Bloodlands_(TV_series)",
+  "wiki_page_title": "Bloodlands (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:19:48.001017+00:00",
+  "retrieval_confidence": "high",
+  "title": "Bloodlands (TV series)",
+  "search_title_used": "bloodlands",
+  "alternate_titles": [],
+  "start_year": 2021,
+  "end_year": 2022,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 10,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "HTM Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chris Brandon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "James Nesbitt",
+    "Lorcan Cranitch",
+    "Lisa Dwan",
+    "Ian McElhinney",
+    "Charlene McKenna",
+    "Lola Petticrew",
+    "Michael Smiley",
+    "Chris Walley"
+  ],
+  "executive_producers": [
+    "Jed Mercurio",
+    "Jimmy Mulville",
+    "Mark Redhead",
+    "Tommy Bulfin",
+    "Tom Lazenby"
+  ],
+  "premise_summary": "Bloodlands is a police procedural television series set in Northern Ireland that premiered on BBC One on 21 February 2021. It was created by Chris Brandon and developed by HTM Television, a joint venture between Hat Trick Productions and the producer Jed Mercurio. The show was renewed for a second series on 14 March 2021, with filming commencing in February 2022.",
+  "wikipedia_extract": "Bloodlands is a police procedural television series set in Northern Ireland that premiered on BBC One on 21 February 2021. It was created by Chris Brandon and developed by HTM Television, a joint venture between Hat Trick Productions and the producer Jed Mercurio. The show was renewed for a second series on 14 March 2021, with filming commencing in February 2022.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

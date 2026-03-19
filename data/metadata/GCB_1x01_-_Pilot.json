@@ -1,0 +1,66 @@
+{
+  "show_id": "GCB_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/GCB_(TV_series)",
+  "wiki_page_title": "GCB (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:33:02.226549+00:00",
+  "retrieval_confidence": "high",
+  "title": "GCB (TV series)",
+  "search_title_used": "GCB",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Darren Star Productions",
+    "Kapital Entertainment",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Leslie Bibb",
+    "Jennifer Aspen",
+    "Marisol Nichols",
+    "Miriam Shor",
+    "David James Elliott",
+    "Mark Deklin",
+    "Brad Beyer",
+    "Annie Potts",
+    "Kristin Chenoweth"
+  ],
+  "executive_producers": [
+    "Aaron Harberts",
+    "Aaron Kaplan",
+    "Alan Poul",
+    "Darren Star",
+    "Gretchen J. Berg",
+    "Robert Harling",
+    "Victor Nelli",
+    "Jr.",
+    "Sarah Caplan"
+  ],
+  "premise_summary": "GCB is an American comedy-drama television series developed by Robert Harling, produced by Darren Star, and starring Kristin Chenoweth, Leslie Bibb, Jennifer Aspen, Miriam Shor, Marisol Nichols, and Annie Potts. Airing on ABC, the series was based on the semi-autobiographical 2008 novel Good Christian Bitches by Kim Gatlin. The series centers on a recently widowed and financially ruined woman who moves her family back to the upscale Dallas-area town where she grew up.",
+  "wikipedia_extract": "GCB is an American comedy-drama television series developed by Robert Harling, produced by Darren Star, and starring Kristin Chenoweth, Leslie Bibb, Jennifer Aspen, Miriam Shor, Marisol Nichols, and Annie Potts. Airing on ABC, the series was based on the semi-autobiographical 2008 novel Good Christian Bitches by Kim Gatlin. The series centers on a recently widowed and financially ruined woman who moves her family back to the upscale Dallas-area town where she grew up.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

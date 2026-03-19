@@ -1,0 +1,71 @@
+{
+  "show_id": "Nikita_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Nikita_(TV_series)",
+  "wiki_page_title": "Nikita (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:51:05.337969+00:00",
+  "retrieval_confidence": "high",
+  "title": "Nikita (TV series)",
+  "search_title_used": "Nikita",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Action",
+    "Spy fiction",
+    "Psychological thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 73,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Wonderland Sound and Vision",
+    "Sesfonstein Productions",
+    "Warner Bros. Television",
+    "Nikita Films"
+  ],
+  "distributor": null,
+  "creators": [
+    "Characters: (original series)"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Maggie Q",
+    "Shane West",
+    "Lyndsy Fonseca",
+    "Aaron Stanford",
+    "Ashton Holmes",
+    "Tiffany Hines",
+    "Melinda Clarke",
+    "Xander Berkeley",
+    "Dillon Casey",
+    "Noah Bean",
+    "Devon Sawa"
+  ],
+  "executive_producers": [
+    "Craig Silverstein",
+    "Danny Cannon",
+    "McG",
+    "Peter Johnson",
+    "David Levinson"
+  ],
+  "premise_summary": "Nikita is an American action thriller drama television series that aired on the CW from September 9, 2010, to December 27, 2013, in the United States. The series is an adaptation of Luc Besson's French film La Femme Nikita, the second such adaptation after the 1997 Canadian TV series La Femme Nikita.",
+  "wikipedia_extract": "Nikita is an American action thriller drama television series that aired on the CW from September 9, 2010, to December 27, 2013, in the United States. The series is an adaptation of Luc Besson's French film La Femme Nikita, the second such adaptation after the 1997 Canadian TV series La Femme Nikita.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

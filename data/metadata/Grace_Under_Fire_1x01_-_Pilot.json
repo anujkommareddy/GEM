@@ -1,0 +1,70 @@
+{
+  "show_id": "Grace_Under_Fire_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Grace_Under_Fire",
+  "wiki_page_title": "Grace Under Fire",
+  "retrieval_timestamp": "2026-03-19T04:34:28.543422+00:00",
+  "retrieval_confidence": "high",
+  "title": "Grace Under Fire",
+  "search_title_used": "Grace Under Fire",
+  "alternate_titles": [],
+  "start_year": 1993,
+  "end_year": 1998,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 5,
+  "episodes": 112,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Carsey-Werner Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chuck Lorre"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Brett Butler",
+    "Dave Thomas",
+    "Julie White",
+    "Casey Sander",
+    "Jon Paul Steuer",
+    "Sam Horrigan",
+    "Kaitlin Cullum",
+    "Dylan and Cole Sprouse",
+    "Peggy Rea",
+    "Charles Hallahan",
+    "Don \"D.C.\" Curry",
+    "Lauren Tom"
+  ],
+  "executive_producers": [
+    "Marcy Carsey",
+    "Tom Werner",
+    "Caryn Mandabach",
+    "Brett Butler",
+    "Tim Doyle",
+    "Marc Flanagan",
+    "Peter Tortorici",
+    "Chuck Lorre",
+    "Tom Straw",
+    "David Tochterman"
+  ],
+  "premise_summary": "Grace Under Fire is an American television sitcom that aired on ABC from September 29, 1993, to February 17, 1998. Created by Chuck Lorre, the series starred Brett Butler as Grace Kelly, a single mother and recovering alcoholic raising three children in a small town in Missouri after finally divorcing her abusive husband. The series was produced by Carsey-Werner Productions, known for other hit sitcoms such as Roseanne and The Cosby Show.",
+  "wikipedia_extract": "Grace Under Fire is an American television sitcom that aired on ABC from September 29, 1993, to February 17, 1998. Created by Chuck Lorre, the series starred Brett Butler as Grace Kelly, a single mother and recovering alcoholic raising three children in a small town in Missouri after finally divorcing her abusive husband. The series was produced by Carsey-Werner Productions, known for other hit sitcoms such as Roseanne and The Cosby Show.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1998",
+  "franchise_status": null
+}

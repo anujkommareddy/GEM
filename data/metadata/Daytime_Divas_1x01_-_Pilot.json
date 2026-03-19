@@ -1,0 +1,53 @@
+{
+  "show_id": "Daytime_Divas_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Daytime_Divas",
+  "wiki_page_title": "Daytime Divas",
+  "retrieval_timestamp": "2026-03-19T04:27:39.312908+00:00",
+  "retrieval_confidence": "high",
+  "title": "Daytime Divas",
+  "search_title_used": "Daytime Divas",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Satire"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "VH1"
+  ],
+  "production_companies": [
+    "Osprey Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Vanessa Williams",
+    "Chloe Bridges",
+    "Camille Guaty",
+    "Fiona Gubelmann",
+    "McKinley Freeman"
+  ],
+  "executive_producers": [
+    "Star Jones"
+  ],
+  "premise_summary": "Daytime Divas is an American satirical comedy-drama television series developed by Amy and Wendy Engelberg for VH1. It is based on the 2011 book Satan's Sisters by former co-host of The View Star Jones. The show stars Vanessa Williams, Chloe Bridges, Camille Guaty, Fiona Gubelmann, and McKinley Freeman. Principal photography began in August 2016 in Atlanta, Georgia. The series premiered on June 5, 2017. On November 1, 2017, VH1 cancelled the series after one season.",
+  "wikipedia_extract": "Daytime Divas is an American satirical comedy-drama television series developed by Amy and Wendy Engelberg for VH1. It is based on the 2011 book Satan's Sisters by former co-host of The View Star Jones. The show stars Vanessa Williams, Chloe Bridges, Camille Guaty, Fiona Gubelmann, and McKinley Freeman. Principal photography began in August 2016 in Atlanta, Georgia. The series premiered on June 5, 2017. On November 1, 2017, VH1 cancelled the series after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,73 @@
+{
+  "show_id": "Bosch_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Bosch_(TV_series)",
+  "wiki_page_title": "Bosch (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:23:25.719878+00:00",
+  "retrieval_confidence": "high",
+  "title": "Bosch (TV series)",
+  "search_title_used": "Bosch",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Detective fiction",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 68,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Hieronymus Pictures",
+    "Fabrik Entertainment",
+    "Amazon Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Titus Welliver",
+    "Jamie Hector",
+    "Amy Aquino",
+    "Lance Reddick",
+    "Annie Wersching",
+    "Sarah Clarke",
+    "Jason Gedrick",
+    "Madison Lintz",
+    "Jeri Ryan",
+    "Brent Sexton",
+    "Mimi Rogers",
+    "Paul Calderón"
+  ],
+  "executive_producers": [
+    "Henrik Bastin",
+    "Pieter Jan Brugge",
+    "Michael Connelly",
+    "Eric Overmyer",
+    "Titus Welliver",
+    "Daniel Pyne",
+    "Elle Johnson",
+    "Jan David Frouman",
+    "Henrik Pabst",
+    "Mikkel Bondesen",
+    "John Mankiewicz",
+    "James Baker"
+  ],
+  "premise_summary": "Bosch is an American police procedural television series produced by Amazon Studios and Fabrik Entertainment starring Titus Welliver as Los Angeles Police Department detective Harry Bosch. The show was developed for Amazon by Eric Overmyer, and the first season takes its inspiration from the Michael Connelly novels City of Bones (2002), Echo Park (2006), and The Concrete Blonde (1994). It was one of two drama pilots that Amazon streamed online in early 2014, and viewers offered their opinions on it before the studio decided whether to place a series order. The seventh and final season was released on June 25, 2021.",
+  "wikipedia_extract": "Bosch is an American police procedural television series produced by Amazon Studios and Fabrik Entertainment starring Titus Welliver as Los Angeles Police Department detective Harry Bosch. The show was developed for Amazon by Eric Overmyer, and the first season takes its inspiration from the Michael Connelly novels City of Bones (2002), Echo Park (2006), and The Concrete Blonde (1994). It was one of two drama pilots that Amazon streamed online in early 2014, and viewers offered their opinions on it before the studio decided whether to place a series order. The seventh and final season was released on June 25, 2021.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

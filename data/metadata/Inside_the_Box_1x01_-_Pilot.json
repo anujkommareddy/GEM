@@ -1,0 +1,50 @@
+{
+  "show_id": "Inside_the_Box_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Out_of_the_Box_(TV_series)",
+  "wiki_page_title": "Out of the Box (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:42:16.663589+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Out of the Box (TV series)",
+  "search_title_used": "Inside the Box",
+  "alternate_titles": [],
+  "start_year": 1998,
+  "end_year": 2000,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Children's television series"
+  ],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 82,
+  "original_network": [
+    "Playhouse Disney"
+  ],
+  "production_companies": [
+    "OOTB Inc."
+  ],
+  "distributor": null,
+  "creators": [
+    "Douglas LoveEllen Goosenberg Kent"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tony JamesVivian Bayubay McLaughlin"
+  ],
+  "executive_producers": [
+    "Douglas Love"
+  ],
+  "premise_summary": "Out of the Box is an American children's television series which premiered on Playhouse Disney on October 7, 1998, and ended its run on December 6, 2000, with reruns until June 2006. The series takes place in \"The Box\", a playhouse made entirely of cardboard boxes, where two hosts, Tony James and Vivian Bayubay McLaughlin, make crafts, sing songs, and act out plays.",
+  "wikipedia_extract": "Out of the Box is an American children's television series which premiered on Playhouse Disney on October 7, 1998, and ended its run on December 6, 2000, with reruns until June 2006. The series takes place in \"The Box\", a playhouse made entirely of cardboard boxes, where two hosts, Tony James and Vivian Bayubay McLaughlin, make crafts, sing songs, and act out plays.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2000",
+  "franchise_status": null
+}

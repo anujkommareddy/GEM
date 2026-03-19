@@ -1,0 +1,56 @@
+{
+  "show_id": "10_Things_I_Hate_About_You_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You_(TV_series)",
+  "wiki_page_title": "10 Things I Hate About You (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:16:58.707221+00:00",
+  "retrieval_confidence": "high",
+  "title": "10 Things I Hate About You (TV series)",
+  "search_title_used": "10 Things I Hate About You",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 20,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "ABC Family Original Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Lindsey Shaw",
+    "Meaghan Martin",
+    "Ethan Peck",
+    "Nicholas Braun",
+    "Dana Davis",
+    "Kyle Kaplan",
+    "Larry Miller"
+  ],
+  "executive_producers": [
+    "Carter Covington",
+    "John Ziffren",
+    "Robin Schiff"
+  ],
+  "premise_summary": "10 Things I Hate About You is an American television sitcom broadcast on ABC Family beginning in 2009. Developed by Carter Covington, the show is a half-hour, single-camera series based on the 1999 film of the same name. It premiered on Tuesday, July 7, 2009, at 8 pm. Following its initial 10-episode run, a second set of 10 episodes aired from March 29, 2010, to May 24, 2010. The series was cancelled in April 2010.",
+  "wikipedia_extract": "10 Things I Hate About You is an American television sitcom broadcast on ABC Family beginning in 2009. Developed by Carter Covington, the show is a half-hour, single-camera series based on the 1999 film of the same name. It premiered on Tuesday, July 7, 2009, at 8 pm. Following its initial 10-episode run, a second set of 10 episodes aired from March 29, 2010, to May 24, 2010. The series was cancelled in April 2010.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

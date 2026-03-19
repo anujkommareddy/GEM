@@ -1,0 +1,46 @@
+{
+  "show_id": "Stalkers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Stalkers_(TV_series)",
+  "wiki_page_title": "Stalkers (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:17.401982+00:00",
+  "retrieval_confidence": "high",
+  "title": "Stalkers (TV series)",
+  "search_title_used": "Stalkers",
+  "alternate_titles": [],
+  "start_year": 2023,
+  "end_year": null,
+  "country": [
+    "Philippines"
+  ],
+  "original_language": [
+    "Filipino"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 4,
+  "original_network": [
+    "Vivamax"
+  ],
+  "production_companies": [
+    "Viva Films"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Wilbert Ross"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Stalkers is a Filipino thriller television series premiered on February 26, 2023, on Vivamax. Directed and written by Easy Ferrer and produced by Vicente G. del Rosario III and Valerie S. Del Rosario, the series features Wilbert Ross and Rose Van Ginkel.",
+  "wikipedia_extract": "Stalkers is a Filipino thriller television series premiered on February 26, 2023, on Vivamax. Directed and written by Easy Ferrer and produced by Vicente G. del Rosario III and Valerie S. Del Rosario, the series features Wilbert Ross and Rose Van Ginkel.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

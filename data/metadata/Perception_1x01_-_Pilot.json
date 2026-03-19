@@ -1,0 +1,50 @@
+{
+  "show_id": "Perception_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Perception_(TV_series)",
+  "wiki_page_title": "Perception (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:53:33.599403+00:00",
+  "retrieval_confidence": "high",
+  "title": "Perception (TV series)",
+  "search_title_used": "Perception",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 39,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Paperboy Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kenneth Biller"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eric McCormack"
+  ],
+  "executive_producers": [
+    "Kenneth Biller"
+  ],
+  "premise_summary": "Perception is an American crime drama television series created by Kenneth Biller and Mike Sussman. The series stars Eric McCormack as Daniel Pierce, a neuropsychiatrist with schizophrenia who assists the FBI on some of its most complex cases.",
+  "wikipedia_extract": "Perception is an American crime drama television series created by Kenneth Biller and Mike Sussman. The series stars Eric McCormack as Daniel Pierce, a neuropsychiatrist with schizophrenia who assists the FBI on some of its most complex cases.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

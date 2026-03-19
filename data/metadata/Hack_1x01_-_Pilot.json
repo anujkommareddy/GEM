@@ -1,0 +1,64 @@
+{
+  "show_id": "Hack_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Hack_(TV_series)",
+  "wiki_page_title": "Hack (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:35:25.484764+00:00",
+  "retrieval_confidence": "high",
+  "title": "Hack (TV series)",
+  "search_title_used": "Hack",
+  "alternate_titles": [],
+  "start_year": 2002,
+  "end_year": 2004,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 40,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Pariah Television",
+    "CBS Productions",
+    "Big Ticket Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Koepp"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Morse",
+    "Andre Braugher",
+    "Matthew Borish",
+    "George Dzundza",
+    "Donna Murphy",
+    "Matt Czuchry",
+    "Jacqueline Torres",
+    "JoAnna Rhinehart",
+    "Paul Adelstein",
+    "Bebe Neuwirth"
+  ],
+  "executive_producers": [
+    "Thomas Carter",
+    "Gavin Polone",
+    "David Shore",
+    "Robert Singer"
+  ],
+  "premise_summary": "Hack is an American crime drama television series created by David Koepp that aired on CBS in the United States from September 27, 2002, to March 13, 2004, having 40 episodes broadcast over two seasons. The series centers on former Philadelphia police officer Mike Olshansky, who leaves the force after being accused of corruption and works as a taxi driver.",
+  "wikipedia_extract": "Hack is an American crime drama television series created by David Koepp that aired on CBS in the United States from September 27, 2002, to March 13, 2004, having 40 episodes broadcast over two seasons. The series centers on former Philadelphia police officer Mike Olshansky, who leaves the force after being accused of corruption and works as a taxi driver.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2004",
+  "franchise_status": null
+}

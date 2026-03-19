@@ -1,0 +1,51 @@
+{
+  "show_id": "ordinary-lies-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ordinary_Lies",
+  "wiki_page_title": "Ordinary Lies",
+  "retrieval_timestamp": "2026-03-19T05:23:07.853441+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ordinary Lies",
+  "search_title_used": "ordinary lies",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2016,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 12,
+  "original_network": [
+    "BBC One",
+    "BBC One HD"
+  ],
+  "production_companies": [
+    "Red Production Company"
+  ],
+  "distributor": null,
+  "creators": [
+    "Danny Brocklehurst"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jo JoynerMichelle KeeganMax BeesleyJason ManfordMackenzie CrookSally LindsayShazad LatifCon O'NeillAngela GriffinKimberley NixonJoel FryRebekah StatonMatt Di AngeloLuke Bailey"
+  ],
+  "executive_producers": [
+    "Nicola Shindler"
+  ],
+  "premise_summary": "Ordinary Lies is a British television drama series that was first broadcast on BBC One on 17 March 2015. The six-part first series, written by Danny Brocklehurst, is set in a car showroom. The second, also in six-parts, is set in the warehouse of a sports goods company based in Wales. The series executive producer is Nicola Shindler. The series was commissioned by Charlotte Moore for the BBC. In Australia, the series premiered on BBC First from 25 July 2015.",
+  "wikipedia_extract": "Ordinary Lies is a British television drama series that was first broadcast on BBC One on 17 March 2015. The six-part first series, written by Danny Brocklehurst, is set in a car showroom. The second, also in six-parts, is set in the warehouse of a sports goods company based in Wales. The series executive producer is Nicola Shindler. The series was commissioned by Charlotte Moore for the BBC. In Australia, the series premiered on BBC First from 25 July 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2016",
+  "franchise_status": null
+}

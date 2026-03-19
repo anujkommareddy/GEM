@@ -1,0 +1,64 @@
+{
+  "show_id": "Difficult_People_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Difficult_People",
+  "wiki_page_title": "Difficult People",
+  "retrieval_timestamp": "2026-03-19T04:28:32.724251+00:00",
+  "retrieval_confidence": "high",
+  "title": "Difficult People",
+  "search_title_used": "Difficult People",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 28,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "Paper Kite Productions",
+    "3 Arts Entertainment",
+    "Jax Media",
+    "Universal Cable Productions",
+    "Hulu Originals",
+    "Hulu"
+  ],
+  "distributor": null,
+  "creators": [
+    "Julie Klausner"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Julie Klausner",
+    "Billy Eichner",
+    "James Urbaniak",
+    "Andrea Martin",
+    "Cole Escola",
+    "Shakina Nayfack"
+  ],
+  "executive_producers": [
+    "Tony Hernandez",
+    "Amy Poehler",
+    "Scott King",
+    "Julie Klausner",
+    "Dave Becky"
+  ],
+  "premise_summary": "Difficult People is an American comedy television series created by Julie Klausner. Klausner stars alongside Billy Eichner as two struggling and jaded comedians living in New York City; the duo seemingly hate everyone but each other.",
+  "wikipedia_extract": "Difficult People is an American comedy television series created by Julie Klausner. Klausner stars alongside Billy Eichner as two struggling and jaded comedians living in New York City; the duo seemingly hate everyone but each other.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

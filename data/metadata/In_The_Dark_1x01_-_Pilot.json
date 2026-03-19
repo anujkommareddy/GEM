@@ -1,0 +1,63 @@
+{
+  "show_id": "In_The_Dark_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dark_(TV_series)",
+  "wiki_page_title": "Dark (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:41:57.363324+00:00",
+  "retrieval_confidence": "low",
+  "title": "Dark (TV series)",
+  "search_title_used": "In The Dark",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": null,
+  "country": [
+    "Germany"
+  ],
+  "original_language": [
+    "German",
+    "German Sign Language"
+  ],
+  "genres": [
+    "Science-fiction",
+    "Thriller",
+    "Mystery",
+    "Tragedy",
+    "}}"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 26,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Wiedemann & Berg Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Baran bo Odar",
+    "Jantje Friese"
+  ],
+  "showrunners": [
+    "Baran bo Odar",
+    "Jantje Friese"
+  ],
+  "lead_cast": [
+    "See below"
+  ],
+  "executive_producers": [
+    "Justyna Müsch",
+    "Jantje Friese",
+    "Quirin Berg",
+    "Max Wiedemann",
+    "Abraham Davies"
+  ],
+  "premise_summary": "Dark is a German science-fiction mystery thriller television series created by Baran bo Odar and Jantje Friese. It ran for three seasons from 2017 to 2020. The story primarily follows four families from the fictional town of Winden, Germany, as they pursue the truth in the aftermath of a child's disappearance, unraveling a sinister time travel conspiracy that spans several generations. The series explores the existential implications of time and its effect on human nature and life, with its plot structure making prominent use of the bootstrap paradox. It features a large ensemble cast led by Louis Hofmann.",
+  "wikipedia_extract": "Dark is a German science-fiction mystery thriller television series created by Baran bo Odar and Jantje Friese. It ran for three seasons from 2017 to 2020. The story primarily follows four families from the fictional town of Winden, Germany, as they pursue the truth in the aftermath of a child's disappearance, unraveling a sinister time travel conspiracy that spans several generations. The series explores the existential implications of time and its effect on human nature and life, with its plot structure making prominent use of the bootstrap paradox. It features a large ensemble cast led by Louis Hofmann.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,64 @@
+{
+  "show_id": "LA_Law_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Law_&_Order:_LA",
+  "wiki_page_title": "Law & Order: LA",
+  "retrieval_timestamp": "2026-03-19T04:44:12.891562+00:00",
+  "retrieval_confidence": "high",
+  "title": "Law & Order: LA",
+  "search_title_used": "LA Law",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Legal drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Wolf Films",
+    "Universal Media Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dick Wolf"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Skeet Ulrich",
+    "Corey Stoll",
+    "Rachel Ticotin",
+    "Regina Hall",
+    "Megan Boone",
+    "Alfred Molina",
+    "Terrence Howard",
+    "Alana de la Garza",
+    "Wanda De Jesus"
+  ],
+  "executive_producers": [
+    "René Balcer",
+    "Blake Masters",
+    "Peter Jankowski",
+    "Christopher Misiano",
+    "Dick Wolf"
+  ],
+  "premise_summary": "Law & Order: LA, originally titled Law & Order: Los Angeles, is an American police procedural and legal drama television series set in Los Angeles, where it was produced. Created and produced by Dick Wolf and developed by Blake Masters, it premiered on NBC on September 29, 2010, as the fifth series in Wolf's Law & Order franchise. Law & Order: LA debuted after the original Law & Order ended its 20-year run the previous spring.\nThe show received a full-season pickup on October 18, 2010. On January 18, 2011, however, NBC announced that it was putting the series on hold indefinitely. By the time the series returned on April 11, 2011, it had gone through a creative overhaul, including the release of a number of cast members, changing the vocations or responsibilities for some characters, and the shortening of the series title. On May 13, 2011, NBC canceled the series after one season.",
+  "wikipedia_extract": "Law & Order: LA, originally titled Law & Order: Los Angeles, is an American police procedural and legal drama television series set in Los Angeles, where it was produced. Created and produced by Dick Wolf and developed by Blake Masters, it premiered on NBC on September 29, 2010, as the fifth series in Wolf's Law & Order franchise. Law & Order: LA debuted after the original Law & Order ended its 20-year run the previous spring.\nThe show received a full-season pickup on October 18, 2010. On January 18, 2011, however, NBC announced that it was putting the series on hold indefinitely. By the time the series returned on April 11, 2011, it had gone through a creative overhaul, including the release of a number of cast members, changing the vocations or responsibilities for some characters, and the shortening of the series title. On May 13, 2011, NBC canceled the series after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

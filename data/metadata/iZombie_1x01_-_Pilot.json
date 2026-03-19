@@ -1,0 +1,64 @@
+{
+  "show_id": "iZombie_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/IZombie_(TV_series)",
+  "wiki_page_title": "IZombie (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:21:45.155659+00:00",
+  "retrieval_confidence": "high",
+  "title": "IZombie (TV series)",
+  "search_title_used": "iZombie",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy-drama",
+    "Horror",
+    "Police procedural",
+    "}}"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 71,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Spondoolie Productions",
+    "Bonanza Productions",
+    "Vertigo",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Rose McIver",
+    "Malcolm Goodwin",
+    "Rahul Kohli",
+    "Robert Buckley",
+    "David Anders",
+    "Aly Michalka",
+    "Robert Knepper",
+    "Bryce Hodgson"
+  ],
+  "executive_producers": [
+    "Rob Thomas",
+    "Diane Ruggiero-Wright",
+    "Dan Etheridge",
+    "Danielle Stokdyk"
+  ],
+  "premise_summary": "iZombie is an American supernatural procedural drama television series developed by Rob Thomas and Diane Ruggiero-Wright for the CW. It is an adaptation of the DC comic book series iZombie created by Chris Roberson and Michael Allred. The series premiered on March 17, 2015, and ran for five seasons, ending on August 1, 2019. It follows the adventures of doctor-turned-zombie Olivia \"Liv\" Moore, a Seattle Police medical examiner who helps solve murders after eating the victims' brains and temporarily absorbing their memories and personalities.",
+  "wikipedia_extract": "iZombie is an American supernatural procedural drama television series developed by Rob Thomas and Diane Ruggiero-Wright for the CW. It is an adaptation of the DC comic book series iZombie created by Chris Roberson and Michael Allred. The series premiered on March 17, 2015, and ran for five seasons, ending on August 1, 2019. It follows the adventures of doctor-turned-zombie Olivia \"Liv\" Moore, a Seattle Police medical examiner who helps solve murders after eating the victims' brains and temporarily absorbing their memories and personalities.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

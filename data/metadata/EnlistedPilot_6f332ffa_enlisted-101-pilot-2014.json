@@ -1,0 +1,57 @@
+{
+  "show_id": "EnlistedPilot_6f332ffa_enlisted-101-pilot-2014",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Enlisted_(TV_series)",
+  "wiki_page_title": "Enlisted (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:30:20.703881+00:00",
+  "retrieval_confidence": "high",
+  "title": "Enlisted (TV series)",
+  "search_title_used": "Enlisted",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Palace Flophouse",
+    "Snowpants Productions",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kevin Biegel"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Geoff Stults",
+    "Chris Lowell",
+    "Parker Young",
+    "Keith David",
+    "Angelique Cabral"
+  ],
+  "executive_producers": [
+    "Kevin Biegel",
+    "Mike Royce"
+  ],
+  "premise_summary": "Enlisted is an American sitcom that premiered January 10, 2014, on Fox. Fox placed a 13-episode order for the single-camera comedy in May 2013. Despite low ratings, the show received many good reviews.",
+  "wikipedia_extract": "Enlisted is an American sitcom that premiered January 10, 2014, on Fox. Fox placed a 13-episode order for the single-camera comedy in May 2013. Despite low ratings, the show received many good reviews.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

@@ -1,0 +1,57 @@
+{
+  "show_id": "The_Mist_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Mist_(TV_series)",
+  "wiki_page_title": "The Mist (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:10:01.236594+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Mist (TV series)",
+  "search_title_used": "The Mist",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Horror-thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Spike"
+  ],
+  "production_companies": [
+    "Dimension Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Christian Torpe"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Morgan Spector",
+    "Alyssa Sutherland",
+    "Gus Birney",
+    "Danica Curcic",
+    "Okezie Morro",
+    "Luke Cosgrove",
+    "Darren Pettie",
+    "Russell Posner",
+    "Frances Conroy"
+  ],
+  "executive_producers": null,
+  "premise_summary": "The Mist is an American science fiction-horror thriller television series developed by Christian Torpe based on the 1980 novella by Stephen King. Produced by Dimension Television, the series stars Morgan Spector, Alyssa Sutherland, Gus Birney, Danica Curcic, Okezie Morro, Luke Cosgrove, Darren Pettie, Russell Posner and Frances Conroy, and centers around an eerie mist rolls into a small town, where the residents must battle the mysterious mist and its threats, fighting to maintain their morality and sanity.",
+  "wikipedia_extract": "The Mist is an American science fiction-horror thriller television series developed by Christian Torpe based on the 1980 novella by Stephen King. Produced by Dimension Television, the series stars Morgan Spector, Alyssa Sutherland, Gus Birney, Danica Curcic, Okezie Morro, Luke Cosgrove, Darren Pettie, Russell Posner and Frances Conroy, and centers around an eerie mist rolls into a small town, where the residents must battle the mysterious mist and its threats, fighting to maintain their morality and sanity.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

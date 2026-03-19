@@ -1,0 +1,65 @@
+{
+  "show_id": "Hindsight_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Hindsight_(TV_series)",
+  "wiki_page_title": "Hindsight (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:39:21.534413+00:00",
+  "retrieval_confidence": "high",
+  "title": "Hindsight (TV series)",
+  "search_title_used": "Hindsight",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Romantic comedy",
+    "Fantasy",
+    "Science fiction"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "VH1"
+  ],
+  "production_companies": [
+    "POPFilms",
+    "Timberman-Beverly Productions",
+    "Sony Pictures Television",
+    "In Cahoots Media",
+    "VH1 Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Emily Fox"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Laura Ramsey",
+    "Sarah Goldberg",
+    "Craig Horner",
+    "Nick Clifford",
+    "John Patrick Amedori",
+    "Jessy Hodges",
+    "Drew Sidora"
+  ],
+  "executive_producers": [
+    "Emily Fox",
+    "John A. Norris",
+    "Alexander A. Motlagh",
+    "Maggie Malina"
+  ],
+  "premise_summary": "Hindsight is an American comedy-drama television series that premiered on VH1 on January 7, 2015, and ended on March 11, 2015. The series was created by Emily Fox and stars Laura Ramsey in the lead role of Becca Brady. Becca wishes she had lived her life differently, and finds herself sent back to 1995, with her knowledge and experience and a chance to do things differently.",
+  "wikipedia_extract": "Hindsight is an American comedy-drama television series that premiered on VH1 on January 7, 2015, and ended on March 11, 2015. The series was created by Emily Fox and stars Laura Ramsey in the lead role of Becca Brady. Becca wishes she had lived her life differently, and finds herself sent back to 1995, with her knowledge and experience and a chance to do things differently.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

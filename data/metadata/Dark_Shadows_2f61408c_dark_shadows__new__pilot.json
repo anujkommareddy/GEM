@@ -1,0 +1,46 @@
+{
+  "show_id": "Dark_Shadows_2f61408c_dark_shadows__new__pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dark_Shadows",
+  "wiki_page_title": "Dark Shadows",
+  "retrieval_timestamp": "2026-03-19T04:27:23.826751+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dark Shadows",
+  "search_title_used": "Dark Shadows",
+  "alternate_titles": [],
+  "start_year": 1966,
+  "end_year": 1971,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Soap opera"
+  ],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 1,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Dan Curtis Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dan Curtis"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Joan BennettLouis EdmondsNancy BarrettDenise NickersonMitchell RyanAlexandra MoltkeGrayson HallKate JacksonJonathan FridKathryn Leigh ScottDavid SelbyClarice BlackburnLara ParkerThayer DavidJohn KarlenDavid HenesyJoel Crothers"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Dark Shadows is an American Gothic soap opera that aired weekdays on the ABC television network from June 27, 1966, to April 2, 1971. The show depicted the lives, loves, trials, and tribulations of the wealthy Collins family of Collinsport, Maine, where a number of supernatural occurrences take place.",
+  "wikipedia_extract": "Dark Shadows is an American Gothic soap opera that aired weekdays on the ABC television network from June 27, 1966, to April 2, 1971. The show depicted the lives, loves, trials, and tribulations of the wealthy Collins family of Collinsport, Maine, where a number of supernatural occurrences take place.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1971",
+  "franchise_status": null
+}

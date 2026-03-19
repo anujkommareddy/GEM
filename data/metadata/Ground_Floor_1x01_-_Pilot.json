@@ -1,0 +1,61 @@
+{
+  "show_id": "Ground_Floor_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ground_Floor",
+  "wiki_page_title": "Ground Floor",
+  "retrieval_timestamp": "2026-03-19T04:35:02.730134+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ground Floor",
+  "search_title_used": "Ground Floor",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Doozer Productions",
+    "Warner Horizon Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Bill Lawrence",
+    "Greg Malins"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Skylar Astin",
+    "Briga Heelan",
+    "Rory Scovel",
+    "Rene Gube",
+    "James Earl",
+    "Alexis Knapp",
+    "John C. McGinley",
+    "Emily Heller"
+  ],
+  "executive_producers": [
+    "Bill Lawrence",
+    "Jeff Astrof",
+    "Jeff Ingold"
+  ],
+  "premise_summary": "Ground Floor is an American sitcom created by Bill Lawrence and Greg Malins, that aired on TBS for two seasons, from November 14, 2013, through February 10, 2015. The series stars Skylar Astin, Briga Heelan, Rory Scovel and John C. McGinley and followed Brody, a successful banker who falls for Jenny, an intelligent maintenance supervisor who works in the same building.",
+  "wikipedia_extract": "Ground Floor is an American sitcom created by Bill Lawrence and Greg Malins, that aired on TBS for two seasons, from November 14, 2013, through February 10, 2015. The series stars Skylar Astin, Briga Heelan, Rory Scovel and John C. McGinley and followed Brody, a successful banker who falls for Jenny, an intelligent maintenance supervisor who works in the same building.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

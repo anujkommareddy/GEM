@@ -1,0 +1,62 @@
+{
+  "show_id": "HULU - The Path 1x01 (Pilot)",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Path_(TV_series)",
+  "wiki_page_title": "The Path (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:35:21.721656+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Path (TV series)",
+  "search_title_used": "HULU The Path ()",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 36,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "True Jack Productions",
+    "Refuge",
+    "Inc.",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jessica Goldberg"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Aaron Paul",
+    "Michelle Monaghan",
+    "Emma Greenwell",
+    "Rockmond Dunbar",
+    "Kyle Allen",
+    "Amy Forsyth",
+    "Sarah Jones",
+    "Hugh Dancy"
+  ],
+  "executive_producers": [
+    "Jason Katims",
+    "Michelle Lee",
+    "Jessica Goldberg"
+  ],
+  "premise_summary": "The Path is an American drama television series created by Jessica Goldberg, and starring Aaron Paul, Michelle Monaghan, and Hugh Dancy. The show portrays members of a fictional religion known as Meyerism.",
+  "wikipedia_extract": "The Path is an American drama television series created by Jessica Goldberg, and starring Aaron Paul, Michelle Monaghan, and Hugh Dancy. The show portrays members of a fictional religion known as Meyerism.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

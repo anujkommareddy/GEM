@@ -1,0 +1,80 @@
+{
+  "show_id": "community-101-pilot-2009",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Community_(TV_series)",
+  "wiki_page_title": "Community (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:20:30.406228+00:00",
+  "retrieval_confidence": "high",
+  "title": "Community (TV series)",
+  "search_title_used": "community",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Surreal humor",
+    "}}"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 110,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Krasnoff/Foster Entertainment",
+    "A Dan Harmon/Russo Brothers (seasons 1–3)",
+    "Harmonious Claptrap (seasons 5–6)",
+    "Universal TelevisionCredited as Universal Media Studios from 2009 to 2012, known as Open 4 Business Productions in copyright",
+    "Sony Pictures Television",
+    "Yahoo! Studios (season 6)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dan Harmon"
+  ],
+  "showrunners": [
+    "Dan Harmon (seasons 1–3, 5–6)",
+    "David Guarascio (season 4)",
+    "Moses Port (season 4)"
+  ],
+  "lead_cast": [
+    "Joel McHale",
+    "Gillian Jacobs",
+    "Danny Pudi",
+    "Yvette Nicole Brown",
+    "Alison Brie",
+    "Donald Glover",
+    "Ken Jeong",
+    "Chevy Chase",
+    "Jim Rash"
+  ],
+  "executive_producers": [
+    "Anthony RussoJoe Russo",
+    "Dan Harmon",
+    "Gary Foster",
+    "Russ Krasnoff",
+    "Neil Goldman",
+    "Garrett Donovan",
+    "David Guarascio",
+    "Moses Port",
+    "Tristram Shapeero",
+    "Chris McKenna",
+    "Rob Schrab",
+    "Patrick Kienlen"
+  ],
+  "premise_summary": "Community is an American television sitcom created by Dan Harmon. The series ran for 110 episodes over six seasons, with its first five seasons airing on NBC from September 17, 2009, to April 17, 2014, and its final season airing on Yahoo Screen from March 17 to June 2, 2015. Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash. It makes use of meta-humor and pop culture references, paying homage to film and television clichés and tropes.",
+  "wikipedia_extract": "Community is an American television sitcom created by Dan Harmon. The series ran for 110 episodes over six seasons, with its first five seasons airing on NBC from September 17, 2009, to April 17, 2014, and its final season airing on Yahoo Screen from March 17 to June 2, 2015. Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash. It makes use of meta-humor and pop culture references, paying homage to film and television clichés and tropes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

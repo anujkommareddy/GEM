@@ -1,0 +1,62 @@
+{
+  "show_id": "the-capture-s1-ep1-shooting-script",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Capture_(TV_series)",
+  "wiki_page_title": "The Capture (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:24:57.086469+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Capture (TV series)",
+  "search_title_used": "the capture shooting script",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Conspiracy thriller",
+    "Crime drama",
+    "Techno-thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 14,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Heyday Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ben Chanan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Holliday Grainger",
+    "Lia Williams",
+    "Ron Perlman",
+    "Ben Miles",
+    "Ginny Holder",
+    "Cavan Clerkin",
+    "Nigel Lindsay",
+    "Indira Varma",
+    "Daisy Waterstone"
+  ],
+  "executive_producers": [
+    "Ben Chanan",
+    "Rosie Alison",
+    "David Heyman"
+  ],
+  "premise_summary": "The Capture is a British conspiracy thriller television series created and written by Ben Chanan and produced by Heyday Television as part of Universal International Studios for the BBC. The series is centred on DI Rachel Carey, a fast-track Metropolitan Police detective drawn into a vast conspiracy involving real-time deepfake technology, mass surveillance and manipulated video evidence.",
+  "wikipedia_extract": "The Capture is a British conspiracy thriller television series created and written by Ben Chanan and produced by Heyday Television as part of Universal International Studios for the BBC. The series is centred on DI Rachel Carey, a fast-track Metropolitan Police detective drawn into a vast conspiracy involving real-time deepfake technology, mass surveillance and manipulated video evidence.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

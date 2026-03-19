@@ -1,0 +1,50 @@
+{
+  "show_id": "Middleman_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Middleman_(TV_series)",
+  "wiki_page_title": "The Middleman (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:48:35.679650+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Middleman (TV series)",
+  "search_title_used": "Middleman",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action-AdventureScience fictionComedy-drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "Grillo-Marxuach Design GureauProdCo Original"
+  ],
+  "distributor": null,
+  "creators": [
+    "Javier Grillo-MarxuachLes McClaine"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matt KeeslarNatalie MoralesMary Pat GleasonBrit MorganJake Smollett"
+  ],
+  "executive_producers": [
+    "Javier Grillo-MarxuachJohn Ziffren"
+  ],
+  "premise_summary": "The Middleman is an American television series. The series, which was developed for television by Javier Grillo-Marxuach for ABC Family, is based on the Viper Comics series, The Middleman, created by Grillo-Marxuach and Les McClaine. The series ran for one season in 2008.",
+  "wikipedia_extract": "The Middleman is an American television series. The series, which was developed for television by Javier Grillo-Marxuach for ABC Family, is based on the Viper Comics series, The Middleman, created by Grillo-Marxuach and Les McClaine. The series ran for one season in 2008.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

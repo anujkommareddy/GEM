@@ -1,0 +1,50 @@
+{
+  "show_id": "Running_Wilde_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Running_Wilde",
+  "wiki_page_title": "Running Wilde",
+  "retrieval_timestamp": "2026-03-19T04:57:52.164815+00:00",
+  "retrieval_confidence": "high",
+  "title": "Running Wilde",
+  "search_title_used": "Running Wilde",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox (episodes 1-9)FX (episodes 10-13)"
+  ],
+  "production_companies": [
+    "Tantamount StudiosPrincipato-Young Entertainment5 Hole PicturesLionsgate Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mitchell HurwitzJim VallelyWill Arnett"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Will ArnettKeri RussellStefania LaVie OwenMel RodriguezRobert Michael MorrisPeter SerafinowiczDavid Cross"
+  ],
+  "executive_producers": [
+    "Mitchell HurwitzWill ArnettJim VallelyEric TannenbaumKim TannenbaumPaul YoungPeter PrincipatoAnthony RussoJoe Russo"
+  ],
+  "premise_summary": "Running Wilde is an American sitcom created by Mitchell Hurwitz, Jim Vallely and Will Arnett for Fox. It stars Arnett as Steve Wilde, a self-centered, idle bachelor and heir to an oil fortune. The series follows Wilde's awkward attempts to regain the affection of his childhood sweetheart, Emmy, an environmentalist who had been living in the South American jungle, but whose young daughter does not want to return there and who secretly enlists Steve's help to keep Emmy at his mansion, leading to farcical situations and misunderstandings.",
+  "wikipedia_extract": "Running Wilde is an American sitcom created by Mitchell Hurwitz, Jim Vallely and Will Arnett for Fox. It stars Arnett as Steve Wilde, a self-centered, idle bachelor and heir to an oil fortune. The series follows Wilde's awkward attempts to regain the affection of his childhood sweetheart, Emmy, an environmentalist who had been living in the South American jungle, but whose young daughter does not want to return there and who secretly enlists Steve's help to keep Emmy at his mansion, leading to farcical situations and misunderstandings.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

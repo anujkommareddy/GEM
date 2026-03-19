@@ -1,0 +1,54 @@
+{
+  "show_id": "I_Live_With_Models_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/I_Live_with_Models",
+  "wiki_page_title": "I Live with Models",
+  "retrieval_timestamp": "2026-03-19T04:41:22.755228+00:00",
+  "retrieval_confidence": "high",
+  "title": "I Live with Models",
+  "search_title_used": "I Live With Models",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2017,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 16,
+  "original_network": [
+    "Comedy Central UK"
+  ],
+  "production_companies": [
+    "Roughcut Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jon FosterJames Lamont"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Hoffman",
+    "Brianne Howey",
+    "Rebecca Reid",
+    "Joseph May",
+    "Eric Aragon",
+    "Dave Fulton",
+    "Alex Beckett"
+  ],
+  "executive_producers": null,
+  "premise_summary": "I Live with Models is a British television sitcom created by Jon Foster and James Lamont, which originally aired on Comedy Central UK from 23 February 2015. In March 2016 Comedy Central announced that they had ordered a second series, consisting of eight more episodes to be filmed and broadcast later that year.",
+  "wikipedia_extract": "I Live with Models is a British television sitcom created by Jon Foster and James Lamont, which originally aired on Comedy Central UK from 23 February 2015. In March 2016 Comedy Central announced that they had ordered a second series, consisting of eight more episodes to be filmed and broadcast later that year.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

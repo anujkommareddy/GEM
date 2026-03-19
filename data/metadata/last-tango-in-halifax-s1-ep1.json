@@ -1,0 +1,53 @@
+{
+  "show_id": "last-tango-in-halifax-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Last_Tango_in_Halifax",
+  "wiki_page_title": "Last Tango in Halifax",
+  "retrieval_timestamp": "2026-03-19T05:22:09.645695+00:00",
+  "retrieval_confidence": "high",
+  "title": "Last Tango in Halifax",
+  "search_title_used": "last tango in halifax",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Romantic comedyDrama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 24,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Red Production Company"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sally Wainwright"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Derek Jacobi",
+    "Anne Reid",
+    "Sarah Lancashire",
+    "Nicola Walker"
+  ],
+  "executive_producers": [
+    "Nicola Shindler"
+  ],
+  "premise_summary": "Last Tango in Halifax is a British romantic comedy drama series that began broadcasting on BBC One on 20 November 2012 until 15 March 2020. The series stars Derek Jacobi and Anne Reid as Alan and Celia, two widowed old aged pensioners (OAPs) who reconnect and fall in love after decades apart.",
+  "wikipedia_extract": "Last Tango in Halifax is a British romantic comedy drama series that began broadcasting on BBC One on 20 November 2012 until 15 March 2020. The series stars Derek Jacobi and Anne Reid as Alan and Celia, two widowed old aged pensioners (OAPs) who reconnect and fall in love after decades apart.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

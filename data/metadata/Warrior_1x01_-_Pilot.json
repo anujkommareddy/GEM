@@ -1,0 +1,83 @@
+{
+  "show_id": "Warrior_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Warrior_(TV_series)",
+  "wiki_page_title": "Warrior (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:16:37.522840+00:00",
+  "retrieval_confidence": "high",
+  "title": "Warrior (TV series)",
+  "search_title_used": "Warrior",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Cantonese"
+  ],
+  "genres": [
+    "Action",
+    "Crime drama",
+    "Historical drama",
+    "Martial arts"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "Cinemax"
+  ],
+  "production_companies": [
+    "Tropper Ink Productions",
+    "Perfect Storm Entertainment",
+    "Bruce Lee Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jonathan Tropper"
+  ],
+  "showrunners": [
+    "Jonathan Tropper"
+  ],
+  "lead_cast": [
+    "Andrew Koji",
+    "Olivia Cheng",
+    "Jason Tobin",
+    "Dianne Doan",
+    "Kieran Bew",
+    "Dean Jagger",
+    "Joanna Vanderham",
+    "Tom Weston-Jones",
+    "Hoon Lee",
+    "Langley Kirkwood",
+    "Christian McKay",
+    "Perry Yung",
+    "Joe Taslim",
+    "Dustin Nguyen",
+    "Céline Buckens",
+    "Miranda Raison",
+    "Chen Tang",
+    "Maria Elena Laas",
+    "Chelsea Muirhead",
+    "Mark Dacascos",
+    "Adam Rayner"
+  ],
+  "executive_producers": [
+    "Jonathan Tropper",
+    "Justin Lin",
+    "Danielle Woodrow",
+    "Shannon Lee",
+    "Andrew Schneider",
+    "Richard Sharkey"
+  ],
+  "premise_summary": "Warrior is an American martial arts crime drama television series that premiered on April 5, 2019, on Cinemax. It is based on an original concept and treatment by Bruce Lee, and is executive-produced by his daughter, Shannon Lee, and film director Justin Lin. Jonathan Tropper, known for the Cinemax original series Banshee, is the showrunner.",
+  "wikipedia_extract": "Warrior is an American martial arts crime drama television series that premiered on April 5, 2019, on Cinemax. It is based on an original concept and treatment by Bruce Lee, and is executive-produced by his daughter, Shannon Lee, and film director Justin Lin. Jonathan Tropper, known for the Cinemax original series Banshee, is the showrunner.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

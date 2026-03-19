@@ -1,0 +1,58 @@
+{
+  "show_id": "My_Own_Worst_Enemy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/My_Own_Worst_Enemy_(TV_series)",
+  "wiki_page_title": "My Own Worst Enemy (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:50:15.426409+00:00",
+  "retrieval_confidence": "high",
+  "title": "My Own Worst Enemy (TV series)",
+  "search_title_used": "My Own Worst Enemy",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "DramaSpy thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 9,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Dark & Stormy",
+    "Universal Media Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jason Smilovic"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Christian Slater",
+    "Mädchen Amick",
+    "Taylor Lautner",
+    "Bella Thorne",
+    "Saffron Burrows",
+    "Mike O'Malley",
+    "Alfre Woodard",
+    "James Cromwell"
+  ],
+  "executive_producers": [
+    "Jason Smilovic"
+  ],
+  "premise_summary": "My Own Worst Enemy is an American drama television series that aired on NBC from October 13, 2008 and ended on December 15, after 9 episodes, with its cancellation announcement after the fourth episode.",
+  "wikipedia_extract": "My Own Worst Enemy is an American drama television series that aired on NBC from October 13, 2008 and ended on December 15, after 9 episodes, with its cancellation announcement after the fourth episode.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

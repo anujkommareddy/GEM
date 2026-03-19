@@ -1,0 +1,101 @@
+{
+  "show_id": "Homeland_Security_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Homeland_(TV_series)",
+  "wiki_page_title": "Homeland (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:39:56.285130+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Homeland (TV series)",
+  "search_title_used": "Homeland Security",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Espionage thriller",
+    "Psychological thriller",
+    "Political thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 8,
+  "episodes": 96,
+  "original_network": [
+    "Showtime"
+  ],
+  "production_companies": [
+    "Teakwood Lane Productions",
+    "Cherry Pie Productions",
+    "Keshet Studios",
+    "Fox 21 Television StudiosCredited as Fox 21 for first four seasons",
+    "Showtime Networks",
+    "Studio Babelsberg"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Alex Gansa"
+  ],
+  "lead_cast": [
+    "Claire Danes",
+    "Damian Lewis",
+    "Morena Baccarin",
+    "David Harewood",
+    "Diego Klattenhoff",
+    "Jackson Pace",
+    "Morgan Saylor",
+    "Mandy Patinkin",
+    "Jamey Sheridan",
+    "David Marciano",
+    "Navid Negahban",
+    "Rupert Friend",
+    "Sarita Choudhury",
+    "Tracy Letts",
+    "F. Murray Abraham",
+    "Nazanin Boniadi",
+    "Laila Robins",
+    "Sebastian Koch",
+    "Miranda Otto",
+    "Alexander Fehling",
+    "Sarah Sokolovic",
+    "Elizabeth Marvel",
+    "Maury Sterling",
+    "Linus Roache",
+    "Jake Weber",
+    "Morgan Spector",
+    "Costa Ronin",
+    "Nimrat Kaur",
+    "Numan Acar"
+  ],
+  "executive_producers": [
+    "Alex Gansa",
+    "Howard Gordon",
+    "Gideon Raff",
+    "Michael Cuesta",
+    "Avi Nir",
+    "Ran Telem",
+    "Henry Bromell",
+    "Alexander Cary",
+    "Chip Johannessen",
+    "Meredith Stiehm",
+    "Lesli Linka Glatter",
+    "Patrick Harbinson",
+    "Michael Klick",
+    "Claire Danes",
+    "Ron Nyswaner",
+    "Debora Cahn"
+  ],
+  "premise_summary": "Homeland is an American espionage thriller television series developed by Howard Gordon and Alex Gansa. It is based on the Israeli series Prisoners of War, created by Gideon Raff, who also serves as an executive producer on Homeland. The series stars Claire Danes as Carrie Mathison, a CIA officer with bipolar disorder, convinced that decorated Marine Corps scout sniper Nicholas Brody was \"turned\" by al-Qaeda and poses a threat to the United States. The series storyline grows from that premise, together with Mathison's ongoing covert work.",
+  "wikipedia_extract": "Homeland is an American espionage thriller television series developed by Howard Gordon and Alex Gansa. It is based on the Israeli series Prisoners of War, created by Gideon Raff, who also serves as an executive producer on Homeland. The series stars Claire Danes as Carrie Mathison, a CIA officer with bipolar disorder, convinced that decorated Marine Corps scout sniper Nicholas Brody was \"turned\" by al-Qaeda and poses a threat to the United States. The series storyline grows from that premise, together with Mathison's ongoing covert work.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

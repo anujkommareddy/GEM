@@ -1,0 +1,50 @@
+{
+  "show_id": "The_Chicago_Code_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Chicago_Code",
+  "wiki_page_title": "The Chicago Code",
+  "retrieval_timestamp": "2026-03-19T05:06:18.023559+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Chicago Code",
+  "search_title_used": "The Chicago Code",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "MiddKid Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Shawn Ryan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jason Clarke"
+  ],
+  "executive_producers": [
+    "Shawn Ryan"
+  ],
+  "premise_summary": "The Chicago Code is an American crime drama television series created by Shawn Ryan that aired on Fox in the United States. The series was filmed in Chicago, Illinois, originally airing from February 7 to May 23, 2011, with Fox announcing cancellation on May 10, 2011.",
+  "wikipedia_extract": "The Chicago Code is an American crime drama television series created by Shawn Ryan that aired on Fox in the United States. The series was filmed in Chicago, Illinois, originally airing from February 7 to May 23, 2011, with Fox announcing cancellation on May 10, 2011.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

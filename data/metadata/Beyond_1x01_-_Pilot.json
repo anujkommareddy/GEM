@@ -1,0 +1,63 @@
+{
+  "show_id": "Beyond_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Beyond_Paradise_(TV_series)",
+  "wiki_page_title": "Beyond Paradise (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:22:03.762653+00:00",
+  "retrieval_confidence": "high",
+  "title": "Beyond Paradise (TV series)",
+  "search_title_used": "Beyond",
+  "alternate_titles": [],
+  "start_year": 2023,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 21,
+  "original_network": [
+    "BBC One (UK and Ireland)",
+    "BritBox (International)"
+  ],
+  "production_companies": [
+    "Red Planet Pictures"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robert Thorogood",
+    "Tony Jordan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kris Marshall",
+    "Sally Bretton",
+    "Zahra Ahmadi",
+    "Dylan Llewellyn",
+    "Felicity Montagu",
+    "Barbara Flynn",
+    "Melina Sinadinou",
+    "Jamie Bamber"
+  ],
+  "executive_producers": [
+    "Tony Jordan",
+    "Tim Key",
+    "Belinda Campbell",
+    "Alex Jones",
+    "Kris Marshall"
+  ],
+  "premise_summary": "Beyond Paradise is a crime television series that acts as a spin-off of the long-running series Death in Paradise. It stars Kris Marshall and Sally Bretton. The BBC announced that it had commissioned the spin-off on 29 June 2022. The first series of six episodes aired weekly from 24 February 2023 to 7 April 2023.",
+  "wikipedia_extract": "Beyond Paradise is a crime television series that acts as a spin-off of the long-running series Death in Paradise. It stars Kris Marshall and Sally Bretton. The BBC announced that it had commissioned the spin-off on 29 June 2022. The first series of six episodes aired weekly from 24 February 2023 to 7 April 2023.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

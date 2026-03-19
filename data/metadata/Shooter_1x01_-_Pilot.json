@@ -1,0 +1,63 @@
+{
+  "show_id": "Shooter_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Shooter_(TV_series)",
+  "wiki_page_title": "Shooter (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:00:32.276345+00:00",
+  "retrieval_confidence": "high",
+  "title": "Shooter (TV series)",
+  "search_title_used": "Shooter",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Action",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 31,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Leverage Entertainment",
+    "Di Bonaventura Pictures",
+    "Closest to the Hole Productions",
+    "Universal Cable Productions",
+    "Paramount Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Ryan Phillippe",
+    "Shantel VanSanten",
+    "Omar Epps",
+    "Cynthia Addai-Robinson",
+    "Eddie McClintock",
+    "Josh Stewart",
+    "Gerald McRaney"
+  ],
+  "executive_producers": [
+    "Lorenzo di Bonaventura",
+    "John Hlavin",
+    "Stephen Levinson",
+    "Mark Wahlberg"
+  ],
+  "premise_summary": "Shooter is an American drama television series based on the 2007 film of the same name and the first three novels in the Bob Lee Swagger series by Stephen Hunter. The show stars Ryan Phillippe in the lead role of Bob Lee Swagger, a retired United States Marine Corps Scout Sniper from MARSOC living in seclusion who is coaxed back into action after learning of a plot to kill the President. USA Network picked up the pilot in August 2015 and ordered the series in February 2016.",
+  "wikipedia_extract": "Shooter is an American drama television series based on the 2007 film of the same name and the first three novels in the Bob Lee Swagger series by Stephen Hunter. The show stars Ryan Phillippe in the lead role of Bob Lee Swagger, a retired United States Marine Corps Scout Sniper from MARSOC living in seclusion who is coaxed back into action after learning of a plot to kill the President. USA Network picked up the pilot in August 2015 and ordered the series in February 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

@@ -1,0 +1,72 @@
+{
+  "show_id": "Mr_Robot_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mr._Robot",
+  "wiki_page_title": "Mr. Robot",
+  "retrieval_timestamp": "2026-03-19T04:50:00.064416+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Mr. Robot",
+  "search_title_used": "Mr Robot",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Techno-thriller",
+    "Psychological thriller",
+    "Crime thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 45,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Esmail Corp (seasons 2–4)",
+    "Anonymous Content",
+    "Universal Content Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sam Esmail"
+  ],
+  "showrunners": [
+    "Sam Esmail"
+  ],
+  "lead_cast": [
+    "Rami Malek",
+    "Carly Chaikin",
+    "Portia Doubleday",
+    "Martin Wallström",
+    "Christian Slater",
+    "Michael Cristofer",
+    "Stephanie Corneliussen",
+    "Grace Gummer",
+    "BD Wong",
+    "Bobby Cannavale",
+    "Elliot Villar",
+    "Ashlie Atkinson"
+  ],
+  "executive_producers": [
+    "Sam Esmail",
+    "Steve Golin",
+    "Chad Hamilton",
+    "Joseph E. Iberti",
+    "Kyle Bradstreet"
+  ],
+  "premise_summary": "Mr. Robot is an American psychological techno-thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder, clinical depression, and dissociative identity disorder. Elliot is recruited by an insurrectionary anarchist known as \"Mr. Robot\", played by Christian Slater, to join a group of hacktivists called \"fsociety\". The group aims to destroy all debt records by encrypting the financial data of E Corp, the largest conglomerate in the world.",
+  "wikipedia_extract": "Mr. Robot is an American psychological techno-thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder, clinical depression, and dissociative identity disorder. Elliot is recruited by an insurrectionary anarchist known as \"Mr. Robot\", played by Christian Slater, to join a group of hacktivists called \"fsociety\". The group aims to destroy all debt records by encrypting the financial data of E Corp, the largest conglomerate in the world.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

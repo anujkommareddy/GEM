@@ -1,0 +1,57 @@
+{
+  "show_id": "American_Woman_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/American_Woman_(TV_series)",
+  "wiki_page_title": "American Woman (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:19:37.761185+00:00",
+  "retrieval_confidence": "high",
+  "title": "American Woman (TV series)",
+  "search_title_used": "American Woman",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 11,
+  "original_network": [
+    "Paramount Network"
+  ],
+  "production_companies": [
+    "John Wells Productions",
+    "Warner Horizon Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Riggi"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Alicia Silverstone",
+    "Mena Suvari",
+    "Jennifer Bartels",
+    "Makenna James",
+    "Lia McHugh"
+  ],
+  "executive_producers": [
+    "John Wells",
+    "John Riggi",
+    "Alex Hardcastle"
+  ],
+  "premise_summary": "American Woman is an American sitcom inspired by the childhood of actress and reality star Kyle Richards that premiered on June 7, 2018, on Paramount Network. The series was created by John Riggi and stars Alicia Silverstone, Mena Suvari, Jennifer Bartels, Makenna James, and Lia McHugh. On September 5, 2018, it was announced that the series had been cancelled after one season.",
+  "wikipedia_extract": "American Woman is an American sitcom inspired by the childhood of actress and reality star Kyle Richards that premiered on June 7, 2018, on Paramount Network. The series was created by John Riggi and stars Alicia Silverstone, Mena Suvari, Jennifer Bartels, Makenna James, and Lia McHugh. On September 5, 2018, it was announced that the series had been cancelled after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

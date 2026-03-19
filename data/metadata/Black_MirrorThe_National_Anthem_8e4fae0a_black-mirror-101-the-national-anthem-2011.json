@@ -1,0 +1,56 @@
+{
+  "show_id": "Black_MirrorThe_National_Anthem_8e4fae0a_black-mirror-101-the-national-anthem-2011",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Black_Mirror",
+  "wiki_page_title": "Black Mirror",
+  "retrieval_timestamp": "2026-03-19T04:22:39.406484+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Black Mirror",
+  "search_title_used": "BlackMirror",
+  "alternate_titles": [],
+  "start_year": null,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Anthology",
+    "Speculative fiction",
+    "Science fiction",
+    "Dystopia"
+  ],
+  "format_type": "anthology",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 33,
+  "original_network": [
+    "Channel 4"
+  ],
+  "production_companies": [
+    "Zeppotron (2011–2013)",
+    "House of Tomorrow (2014–2019)",
+    "Broke & Bones (2023–present)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Charlie Brooker"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Annabel Jones",
+    "Charlie Brooker",
+    "Jessica Rhoades (series 6)",
+    "Bisha K. Ali (series 6)"
+  ],
+  "premise_summary": "Black Mirror is a British anthology television series created by Charlie Brooker. Most episodes are speculative fiction, set in near-future dystopias containing sci-fi technology. The series is inspired by The Twilight Zone and uses the themes of technology and media to comment on contemporary social issues. Most episodes are written by Brooker with involvement by the executive producer Annabel Jones.",
+  "wikipedia_extract": "Black Mirror is a British anthology television series created by Charlie Brooker. Most episodes are speculative fiction, set in near-future dystopias containing sci-fi technology. The series is inspired by The Twilight Zone and uses the themes of technology and media to comment on contemporary social issues. Most episodes are written by Brooker with involvement by the executive producer Annabel Jones.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

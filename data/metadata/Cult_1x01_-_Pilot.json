@@ -1,0 +1,63 @@
+{
+  "show_id": "Cult_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Cult_(TV_series)",
+  "wiki_page_title": "Cult (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:27:00.921590+00:00",
+  "retrieval_confidence": "high",
+  "title": "Cult (TV series)",
+  "search_title_used": "Cult",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Mystery",
+    "Psychological thriller",
+    "Horror"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Rockne S. O'Bannon Television",
+    "Fake Empire",
+    "CBS Television Studios",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Rockne S. O'Bannon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matthew Davis",
+    "Jessica Lucas",
+    "Alona Tal",
+    "Robert Knepper"
+  ],
+  "executive_producers": [
+    "Jason Ensler",
+    "Josh Schwartz",
+    "Steven Rae",
+    "Stephanie Savage",
+    "Len Goldstein",
+    "Rockne S. O'Bannon"
+  ],
+  "premise_summary": "Cult is an American mystery psychological thriller television series created by Rockne S. O'Bannon that ran on The CW from February 19 to July 12, 2013. The series centers on a journalist blogger and a production assistant, who investigate a series of mysterious disappearances that are linked to a popular television series named Cult.",
+  "wikipedia_extract": "Cult is an American mystery psychological thriller television series created by Rockne S. O'Bannon that ran on The CW from February 19 to July 12, 2013. The series centers on a journalist blogger and a production assistant, who investigate a series of mysterious disappearances that are linked to a popular television series named Cult.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

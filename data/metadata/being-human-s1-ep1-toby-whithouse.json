@@ -1,0 +1,50 @@
+{
+  "show_id": "being-human-s1-ep1-toby-whithouse",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Being_Human_(British_TV_series)",
+  "wiki_page_title": "Being Human (British TV series)",
+  "retrieval_timestamp": "2026-03-19T05:19:44.275370+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Being Human (British TV series)",
+  "search_title_used": "being human toby whithouse",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2013,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Horror"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 37,
+  "original_network": [
+    "BBC Three"
+  ],
+  "production_companies": [
+    "Touchpaper Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Toby Whithouse"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Lenora Crichlow"
+  ],
+  "executive_producers": [
+    "Koei Karpe"
+  ],
+  "premise_summary": "Being Human is a British supernatural comedy-drama television series created and written by Toby Whithouse and first broadcast on BBC Three in 2009. The show blends elements of flatshare comedy and horror drama. The initial pilot episode starred Andrea Riseborough as Annie Sawyer, Russell Tovey as George Sands, and Guy Flanagan as John Mitchell – all of whom are sharing accommodation and attempting as well as they can to live a \"normal\" life and blend in with the ordinary humans around them, striving to fit in more.",
+  "wikipedia_extract": "Being Human is a British supernatural comedy-drama television series created and written by Toby Whithouse and first broadcast on BBC Three in 2009. The show blends elements of flatshare comedy and horror drama. The initial pilot episode starred Andrea Riseborough as Annie Sawyer, Russell Tovey as George Sands, and Guy Flanagan as John Mitchell – all of whom are sharing accommodation and attempting as well as they can to live a \"normal\" life and blend in with the ordinary humans around them, striving to fit in more.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

@@ -1,0 +1,54 @@
+{
+  "show_id": "waterloo-road-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Waterloo_Road_(TV_series)",
+  "wiki_page_title": "Waterloo Road (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:26:50.416552+00:00",
+  "retrieval_confidence": "high",
+  "title": "Waterloo Road (TV series)",
+  "search_title_used": "waterloo road",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "School drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 254,
+  "original_network": [
+    "BBC One (2006–2014, 2023–present)",
+    "BBC iPlayer (2023–present)",
+    "BBC Three (2015)"
+  ],
+  "production_companies": [
+    "Shed Productions (series 1–10)",
+    "BBC Scotland (series 8–10)url=http://www.waterlooroad.co.uk/information/info_index.html"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ann McManus",
+    "Maureen Chadwick"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Full cast"
+  ],
+  "executive_producers": [
+    "Various"
+  ],
+  "premise_summary": "Waterloo Road is a British television drama series set in a comprehensive school of the same name, first broadcast on BBC One on 9 March 2006, and concluding its original run on 9 March 2015.",
+  "wikipedia_extract": "Waterloo Road is a British television drama series set in a comprehensive school of the same name, first broadcast on BBC One on 9 March 2006, and concluding its original run on 9 March 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,48 @@
+{
+  "show_id": "The_Beautiful_Life_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Life_Is_Beautiful_(2010_TV_series)",
+  "wiki_page_title": "Life Is Beautiful (2010 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:05:23.156236+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Life Is Beautiful (2010 TV series)",
+  "search_title_used": "The Beautiful Life",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2010,
+  "country": [
+    "South Korea"
+  ],
+  "original_language": [
+    "Korean"
+  ],
+  "genres": [
+    "RomanceDramaFamily"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 63,
+  "original_network": [
+    "SBS TV"
+  ],
+  "production_companies": [
+    "SBS Plus"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Song Chang-euiLee Sang-wooLee Sang-yoonNam Sang-mi"
+  ],
+  "executive_producers": [
+    "Choi Jang-won"
+  ],
+  "premise_summary": "Life Is Beautiful is a 2010 South Korean television series starring Song Chang-eui, Lee Sang-woo, Lee Sang-yoon and Nam Sang-mi. It aired on SBS TV from March 20 to November 7, 2010 on Saturdays and Sundays at 21:45 for 63 episodes.",
+  "wikipedia_extract": "Life Is Beautiful is a 2010 South Korean television series starring Song Chang-eui, Lee Sang-woo, Lee Sang-yoon and Nam Sang-mi. It aired on SBS TV from March 20 to November 7, 2010 on Saturdays and Sundays at 21:45 for 63 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

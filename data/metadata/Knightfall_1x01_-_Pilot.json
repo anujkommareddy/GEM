@@ -1,0 +1,84 @@
+{
+  "show_id": "Knightfall_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Knightfall_(TV_series)",
+  "wiki_page_title": "Knightfall (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:01.103545+00:00",
+  "retrieval_confidence": "high",
+  "title": "Knightfall (TV series)",
+  "search_title_used": "Knightfall",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States",
+    "Czech Republic"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical fiction"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 18,
+  "original_network": [
+    "History"
+  ],
+  "production_companies": [
+    "A+E Studios",
+    "Midnight Radio",
+    "Island Pictures",
+    "Motor",
+    "The Combine",
+    "Stillking Films",
+    "PAKT Media"
+  ],
+  "distributor": null,
+  "creators": [
+    "Don Handfield",
+    "Richard Rayner"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tom Cullen",
+    "Jim Carter",
+    "Pádraic Delaney",
+    "Simon Merrells",
+    "Julian Ovenden",
+    "Olivia Ross",
+    "Ed Stoppard",
+    "Sabrina Bartlett",
+    "Bobby Schofield",
+    "Sarah-Sofie Boussnina",
+    "Tom Forbes",
+    "Mark Hamill"
+  ],
+  "executive_producers": [
+    "Dominic Minghella",
+    "Josh Appelbaum",
+    "André Nemec",
+    "Jeff Pinkner",
+    "Scott Rosenberg",
+    "Barry Jossen",
+    "Jana Bennett",
+    "Douglas Mackinnon",
+    "Jeremy Renner",
+    "Don Handfield",
+    "Richard Rayner",
+    "Sonny Postiglione",
+    "Aaron Helbing",
+    "Rick Jacobson",
+    "Ethan Reiff",
+    "Cyrus Voris"
+  ],
+  "premise_summary": "Knightfall is a historical fiction drama television series created by Don Handfield and Richard Rayner for the History Channel. Filmed in the Czech Republic and Croatia, it premiered on December 6, 2017, in the United States. On August 13, 2018, History renewed the series for a second season, which premiered on March 25, 2019. In May 2020, it was announced that the series had been cancelled.",
+  "wikipedia_extract": "Knightfall is a historical fiction drama television series created by Don Handfield and Richard Rayner for the History Channel. Filmed in the Czech Republic and Croatia, it premiered on December 6, 2017, in the United States. On August 13, 2018, History renewed the series for a second season, which premiered on March 25, 2019. In May 2020, it was announced that the series had been cancelled.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,58 @@
+{
+  "show_id": "FuturamaSpace_Pilot_3000_46a75442_futurama-101-space-pilot-3000-1999",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Futurama",
+  "wiki_page_title": "Futurama",
+  "retrieval_timestamp": "2026-03-19T04:32:54.609550+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Futurama",
+  "search_title_used": "FuturamaSpace",
+  "alternate_titles": [],
+  "start_year": 1999,
+  "end_year": 2003,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Animated sitcom",
+    "Science fiction comedy",
+    "Satire",
+    "Black comedy"
+  ],
+  "format_type": "animated",
+  "runtime_class": "half-hour",
+  "seasons": 10,
+  "episodes": 170,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "The Curiosity Company",
+    "20th Century Fox Television (seasons 1–7)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matt Groening"
+  ],
+  "showrunners": [
+    "Matt Groening",
+    "David X. Cohen"
+  ],
+  "lead_cast": null,
+  "executive_producers": [
+    "Matt Groening",
+    "David X. Cohen",
+    "Ken Keeler",
+    "Claudia Katz"
+  ],
+  "premise_summary": "Futurama is an American animated science fiction sitcom created by Matt Groening for the Fox Broadcasting Company and later revived by Comedy Central, and then Hulu. The series follows Philip J. Fry, a young man who is cryogenically preserved for 1,000 years and revived on December 31, 2999. Fry finds work at the interplanetary delivery company Planet Express, working alongside the one-eyed mutant Leela and the robot Bender. The series was envisioned by Groening in the mid-1990s while working on The Simpsons; he brought David X. Cohen aboard to develop storylines and characters to pitch the show to Fox.",
+  "wikipedia_extract": "Futurama is an American animated science fiction sitcom created by Matt Groening for the Fox Broadcasting Company and later revived by Comedy Central, and then Hulu. The series follows Philip J. Fry, a young man who is cryogenically preserved for 1,000 years and revived on December 31, 2999. Fry finds work at the interplanetary delivery company Planet Express, working alongside the one-eyed mutant Leela and the robot Bender. The series was envisioned by Groening in the mid-1990s while working on The Simpsons; he brought David X. Cohen aboard to develop storylines and characters to pitch the show to Fox.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2003",
+  "franchise_status": null
+}

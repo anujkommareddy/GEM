@@ -1,0 +1,59 @@
+{
+  "show_id": "American_Gothic_(2016)_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/American_Gothic_(1995_TV_series)",
+  "wiki_page_title": "American Gothic (1995 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:19:22.417512+00:00",
+  "retrieval_confidence": "medium",
+  "title": "American Gothic (1995 TV series)",
+  "search_title_used": "American Gothic ()",
+  "alternate_titles": [],
+  "start_year": 1995,
+  "end_year": 1996,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Horror",
+    "Supernatural",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Renaissance Pictures"
+  ],
+  "distributor": null,
+  "creators": [
+    "Shaun Cassidy"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Gary Cole",
+    "Lucas Black",
+    "Paige Turco",
+    "Brenda Bakke",
+    "Sarah Paulson",
+    "Jake Weber",
+    "Nick Searcy"
+  ],
+  "executive_producers": [
+    "Sam Raimi",
+    "Robert Tapert"
+  ],
+  "premise_summary": "American Gothic is an American horror series created by Shaun Cassidy and starring Gary Cole, Lucas Black, Paige Turco, Brenda Bakke, Sarah Paulson, Jake Weber, and Nick Searcy. It focuses on a small South Carolina town ruled by a sheriff who uses demonic powers to control residents. The series features a number of recurring and non-recurring guest stars, including Bruce Campbell, Amy Steel, Pat Hingle, Evan Rachel Wood, Veronica Cartwright, and Danny Masterson.",
+  "wikipedia_extract": "American Gothic is an American horror series created by Shaun Cassidy and starring Gary Cole, Lucas Black, Paige Turco, Brenda Bakke, Sarah Paulson, Jake Weber, and Nick Searcy. It focuses on a small South Carolina town ruled by a sheriff who uses demonic powers to control residents. The series features a number of recurring and non-recurring guest stars, including Bruce Campbell, Amy Steel, Pat Hingle, Evan Rachel Wood, Veronica Cartwright, and Danny Masterson.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1996",
+  "franchise_status": null
+}

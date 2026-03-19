@@ -1,0 +1,62 @@
+{
+  "show_id": "Almost_Human_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Almost_Human_(TV_series)",
+  "wiki_page_title": "Almost Human (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:59.334437+00:00",
+  "retrieval_confidence": "high",
+  "title": "Almost Human (TV series)",
+  "search_title_used": "Almost Human",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Cyberpunk",
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Frequency Films",
+    "Bad Robot",
+    "Bonanza Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "J. H. Wyman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Karl Urban",
+    "Michael Ealy",
+    "Minka Kelly",
+    "Mackenzie Crook",
+    "Michael Irby",
+    "Lili Taylor"
+  ],
+  "executive_producers": [
+    "J. H. Wyman",
+    "J. J. Abrams",
+    "Bryan Burk"
+  ],
+  "premise_summary": "Almost Human is an American science fiction/crime drama that aired on Fox. The series was created by J. H. Wyman for Frequency Films, Bad Robot and Warner Bros. Television, with Wyman, Bryan Burk and J. J. Abrams as its executive producers. It stars Karl Urban as a police detective in 2048 who is reluctantly paired with an android partner played by Michael Ealy. The series premiered on November 17, 2013, and aired through March 3, 2014. After a single season, Fox cancelled the series on April 29, 2014.",
+  "wikipedia_extract": "Almost Human is an American science fiction/crime drama that aired on Fox. The series was created by J. H. Wyman for Frequency Films, Bad Robot and Warner Bros. Television, with Wyman, Bryan Burk and J. J. Abrams as its executive producers. It stars Karl Urban as a police detective in 2048 who is reluctantly paired with an android partner played by Michael Ealy. The series premiered on November 17, 2013, and aired through March 3, 2014. After a single season, Fox cancelled the series on April 29, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

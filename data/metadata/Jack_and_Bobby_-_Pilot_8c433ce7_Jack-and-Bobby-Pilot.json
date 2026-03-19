@@ -1,0 +1,64 @@
+{
+  "show_id": "Jack_and_Bobby_-_Pilot_8c433ce7_Jack-and-Bobby-Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Jack_&_Bobby",
+  "wiki_page_title": "Jack & Bobby",
+  "retrieval_timestamp": "2026-03-19T04:42:43.607683+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Jack & Bobby",
+  "search_title_used": "Jack and Bobby",
+  "alternate_titles": [],
+  "start_year": 2004,
+  "end_year": 2005,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "The WB"
+  ],
+  "production_companies": [
+    "Berlanti-Liddell Productions",
+    "Shoe Money Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Greg Berlanti",
+    "Vanessa Taylor",
+    "Steven A. Cohen",
+    "Brad Meltzer"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Christine Lahti",
+    "Matt Long",
+    "Logan Lerman",
+    "Jessica Paré",
+    "Edwin Hodge",
+    "John Slattery",
+    "Bradley Cooper",
+    "Keri Lynn Pratt"
+  ],
+  "executive_producers": [
+    "Greg Berlanti",
+    "Mickey Liddell",
+    "Thomas Schlamme"
+  ],
+  "premise_summary": "Jack & Bobby is an American drama television series created by Greg Berlanti, Vanessa Taylor, Steven A. Cohen, and Brad Meltzer. It aired on The WB from September 12, 2004, to May 11, 2005. The series' title is a reference to real-life political brothers John and Robert Kennedy.",
+  "wikipedia_extract": "Jack & Bobby is an American drama television series created by Greg Berlanti, Vanessa Taylor, Steven A. Cohen, and Brad Meltzer. It aired on The WB from September 12, 2004, to May 11, 2005. The series' title is a reference to real-life political brothers John and Robert Kennedy.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2005",
+  "franchise_status": null
+}

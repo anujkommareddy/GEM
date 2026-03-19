@@ -1,0 +1,44 @@
+{
+  "show_id": "Zero_Hour_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Zero_Hour_(2004_TV_series)",
+  "wiki_page_title": "Zero Hour (2004 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:19:06.945388+00:00",
+  "retrieval_confidence": "high",
+  "title": "Zero Hour (2004 TV series)",
+  "search_title_used": "Zero Hour",
+  "alternate_titles": [],
+  "start_year": 2004,
+  "end_year": 2006,
+  "country": [
+    "CanadaUnited Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Documentary, docudrama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 16,
+  "original_network": [
+    "History Television"
+  ],
+  "production_companies": [
+    "Cineflix Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": null,
+  "premise_summary": "Zero Hour is a documentary-style television series. It aired on History Channel in the United States, on History Television in Canada and on the BBC in the United Kingdom. Zero Hour has also aired on Channel Seven in Australia ; on Discovery Channel in Africa, Asia, New Zealand, Brazil, and the Netherlands. The program focuses on retelling the details of tragic man-made disasters which each unfolded in less than an hour.",
+  "wikipedia_extract": "Zero Hour is a documentary-style television series. It aired on History Channel in the United States, on History Television in Canada and on the BBC in the United Kingdom. Zero Hour has also aired on Channel Seven in Australia ; on Discovery Channel in Africa, Asia, New Zealand, Brazil, and the Netherlands. The program focuses on retelling the details of tragic man-made disasters which each unfolded in less than an hour.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2006",
+  "franchise_status": null
+}

@@ -1,0 +1,66 @@
+{
+  "show_id": "Rake_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rake_(American_TV_series)",
+  "wiki_page_title": "Rake (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:55:38.220520+00:00",
+  "retrieval_confidence": "high",
+  "title": "Rake (American TV series)",
+  "search_title_used": "Rake",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Black comedy",
+    "Comedy drama",
+    "Legal drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Blow by Blow Productions",
+    "Essential Media and Entertainment",
+    "Fedora Entertainment",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Greg Kinnear",
+    "John Ortiz",
+    "Necar Zadegan",
+    "Bojana Novakovic",
+    "Tara Summers",
+    "Miranda Otto",
+    "Ian Colletti"
+  ],
+  "executive_producers": [
+    "Greg Kinnear",
+    "Ian Collie",
+    "Lesly Tolan",
+    "Michael Wimer",
+    "Peter Duncan",
+    "Peter Tolan",
+    "Richard Roxburgh",
+    "Sam Raimi"
+  ],
+  "premise_summary": "Rake is an American comedy-drama television series and an adaptation of the Australian series of the same name, both of which are created by Peter Duncan. Duncan served as series producer with, among others, star Greg Kinnear, Peter Tolan, and Richard Roxburgh, on this version for Fedora Entertainment, Essential Media, and Sony Pictures Television. On May 8, 2013, the series was added to the Fox network's 2013–14 schedule as a mid-season entry. The series premiered on January 23, 2014, originally airing Thursdays on the network, before moving to Fridays late in the first season and eventually to Saturdays for the final two episodes. On May 7, 2014, Fox canceled the series after one season, but ultimately aired the produced episodes.",
+  "wikipedia_extract": "Rake is an American comedy-drama television series and an adaptation of the Australian series of the same name, both of which are created by Peter Duncan. Duncan served as series producer with, among others, star Greg Kinnear, Peter Tolan, and Richard Roxburgh, on this version for Fedora Entertainment, Essential Media, and Sony Pictures Television. On May 8, 2013, the series was added to the Fox network's 2013–14 schedule as a mid-season entry. The series premiered on January 23, 2014, originally airing Thursdays on the network, before moving to Fridays late in the first season and eventually to Saturdays for the final two episodes. On May 7, 2014, Fox canceled the series after one season, but ultimately aired the produced episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

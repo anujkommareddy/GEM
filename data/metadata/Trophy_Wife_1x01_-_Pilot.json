@@ -1,0 +1,50 @@
+{
+  "show_id": "Trophy_Wife_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Trophy_Wife_(TV_series)",
+  "wiki_page_title": "Trophy Wife (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:14:35.846889+00:00",
+  "retrieval_confidence": "high",
+  "title": "Trophy Wife (TV series)",
+  "search_title_used": "Trophy Wife",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Quantity Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Emily Halpern"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Malin Åkerman"
+  ],
+  "executive_producers": [
+    "Emily Halpern"
+  ],
+  "premise_summary": "Trophy Wife is an American television sitcom that aired during the 2013–14 television season on ABC. The series was co-created and executive produced by Emily Halpern and Sarah Haskins for ABC Studios. The series was green-lit by ABC for a series order pick up on May 10, 2013. The series originally ran from September 24, 2013 to May 13, 2014.",
+  "wikipedia_extract": "Trophy Wife is an American television sitcom that aired during the 2013–14 television season on ABC. The series was co-created and executive produced by Emily Halpern and Sarah Haskins for ABC Studios. The series was green-lit by ABC for a series order pick up on May 10, 2013. The series originally ran from September 24, 2013 to May 13, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

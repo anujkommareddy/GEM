@@ -1,0 +1,61 @@
+{
+  "show_id": "Wedding_Band_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Wedding_Band",
+  "wiki_page_title": "Wedding Band",
+  "retrieval_timestamp": "2026-03-19T05:16:56.657608+00:00",
+  "retrieval_confidence": "high",
+  "title": "Wedding Band",
+  "search_title_used": "Wedding Band",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Tollin Productions",
+    "FremantleMedia North America"
+  ],
+  "distributor": null,
+  "creators": [
+    "Darin Moiselle",
+    "Josh Lobis"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Brian Austin Green",
+    "Peter Cambor",
+    "Jenny Wade",
+    "Derek Miller",
+    "Kathryn Fiore",
+    "Harold Perrineau",
+    "Melora Hardin"
+  ],
+  "executive_producers": [
+    "Mike Tollin",
+    "Josh Lobis",
+    "Darin Moiselle",
+    "Matt Pyken"
+  ],
+  "premise_summary": "Wedding Band is an American comedy drama television series starring Brian Austin Green, Harold Perrineau, Peter Cambor and Derek Miller. The series ran on TBS from November 10, 2012, to January 19, 2013, at 10 pm EST. It was created by Darin Moiselle and Josh Lobis. Despite positive reviews, TBS officially cancelled the series on January 22, 2013, after a single season, due to low ratings. It was the last project by Tollin/Robbins Productions until Klutch Academy in 2021.",
+  "wikipedia_extract": "Wedding Band is an American comedy drama television series starring Brian Austin Green, Harold Perrineau, Peter Cambor and Derek Miller. The series ran on TBS from November 10, 2012, to January 19, 2013, at 10 pm EST. It was created by Darin Moiselle and Josh Lobis. Despite positive reviews, TBS officially cancelled the series on January 22, 2013, after a single season, due to low ratings. It was the last project by Tollin/Robbins Productions until Klutch Academy in 2021.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

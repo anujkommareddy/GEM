@@ -1,0 +1,61 @@
+{
+  "show_id": "Veronicas_Closet_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Veronica's_Closet",
+  "wiki_page_title": "Veronica's Closet",
+  "retrieval_timestamp": "2026-03-19T05:16:18.623072+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Veronica's Closet",
+  "search_title_used": "Veronicas Closet",
+  "alternate_titles": [],
+  "start_year": 1997,
+  "end_year": 2000,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 66,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Bright/Kauffman/Crane Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Crane",
+    "Marta Kauffman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kirstie Alley",
+    "Dan Cortese",
+    "Daryl Mitchell",
+    "Wallace Langham",
+    "Kathy Najimy",
+    "Ron Silver",
+    "Lorri Bagley",
+    "Robert Prosky"
+  ],
+  "executive_producers": [
+    "Kevin S. Bright",
+    "Marta Kauffman",
+    "David Crane"
+  ],
+  "premise_summary": "Veronica's Closet is an American television sitcom created by David Crane and Marta Kauffman. It aired on NBC for three seasons, from September 25, 1997, to December 7, 2000.",
+  "wikipedia_extract": "Veronica's Closet is an American television sitcom created by David Crane and Marta Kauffman. It aired on NBC for three seasons, from September 25, 1997, to December 7, 2000.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2000",
+  "franchise_status": null
+}

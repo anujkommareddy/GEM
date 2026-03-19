@@ -1,0 +1,64 @@
+{
+  "show_id": "Awake_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Awake_(TV_series)",
+  "wiki_page_title": "Awake (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:20:27.548273+00:00",
+  "retrieval_confidence": "high",
+  "title": "Awake (TV series)",
+  "search_title_used": "Awake",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Fantasy",
+    "Thriller"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Letter Eleven",
+    "Teakwood Lane Productions",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kyle Killen"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jason Isaacs",
+    "Laura Allen",
+    "Steve Harris",
+    "Dylan Minnette",
+    "B.D. Wong",
+    "Michaela McManus",
+    "Wilmer Valderrama",
+    "Cherry Jones"
+  ],
+  "executive_producers": [
+    "Howard Gordon",
+    "Kyle Killen",
+    "Jeffrey Reiner",
+    "David Slade"
+  ],
+  "premise_summary": "Awake is an American police procedural fantasy drama television series that originally aired on NBC for one season from March 1 to May 24, 2012. The pilot episode had an early release on Hulu on February 16, 2012, two weeks before the series' premiere on television. Kyle Killen, the series' creator, was primarily responsible for the program's concept. Killen and David Slade served as executive producers of the pilot episode, and Killen continued producing the series along with Jeffrey Reiner and Howard Gordon.",
+  "wikipedia_extract": "Awake is an American police procedural fantasy drama television series that originally aired on NBC for one season from March 1 to May 24, 2012. The pilot episode had an early release on Hulu on February 16, 2012, two weeks before the series' premiere on television. Kyle Killen, the series' creator, was primarily responsible for the program's concept. Killen and David Slade served as executive producers of the pilot episode, and Killen continued producing the series along with Jeffrey Reiner and Howard Gordon.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

@@ -1,0 +1,70 @@
+{
+  "show_id": "Terminales_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Terminal_List",
+  "wiki_page_title": "The Terminal List",
+  "retrieval_timestamp": "2026-03-19T05:04:31.061370+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "The Terminal List",
+  "search_title_used": "Terminales",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Conspiracy thriller",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Amazon MGM Studios",
+    "Indivisible Productions",
+    "Fuqua Films",
+    "DiGilio Films",
+    "Civic Center Media",
+    "MRC Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David DiGilio"
+  ],
+  "showrunners": [
+    "David DiGilio"
+  ],
+  "lead_cast": [
+    "Chris Pratt",
+    "Constance Wu",
+    "Taylor Kitsch",
+    "Riley Keough",
+    "Arlo Mertz",
+    "Jeanne Tripplehorn"
+  ],
+  "executive_producers": [
+    "Chris Pratt",
+    "David DiGilio",
+    "Antoine Fuqua",
+    "Jack Carr",
+    "Jon Schumacher",
+    "Daniel Shattuck",
+    "David Auge"
+  ],
+  "premise_summary": "The Terminal List is an American action thriller television series created by David DiGilio for Amazon Prime Video. It is based on the 2018 novel of the same name by Jack Carr. The series tells the story of a Navy SEAL who seeks to avenge the murder of his family. It stars Chris Pratt, Constance Wu, Taylor Kitsch, Riley Keough, Arlo Mertz, and Jeanne Tripplehorn.",
+  "wikipedia_extract": "The Terminal List is an American action thriller television series created by David DiGilio for Amazon Prime Video. It is based on the 2018 novel of the same name by Jack Carr. The series tells the story of a Navy SEAL who seeks to avenge the murder of his family. It stars Chris Pratt, Constance Wu, Taylor Kitsch, Riley Keough, Arlo Mertz, and Jeanne Tripplehorn.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

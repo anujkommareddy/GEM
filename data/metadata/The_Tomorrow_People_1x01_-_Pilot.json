@@ -1,0 +1,57 @@
+{
+  "show_id": "The_Tomorrow_People_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Tomorrow_People",
+  "wiki_page_title": "The Tomorrow People",
+  "retrieval_timestamp": "2026-03-19T05:12:14.737870+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Tomorrow People",
+  "search_title_used": "The Tomorrow People",
+  "alternate_titles": [],
+  "start_year": 1973,
+  "end_year": 1979,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Fantasy / Drama / Sci-Fi"
+  ],
+  "format_type": "drama",
+  "runtime_class": "half-hour",
+  "seasons": null,
+  "episodes": 68,
+  "original_network": [
+    "ITV"
+  ],
+  "production_companies": [
+    "Thames Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Roger Price"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Nicholas Young",
+    "Elizabeth Adare",
+    "Peter Vaughan-Clarke",
+    "Philip Gilbert",
+    "Stephen Salmon",
+    "Sammie Winmill",
+    "Dean Lawrence",
+    "Mike Holoway",
+    "Misako Koba",
+    "Nigel Rhodes"
+  ],
+  "executive_producers": null,
+  "premise_summary": "The Tomorrow People is a British children's science fiction television series created by Roger Price. Produced by Thames Television for the ITV Network, the series first ran from 30 April 1973 to 19 February 1979.",
+  "wikipedia_extract": "The Tomorrow People is a British children's science fiction television series created by Roger Price. Produced by Thames Television for the ITV Network, the series first ran from 30 April 1973 to 19 February 1979.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1979",
+  "franchise_status": null
+}

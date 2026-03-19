@@ -1,0 +1,62 @@
+{
+  "show_id": "Minority_Report_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Minority_Report_(TV_series)",
+  "wiki_page_title": "Minority Report (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:48:51.182805+00:00",
+  "retrieval_confidence": "high",
+  "title": "Minority Report (TV series)",
+  "search_title_used": "Minority Report",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Amblin Television",
+    "Paramount Television",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Stark Sands",
+    "Meagan Good",
+    "Nick Zano",
+    "Daniel London",
+    "Laura Regan",
+    "Li Jun Li",
+    "Wilmer Valderrama"
+  ],
+  "executive_producers": [
+    "Mark Mylod",
+    "Max Borenstein",
+    "Darryl Frank",
+    "Justin Falvey",
+    "Kevin Falls",
+    "Steven Spielberg"
+  ],
+  "premise_summary": "Minority Report is an American science fiction crime drama television series that aired on Fox from September 21 to November 30, 2015. It was developed by Max Borenstein and is a sequel adaptation of the 2002 film of the same name based on the 1956 science fiction short story \"The Minority Report\" by Philip K. Dick. It was produced by Amblin Television, Paramount Television, and 20th Century Fox Television. It is the first Steven Spielberg–directed film to be adapted for television. On October 9, 2015, Fox announced that the series order was cut from 13 episodes to 10. Fox cancelled the series on May 13, 2016.",
+  "wikipedia_extract": "Minority Report is an American science fiction crime drama television series that aired on Fox from September 21 to November 30, 2015. It was developed by Max Borenstein and is a sequel adaptation of the 2002 film of the same name based on the 1956 science fiction short story \"The Minority Report\" by Philip K. Dick. It was produced by Amblin Television, Paramount Television, and 20th Century Fox Television. It is the first Steven Spielberg–directed film to be adapted for television. On October 9, 2015, Fox announced that the series order was cut from 13 episodes to 10. Fox cancelled the series on May 13, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

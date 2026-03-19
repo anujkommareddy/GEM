@@ -1,0 +1,49 @@
+{
+  "show_id": "Cosmopolitan_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Gone_(2026_TV_series)",
+  "wiki_page_title": "Gone (2026 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:26:26.253622+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Gone (2026 TV series)",
+  "search_title_used": "Cosmopolitan",
+  "alternate_titles": [],
+  "start_year": 2026,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": null,
+  "seasons": null,
+  "episodes": 6,
+  "original_network": [
+    "ITV1",
+    "ITVX"
+  ],
+  "production_companies": [
+    "New Pictures",
+    "Observatory Pictures"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Eve Myles",
+    "David Morrissey"
+  ],
+  "executive_producers": [
+    "George Kay Willow Grylls Matt Sandford"
+  ],
+  "premise_summary": "Gone is a British television series written by George Kay that first broadcast on ITV1 and ITVX on 8 March 2026. The cast is led by Eve Myles and David Morrissey.",
+  "wikipedia_extract": "Gone is a British television series written by George Kay that first broadcast on ITV1 and ITVX on 8 March 2026. The cast is led by Eve Myles and David Morrissey.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

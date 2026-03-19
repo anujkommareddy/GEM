@@ -1,0 +1,50 @@
+{
+  "show_id": "Resident_Advisors_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Resident_Advisors_(TV_series)",
+  "wiki_page_title": "Resident Advisors (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:56:39.171135+00:00",
+  "retrieval_confidence": "high",
+  "title": "Resident Advisors (TV series)",
+  "search_title_used": "Resident Advisors",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 7,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "Brownstone Productions301 ProductionsRelief ProductionsParamount Digital Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Alex J. ReidTaylor Jenkins ReidNatalia Anderson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Andrew BachelorJamie ChungJuliette GogliaRyan HansenAlison RichGraham RogersRomy Rosemont"
+  ],
+  "executive_producers": [
+    "Michael PetokNatalia AndersonElizabeth BanksMax HandelmanIra Ungerleider"
+  ],
+  "premise_summary": "Resident Advisors is an American sitcom that premiered on April 9, 2015, on Hulu. The series was created by Alex J. Reid, Taylor Jenkins Reid, and Natalia Anderson and follows a group of resident advisors at a college.",
+  "wikipedia_extract": "Resident Advisors is an American sitcom that premiered on April 9, 2015, on Hulu. The series was created by Alex J. Reid, Taylor Jenkins Reid, and Natalia Anderson and follows a group of resident advisors at a college.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

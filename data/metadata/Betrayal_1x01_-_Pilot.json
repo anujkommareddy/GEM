@@ -1,0 +1,62 @@
+{
+  "show_id": "Betrayal_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Betrayal_(TV_series)",
+  "wiki_page_title": "Betrayal (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:21:55.881846+00:00",
+  "retrieval_confidence": "high",
+  "title": "Betrayal (TV series)",
+  "search_title_used": "Betrayal",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Remainder Men Productions",
+    "Scripted World Productions",
+    "Omroepvereniging VARA",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Hannah Ware",
+    "Henry Thomas",
+    "Wendy Moniz",
+    "Chris Johnson",
+    "Braeden Lemasters",
+    "Elizabeth McLaughlin",
+    "Stuart Townsend",
+    "James Cromwell"
+  ],
+  "executive_producers": [
+    "Alon Aranya",
+    "David Zabel",
+    "Frank Ketelaar",
+    "Rob Golenberg",
+    "Robert Kievit"
+  ],
+  "premise_summary": "Betrayal is an American drama television series that aired on ABC from September 29, 2013, to January 19, 2014. The series was developed by David Zabel and starred Hannah Ware. It is based on the Dutch drama series Overspel, broadcast by VARA. The pilot episode was directed by Patty Jenkins. Betrayal joined ABC's Sunday line-up after ABC's dramas, Once Upon a Time and Revenge. On May 9, 2014, ABC canceled Betrayal after one season.",
+  "wikipedia_extract": "Betrayal is an American drama television series that aired on ABC from September 29, 2013, to January 19, 2014. The series was developed by David Zabel and starred Hannah Ware. It is based on the Dutch drama series Overspel, broadcast by VARA. The pilot episode was directed by Patty Jenkins. Betrayal joined ABC's Sunday line-up after ABC's dramas, Once Upon a Time and Revenge. On May 9, 2014, ABC canceled Betrayal after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

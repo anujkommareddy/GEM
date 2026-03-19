@@ -1,0 +1,64 @@
+{
+  "show_id": "Battle_Creek_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Battle_Creek_(TV_series)",
+  "wiki_page_title": "Battle Creek (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:21:09.378071+00:00",
+  "retrieval_confidence": "high",
+  "title": "Battle Creek (TV series)",
+  "search_title_used": "Battle Creek",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy dramaPolice proceduralCrime drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Shore Z Productions",
+    "Gran Via Productions",
+    "CBS Television Studios",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Shore",
+    "Vince Gilligan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Josh Duhamel",
+    "Dean Winters",
+    "Aubrey Dollar",
+    "Kal Penn",
+    "Janet McTeer"
+  ],
+  "executive_producers": [
+    "David Shore",
+    "Vince Gilligan",
+    "Russel Friend",
+    "Garrett Lerner",
+    "Thomas L. Moran",
+    "Bryan Singer",
+    "Mark Johnson"
+  ],
+  "premise_summary": "Battle Creek is an American comedy-drama television series that premiered on CBS on March 1, 2015, as a weekly show broadcast on each Sunday. Starring Josh Duhamel and Dean Winters, the show followed the mismatched partnership of a police detective and FBI agent in Battle Creek, Michigan. The series received generally favorable reviews. CBS announced on May 8, 2015, after only 9 episodes had aired, that Battle Creek would end after 13 episodes.",
+  "wikipedia_extract": "Battle Creek is an American comedy-drama television series that premiered on CBS on March 1, 2015, as a weekly show broadcast on each Sunday. Starring Josh Duhamel and Dean Winters, the show followed the mismatched partnership of a police detective and FBI agent in Battle Creek, Michigan. The series received generally favorable reviews. CBS announced on May 8, 2015, after only 9 episodes had aired, that Battle Creek would end after 13 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

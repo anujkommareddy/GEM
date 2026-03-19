@@ -1,0 +1,62 @@
+{
+  "show_id": "No_Tomorrow_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/No_Tomorrow_(TV_series)",
+  "wiki_page_title": "No Tomorrow (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:51:20.722405+00:00",
+  "retrieval_confidence": "high",
+  "title": "No Tomorrow (TV series)",
+  "search_title_used": "No Tomorrow",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comic science-fiction"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Globo TV International",
+    "Electus Entertainment",
+    "Warner Bros. Television",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Joshua Sasse",
+    "Tori Anderson",
+    "Jonathan Langdon",
+    "Sarayu Blue",
+    "Jesse Rath",
+    "Amy Pietz"
+  ],
+  "executive_producers": [
+    "Corinne Brinkerhoff",
+    "Maggie Friedman",
+    "Ben Silverman",
+    "Brad Silberling",
+    "Scott McCabe",
+    "Sean Canino",
+    "Tory Stanton"
+  ],
+  "premise_summary": "No Tomorrow is an American romantic comedy-drama television series that aired on The CW from October 4, 2016, to January 17, 2017. The series was developed by Corinne Brinkerhoff. It is based on the 2012 Brazilian series Como Aproveitar o Fim do Mundo, which aired on Rede Globo in 2012. The show was filmed in Vancouver, British Columbia, Canada. No Tomorrow was canceled on May 8, 2017; five days later, an epilogue to the series was released.",
+  "wikipedia_extract": "No Tomorrow is an American romantic comedy-drama television series that aired on The CW from October 4, 2016, to January 17, 2017. The series was developed by Corinne Brinkerhoff. It is based on the 2012 Brazilian series Como Aproveitar o Fim do Mundo, which aired on Rede Globo in 2012. The show was filmed in Vancouver, British Columbia, Canada. No Tomorrow was canceled on May 8, 2017; five days later, an epilogue to the series was released.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,64 @@
+{
+  "show_id": "Champaign_ILL_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Champaign_ILL",
+  "wiki_page_title": "Champaign ILL",
+  "retrieval_timestamp": "2026-03-19T04:25:08.581214+00:00",
+  "retrieval_confidence": "high",
+  "title": "Champaign ILL",
+  "search_title_used": "Champaign ILL",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "YouTube Premium"
+  ],
+  "production_companies": [
+    "Bro Bro",
+    "Jordan Productions",
+    "Shark vs. Bear",
+    "FanFare Productions",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jordan Cahan",
+    "David Caspe",
+    "Daniel Libman",
+    "Matthew Libman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Adam Pally",
+    "Sam Richardson"
+  ],
+  "executive_producers": [
+    "Daniel Libman",
+    "Matthew Libman",
+    "David Caspe",
+    "Jordan Cahan",
+    "Jamie Tarses",
+    "Sam Richardson",
+    "Adam Pally"
+  ],
+  "premise_summary": "Champaign ILL is an American comedy series, created by Jordan Cahan, David Caspe, Daniel Libman, and Matthew Libman, that premiered on December 12, 2018, on YouTube Premium. The series stars Adam Pally and Sam Richardson and is executive produced by Cahan, Caspe, the Libmans, and Jamie Tarses.",
+  "wikipedia_extract": "Champaign ILL is an American comedy series, created by Jordan Cahan, David Caspe, Daniel Libman, and Matthew Libman, that premiered on December 12, 2018, on YouTube Premium. The series stars Adam Pally and Sam Richardson and is executive produced by Cahan, Caspe, the Libmans, and Jamie Tarses.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

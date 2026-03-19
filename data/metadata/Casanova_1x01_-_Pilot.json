@@ -1,0 +1,46 @@
+{
+  "show_id": "Casanova_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Casanova_(2005_TV_series)",
+  "wiki_page_title": "Casanova (2005 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:24:45.618645+00:00",
+  "retrieval_confidence": "high",
+  "title": "Casanova (2005 TV series)",
+  "search_title_used": "Casanova",
+  "alternate_titles": [],
+  "start_year": 2005,
+  "end_year": 2005,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Period drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "feature-length",
+  "seasons": null,
+  "episodes": 3,
+  "original_network": [
+    "BBC ThreeWarner TV"
+  ],
+  "production_companies": null,
+  "distributor": null,
+  "creators": [
+    "Russell T Davies"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David TennantPeter O'TooleRose ByrneNina SosanyaLaura Fraser"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Casanova is a 2005 British television comedy drama serial, written by television scriptwriter Russell T Davies and directed by Sheree Folkson. Produced by Red Production Company for BBC Wales in association with Granada Television, the three-episode series was first screened on digital television station BBC Three from 13 March, with a repeat on mainstream analogue network BBC One commencing 4 April.",
+  "wikipedia_extract": "Casanova is a 2005 British television comedy drama serial, written by television scriptwriter Russell T Davies and directed by Sheree Folkson. Produced by Red Production Company for BBC Wales in association with Granada Television, the three-episode series was first screened on digital television station BBC Three from 13 March, with a repeat on mainstream analogue network BBC One commencing 4 April.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2005",
+  "franchise_status": null
+}

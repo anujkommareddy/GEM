@@ -1,0 +1,56 @@
+{
+  "show_id": "Deadline_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Deadline_(2000_TV_series)",
+  "wiki_page_title": "Deadline (2000 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:27:43.079783+00:00",
+  "retrieval_confidence": "high",
+  "title": "Deadline (2000 TV series)",
+  "search_title_used": "Deadline",
+  "alternate_titles": [],
+  "start_year": 2000,
+  "end_year": 2000,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Wolf Films",
+    "Studios USA Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dick Wolf"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Oliver Platt",
+    "Hope Davis",
+    "Bebe Neuwirth",
+    "Lili Taylor",
+    "Damon Gupton",
+    "Christina Chang"
+  ],
+  "executive_producers": [
+    "Dick Wolf"
+  ],
+  "premise_summary": "Deadline is an American drama television series created by Dick Wolf, that aired on NBC from October 2, 2000, to October 30, 2000. It stars Oliver Platt as Wallace Benton, star columnist for the fictional New York Ledger, a daily tabloid newspaper seen in many episodes of Law & Order and modeled after the real-life New York Post.",
+  "wikipedia_extract": "Deadline is an American drama television series created by Dick Wolf, that aired on NBC from October 2, 2000, to October 30, 2000. It stars Oliver Platt as Wallace Benton, star columnist for the fictional New York Ledger, a daily tabloid newspaper seen in many episodes of Law & Order and modeled after the real-life New York Post.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2000",
+  "franchise_status": null
+}

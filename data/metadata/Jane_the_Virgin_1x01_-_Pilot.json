@@ -1,0 +1,74 @@
+{
+  "show_id": "Jane_the_Virgin_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Jane_the_Virgin",
+  "wiki_page_title": "Jane the Virgin",
+  "retrieval_timestamp": "2026-03-19T04:42:51.519404+00:00",
+  "retrieval_confidence": "high",
+  "title": "Jane the Virgin",
+  "search_title_used": "Jane the Virgin",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Spanish"
+  ],
+  "genres": [
+    "Comedy-drama",
+    "Romantic comedy",
+    "Telenovela",
+    "Satire",
+    "}}"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 100,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Poppy Productions",
+    "RCTV International",
+    "Electus",
+    "Warner Bros. Television",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Jennie Snyder Urman"
+  ],
+  "lead_cast": [
+    "Gina Rodriguez",
+    "Andrea Navedo",
+    "Yael Grobglas",
+    "Justin Baldoni",
+    "Ivonne Coll",
+    "Brett Dier",
+    "Jaime Camil",
+    "Elias Janssen"
+  ],
+  "executive_producers": [
+    "Jennie Snyder Urman",
+    "Ben Silverman",
+    "Gary Pearl",
+    "Jorge Granier",
+    "Max Richards",
+    "Cyrus Farrokh",
+    "Brad Silberling",
+    "David S. Rosenthal",
+    "Paul Sciarrotta"
+  ],
+  "premise_summary": "Jane the Virgin is an American romantic comedy-drama and satirical telenovela developed by Jennie Snyder Urman. The series premiered October 13, 2014, on The CW and concluded on July 31, 2019. It is a loose adaptation of the Venezuelan telenovela Juana la virgen created by Perla Farías. It stars Gina Rodriguez as Jane Gloriana Villanueva, a devout 23-year-old Latina virgin who becomes pregnant after an accidental artificial insemination by her gynecologist. It parodies common tropes and devices in Latin American telenovelas.",
+  "wikipedia_extract": "Jane the Virgin is an American romantic comedy-drama and satirical telenovela developed by Jennie Snyder Urman. The series premiered October 13, 2014, on The CW and concluded on July 31, 2019. It is a loose adaptation of the Venezuelan telenovela Juana la virgen created by Perla Farías. It stars Gina Rodriguez as Jane Gloriana Villanueva, a devout 23-year-old Latina virgin who becomes pregnant after an accidental artificial insemination by her gynecologist. It parodies common tropes and devices in Latin American telenovelas.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

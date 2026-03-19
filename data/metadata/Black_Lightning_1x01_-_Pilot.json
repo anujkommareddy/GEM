@@ -1,0 +1,70 @@
+{
+  "show_id": "Black_Lightning_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Black_Lightning_(TV_series)",
+  "wiki_page_title": "Black Lightning (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:22:35.412029+00:00",
+  "retrieval_confidence": "high",
+  "title": "Black Lightning (TV series)",
+  "search_title_used": "Black Lightning",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Crime drama",
+    "Science fiction",
+    "Superhero"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 58,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Berlanti Productions",
+    "Akil Productions",
+    "DC Entertainment",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Salim Akil"
+  ],
+  "lead_cast": [
+    "Cress Williams",
+    "China Anne McClain",
+    "Nafessa Williams",
+    "Christine Adams",
+    "Marvin \"Krondon\" Jones III",
+    "Damon Gupton",
+    "James Remar",
+    "Jordan Calloway",
+    "Chantal Thuy"
+  ],
+  "executive_producers": [
+    "Sarah Schechter",
+    "Greg Berlanti",
+    "Mara Brock Akil",
+    "Salim Akil",
+    "Oz Scott",
+    "Pascal Verschooris",
+    "Charles D. Holland"
+  ],
+  "premise_summary": "Black Lightning is an American superhero drama television series, developed by Salim Akil, that premiered on The CW on January 16, 2018, and concluded on May 24, 2021. It is based on the character of the same name, created by Jenny Blake Isabella with Trevor Von Eeden, featured in publications of DC Comics. Cress Williams stars as the titular character alongside China Anne McClain, Nafessa Williams, Christine Adams, Marvin \"Krondon\" Jones III, Damon Gupton, James Remar, Jordan Calloway, and Chantal Thuy. The series sees the retired Black Lightning return to his life as a superhero and follows the effects of his vigilante activity on his professional and family life.",
+  "wikipedia_extract": "Black Lightning is an American superhero drama television series, developed by Salim Akil, that premiered on The CW on January 16, 2018, and concluded on May 24, 2021. It is based on the character of the same name, created by Jenny Blake Isabella with Trevor Von Eeden, featured in publications of DC Comics. Cress Williams stars as the titular character alongside China Anne McClain, Nafessa Williams, Christine Adams, Marvin \"Krondon\" Jones III, Damon Gupton, James Remar, Jordan Calloway, and Chantal Thuy. The series sees the retired Black Lightning return to his life as a superhero and follows the effects of his vigilante activity on his professional and family life.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

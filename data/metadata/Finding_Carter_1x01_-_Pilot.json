@@ -1,0 +1,67 @@
+{
+  "show_id": "Finding_Carter_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Finding_Carter",
+  "wiki_page_title": "Finding Carter",
+  "retrieval_timestamp": "2026-03-19T04:31:45.056610+00:00",
+  "retrieval_confidence": "high",
+  "title": "Finding Carter",
+  "search_title_used": "Finding Carter",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama",
+    "Family drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 36,
+  "original_network": [
+    "MTV"
+  ],
+  "production_companies": [
+    "The Popfilms Movie Company",
+    "Go Dog Go (season 1)",
+    "One Two Punch Productions (season 1)",
+    "Stockton Drive",
+    "Inc. (season 2)",
+    "Warner Horizon Television",
+    "MTV Production Development",
+    "Georgia Media"
+  ],
+  "distributor": null,
+  "creators": [
+    "Emily Jessica Silver"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kathryn Prescott",
+    "Cynthia Watros",
+    "Alexis Denisof",
+    "Anna Jacoby-Heron",
+    "Zac Pullam",
+    "Alex Saxon"
+  ],
+  "executive_producers": [
+    "Terri Minsky",
+    "Deborah Spera",
+    "Maria Grasso",
+    "Alexander A. Motlagh",
+    "Emily Whitesell"
+  ],
+  "premise_summary": "Finding Carter is an American teen drama television series that aired on MTV for two seasons from July 8, 2014, to December 15, 2015.",
+  "wikipedia_extract": "Finding Carter is an American teen drama television series that aired on MTV for two seasons from July 8, 2014, to December 15, 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

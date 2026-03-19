@@ -1,0 +1,59 @@
+{
+  "show_id": "Atypical_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Atypical",
+  "wiki_page_title": "Atypical",
+  "retrieval_timestamp": "2026-03-19T04:20:23.691359+00:00",
+  "retrieval_confidence": "high",
+  "title": "Atypical",
+  "search_title_used": "Atypical",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Coming-of-age"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 38,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Exhibit A",
+    "Weird Brain",
+    "Inc.",
+    "Sony Pictures Television Studios",
+    "netflix"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robia Rashid"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jennifer Jason Leigh",
+    "Keir Gilchrist",
+    "Jack Havenname=Jack"
+  ],
+  "executive_producers": [
+    "Robia Rashid",
+    "Seth Gordon",
+    "Mary Rohlich"
+  ],
+  "premise_summary": "Atypical is an American comedy-drama television series created by Robia Rashid for Netflix. The series takes place in Connecticut, and focuses on the life of 18-year-old Samuel \"Sam\" Gardner, who is autistic. The first season was released on August 11, 2017, consisting of eight episodes. The 10-episode second season was released on September 7, 2018. In October 2018, the series was renewed for a third season of ten episodes, which was released on November 1, 2019. In February 2020, it was renewed for a fourth and final season, which premiered on July 9, 2021.",
+  "wikipedia_extract": "Atypical is an American comedy-drama television series created by Robia Rashid for Netflix. The series takes place in Connecticut, and focuses on the life of 18-year-old Samuel \"Sam\" Gardner, who is autistic. The first season was released on August 11, 2017, consisting of eight episodes. The 10-episode second season was released on September 7, 2018. In October 2018, the series was renewed for a third season of ten episodes, which was released on November 1, 2019. In February 2020, it was renewed for a fourth and final season, which premiered on July 9, 2021.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

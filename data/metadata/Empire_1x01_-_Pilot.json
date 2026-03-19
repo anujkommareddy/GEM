@@ -1,0 +1,83 @@
+{
+  "show_id": "Empire_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Boardwalk_Empire",
+  "wiki_page_title": "Boardwalk Empire",
+  "retrieval_timestamp": "2026-03-19T04:30:13.167248+00:00",
+  "retrieval_confidence": "high",
+  "title": "Boardwalk Empire",
+  "search_title_used": "Empire",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Period drama",
+    "Serial drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 56,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "HBO Entertainment",
+    "Leverage Entertainment",
+    "Closest to the Hole Productions",
+    "Sikelia Productions",
+    "Cold Front Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Terence Winter"
+  ],
+  "showrunners": [
+    "Terence Winter"
+  ],
+  "lead_cast": [
+    "Steve Buscemi",
+    "Michael Pitt",
+    "Kelly Macdonald",
+    "Michael Shannon",
+    "Shea Whigham",
+    "Aleksa Palladino",
+    "Michael Stuhlbarg",
+    "Stephen Graham",
+    "Vincent Piazza",
+    "Paz de la Huerta",
+    "Michael Kenneth Williams",
+    "Anthony Laciura",
+    "Paul Sparks",
+    "Dabney Coleman",
+    "Jack Huston",
+    "Gretchen Mol",
+    "Charlie Cox",
+    "Bobby Cannavale",
+    "Ron Livingston",
+    "Jeffrey Wright",
+    "Ben Rosenfield"
+  ],
+  "executive_producers": [
+    "Terence Winter",
+    "Martin Scorsese",
+    "Mark Wahlberg",
+    "Tim Van Patten",
+    "Howard Korder",
+    "Stephen Levinson"
+  ],
+  "premise_summary": "Boardwalk Empire is an American period crime drama television series created by Terence Winter for the premium cable channel HBO. The series is set chiefly in Atlantic City, New Jersey, during the Prohibition era of the 1920s. The series stars Steve Buscemi as Nucky Thompson. Winter, a Primetime Emmy Award-winning screenwriter and producer, created the show, inspired by Nelson Johnson's 2002 non-fiction book Boardwalk Empire: The Birth, High Times, and Corruption of Atlantic City, about the historical criminal kingpin Enoch L. Johnson.",
+  "wikipedia_extract": "Boardwalk Empire is an American period crime drama television series created by Terence Winter for the premium cable channel HBO. The series is set chiefly in Atlantic City, New Jersey, during the Prohibition era of the 1920s. The series stars Steve Buscemi as Nucky Thompson. Winter, a Primetime Emmy Award-winning screenwriter and producer, created the show, inspired by Nelson Johnson's 2002 non-fiction book Boardwalk Empire: The Birth, High Times, and Corruption of Atlantic City, about the historical criminal kingpin Enoch L. Johnson.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

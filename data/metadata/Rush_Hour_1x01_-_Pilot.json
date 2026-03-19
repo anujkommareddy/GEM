@@ -1,0 +1,65 @@
+{
+  "show_id": "Rush_Hour_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rush_Hour_(American_TV_series)",
+  "wiki_page_title": "Rush Hour (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:57:59.906549+00:00",
+  "retrieval_confidence": "high",
+  "title": "Rush Hour (American TV series)",
+  "search_title_used": "Rush Hour",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Comedy drama",
+    "Action",
+    "Mystery",
+    "Crime"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Doozer",
+    "RatPac Television",
+    "New Line Cinema",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Justin Hires",
+    "Jon Foo",
+    "Aimee Garcia",
+    "Page Kennedy",
+    "Wendie Malick"
+  ],
+  "executive_producers": [
+    "Toby Emmerich",
+    "Arthur M. Sarkissian",
+    "Brett Ratner",
+    "Jeff Ingold",
+    "Blake McCormick",
+    "Bill Lawrence",
+    "Steve Franks"
+  ],
+  "premise_summary": "Rush Hour is an American police procedural comedy-drama television series developed by Bill Lawrence and Blake McCormick that is based on the film of the same name. The series was produced by Doozer, RatPac Television, New Line Cinema and Warner Bros. Television. Similar to the films, the series follows Detective Carter, a radical LAPD detective, and Detective Lee, a by-the-book detective from Hong Kong, as they are forced into an unlikely partnership. CBS placed a series order on May 8, 2015. The show premiered on March 31, 2016.",
+  "wikipedia_extract": "Rush Hour is an American police procedural comedy-drama television series developed by Bill Lawrence and Blake McCormick that is based on the film of the same name. The series was produced by Doozer, RatPac Television, New Line Cinema and Warner Bros. Television. Similar to the films, the series follows Detective Carter, a radical LAPD detective, and Detective Lee, a by-the-book detective from Hong Kong, as they are forced into an unlikely partnership. CBS placed a series order on May 8, 2015. The show premiered on March 31, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2016",
+  "franchise_status": null
+}

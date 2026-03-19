@@ -1,0 +1,95 @@
+{
+  "show_id": "Fear_The_Walking_Dead_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fear_the_Walking_Dead",
+  "wiki_page_title": "Fear the Walking Dead",
+  "retrieval_timestamp": "2026-03-19T04:31:41.233887+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fear the Walking Dead",
+  "search_title_used": "Fear The Walking Dead",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Horror",
+    "Drama",
+    "Zombie apocalypse"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 8,
+  "episodes": 113,
+  "original_network": [
+    "AMC"
+  ],
+  "production_companies": [
+    "Square Head Pictures",
+    "Circle of Confusion",
+    "Skybound Entertainment",
+    "Valhalla Entertainment",
+    "AMC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robert Kirkman",
+    "Dave Erickson"
+  ],
+  "showrunners": [
+    "Dave Erickson (seasons 1–3)",
+    "Andrew Chambliss (seasons 4–8)",
+    "Ian Goldberg (seasons 4–8)"
+  ],
+  "lead_cast": [
+    "Kim Dickens",
+    "Cliff Curtis",
+    "Frank Dillane",
+    "Alycia Debnam-Carey",
+    "Elizabeth Rodriguez",
+    "Mercedes Mason",
+    "Lorenzo James Henrie",
+    "Rubén Blades",
+    "Colman Domingo",
+    "Michelle Ang",
+    "Danay García",
+    "Daniel Sharman",
+    "Sam Underwood",
+    "Dayton Callie",
+    "Lisandra Tena",
+    "Maggie Grace",
+    "Garret Dillahunt",
+    "Lennie James",
+    "Jenna Elfman",
+    "Alexa Nisenson",
+    "Karen David",
+    "Austin Amelio",
+    "Mo Collins",
+    "Colby Hollman",
+    "Zoe Colletti",
+    "Christine Evangelista",
+    "Keith Carradine"
+  ],
+  "executive_producers": [
+    "Robert Kirkman",
+    "David Alpert",
+    "Greg Nicotero",
+    "Gale Anne Hurd",
+    "Dave Erickson",
+    "Scott M. Gimple",
+    "Andrew Chambliss",
+    "Ian Goldberg",
+    "Michael E. Satrazemis"
+  ],
+  "premise_summary": "Fear the Walking Dead is an American post-apocalyptic horror drama television series created by Robert Kirkman and Dave Erickson for AMC. It is a spin-off to The Walking Dead, which is based on the comic book series of the same name by Kirkman, Tony Moore, and Charlie Adlard. It is also the second television series within The Walking Dead franchise. The first three seasons serve as a prequel, focusing on a blended family who experience the start of the zombie apocalypse. Subsequent seasons run concurrently to the original show, with Morgan Jones from The Walking Dead crossing over into the series.",
+  "wikipedia_extract": "Fear the Walking Dead is an American post-apocalyptic horror drama television series created by Robert Kirkman and Dave Erickson for AMC. It is a spin-off to The Walking Dead, which is based on the comic book series of the same name by Kirkman, Tony Moore, and Charlie Adlard. It is also the second television series within The Walking Dead franchise. The first three seasons serve as a prequel, focusing on a blended family who experience the start of the zombie apocalypse. Subsequent seasons run concurrently to the original show, with Morgan Jones from The Walking Dead crossing over into the series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

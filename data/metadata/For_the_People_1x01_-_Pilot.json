@@ -1,0 +1,62 @@
+{
+  "show_id": "For_the_People_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Normal_People_(TV_series)",
+  "wiki_page_title": "Normal People (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:32:04.264440+00:00",
+  "retrieval_confidence": "low",
+  "title": "Normal People (TV series)",
+  "search_title_used": "For the People",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": null,
+  "country": [
+    "Ireland",
+    "United Kingdom",
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Romance"
+  ],
+  "format_type": "drama",
+  "runtime_class": "half-hour",
+  "seasons": null,
+  "episodes": 12,
+  "original_network": [
+    "BBC Three"
+  ],
+  "production_companies": [
+    "Element Pictures",
+    "Screen Ireland"
+  ],
+  "distributor": null,
+  "creators": [
+    "Catherine Magee"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Daisy Edgar-Jones",
+    "Paul Mescal",
+    "Sarah Greene"
+  ],
+  "executive_producers": [
+    "Ed Guiney",
+    "Andrew Lowe",
+    "Emma Norton",
+    "Anna Ferguson",
+    "Sally Rooney",
+    "Lenny Abrahamson",
+    "Tommy Bulfin",
+    "Rose Garnett"
+  ],
+  "premise_summary": "Normal People is a romantic drama limited series based on the 2018 novel of the same name by Sally Rooney. It was written by Rooney, Alice Birch and Mark O'Rowe, and directed by Lenny Abrahamson and Hettie Macdonald. The series follows the relationship between Marianne Sheridan and Connell Waldron, who attend the same secondary school and the same university.",
+  "wikipedia_extract": "Normal People is a romantic drama limited series based on the 2018 novel of the same name by Sally Rooney. It was written by Rooney, Alice Birch and Mark O'Rowe, and directed by Lenny Abrahamson and Hettie Macdonald. The series follows the relationship between Marianne Sheridan and Connell Waldron, who attend the same secondary school and the same university.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

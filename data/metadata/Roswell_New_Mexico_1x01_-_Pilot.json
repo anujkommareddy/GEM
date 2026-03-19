@@ -1,0 +1,68 @@
+{
+  "show_id": "Roswell_New_Mexico_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Roswell,_New_Mexico_(TV_series)",
+  "wiki_page_title": "Roswell, New Mexico (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:57:44.528544+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Roswell, New Mexico (TV series)",
+  "search_title_used": "Roswell New Mexico",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Science fiction",
+    "Mystery"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 52,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Amblin Television",
+    "My So-Called Company",
+    "Bender Brown Productions",
+    "CBS StudiosCredited as CBS Television Studios for seasons 1–2",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Jeanine Mason",
+    "Nathan Dean",
+    "Michael Vlamis",
+    "Lily Cowles",
+    "Tyler Blackburn",
+    "Heather Hemmens",
+    "Michael Trevino",
+    "Trevor St. John",
+    "Karan Oberoi",
+    "Amber Midthunder"
+  ],
+  "executive_producers": [
+    "Carina Adly MacKenzie",
+    "Kevin Kelly Brown",
+    "Justin Falvey",
+    "Darryl Frank",
+    "Lawrence Bender",
+    "Julie Plec"
+  ],
+  "premise_summary": "Roswell, New Mexico is an American science fiction drama television series, named after the city of Roswell, New Mexico with a famous UFO incident. Developed by Carina Adly Mackenzie for the CW, it debuted as a midseason entry during the 2018–2019 television season on January 15, 2019. The show ended its four-season run on September 5, 2022.",
+  "wikipedia_extract": "Roswell, New Mexico is an American science fiction drama television series, named after the city of Roswell, New Mexico with a famous UFO incident. Developed by Carina Adly Mackenzie for the CW, it debuted as a midseason entry during the 2018–2019 television season on January 15, 2019. The show ended its four-season run on September 5, 2022.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2022",
+  "franchise_status": null
+}

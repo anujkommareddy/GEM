@@ -1,0 +1,53 @@
+{
+  "show_id": "Florida_Girls_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Florida_Girls",
+  "wiki_page_title": "Florida Girls",
+  "retrieval_timestamp": "2026-03-19T04:32:00.104643+00:00",
+  "retrieval_confidence": "high",
+  "title": "Florida Girls",
+  "search_title_used": "Florida Girls",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Pop"
+  ],
+  "production_companies": [
+    "Jax MediaChinncorporated3 Arts EntertainmentLionsgate Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Laura Chinn"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Laura ChinnPatty GuggenheimLaci MosleyMelanie Field"
+  ],
+  "executive_producers": [
+    "Laura Chinn",
+    "Jared Miller",
+    "Tony Hernandez",
+    "Lilly Burns",
+    "Oly Obst",
+    "Josh Lieberman"
+  ],
+  "premise_summary": "Florida Girls is an American sitcom created by and starring Laura Chinn. It follows four women who live in a trailer park, played by Chinn, Melanie Field, Patty Guggenheim, and Laci Mosley. The series premiered on Pop on July 10, 2019. On October 3, 2019, the series was renewed for a second season, but on March 3, 2020, Pop cancelled the show along with several other originals.",
+  "wikipedia_extract": "Florida Girls is an American sitcom created by and starring Laura Chinn. It follows four women who live in a trailer park, played by Chinn, Melanie Field, Patty Guggenheim, and Laci Mosley. The series premiered on Pop on July 10, 2019. On October 3, 2019, the series was renewed for a second season, but on March 3, 2020, Pop cancelled the show along with several other originals.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

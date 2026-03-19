@@ -1,0 +1,63 @@
+{
+  "show_id": "The_Kids_are_Alright_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Kids_Are_Alright_(TV_series)",
+  "wiki_page_title": "The Kids Are Alright (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:08:55.237573+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Kids Are Alright (TV series)",
+  "search_title_used": "The Kids are Alright",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 23,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Mr. Bigshot Fancy-Pants Productions Inc.",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tim Doyle"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Mary McCormack",
+    "Jack Gore",
+    "Sam Straley",
+    "Caleb Foote",
+    "Sawyer Barth",
+    "Christopher Paul Richards",
+    "Andy Walken",
+    "Santino Barnard",
+    "Tim Doyle",
+    "Michael Cudlitz",
+    "Sawyer Laucius",
+    "Jax Laucius"
+  ],
+  "executive_producers": [
+    "Tim Doyle",
+    "Randall Einhorn"
+  ],
+  "premise_summary": "The Kids Are Alright is an American television sitcom created by Tim Doyle for ABC, inspired by Doyle's own childhood. The series is a single-camera comedy about an Irish Catholic family raising eight sons in suburban Los Angeles from 1972 to 1973, navigating the trials and tribulations of the era.",
+  "wikipedia_extract": "The Kids Are Alright is an American television sitcom created by Tim Doyle for ABC, inspired by Doyle's own childhood. The series is a single-camera comedy about an Irish Catholic family raising eight sons in suburban Los Angeles from 1972 to 1973, navigating the trials and tribulations of the era.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

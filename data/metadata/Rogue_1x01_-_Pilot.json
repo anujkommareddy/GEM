@@ -1,0 +1,64 @@
+{
+  "show_id": "Rogue_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rogue_(TV_series)",
+  "wiki_page_title": "Rogue (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:57:28.883151+00:00",
+  "retrieval_confidence": "high",
+  "title": "Rogue (TV series)",
+  "search_title_used": "Rogue",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2017,
+  "country": [
+    "Canada",
+    "United Kingdom",
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Police procedural",
+    "Thriller",
+    "Action"
+  ],
+  "format_type": "procedural",
+  "runtime_class": null,
+  "seasons": 4,
+  "episodes": 50,
+  "original_network": [
+    "Audience",
+    "The Movie Network",
+    "Movie Central"
+  ],
+  "production_companies": [
+    "Entertainment One Television",
+    "Greenroom Entertainment (Seasons 1-2)",
+    "Momentum Pictures",
+    "Mookville (Season 4)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matthew Parkhill"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Thandiwe NewtonSarah JefferyKavan SmithIan TraceyMarton CsokasJoshua SasseMatthew BeardLeah GibsonIan HartJarod JosephClaudia FerriCole HauserAndrea RothClare HigginsAlec NewmanBrendan FletcherCindy SampsonSarah CarterDerek LukeBianca LawsonMichael MurphyRichard SchiffAshley GreeneSergio Di ZioMeaghan RathNeal McDonoughKristin Lehman"
+  ],
+  "executive_producers": [
+    "John Morayniss",
+    "Michael Rosenberg",
+    "Nick Hamm",
+    "Steven Marrs",
+    "Matthew Parkhill"
+  ],
+  "premise_summary": "Rogue is a police drama television series created by Matthew Parkhill and starring Thandiwe Newton. The series is a Canadian-British-American co-production, which was co-commissioned by DirecTV's Audience network and the Canadian premium services The Movie Network and Movie Central. The series aired from April 3, 2013 to May 24, 2017. A total of 50 episodes were produced.",
+  "wikipedia_extract": "Rogue is a police drama television series created by Matthew Parkhill and starring Thandiwe Newton. The series is a Canadian-British-American co-production, which was co-commissioned by DirecTV's Audience network and the Canadian premium services The Movie Network and Movie Central. The series aired from April 3, 2013 to May 24, 2017. A total of 50 episodes were produced.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

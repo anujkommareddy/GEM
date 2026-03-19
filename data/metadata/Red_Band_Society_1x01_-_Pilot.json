@@ -1,0 +1,70 @@
+{
+  "show_id": "Red_Band_Society_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Red_Band_Society",
+  "wiki_page_title": "Red Band Society",
+  "retrieval_timestamp": "2026-03-19T04:56:12.625026+00:00",
+  "retrieval_confidence": "high",
+  "title": "Red Band Society",
+  "search_title_used": "Red Band Society",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama",
+    "Comedy drama",
+    "Dark comedy",
+    "Medical drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "ABC Studios",
+    "Amblin Television",
+    "Filmax"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Octavia Spencer",
+    "Dave Annable",
+    "Astro",
+    "Ciara Bravo",
+    "Griffin Gluck",
+    "Zoe Levin",
+    "Rebecca Rittenhouse",
+    "Charlie Rowe",
+    "Nolan Sotillo",
+    "Mandy Moore",
+    "Wilson Cruz"
+  ],
+  "executive_producers": [
+    "Darryl Frank",
+    "Justin Falvey",
+    "Sergio Aguero",
+    "Jason Ensler",
+    "Jeannine Renshaw",
+    "Rina Mimoun",
+    "Margaret Nagle",
+    "Steven Spielberg"
+  ],
+  "premise_summary": "Red Band Society is an American teen medical comedy-drama television series that aired on Fox from September 17, 2014, to February 7, 2015. It was developed by Margaret Nagle.",
+  "wikipedia_extract": "Red Band Society is an American teen medical comedy-drama television series that aired on Fox from September 17, 2014, to February 7, 2015. It was developed by Margaret Nagle.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

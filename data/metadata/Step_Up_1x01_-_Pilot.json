@@ -1,0 +1,75 @@
+{
+  "show_id": "Step_Up_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Step_Up_(TV_series)",
+  "wiki_page_title": "Step Up (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:39.537408+00:00",
+  "retrieval_confidence": "high",
+  "title": "Step Up (TV series)",
+  "search_title_used": "Step Up",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Dance"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "YouTube Red/Premium"
+  ],
+  "production_companies": [
+    "Hollycake (seasons 1–2)",
+    "Creative Extremists"
+  ],
+  "distributor": null,
+  "creators": [
+    "Holly Sorensen"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Lauryn McClain",
+    "Petrice Jones",
+    "Marcus Mitchell",
+    "Terrence Green",
+    "Carlito Olivero",
+    "Jade Chynoweth",
+    "Kendra Oyesanya",
+    "Eric Graise",
+    "Faizon Love",
+    "Naya Rivera",
+    "Ne-Yo",
+    "Christina Milian",
+    "Keiynan Lonsdale",
+    "Terayle Hill",
+    "Rebbi Rose",
+    "Enrique Murciano",
+    "Tricia Helfer"
+  ],
+  "executive_producers": [
+    "Meredith Milton",
+    "Adam Shankman",
+    "Jennifer Gibgot",
+    "Channing Tatum",
+    "Jenna Dewan",
+    "Holly Sorensen",
+    "Bill Brown",
+    "Erik Feig"
+  ],
+  "premise_summary": "Step Up is an American drama television series, based on the Step Up film series. It premiered on January 31, 2018, on YouTube Red. The series was created by Holly Sorensen, who also serves as an executive producer alongside Channing Tatum and Jenna Dewan. After being canceled by YouTube Red after two seasons, Starz picked up the series for a third season, which premiered on October 16, 2022. In December 2022, the series was canceled after three seasons.",
+  "wikipedia_extract": "Step Up is an American drama television series, based on the Step Up film series. It premiered on January 31, 2018, on YouTube Red. The series was created by Holly Sorensen, who also serves as an executive producer alongside Channing Tatum and Jenna Dewan. After being canceled by YouTube Red after two seasons, Starz picked up the series for a third season, which premiered on October 16, 2022. In December 2022, the series was canceled after three seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,71 @@
+{
+  "show_id": "Orville_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Orville",
+  "wiki_page_title": "The Orville",
+  "retrieval_timestamp": "2026-03-19T04:52:31.901947+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Orville",
+  "search_title_used": "Orville",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action-adventure",
+    "Science fiction",
+    "Comedy-drama",
+    "}}"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 36,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Fuzzy Door Productions",
+    "20th TelevisionKnown as 20th Century Fox Television for the first two seasons."
+  ],
+  "distributor": null,
+  "creators": [
+    "Seth MacFarlane"
+  ],
+  "showrunners": [
+    "Seth MacFarlane"
+  ],
+  "lead_cast": [
+    "Seth MacFarlane",
+    "Adrianne Palicki",
+    "Penny Johnson Jerald",
+    "Halston Sage",
+    "Scott Grimes",
+    "Peter Macon",
+    "J. Lee",
+    "Mark Jackson",
+    "Jessica Szohr",
+    "Anne Winters"
+  ],
+  "executive_producers": [
+    "Seth MacFarlane",
+    "Brannon Braga",
+    "David A. Goodman",
+    "Jason Clark",
+    "Jon Favreau (S1E1)",
+    "Liz Heldens (S1)",
+    "Jon Cassar (S2)"
+  ],
+  "premise_summary": "The Orville is an American science fiction comedy drama television series created by Seth MacFarlane, who also stars as the protagonist Ed Mercer, an officer in the Planetary Union's line of exploratory space vessels in the 25th century. It was inspired primarily by the original Star Trek and Next Generation programs, and the series pays homage to both. The series also draws inspiration from the Star Wars franchise. Produced by Fuzzy Door Productions and 20th Television, it follows the crew of the starship USS Orville on their episodic adventures, as well as a serialized story which develops over the length of the series. According to MacFarlane, the series and the starship are named after the aviation pioneer Orville Wright.",
+  "wikipedia_extract": "The Orville is an American science fiction comedy drama television series created by Seth MacFarlane, who also stars as the protagonist Ed Mercer, an officer in the Planetary Union's line of exploratory space vessels in the 25th century. It was inspired primarily by the original Star Trek and Next Generation programs, and the series pays homage to both. The series also draws inspiration from the Star Wars franchise. Produced by Fuzzy Door Productions and 20th Television, it follows the crew of the starship USS Orville on their episodic adventures, as well as a serialized story which develops over the length of the series. According to MacFarlane, the series and the starship are named after the aviation pioneer Orville Wright.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

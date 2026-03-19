@@ -1,0 +1,90 @@
+{
+  "show_id": "Sea_Change_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Sea_Beyond_(Italian_TV_series)",
+  "wiki_page_title": "The Sea Beyond (Italian TV series)",
+  "retrieval_timestamp": "2026-03-19T04:59:08.981653+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Sea Beyond (Italian TV series)",
+  "search_title_used": "Sea Change",
+  "alternate_titles": [],
+  "start_year": 2020,
+  "end_year": null,
+  "country": [
+    "Italy"
+  ],
+  "original_language": [
+    "Italian",
+    "Neapolitan"
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller",
+    "Teen drama",
+    "Erotic",
+    "Tragedy"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 62,
+  "original_network": [
+    "Rai 2",
+    "Netflix"
+  ],
+  "production_companies": [
+    "Rai Fiction",
+    "Picomedia"
+  ],
+  "distributor": null,
+  "creators": [
+    "Cristiana Farina"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Carolina Crescentini",
+    "Carmine Recano",
+    "Valentina Romani",
+    "Nicolas Maupas",
+    "Massimiliano Caiazzo",
+    "Giacomo Giorgio",
+    "Artem Tkachuk",
+    "Domenico Cuomo",
+    "Serena De Ferrari",
+    "Matteo Paolillo",
+    "Antonio Orefice",
+    "Nicolò Galasso",
+    "Serena Codato",
+    "India Santella",
+    "Clotilde Esposito",
+    "Ludovica Coscione",
+    "Claudia Primavesi",
+    "Agostino Chiummariello",
+    "Carmen Pommella",
+    "Paola Benocci",
+    "Anna Ammirati",
+    "Vincenzo Ferrera",
+    "Antonio De Matteo",
+    "Kyshan Wilson",
+    "Filippo Soave",
+    "Maria Esposito",
+    "Alessandro Orrei",
+    "Lucredia Guidone",
+    "Maddalena Starnaiuolo",
+    "Francesco Panarella",
+    "Giuseppe Pirozzi",
+    "Salahudin Tijani",
+    "Clara",
+    "Yeva Sai",
+    "Luca Garone"
+  ],
+  "executive_producers": null,
+  "premise_summary": "The Sea Beyond is an Italian drama television series that first aired on Rai 2 on 23 September 2020. It was created by Cristina Farina.",
+  "wikipedia_extract": "The Sea Beyond is an Italian drama television series that first aired on Rai 2 on 23 September 2020. It was created by Cristina Farina.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

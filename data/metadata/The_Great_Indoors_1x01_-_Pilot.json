@@ -1,0 +1,62 @@
+{
+  "show_id": "The_Great_Indoors_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Great_Indoors_(TV_series)",
+  "wiki_page_title": "The Great Indoors (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:08:24.073003+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Great Indoors (TV series)",
+  "search_title_used": "The Great Indoors",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Gibbons Bros.",
+    "Shiny Brass Lamp Productions",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mike Gibbons"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Joel McHale",
+    "Christopher Mintz-Plasse",
+    "Chris Williams",
+    "Susannah Fielding",
+    "Christine Ko",
+    "Shaun Brown",
+    "Stephen Fry"
+  ],
+  "executive_producers": [
+    "Chris Harris",
+    "Mike Gibbons",
+    "Andy Ackerman",
+    "Judd Pillot",
+    "John Peaslee"
+  ],
+  "premise_summary": "The Great Indoors is an American sitcom television series created by Mike Gibbons, starring Joel McHale that aired on CBS from October 27, 2016 to May 8, 2017. The series is produced by Gibbons Bros. and Shiny Brass Lamp Productions in association with CBS Television Studios, with Gibbons serving as showrunner.",
+  "wikipedia_extract": "The Great Indoors is an American sitcom television series created by Mike Gibbons, starring Joel McHale that aired on CBS from October 27, 2016 to May 8, 2017. The series is produced by Gibbons Bros. and Shiny Brass Lamp Productions in association with CBS Television Studios, with Gibbons serving as showrunner.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

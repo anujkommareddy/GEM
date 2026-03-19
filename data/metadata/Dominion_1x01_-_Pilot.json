@@ -1,0 +1,69 @@
+{
+  "show_id": "Dominion_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dominion_(TV_series)",
+  "wiki_page_title": "Dominion (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:03.490583+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dominion (TV series)",
+  "search_title_used": "Dominion",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Apocalyptic fiction",
+    "Fantasy",
+    "Action"
+  ],
+  "format_type": "fantasy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 21,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "Bold Films",
+    "Sony Pictures Television",
+    "Universal Cable Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Vaun Wilmott"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Christopher Egan",
+    "Tom Wisdom",
+    "Roxanne McKee",
+    "Luke Allen-Gale",
+    "Shivani Ghai",
+    "Rosalind Halstead",
+    "Anthony Head",
+    "Alan Dale",
+    "Carl Beukes",
+    "Kim Engelbrecht"
+  ],
+  "executive_producers": [
+    "David Lancaster",
+    "Michel Litvack",
+    "Tom Lieber",
+    "Todd Slavkin",
+    "Darren Swimmer",
+    "Scott Stewart",
+    "Vaun Wilmott"
+  ],
+  "premise_summary": "Dominion is an American apocalyptic fantasy television series created by Vaun Wilmott. It is a sequel to the 2010 film Legion, written by Peter Schink and Scott Stewart. In December 2013, Syfy ordered a pilot episode and the series premiered on the cable television network Syfy on June 19, 2014. The show was filmed in Cape Town, South Africa. Stewart served as series executive producer, as well as director of the pilot episode, written by Wilmott. In the series, angels are in combat with mankind, which fights back from a reduced civilization.",
+  "wikipedia_extract": "Dominion is an American apocalyptic fantasy television series created by Vaun Wilmott. It is a sequel to the 2010 film Legion, written by Peter Schink and Scott Stewart. In December 2013, Syfy ordered a pilot episode and the series premiered on the cable television network Syfy on June 19, 2014. The show was filmed in Cape Town, South Africa. Stewart served as series executive producer, as well as director of the pilot episode, written by Wilmott. In the series, angels are in combat with mankind, which fights back from a reduced civilization.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

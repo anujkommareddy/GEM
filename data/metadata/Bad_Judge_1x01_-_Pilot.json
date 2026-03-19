@@ -1,0 +1,64 @@
+{
+  "show_id": "Bad_Judge_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Bad_Judge",
+  "wiki_page_title": "Bad Judge",
+  "retrieval_timestamp": "2026-03-19T04:20:42.947330+00:00",
+  "retrieval_confidence": "high",
+  "title": "Bad Judge",
+  "search_title_used": "Bad Judge",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Gary Sanchez Productions",
+    "2 Out Rally Productions",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chad Kultgen",
+    "Anne Heche"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kate Walsh",
+    "Tone Bell",
+    "Ryan Hansen",
+    "John Ducey",
+    "Miguel Sandoval"
+  ],
+  "executive_producers": [
+    "Chad Kultgen",
+    "Anne Heche",
+    "Chris Henchy",
+    "Will Ferrell",
+    "Kate Walsh",
+    "Adam McKay",
+    "Betsy Thomas",
+    "Jill Sobel Messick"
+  ],
+  "premise_summary": "Bad Judge is an American legal sitcom television series co-created by Chad Kultgen and Anne Heche. Kultgen and Heche also serve as executive producers, along with Will Ferrell, Kate Walsh, Adam McKay, Chris Henchy, Betsy Thomas, and Jill Sobel Messick for Universal Television.",
+  "wikipedia_extract": "Bad Judge is an American legal sitcom television series co-created by Chad Kultgen and Anne Heche. Kultgen and Heche also serve as executive producers, along with Will Ferrell, Kate Walsh, Adam McKay, Chris Henchy, Betsy Thomas, and Jill Sobel Messick for Universal Television.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

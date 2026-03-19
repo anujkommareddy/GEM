@@ -1,0 +1,55 @@
+{
+  "show_id": "Naked_Hotel_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Naked_City_(TV_series)",
+  "wiki_page_title": "Naked City (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:50:26.912908+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Naked City (TV series)",
+  "search_title_used": "Naked Hotel",
+  "alternate_titles": [],
+  "start_year": 1958,
+  "end_year": 1963,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Police procedural",
+    "Crime drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 138,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Shelle Productions",
+    "Screen Gems"
+  ],
+  "distributor": null,
+  "creators": [
+    "Stirling Silliphant"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "John McIntire",
+    "James Franciscus",
+    "Harry Bellaver",
+    "Horace McMahon",
+    "Paul Burke",
+    "Nancy Malone"
+  ],
+  "executive_producers": [
+    "Herbert B. Leonard (1962–1963)"
+  ],
+  "premise_summary": "Naked City is an American police procedural television series from Screen Gems that aired on ABC from 1958 to 1963. It was inspired by the 1948 motion picture The Naked City and mimics its dramatic semi-documentary format. As in the film, each episode concluded with a narrator intoning the iconic line: \"There are eight million stories in the naked city. This has been one of them.\"",
+  "wikipedia_extract": "Naked City is an American police procedural television series from Screen Gems that aired on ABC from 1958 to 1963. It was inspired by the 1948 motion picture The Naked City and mimics its dramatic semi-documentary format. As in the film, each episode concluded with a narrator intoning the iconic line: \"There are eight million stories in the naked city. This has been one of them.\"",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1963",
+  "franchise_status": null
+}

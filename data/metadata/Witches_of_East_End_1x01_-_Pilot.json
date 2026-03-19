@@ -1,0 +1,64 @@
+{
+  "show_id": "Witches_of_East_End_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Witches_of_East_End_(TV_series)",
+  "wiki_page_title": "Witches of East End (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:18:12.856378+00:00",
+  "retrieval_confidence": "high",
+  "title": "Witches of East End (TV series)",
+  "search_title_used": "Witches of East End",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Supernatural drama",
+    "Fantasy",
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 23,
+  "original_network": [
+    "Lifetime"
+  ],
+  "production_companies": [
+    "3 Arts Entertainment",
+    "Curly Girly Productions",
+    "Fox 21"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Julia Ormond",
+    "Mädchen Amick",
+    "Jenna Dewan",
+    "Rachel Boston",
+    "Daniel Di Tomasso",
+    "Eric Winter",
+    "Christian Cooke"
+  ],
+  "executive_producers": [
+    "Maggie Friedman",
+    "Erwin Stoff",
+    "Allan Arkush",
+    "Richard Hatem",
+    "Josh Reims",
+    "Jessica Tuchinsky",
+    "Mark Waters"
+  ],
+  "premise_summary": "Witches of East End is an American television series based on the 2011 novel of the same name by Melissa de la Cruz. The series premiered on Lifetime on October 6, 2013, and ended on October 5, 2014, after two seasons. Set in the fictional seaside town of East End, it follows the lives of a family of witches – Joanna Beauchamp and her two grown-up daughters, Freya Beauchamp and Ingrid Beauchamp, as well as her sister Wendy Beauchamp.",
+  "wikipedia_extract": "Witches of East End is an American television series based on the 2011 novel of the same name by Melissa de la Cruz. The series premiered on Lifetime on October 6, 2013, and ended on October 5, 2014, after two seasons. Set in the fictional seaside town of East End, it follows the lives of a family of witches – Joanna Beauchamp and her two grown-up daughters, Freya Beauchamp and Ingrid Beauchamp, as well as her sister Wendy Beauchamp.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

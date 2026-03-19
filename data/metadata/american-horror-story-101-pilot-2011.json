@@ -1,0 +1,72 @@
+{
+  "show_id": "american-horror-story-101-pilot-2011",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/American_Horror_Story",
+  "wiki_page_title": "American Horror Story",
+  "retrieval_timestamp": "2026-03-19T05:19:26.134396+00:00",
+  "retrieval_confidence": "high",
+  "title": "American Horror Story",
+  "search_title_used": "american horror story",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Horror",
+    "Anthology"
+  ],
+  "format_type": "anthology",
+  "runtime_class": "half-hour",
+  "seasons": 12,
+  "episodes": 132,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "Brad Falchuk Teley-Vision",
+    "Ryan Murphy Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ryan Murphy",
+    "Brad Falchuk"
+  ],
+  "showrunners": [
+    "Ryan Murphy (all seasons except 12)",
+    "Halley Feiffer (season 12)"
+  ],
+  "lead_cast": [
+    "see List of American Horror Story cast members"
+  ],
+  "executive_producers": [
+    "Ryan Murphy",
+    "Brad Falchuk",
+    "Dante Di Loreto",
+    "Tim Minear",
+    "James Wong",
+    "Jennifer Salt",
+    "Bradley Buecker",
+    "Alexis Martin Woodall",
+    "Crystal Liu",
+    "Adam Penn",
+    "John J. Gray",
+    "Sarah Paulson",
+    "Manny Coto",
+    "Our Lady J",
+    "Halley Feiffer",
+    "Scott Robertson",
+    "Tanase Popa"
+  ],
+  "premise_summary": "American Horror Story (AHS) is an American horror anthology television series created by Ryan Murphy and Brad Falchuk for the cable network FX. The first installment in the American Story media franchise, seasons of AHS are mostly conceived as self-contained miniseries, following a different set of characters in a new setting within the same fictional universe, and a storyline with its own beginning, middle, and end. Some plot elements of each season are loosely inspired by true events.",
+  "wikipedia_extract": "American Horror Story (AHS) is an American horror anthology television series created by Ryan Murphy and Brad Falchuk for the cable network FX. The first installment in the American Story media franchise, seasons of AHS are mostly conceived as self-contained miniseries, following a different set of characters in a new setting within the same fictional universe, and a storyline with its own beginning, middle, and end. Some plot elements of each season are loosely inspired by true events.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

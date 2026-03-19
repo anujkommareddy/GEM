@@ -1,0 +1,69 @@
+{
+  "show_id": "The_Blacklist_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Blacklist",
+  "wiki_page_title": "The Blacklist",
+  "retrieval_timestamp": "2026-03-19T05:05:30.968715+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Blacklist",
+  "search_title_used": "The Blacklist",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Action",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 10,
+  "episodes": 218,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Davis Entertainment",
+    "Universal Television",
+    "Sony Pictures Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jon Bokenkamp"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "James Spader",
+    "Megan Boone",
+    "Diego Klattenhoff",
+    "Ryan Eggold",
+    "Parminder Nagra",
+    "Harry Lennix",
+    "Amir Arison",
+    "Mozhan Marnò",
+    "Hisham Tawfiq",
+    "Laura Sohn",
+    "Anya Banerjee"
+  ],
+  "executive_producers": [
+    "Jon Bokenkamp",
+    "John Davis",
+    "John Eisendrath",
+    "John Fox",
+    "Joe Carnahan",
+    "James Spader"
+  ],
+  "premise_summary": "The Blacklist is an American crime thriller television series created by Jon Bokenkamp and developed by John Eisendrath. It stars James Spader as Raymond Reddington, an international criminal and one of the FBI's Most Wanted fugitives who cooperates with the FBI in hunting down other criminals on his \"Blacklist\". The series also stars Megan Boone, Diego Klattenhoff, Ryan Eggold, Amir Arison, Hisham Tawfiq, and Harry Lennix.",
+  "wikipedia_extract": "The Blacklist is an American crime thriller television series created by Jon Bokenkamp and developed by John Eisendrath. It stars James Spader as Raymond Reddington, an international criminal and one of the FBI's Most Wanted fugitives who cooperates with the FBI in hunting down other criminals on his \"Blacklist\". The series also stars Megan Boone, Diego Klattenhoff, Ryan Eggold, Amir Arison, Hisham Tawfiq, and Harry Lennix.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

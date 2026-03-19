@@ -1,0 +1,68 @@
+{
+  "show_id": "October_Road_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/October_Road_(TV_series)",
+  "wiki_page_title": "October Road (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:51:36.080726+00:00",
+  "retrieval_confidence": "high",
+  "title": "October Road (TV series)",
+  "search_title_used": "October Road",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 19,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Space Floor Television",
+    "Mojo Films",
+    "Group M Entertainment",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "André Nemec",
+    "Scott Rosenberg",
+    "Josh Appelbaum"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Bryan Greenberg",
+    "Laura Prepon",
+    "Warren Christie",
+    "Geoff Stults",
+    "Tom Berenger",
+    "Rebecca Field",
+    "Brad William Henke",
+    "Evan Jones",
+    "Jay Paulson",
+    "Slade Pearce",
+    "Odette Yustman",
+    "Lindy Booth"
+  ],
+  "executive_producers": [
+    "André Nemec",
+    "Scott Rosenberg",
+    "Josh Appelbaum"
+  ],
+  "premise_summary": "October Road is an American drama television series. It premiered on ABC on March 15, 2007, following Grey's Anatomy. It follows Nick Garrett who, after a decade, returns to his hometown, the fictional Knights Ridge, Massachusetts. The show takes place in the same world as the 1996 movie Beautiful Girls; both were written by Scott Rosenberg based on his life and friends.",
+  "wikipedia_extract": "October Road is an American drama television series. It premiered on ABC on March 15, 2007, following Grey's Anatomy. It follows Nick Garrett who, after a decade, returns to his hometown, the fictional Knights Ridge, Massachusetts. The show takes place in the same world as the 1996 movie Beautiful Girls; both were written by Scott Rosenberg based on his life and friends.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

@@ -1,0 +1,50 @@
+{
+  "show_id": "keeping-faith-s01-ep01",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Keeping_Faith_(TV_series)",
+  "wiki_page_title": "Keeping Faith (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:22:05.815035+00:00",
+  "retrieval_confidence": "high",
+  "title": "Keeping Faith (TV series)",
+  "search_title_used": "keeping faith",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2020,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "WelshEnglishThe series is filmed concurrently in both languages."
+  ],
+  "genres": [
+    "Thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 20,
+  "original_network": [
+    "S4C (Welsh)BBC One Wales (English)"
+  ],
+  "production_companies": [
+    "Vox PicturesNevisionCinematic ProductionsSoundworksAbout Premium Content"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matthew Hall"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eve Myles"
+  ],
+  "executive_producers": [
+    "Adrian BateMaggie RussellShane Murphy"
+  ],
+  "premise_summary": "Keeping Faith is a British thriller television series, filmed and set in Wales, and first broadcast in Welsh on S4C on 5 November 2017.",
+  "wikipedia_extract": "Keeping Faith is a British thriller television series, filmed and set in Wales, and first broadcast in Welsh on S4C on 5 November 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

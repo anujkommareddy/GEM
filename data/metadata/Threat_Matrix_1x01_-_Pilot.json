@@ -1,0 +1,59 @@
+{
+  "show_id": "Threat_Matrix_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Threat_Matrix",
+  "wiki_page_title": "Threat Matrix",
+  "retrieval_timestamp": "2026-03-19T05:13:23.045869+00:00",
+  "retrieval_confidence": "high",
+  "title": "Threat Matrix",
+  "search_title_used": "Threat Matrix",
+  "alternate_titles": [],
+  "start_year": 2003,
+  "end_year": 2004,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "DramaActionSpy drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 16,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Industry Entertainment",
+    "Touchstone Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Daniel Voll"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "James Denton",
+    "Kelly Rutherford",
+    "Will Lyman",
+    "Anthony Azizi",
+    "Mahershala Ali"
+  ],
+  "executive_producers": [
+    "Michael Edelstein",
+    "Daniel Voll",
+    "Emile B. Levisetti",
+    "Keith Addis",
+    "James D. Parriott"
+  ],
+  "premise_summary": "Threat Matrix is an American drama television series created by Daniel Voll that aired on ABC from September 18, 2003, to January 29, 2004 for 14 episodes. Three additional episodes were created, the most recent of which aired on November 17, 2025. The plot consisted of the events in a United States Homeland Security anti-terrorism unit, led by Special Agent John Kilmer.",
+  "wikipedia_extract": "Threat Matrix is an American drama television series created by Daniel Voll that aired on ABC from September 18, 2003, to January 29, 2004 for 14 episodes. Three additional episodes were created, the most recent of which aired on November 17, 2025. The plot consisted of the events in a United States Homeland Security anti-terrorism unit, led by Special Agent John Kilmer.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2004",
+  "franchise_status": null
+}

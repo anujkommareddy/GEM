@@ -1,0 +1,58 @@
+{
+  "show_id": "Clipped_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Clipped_(TV_series)",
+  "wiki_page_title": "Clipped (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:44.304032+00:00",
+  "retrieval_confidence": "high",
+  "title": "Clipped (TV series)",
+  "search_title_used": "Clipped",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "KoMut EntertainmentWarner Horizon Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David KohanMax Mutchnick"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Mike Castle",
+    "Ashley Tisdale",
+    "Lauren Lapkus",
+    "Ryan Pinkston",
+    "Matt Cook",
+    "Diona Reasonover",
+    "George Wendt"
+  ],
+  "executive_producers": [
+    "David Kohan",
+    "Max Mutchnick",
+    "James Widdoes"
+  ],
+  "premise_summary": "Clipped is an American sitcom that aired on TBS from June 16 to August 18, 2015. The series stars Mike Castle and Ashley Tisdale and centers on a group of co-workers who all went to high school together but ran in very different crowds. Now they find themselves working together at Buzzy's, a barbershop. On October 23, 2015, TBS canceled the series after one season.",
+  "wikipedia_extract": "Clipped is an American sitcom that aired on TBS from June 16 to August 18, 2015. The series stars Mike Castle and Ashley Tisdale and centers on a group of co-workers who all went to high school together but ran in very different crowds. Now they find themselves working together at Buzzy's, a barbershop. On October 23, 2015, TBS canceled the series after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

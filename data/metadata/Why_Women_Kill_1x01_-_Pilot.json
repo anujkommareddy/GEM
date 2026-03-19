@@ -1,0 +1,79 @@
+{
+  "show_id": "Why_Women_Kill_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Why_Women_Kill",
+  "wiki_page_title": "Why Women Kill",
+  "retrieval_timestamp": "2026-03-19T05:17:46.126698+00:00",
+  "retrieval_confidence": "high",
+  "title": "Why Women Kill",
+  "search_title_used": "Why Women Kill",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Black comedy",
+    "Anthology",
+    "Crime Drama"
+  ],
+  "format_type": "anthology",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "CBS All Access"
+  ],
+  "production_companies": [
+    "Black Lamb",
+    "Acme Productions",
+    "Cherry Productions",
+    "Imagine Television Studios",
+    "CBS Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Marc Cherry"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Lucy Liu",
+    "Ginnifer Goodwin",
+    "Kirby Howell-Baptiste",
+    "Alexandra Daddario",
+    "Sam Jaeger",
+    "Sadie Calvano",
+    "Jack Davenport",
+    "Reid Scott",
+    "Allison Tolman",
+    "Lana Parrilla",
+    "B. K. Cannon",
+    "Jordane Christie",
+    "Matthew Daddario",
+    "Verónica Falcón",
+    "Nick Frost"
+  ],
+  "executive_producers": [
+    "Marc Cherry",
+    "Michael Hanel",
+    "Mindy Schultheis",
+    "Brian Grazer",
+    "Francie Calfo",
+    "Marc Webb",
+    "Samie Kim Falvey",
+    "David Warren",
+    "Austin Guzman",
+    "Curtis Kheel"
+  ],
+  "premise_summary": "Why Women Kill is an American dark comedy anthology series created by Marc Cherry, which depicts the events leading to deaths caused by women.",
+  "wikipedia_extract": "Why Women Kill is an American dark comedy anthology series created by Marc Cherry, which depicts the events leading to deaths caused by women.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

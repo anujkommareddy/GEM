@@ -1,0 +1,63 @@
+{
+  "show_id": "Liza_On_Demand_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Liza_on_Demand",
+  "wiki_page_title": "Liza on Demand",
+  "retrieval_timestamp": "2026-03-19T04:45:29.791193+00:00",
+  "retrieval_confidence": "high",
+  "title": "Liza on Demand",
+  "search_title_used": "Liza On Demand",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 25,
+  "original_network": [
+    "YouTube Premium"
+  ],
+  "production_companies": [
+    "5 Foot Entertainment",
+    "Above Average",
+    "Multi Start"
+  ],
+  "distributor": null,
+  "creators": [
+    "Deborah Kaplan",
+    "Harry Elfont",
+    "Liza Koshy"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Liza Koshy",
+    "Kimiko Glenn",
+    "Travis Coles"
+  ],
+  "executive_producers": [
+    "Todd Biermann",
+    "Caroline Chewning",
+    "Marc Lieberman",
+    "Josh Poole",
+    "Harry Elfont",
+    "Deborah Kaplan",
+    "Liza Koshy",
+    "Courtney Carter"
+  ],
+  "premise_summary": "Liza on Demand is an American comedy series created by Deborah Kaplan, Harry Elfont, and Liza Koshy that premiered on June 27, 2018, on YouTube Premium. The series stars Koshy, Kimiko Glenn, and Travis Coles and follows Koshy as a \"tasker\" who completes odd jobs around Los Angeles via a phone application. The series was renewed for a second season which premiered on September 25, 2019. In January 2020, the series was renewed for the third and final season, premiering and concluding in October 2021.",
+  "wikipedia_extract": "Liza on Demand is an American comedy series created by Deborah Kaplan, Harry Elfont, and Liza Koshy that premiered on June 27, 2018, on YouTube Premium. The series stars Koshy, Kimiko Glenn, and Travis Coles and follows Koshy as a \"tasker\" who completes odd jobs around Los Angeles via a phone application. The series was renewed for a second season which premiered on September 25, 2019. In January 2020, the series was renewed for the third and final season, premiering and concluding in October 2021.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

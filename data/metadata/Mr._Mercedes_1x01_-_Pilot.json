@@ -1,0 +1,76 @@
+{
+  "show_id": "Mr._Mercedes_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mr._Mercedes_(TV_series)",
+  "wiki_page_title": "Mr. Mercedes (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:49:48.568456+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mr. Mercedes (TV series)",
+  "search_title_used": "Mr. Mercedes",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Psychological thriller",
+    "Horror"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "Audience"
+  ],
+  "production_companies": [
+    "David E. Kelley Productions",
+    "Nomadicfilm",
+    "Temple Hill Productions",
+    "Sonar Entertainment"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Brendan Gleeson",
+    "Harry Treadaway",
+    "Kelly Lynch",
+    "Jharrel Jerome",
+    "Scott Lawrence",
+    "Robert Stanton",
+    "Breeda Wool",
+    "Justine Lupe",
+    "Mary-Louise Parker",
+    "Holland Taylor",
+    "Jack Huston",
+    "Maximiliano Hernández",
+    "Tessa Ferrer",
+    "Rarmian Newton",
+    "Gabriel Ebert",
+    "Tammy Christine Arnold"
+  ],
+  "executive_producers": [
+    "Marty Bowen",
+    "Wyck Godfrey",
+    "Chris Long",
+    "Shane Elrod",
+    "Tom Lesinski",
+    "Jenna Santoianni",
+    "Stephen King",
+    "Jack Bender",
+    "David E. Kelley"
+  ],
+  "premise_summary": "Mr. Mercedes is an American crime drama television series developed by David E. Kelley. An adaptation of Stephen King's Bill Hodges trilogy of novels, it stars Brendan Gleeson as Bill Hodges. It premiered on Audience on August 9, 2017, and concluded on November 12, 2019, spanning 30 episodes over three seasons.",
+  "wikipedia_extract": "Mr. Mercedes is an American crime drama television series developed by David E. Kelley. An adaptation of Stephen King's Bill Hodges trilogy of novels, it stars Brendan Gleeson as Bill Hodges. It premiered on Audience on August 9, 2017, and concluded on November 12, 2019, spanning 30 episodes over three seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

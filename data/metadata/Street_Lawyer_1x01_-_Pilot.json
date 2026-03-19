@@ -1,0 +1,65 @@
+{
+  "show_id": "Street_Lawyer_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Lincoln_Lawyer_(TV_series)",
+  "wiki_page_title": "The Lincoln Lawyer (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:59.124276+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Lincoln Lawyer (TV series)",
+  "search_title_used": "Street Lawyer",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 40,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "David E. Kelley Productions",
+    "Hieronymus Pictures",
+    "Algorithm Entertainment",
+    "Fineman Entertainment",
+    "A+E Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "David E. Kelley"
+  ],
+  "showrunners": [
+    "Ted Humphrey (seasons 1 – present)",
+    "Dailyn Rodriguez (seasons 2 – present)"
+  ],
+  "lead_cast": [
+    "Manuel Garcia-Rulfo",
+    "Neve Campbell",
+    "Becki Newton",
+    "Jazz Raycole",
+    "Angus Sampson",
+    "Yaya DaCosta"
+  ],
+  "executive_producers": [
+    "David E. Kelley",
+    "Ted Humphrey",
+    "Michael Connelly",
+    "Ross Fineman"
+  ],
+  "premise_summary": "The Lincoln Lawyer is an American legal drama television series created for television by David E. Kelley and developed by Ted Humphrey, based on the books of Michael Connelly. It stars Manuel Garcia-Rulfo as Mickey Haller, a defense attorney in Los Angeles who often works out of a chauffeur-driven Lincoln Navigator. Neve Campbell, Becki Newton, Jazz Raycole, Angus Sampson, and Yaya DaCosta also star.",
+  "wikipedia_extract": "The Lincoln Lawyer is an American legal drama television series created for television by David E. Kelley and developed by Ted Humphrey, based on the books of Michael Connelly. It stars Manuel Garcia-Rulfo as Mickey Haller, a defense attorney in Los Angeles who often works out of a chauffeur-driven Lincoln Navigator. Neve Campbell, Becki Newton, Jazz Raycole, Angus Sampson, and Yaya DaCosta also star.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

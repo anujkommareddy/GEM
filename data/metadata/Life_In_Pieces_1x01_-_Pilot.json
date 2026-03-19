@@ -1,0 +1,70 @@
+{
+  "show_id": "Life_In_Pieces_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Life_in_Pieces",
+  "wiki_page_title": "Life in Pieces",
+  "retrieval_timestamp": "2026-03-19T04:44:55.449023+00:00",
+  "retrieval_confidence": "high",
+  "title": "Life in Pieces",
+  "search_title_used": "Life In Pieces",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 79,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "40 or 50 Years",
+    "Inc.",
+    "Kapital Entertainment",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Justin Adler"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Colin Hanks",
+    "Betsy Brandt",
+    "Thomas Sadoski",
+    "Zoe Lister-Jones",
+    "Dan Bakkedahl",
+    "Angelique Cabral",
+    "Niall Cunningham",
+    "Holly J. Barrett",
+    "Giselle Eisenberg",
+    "James Brolin",
+    "Dianne Wiest",
+    "Hunter King",
+    "Ana Sophia Heger"
+  ],
+  "executive_producers": [
+    "Justin Adler",
+    "Aaron Kaplan",
+    "Jeff Morton",
+    "Jason Winer",
+    "Brad Copeland",
+    "Barbara Adler"
+  ],
+  "premise_summary": "Life in Pieces is an American television sitcom created by Justin Adler that aired on CBS from September 21, 2015 to June 27, 2019, with a total of 79 half-hour episodes spanning four seasons. It was produced by 40 or 50 Years, Inc. and Kapital Entertainment, in association with 20th Century Fox Television, with Adler serving as showrunner. CBS canceled the series after four seasons on May 10, 2019.",
+  "wikipedia_extract": "Life in Pieces is an American television sitcom created by Justin Adler that aired on CBS from September 21, 2015 to June 27, 2019, with a total of 79 half-hour episodes spanning four seasons. It was produced by 40 or 50 Years, Inc. and Kapital Entertainment, in association with 20th Century Fox Television, with Adler serving as showrunner. CBS canceled the series after four seasons on May 10, 2019.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

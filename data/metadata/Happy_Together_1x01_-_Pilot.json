@@ -1,0 +1,65 @@
+{
+  "show_id": "Happy_Together_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Happy_Together_(American_TV_series)",
+  "wiki_page_title": "Happy Together (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:36:00.504102+00:00",
+  "retrieval_confidence": "high",
+  "title": "Happy Together (American TV series)",
+  "search_title_used": "Happy Together",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Fulwell 73",
+    "3 Arts Entertainment",
+    "The Gary Breakfast Corporation",
+    "Page Entertainment",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tim McAuliffe",
+    "Austen Earl"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Damon Wayans Jr.",
+    "Amber Stevens West",
+    "Stephnie Weir",
+    "Victor Williams",
+    "Chris Parnell",
+    "Felix Mallard"
+  ],
+  "executive_producers": [
+    "Ben Winston",
+    "Tim McAuliffe",
+    "Austen Earl",
+    "Michael Rotenberg",
+    "Jonathan Berry",
+    "Harry Styles"
+  ],
+  "premise_summary": "Happy Together is an American television sitcom created by Tim McAuliffe and Austen Earl, that aired on CBS from October 1, 2018 to January 14, 2019. The series follows a young couple whose lives are suddenly thrown into chaos when a pop star moves into their home. It stars Damon Wayans Jr., Amber Stevens West, Felix Mallard, Stephnie Weir, Victor Williams and Chris Parnell.",
+  "wikipedia_extract": "Happy Together is an American television sitcom created by Tim McAuliffe and Austen Earl, that aired on CBS from October 1, 2018 to January 14, 2019. The series follows a young couple whose lives are suddenly thrown into chaos when a pop star moves into their home. It stars Damon Wayans Jr., Amber Stevens West, Felix Mallard, Stephnie Weir, Victor Williams and Chris Parnell.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

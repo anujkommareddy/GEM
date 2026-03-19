@@ -1,0 +1,93 @@
+{
+  "show_id": "The_Vikings_1x01_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Vikings_(TV_series)",
+  "wiki_page_title": "Vikings (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:12:38.164009+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Vikings (TV series)",
+  "search_title_used": "The Vikings",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": null,
+  "country": [
+    "Canada",
+    "Ireland"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical drama",
+    "Action",
+    "War"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 89,
+  "original_network": [
+    "History",
+    "Amazon Prime Video (s."
+  ],
+  "production_companies": [
+    "TM Productions",
+    "Take 5 Productions",
+    "Octagon Films (s. 1–4)",
+    "Corus Entertainment (",
+    "MGM Television",
+    "}}"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Hirst"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Travis Fimmel",
+    "Katheryn Winnick",
+    "Clive Standen",
+    "Jessalyn Gilsig",
+    "Gustaf Skarsgård",
+    "Gabriel Byrne",
+    "George Blagden",
+    "Donal Logue",
+    "Alyssa Sutherland",
+    "Linus Roache",
+    "Alexander Ludwig",
+    "Ben Robson",
+    "Kevin Durand",
+    "Lothaire Bluteau",
+    "John Kavanagh",
+    "Peter Franzén",
+    "Adam Copeland",
+    "Jasper Pääkkönen",
+    "Alex Høgh Andersen",
+    "Marco Ilsø",
+    "David Lindström",
+    "Jordan Patrick Smith",
+    "Moe Dunford",
+    "Jonathan Rhys Meyers",
+    "Danila Kozlovsky",
+    "Eric Johnson",
+    "Georgia Hirst",
+    "Ragga Ragnars",
+    "Ray Stevenson"
+  ],
+  "executive_producers": [
+    "Morgan O'Sullivan",
+    "Sheila Hockin",
+    "Sherry Marsh",
+    "Alan Gasmer",
+    "James Flynn",
+    "John Weber",
+    "Michael Hirst"
+  ],
+  "premise_summary": "Vikings is a historical drama television series created and written by Michael Hirst. A co-production between Canada and Ireland, the series originally premiered on the History Channel on March 3, 2013. The series concluded with its broadcast on History in Canada from January 1 to March 3, 2021, after the second half of the sixth season was released in its entirety on Amazon Prime Video in Ireland on December 30, 2020. A sequel series, titled Vikings: Valhalla, premiered on Netflix on February 25, 2022.",
+  "wikipedia_extract": "Vikings is a historical drama television series created and written by Michael Hirst. A co-production between Canada and Ireland, the series originally premiered on the History Channel on March 3, 2013. The series concluded with its broadcast on History in Canada from January 1 to March 3, 2021, after the second half of the sixth season was released in its entirety on Amazon Prime Video in Ireland on December 30, 2020. A sequel series, titled Vikings: Valhalla, premiered on Netflix on February 25, 2022.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

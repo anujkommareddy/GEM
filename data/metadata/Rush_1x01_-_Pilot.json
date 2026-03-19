@@ -1,0 +1,44 @@
+{
+  "show_id": "Rush_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Gold_Rush_(TV_series)",
+  "wiki_page_title": "Gold Rush (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:57:56.080582+00:00",
+  "retrieval_confidence": "high",
+  "title": "Gold Rush (TV series)",
+  "search_title_used": "Rush",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": "reality",
+  "runtime_class": "hour",
+  "seasons": 15,
+  "episodes": 402,
+  "original_network": [
+    "Discovery Channel"
+  ],
+  "production_companies": [
+    "Raw TV"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Christo Doyle"
+  ],
+  "premise_summary": "Gold Rush is an American reality television series that airs on Discovery and its affiliates worldwide. The series follows the placer gold mining efforts of various family-run mining companies, initially in Alaska, but then mostly in the Klondike region of Dawson City, Yukon, Canada. Prior seasons also included mining efforts in Guyana, Oregon, and Colorado. As of 2024, the show has aired 15 seasons.",
+  "wikipedia_extract": "Gold Rush is an American reality television series that airs on Discovery and its affiliates worldwide. The series follows the placer gold mining efforts of various family-run mining companies, initially in Alaska, but then mostly in the Klondike region of Dawson City, Yukon, Canada. Prior seasons also included mining efforts in Guyana, Oregon, and Colorado. As of 2024, the show has aired 15 seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

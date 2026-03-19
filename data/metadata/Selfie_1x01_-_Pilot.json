@@ -1,0 +1,57 @@
+{
+  "show_id": "Selfie_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Selfie_(TV_series)",
+  "wiki_page_title": "Selfie (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:59:44.871930+00:00",
+  "retrieval_confidence": "high",
+  "title": "Selfie (TV series)",
+  "search_title_used": "Selfie",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Romantic comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC (episodes 1–7)",
+    "Hulu (episodes 8–13)"
+  ],
+  "production_companies": [
+    "Piece of Pie ProductionsWarner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Emily Kapnek"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Karen Gillan",
+    "John Cho",
+    "Da'Vine Joy Randolph",
+    "Allyn Rachel",
+    "David Harewood"
+  ],
+  "executive_producers": [
+    "Julie Anne Robinson",
+    "Emily Kapnek"
+  ],
+  "premise_summary": "Selfie is an American television sitcom starring Karen Gillan and John Cho. Created and executive produced by Emily Kapnek for Warner Bros. Television, the series debuted on ABC during the 2014–15 television season. The series premiered on September 30, 2014. The pilot was made available early through video on demand and online streaming media on Twitter on August 20, 2014.",
+  "wikipedia_extract": "Selfie is an American television sitcom starring Karen Gillan and John Cho. Created and executive produced by Emily Kapnek for Warner Bros. Television, the series debuted on ABC during the 2014–15 television season. The series premiered on September 30, 2014. The pilot was made available early through video on demand and online streaming media on Twitter on August 20, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

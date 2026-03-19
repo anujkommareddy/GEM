@@ -1,0 +1,72 @@
+{
+  "show_id": "The_Affair_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Affair_(TV_series)",
+  "wiki_page_title": "The Affair (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:51.784102+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Affair (TV series)",
+  "search_title_used": "The Affair",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 53,
+  "original_network": [
+    "Showtime"
+  ],
+  "production_companies": [
+    "Sheleg",
+    "Higlewater",
+    "Showtime Networks"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sarah Treem",
+    "Hagai Levi"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Dominic West",
+    "Ruth Wilson",
+    "Maura Tierney",
+    "Joshua Jackson",
+    "Julia Goldani Telles",
+    "Jake Siciliano",
+    "Jadon Sand",
+    "Leya Catlett",
+    "Josh Stamberg",
+    "Catalina Sandino Moreno",
+    "Omar Metwally",
+    "Irène Jacob",
+    "Sanaa Lathan",
+    "Anna Paquin"
+  ],
+  "executive_producers": [
+    "Sarah Treem",
+    "Hagai Levi",
+    "Jeffrey Reiner",
+    "Eric Overmyer",
+    "Anya Epstein"
+  ],
+  "premise_summary": "The Affair is an American drama television series created by Sarah Treem and Hagai Levi. The series premiered on Showtime on October 12, 2014. It ran for five seasons, concluding with its final episode on November 3, 2019.",
+  "wikipedia_extract": "The Affair is an American drama television series created by Sarah Treem and Hagai Levi. The series premiered on Showtime on October 12, 2014. It ran for five seasons, concluding with its final episode on November 3, 2019.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

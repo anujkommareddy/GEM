@@ -1,0 +1,64 @@
+{
+  "show_id": "Leverage_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Leverage_(American_TV_series)",
+  "wiki_page_title": "Leverage (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:47.624493+00:00",
+  "retrieval_confidence": "high",
+  "title": "Leverage (American TV series)",
+  "search_title_used": "Leverage",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Caper story",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 77,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Electric Entertainment",
+    "Johnworld",
+    "Inc.",
+    "Leverage 4 Holdings",
+    "TNT Original Production"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Rogers",
+    "Chris Downey"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Timothy Hutton",
+    "Gina Bellman",
+    "Christian Kane",
+    "Beth Riesgraf",
+    "Aldis Hodge"
+  ],
+  "executive_producers": [
+    "Dean Devlin",
+    "John Rogers",
+    "Chris Downey",
+    "Marc Roskin"
+  ],
+  "premise_summary": "Leverage is an American action crime drama television series, which aired on TNT from December 7, 2008, to December 25, 2012. The series was produced by Electric Entertainment, a production company of executive producer and director Dean Devlin. Leverage follows a five-person team: a thief, a grifter, a hacker, and a retrieval specialist or \"hitter\", led by former insurance investigator Nathan Ford, who use their skills to carry out heists to fight corporate and governmental injustices inflicted on ordinary citizens.",
+  "wikipedia_extract": "Leverage is an American action crime drama television series, which aired on TNT from December 7, 2008, to December 25, 2012. The series was produced by Electric Entertainment, a production company of executive producer and director Dean Devlin. Leverage follows a five-person team: a thief, a grifter, a hacker, and a retrieval specialist or \"hitter\", led by former insurance investigator Nathan Ford, who use their skills to carry out heists to fight corporate and governmental injustices inflicted on ordinary citizens.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

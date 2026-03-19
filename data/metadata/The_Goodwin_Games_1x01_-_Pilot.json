@@ -1,0 +1,61 @@
+{
+  "show_id": "The_Goodwin_Games_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Goodwin_Games",
+  "wiki_page_title": "The Goodwin Games",
+  "retrieval_timestamp": "2026-03-19T05:08:20.285681+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Goodwin Games",
+  "search_title_used": "The Goodwin Games",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 7,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Shiny Brass Lamp Productions",
+    "Bays Thomas Productions",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Carter Bays",
+    "Craig Thomas",
+    "Chris Harris"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Becki Newton",
+    "Scott Foley",
+    "T.J. Miller",
+    "Melissa Tang",
+    "Kat Foster"
+  ],
+  "executive_producers": [
+    "Chris Harris",
+    "Carter Bays",
+    "Craig Thomas",
+    "Peyton Reed"
+  ],
+  "premise_summary": "The Goodwin Games is an American television sitcom that aired as a midseason replacement on Fox from May 20 to July 1, 2013. The show was created by Carter Bays and Craig Thomas alongside Chris Harris.",
+  "wikipedia_extract": "The Goodwin Games is an American television sitcom that aired as a midseason replacement on Fox from May 20 to July 1, 2013. The show was created by Carter Bays and Craig Thomas alongside Chris Harris.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

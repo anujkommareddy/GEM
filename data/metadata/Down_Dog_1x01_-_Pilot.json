@@ -1,0 +1,51 @@
+{
+  "show_id": "Down_Dog_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dog_Park_(TV_series)",
+  "wiki_page_title": "Dog Park (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:11.224775+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Dog Park (TV series)",
+  "search_title_used": "Down Dog",
+  "alternate_titles": [],
+  "start_year": 2026,
+  "end_year": null,
+  "country": [
+    "Australia"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Dramatic comedy"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": null,
+  "seasons": null,
+  "episodes": null,
+  "original_network": [
+    "ABC Television"
+  ],
+  "production_companies": null,
+  "distributor": null,
+  "creators": [
+    "Leon Ford",
+    "Amanda Higgs"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Leon Ford",
+    "Celia Pacquola",
+    "Grace Chow",
+    "Ras-Samuel",
+    "Elizabeth Alexander"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Dog Park is an Australian dramatic comedy TV series made for ABC Television, released on 1 February 2026. Produced by Matchbox Pictures, the series focuses on Roland, who in the grip of a midlife crisis joins a group of dog owners in the local park.",
+  "wikipedia_extract": "Dog Park is an Australian dramatic comedy TV series made for ABC Television, released on 1 February 2026. Produced by Matchbox Pictures, the series focuses on Roland, who in the grip of a midlife crisis joins a group of dog owners in the local park.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,63 @@
+{
+  "show_id": "Heathers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Heathers_(TV_series)",
+  "wiki_page_title": "Heathers (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:36:23.212683+00:00",
+  "retrieval_confidence": "high",
+  "title": "Heathers (TV series)",
+  "search_title_used": "Heathers",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Black comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "HBO Europe",
+    "Paramount Network"
+  ],
+  "production_companies": [
+    "Gyre & Gimble Productions",
+    "Underground Films",
+    "Lakeshore Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jason Micallef"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Grace Victoria Cox",
+    "Melanie Field",
+    "James Scully",
+    "Brendan Scannell",
+    "Jasmine Mathews"
+  ],
+  "executive_producers": [
+    "Jason Micallef",
+    "Annie Mebane",
+    "Gary Lucchesi",
+    "Bradley Gardner",
+    "Josh McGuire",
+    "Trevor Engelson",
+    "Leslye Headland (pilot)"
+  ],
+  "premise_summary": "Heathers is an American black comedy television series, created by Jason Micallef, that premiered on October 25, 2018, on Paramount Network. A modern-day reboot of the 1989 film of the same name written by Daniel Waters, it stars Grace Victoria Cox, James Scully, Melanie Field, Brendan Scannell and Jasmine Mathews. The series follows high school student Veronica Sawyer and her conflicts with a self-titled clique consisting of three fellow students who share the name Heather. The series was intended to be an anthology, with each season taking place in an entirely different setting from the original film.",
+  "wikipedia_extract": "Heathers is an American black comedy television series, created by Jason Micallef, that premiered on October 25, 2018, on Paramount Network. A modern-day reboot of the 1989 film of the same name written by Daniel Waters, it stars Grace Victoria Cox, James Scully, Melanie Field, Brendan Scannell and Jasmine Mathews. The series follows high school student Veronica Sawyer and her conflicts with a self-titled clique consisting of three fellow students who share the name Heather. The series was intended to be an anthology, with each season taking place in an entirely different setting from the original film.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

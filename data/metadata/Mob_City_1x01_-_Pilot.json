@@ -1,0 +1,64 @@
+{
+  "show_id": "Mob_City_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mob_City",
+  "wiki_page_title": "Mob City",
+  "retrieval_timestamp": "2026-03-19T04:49:17.826063+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mob City",
+  "search_title_used": "Mob City",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Neo-noir"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 6,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Darkwoods Productions",
+    "Swiftly Productions",
+    "Michael DeLuca Productions",
+    "TNT Original Production"
+  ],
+  "distributor": null,
+  "creators": [
+    "Frank Darabont"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jon Bernthal",
+    "Milo Ventimiglia",
+    "Neal McDonough",
+    "Alexa Davalos",
+    "Jeffrey DeMunn",
+    "Andrew Rothenberg",
+    "Robert Knepper",
+    "Gregory Itzin",
+    "Edward Burns"
+  ],
+  "executive_producers": [
+    "Frank Darabont",
+    "Michael De Luca",
+    "Elliot Webb"
+  ],
+  "premise_summary": "Mob City is an American neo-noir crime drama television series created by Frank Darabont for TNT. It is based on real-life accounts of the L.A.P.D. and gangsters in 1940s Los Angeles as chronicled in John Buntin's book L.A. Noir: The Struggle for the Soul of America's Most Seductive City. The series premiered on December 4, 2013.",
+  "wikipedia_extract": "Mob City is an American neo-noir crime drama television series created by Frank Darabont for TNT. It is based on real-life accounts of the L.A.P.D. and gangsters in 1940s Los Angeles as chronicled in John Buntin's book L.A. Noir: The Struggle for the Soul of America's Most Seductive City. The series premiered on December 4, 2013.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

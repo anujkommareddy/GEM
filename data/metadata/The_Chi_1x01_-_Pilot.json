@@ -1,0 +1,87 @@
+{
+  "show_id": "The_Chi_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Chi",
+  "wiki_page_title": "The Chi",
+  "retrieval_timestamp": "2026-03-19T05:06:14.049619+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Chi",
+  "search_title_used": "The Chi",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 78,
+  "original_network": [
+    "Showtime"
+  ],
+  "production_companies": [
+    "Hillman Grad Productions",
+    "Elwood Reid Inc.",
+    "Freedom Road Productions",
+    "id8 mm.",
+    "Hillianaire Productions",
+    "Verse Productions",
+    "Kapital Entertainment",
+    "20th TelevisionKnown as Fox 21 Television Studios and Touchstone Television for the first three seasons.",
+    "Showtime Networks"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lena Waithe"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jason Mitchell",
+    "Ntare Guma Mbaho Mwine",
+    "Jacob Latimore",
+    "Alex R. Hibbert",
+    "Tiffany Boone",
+    "Yolonda Ross",
+    "Armando Riesco",
+    "Barton Fitzpatrick",
+    "Shamon Brown Jr.",
+    "Michael V. Epps",
+    "Birgundi Baker",
+    "Luke James",
+    "Curtiss Cook",
+    "Lynn Whitfield",
+    "Hannaha Hall",
+    "Jason Weaver",
+    "Ahmad Nicholas Ferguson",
+    "Cortez Smith",
+    "Rolando Bryce",
+    "Daniel J. Watts",
+    "Rotimi"
+  ],
+  "executive_producers": [
+    "Lena Waithe",
+    "Common",
+    "Elwood Reid",
+    "Aaron Kaplan",
+    "Rick Famuyiwa",
+    "Ayanna Floyd Davis",
+    "Jet Wilkinson",
+    "Shelby Stone",
+    "Derek Dudley",
+    "}}"
+  ],
+  "premise_summary": "The Chi is an American drama television series created by Lena Waithe about life in a neighborhood on the South Side of Chicago. In May 2024, the series was renewed for a seventh season; which premiered on May 18, 2025. In May 2025, the series was renewed for an eighth season. Five months later, it was announced that the eighth season would be the final season.",
+  "wikipedia_extract": "The Chi is an American drama television series created by Lena Waithe about life in a neighborhood on the South Side of Chicago. In May 2024, the series was renewed for a seventh season; which premiered on May 18, 2025. In May 2025, the series was renewed for an eighth season. Five months later, it was announced that the eighth season would be the final season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

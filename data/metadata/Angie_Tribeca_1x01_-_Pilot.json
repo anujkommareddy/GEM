@@ -1,0 +1,67 @@
+{
+  "show_id": "Angie_Tribeca_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Angie_Tribeca",
+  "wiki_page_title": "Angie Tribeca",
+  "retrieval_timestamp": "2026-03-19T04:19:49.155963+00:00",
+  "retrieval_confidence": "high",
+  "title": "Angie Tribeca",
+  "search_title_used": "Angie Tribeca",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Parody",
+    "Crime",
+    "Mystery"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 40,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Carousel Television",
+    "301 Productions",
+    "TBS Productions (seasons 1–2)",
+    "Studio T (seasons 3–4)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Steve Carell",
+    "Nancy Carell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Rashida Jones",
+    "Hayes MacArthur",
+    "Jere Burns",
+    "Deon Cole",
+    "Andrée Vermeulen",
+    "Kiersey Clemons",
+    "Bobby Cannavale"
+  ],
+  "executive_producers": [
+    "Steve Carell",
+    "Nancy Carell",
+    "Ira Ungerleider",
+    "Thom Hinkle",
+    "Campbell Smith"
+  ],
+  "premise_summary": "Angie Tribeca is an American television sitcom created by Steve and Nancy Carell, which aired on TBS. A parody of the police procedural genre, it stars Rashida Jones as the titular character, with Hayes MacArthur, Jere Burns, Deon Cole and Andrée Vermeulen in supporting roles.",
+  "wikipedia_extract": "Angie Tribeca is an American television sitcom created by Steve and Nancy Carell, which aired on TBS. A parody of the police procedural genre, it stars Rashida Jones as the titular character, with Hayes MacArthur, Jere Burns, Deon Cole and Andrée Vermeulen in supporting roles.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

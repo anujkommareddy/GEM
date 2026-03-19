@@ -1,0 +1,69 @@
+{
+  "show_id": "The_FIrst_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_First_(TV_series)",
+  "wiki_page_title": "The First (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:07:12.295557+00:00",
+  "retrieval_confidence": "high",
+  "title": "The First (TV series)",
+  "search_title_used": "The FIrst",
+  "alternate_titles": [],
+  "start_year": null,
+  "end_year": null,
+  "country": [
+    "United States",
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fictionDrama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "Hulu (US)",
+    "Channel 4 (UK)"
+  ],
+  "production_companies": [
+    "Westward",
+    "Endeavor Content"
+  ],
+  "distributor": null,
+  "creators": [
+    "Beau Willimon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sean Penn",
+    "Natascha McElhone",
+    "LisaGay Hamilton",
+    "Hannah Ware",
+    "Keiko Agena",
+    "Rey Lucas",
+    "James Ransone",
+    "Anna Jacoby-Heron",
+    "Brian Lee Franklin",
+    "Oded Fehr",
+    "Norbert Leo Butz",
+    "Annie Parisse",
+    "Melissa George",
+    "Jeannie Berlin",
+    "Bill Camp",
+    "Ana Lucia Souza"
+  ],
+  "executive_producers": [
+    "Beau Willimon",
+    "Jordan Tappis"
+  ],
+  "premise_summary": "The First is an American-British science fiction drama television series, about a team of astronauts who prepare to become the first humans to visit Mars. It was created by Beau Willimon and stars an ensemble cast including Sean Penn, Natascha McElhone, LisaGay Hamilton, Hannah Ware, Keiko Agena, Rey Lucas, James Ransone, Anna Jacoby-Heron, Brian Lee Franklin, Oded Fehr, Norbert Leo Butz, Annie Parisse, Melissa George, Jeannie Berlin, and Bill Camp.",
+  "wikipedia_extract": "The First is an American-British science fiction drama television series, about a team of astronauts who prepare to become the first humans to visit Mars. It was created by Beau Willimon and stars an ensemble cast including Sean Penn, Natascha McElhone, LisaGay Hamilton, Hannah Ware, Keiko Agena, Rey Lucas, James Ransone, Anna Jacoby-Heron, Brian Lee Franklin, Oded Fehr, Norbert Leo Butz, Annie Parisse, Melissa George, Jeannie Berlin, and Bill Camp.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

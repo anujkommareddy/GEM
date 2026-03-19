@@ -1,0 +1,65 @@
+{
+  "show_id": "Life_Sentence_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Life_Sentence_(TV_series)",
+  "wiki_page_title": "Life Sentence (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:59.278976+00:00",
+  "retrieval_confidence": "high",
+  "title": "Life Sentence (TV series)",
+  "search_title_used": "Life Sentence",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Comedy drama",
+    "Family drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "In Good Company",
+    "Doozer",
+    "CBS Television Studios",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Erin Cardillo",
+    "Richard Keith"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Lucy Hale",
+    "Elliot Knight",
+    "Jayson Blair",
+    "Brooke Lyons",
+    "Carlos PenaVega",
+    "Gillian Vigman",
+    "Dylan Walsh",
+    "Nadej Bailey"
+  ],
+  "executive_producers": [
+    "Erin Cardillo",
+    "Richard Keith",
+    "Oliver Goldstick",
+    "Bill Lawrence",
+    "Jeff Ingold",
+    "Lee Toland Krieger"
+  ],
+  "premise_summary": "Life Sentence is an American comedy-drama television series, created by Erin Cardillo and Richard Keith, which debuted on The CW as a midseason entry during the 2017–18 television season. The series premiered on March 7, 2018, and concluded on June 15, 2018, with a total of 13 episodes.",
+  "wikipedia_extract": "Life Sentence is an American comedy-drama television series, created by Erin Cardillo and Richard Keith, which debuted on The CW as a midseason entry during the 2017–18 television season. The series premiered on March 7, 2018, and concluded on June 15, 2018, with a total of 13 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

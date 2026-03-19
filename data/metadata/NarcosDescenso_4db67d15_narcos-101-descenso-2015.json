@@ -1,0 +1,98 @@
+{
+  "show_id": "NarcosDescenso_4db67d15_narcos-101-descenso-2015",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Narcos",
+  "wiki_page_title": "Narcos",
+  "retrieval_timestamp": "2026-03-19T04:50:30.751232+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Narcos",
+  "search_title_used": "NarcosDescenso",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Spanish"
+  ],
+  "genres": [
+    "Crime drama",
+    "Biographical"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Gaumont Television USANetflix Originals"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chris Brancato",
+    "Carlo Bernard",
+    "Doug Miro"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Wagner Moura",
+    "Boyd Holbrook",
+    "Pedro Pascal",
+    "Damián Alcázar",
+    "Joanna Christie",
+    "Maurice Compte",
+    "Alberto Ammann",
+    "André Mattos",
+    "Roberto Urbina",
+    "Diego Cataño",
+    "Jorge A. Jimenez",
+    "Paulina Gaitán",
+    "Paulina García",
+    "Stephanie Sigman",
+    "Bruno Bichir",
+    "Raúl Méndez",
+    "Manolo Cardona",
+    "Cristina Umaña",
+    "Eric Lange",
+    "Florencia Lozano",
+    "Francisco Denis",
+    "Pêpê Rapazote",
+    "Matias Varela",
+    "Javier Cámara",
+    "Arturo Castro",
+    "Andrea Londo",
+    "Kerry Bishé",
+    "Michael Stahl-David",
+    "Matt Whelan",
+    "José María Yazpik"
+  ],
+  "executive_producers": [
+    "Carlo Bernard",
+    "Doug Miro",
+    "Katie O'Connell Marsh",
+    "Elisa Todd Ellis",
+    "Sidonie Dumas",
+    "Christophe Riandee",
+    "Cindy Holland",
+    "Jane Wiseman",
+    "Tara Duncan",
+    "Chris Brancato",
+    "Eric Newman",
+    "José Padilha",
+    "Peter Friedlander",
+    "Eugene Stein",
+    "Tara Flynn",
+    "Adam Fishbach"
+  ],
+  "premise_summary": "Narcos is an American crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro. Set and filmed in Colombia, seasons 1 and 2 are about Colombian narcoterrorist and drug lord Pablo Escobar, leader of the Medellín Cartel and billionaire through cocaine production and distribution. The series also focuses on Escobar's interactions with drug lords, Drug Enforcement Administration (DEA) agents, and various opposition entities. Season 3 picks up after the fall of Escobar and continues to follow the DEA as they try to shut down the rise of the infamous Cali Cartel.",
+  "wikipedia_extract": "Narcos is an American crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro. Set and filmed in Colombia, seasons 1 and 2 are about Colombian narcoterrorist and drug lord Pablo Escobar, leader of the Medellín Cartel and billionaire through cocaine production and distribution. The series also focuses on Escobar's interactions with drug lords, Drug Enforcement Administration (DEA) agents, and various opposition entities. Season 3 picks up after the fall of Escobar and continues to follow the DEA as they try to shut down the rise of the infamous Cali Cartel.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

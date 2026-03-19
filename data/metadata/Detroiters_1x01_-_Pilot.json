@@ -1,0 +1,50 @@
+{
+  "show_id": "Detroiters_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Detroiters",
+  "wiki_page_title": "Detroiters",
+  "retrieval_timestamp": "2026-03-19T04:28:13.488735+00:00",
+  "retrieval_confidence": "high",
+  "title": "Detroiters",
+  "search_title_used": "Detroiters",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Comedy Central"
+  ],
+  "production_companies": [
+    "Broadway VideoCentral Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sam RichardsonTim RobinsonZach KaninJoe Kelly"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sam RichardsonTim Robinson"
+  ],
+  "executive_producers": [
+    "Sam RichardsonTim RobinsonZach KaninJoe KellyLorne MichaelsJason Sudeikis"
+  ],
+  "premise_summary": "Detroiters is an American sitcom created by Sam Richardson, Tim Robinson, Zach Kanin, and Joe Kelly. The series, filmed on location in Detroit, starred native Michiganders Richardson and Robinson. The series premiered on Comedy Central on February 7, 2017 and ran for two seasons. On December 11, 2018, Comedy Central canceled the series.",
+  "wikipedia_extract": "Detroiters is an American sitcom created by Sam Richardson, Tim Robinson, Zach Kanin, and Joe Kelly. The series, filmed on location in Detroit, starred native Michiganders Richardson and Robinson. The series premiered on Comedy Central on February 7, 2017 and ran for two seasons. On December 11, 2018, Comedy Central canceled the series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

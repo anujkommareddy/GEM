@@ -1,0 +1,50 @@
+{
+  "show_id": "Lone_Star_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Lone_Star_(TV_series)",
+  "wiki_page_title": "Lone Star (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:45:38.718499+00:00",
+  "retrieval_confidence": "high",
+  "title": "Lone Star (TV series)",
+  "search_title_used": "Lone Star",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 7,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Keyser/Lippman ProductionsDepth of Field Productions20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kyle Killen"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "James Wolk Adrianne Palicki Bryce Johnson David Keith Eloise Mumford Alexandra Doke Jon Voight Mark Deklin"
+  ],
+  "executive_producers": [
+    "Amy LippmanChris KeyserKerry Kohansky RobertsKyle KillenPaul Weitz"
+  ],
+  "premise_summary": "Lone Star is an American drama television series which originally ran on Fox from September 20, 2010 to September 27, 2010.",
+  "wikipedia_extract": "Lone Star is an American drama television series which originally ran on Fox from September 20, 2010 to September 27, 2010.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

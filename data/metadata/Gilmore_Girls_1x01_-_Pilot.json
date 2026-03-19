@@ -1,0 +1,70 @@
+{
+  "show_id": "Gilmore_Girls_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Gilmore_Girls",
+  "wiki_page_title": "Gilmore Girls",
+  "retrieval_timestamp": "2026-03-19T04:33:22.624531+00:00",
+  "retrieval_confidence": "high",
+  "title": "Gilmore Girls",
+  "search_title_used": "Gilmore Girls",
+  "alternate_titles": [],
+  "start_year": 2000,
+  "end_year": 2006,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 153,
+  "original_network": [
+    "The WB"
+  ],
+  "production_companies": [
+    "Dorothy Parker Drank Here Productions",
+    "Hofflund/Polone",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Amy Sherman-Palladino"
+  ],
+  "showrunners": [
+    "Amy Sherman-Palladino (seasons 1–6)David S. Rosenthal (season 7)"
+  ],
+  "lead_cast": [
+    "Lauren Graham",
+    "Alexis Bledel",
+    "Melissa McCarthy",
+    "Keiko Agena",
+    "Yanic Truesdale",
+    "Scott Patterson",
+    "Kelly Bishop",
+    "Edward Herrmann",
+    "Liza Weil",
+    "Jared Padalecki",
+    "Milo Ventimiglia",
+    "Sean Gunn",
+    "Chris Eigeman",
+    "Matt Czuchry"
+  ],
+  "executive_producers": [
+    "Amy Sherman-Palladino",
+    "Daniel Palladino",
+    "Gavin Polone",
+    "David S. Rosenthal"
+  ],
+  "premise_summary": "Gilmore Girls is an American comedy-drama television series created by Amy Sherman-Palladino. It stars Lauren Graham and Alexis Bledel as Lorelai Gilmore and Rory Gilmore, a mother–daughter pair living in the fictional town of Stars Hollow, Connecticut. The series also stars an ensemble supporting cast, including Melissa McCarthy, Keiko Agena, Yanic Truesdale, Scott Patterson, Kelly Bishop, Edward Herrmann, Liza Weil, Jared Padalecki, Milo Ventimiglia, Sean Gunn, Chris Eigeman, and Matt Czuchry. It premiered on The WB on October 5, 2000, and ran for seven seasons, concluding on The CW on May 15, 2007.",
+  "wikipedia_extract": "Gilmore Girls is an American comedy-drama television series created by Amy Sherman-Palladino. It stars Lauren Graham and Alexis Bledel as Lorelai Gilmore and Rory Gilmore, a mother–daughter pair living in the fictional town of Stars Hollow, Connecticut. The series also stars an ensemble supporting cast, including Melissa McCarthy, Keiko Agena, Yanic Truesdale, Scott Patterson, Kelly Bishop, Edward Herrmann, Liza Weil, Jared Padalecki, Milo Ventimiglia, Sean Gunn, Chris Eigeman, and Matt Czuchry. It premiered on The WB on October 5, 2000, and ran for seven seasons, concluding on The CW on May 15, 2007.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2006",
+  "franchise_status": null
+}

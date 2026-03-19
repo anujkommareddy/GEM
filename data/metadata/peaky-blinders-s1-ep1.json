@@ -1,0 +1,62 @@
+{
+  "show_id": "peaky-blinders-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)",
+  "wiki_page_title": "Peaky Blinders (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:23:23.512264+00:00",
+  "retrieval_confidence": "high",
+  "title": "Peaky Blinders (TV series)",
+  "search_title_used": "peaky blinders",
+  "alternate_titles": [],
+  "start_year": null,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical drama",
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 36,
+  "original_network": [
+    "BBC Two (series 1–4)",
+    "BBC One (series 5–6)"
+  ],
+  "production_companies": [
+    "Caryn Mandabach Productions",
+    "Tiger Aspect Productions",
+    "Screen Yorkshire"
+  ],
+  "distributor": null,
+  "creators": [
+    "Steven Knight"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Full list"
+  ],
+  "executive_producers": [
+    "Caryn Mandabach",
+    "Jamie Glazebrook",
+    "Greg Brenman (series 1)",
+    "Will Gould (series 2–4)",
+    "Steven Knight",
+    "Cillian Murphy",
+    "Frith Tiplady (series 1–4)",
+    "David Mason (series 5–6)",
+    "Anthony Byrne (series 6)"
+  ],
+  "premise_summary": "Peaky Blinders is a British historical crime drama television series created by Steven Knight. Set in Birmingham, it follows the exploits of the Peaky Blinders crime gang in the direct aftermath of the First World War. The fictional gang is loosely based on a real urban youth gang active in the city from the 1880s to the 1920s.",
+  "wikipedia_extract": "Peaky Blinders is a British historical crime drama television series created by Steven Knight. Set in Birmingham, it follows the exploits of the Peaky Blinders crime gang in the direct aftermath of the First World War. The fictional gang is loosely based on a real urban youth gang active in the city from the 1880s to the 1920s.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

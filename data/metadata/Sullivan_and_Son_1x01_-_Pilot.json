@@ -1,0 +1,63 @@
+{
+  "show_id": "Sullivan_and_Son_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sullivan_&_Son",
+  "wiki_page_title": "Sullivan & Son",
+  "retrieval_timestamp": "2026-03-19T05:03:18.316511+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Sullivan & Son",
+  "search_title_used": "Sullivan and Son",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 33,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Wild West Picture Show ProductionsWarner Horizon Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Steve ByrneRob Long"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Steve Byrne",
+    "Christine Ebersole",
+    "Brian Doyle-Murray",
+    "Jodi Long",
+    "Valerie Azlynn",
+    "Vivian Bang",
+    "Owen Benjamin",
+    "Roy Wood",
+    "Jr.",
+    "Ahmed Ahmed",
+    "Dan Lauria"
+  ],
+  "executive_producers": [
+    "Steve Byrne",
+    "Rob Long",
+    "Peter Billingsley",
+    "Vince Vaughn"
+  ],
+  "premise_summary": "Sullivan & Son is an American sitcom created by Steve Byrne and Rob Long that was broadcast on TBS. It starred Byrne as Steve Sullivan, who surprises his parents when he leaves his job as a corporate lawyer to take over a bar owned by his father in Pittsburgh. The series was executive-produced by Vince Vaughn, Peter Billingsley, and Long, who also served as showrunner. It premiered on July 19, 2012.\nOn November 20, 2014, TBS cancelled Sullivan & Son after three seasons.",
+  "wikipedia_extract": "Sullivan & Son is an American sitcom created by Steve Byrne and Rob Long that was broadcast on TBS. It starred Byrne as Steve Sullivan, who surprises his parents when he leaves his job as a corporate lawyer to take over a bar owned by his father in Pittsburgh. The series was executive-produced by Vince Vaughn, Peter Billingsley, and Long, who also served as showrunner. It premiered on July 19, 2012.\nOn November 20, 2014, TBS cancelled Sullivan & Son after three seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

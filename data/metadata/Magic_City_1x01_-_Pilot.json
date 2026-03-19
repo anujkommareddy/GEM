@@ -1,0 +1,62 @@
+{
+  "show_id": "Magic_City_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Magic_City_(TV_series)",
+  "wiki_page_title": "Magic City (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:46:47.989155+00:00",
+  "retrieval_confidence": "high",
+  "title": "Magic City (TV series)",
+  "search_title_used": "Magic City",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Period drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 16,
+  "original_network": [
+    "Starz"
+  ],
+  "production_companies": [
+    "Media Talent Group",
+    "South Beach Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mitch Glazer"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jeffrey Dean Morgan",
+    "Olga Kurylenko",
+    "Steven Strait",
+    "Jessica Marais",
+    "Christian Cooke",
+    "Elena Satine",
+    "Dominik Garcia-Lorido",
+    "Taylor Blackwell",
+    "Danny Huston"
+  ],
+  "executive_producers": [
+    "Mitch Glazer",
+    "Geyer Kosinski",
+    "Lawrence Konner",
+    "Ed Bianchi"
+  ],
+  "premise_summary": "Magic City is an American drama television series created by Mitch Glazer for the Starz network. The pilot episode previewed on Starz March 30, 2012, and premiered April 6, 2012. Starz renewed the series for an eight-episode second season on March 20, 2012, and canceled it August 5, 2013, after two seasons.",
+  "wikipedia_extract": "Magic City is an American drama television series created by Mitch Glazer for the Starz network. The pilot episode previewed on Starz March 30, 2012, and premiered April 6, 2012. Starz renewed the series for an eight-episode second season on March 20, 2012, and canceled it August 5, 2013, after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

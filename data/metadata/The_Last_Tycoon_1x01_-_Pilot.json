@@ -1,0 +1,60 @@
+{
+  "show_id": "The_Last_Tycoon_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Last_Tycoon_(TV_series)",
+  "wiki_page_title": "The Last Tycoon (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:09:10.742336+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Last Tycoon (TV series)",
+  "search_title_used": "The Last Tycoon",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 9,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Kippster EntertainmentCity EntertainmentBrady American ProductionsHome Run Productions",
+    "Inc.Amazon StudiosTriStar Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Matt Bomer",
+    "Kelsey Grammer",
+    "Lily Collins",
+    "Dominique McElligott",
+    "Enzo Cilenti",
+    "Koen De Bouw",
+    "Mark O'Brien",
+    "Rosemarie DeWitt"
+  ],
+  "executive_producers": [
+    "Christopher Keyser",
+    "Joshua D. Maurer",
+    "Billy Ray",
+    "David A. Stern",
+    "Alixandre Witlin"
+  ],
+  "premise_summary": "The Last Tycoon is an American television series, originating from a pilot produced in 2016 as part of Amazon Studios' seventh pilot season. The show stars Matt Bomer and Kelsey Grammer and is loosely based on F. Scott Fitzgerald's last book, the unfinished and posthumously published 1941 novel The Last Tycoon. Amazon picked up the pilot to series on July 27, 2016. The first season premiered on July 28, 2017. On September 9, 2017, Amazon cancelled the series.",
+  "wikipedia_extract": "The Last Tycoon is an American television series, originating from a pilot produced in 2016 as part of Amazon Studios' seventh pilot season. The show stars Matt Bomer and Kelsey Grammer and is loosely based on F. Scott Fitzgerald's last book, the unfinished and posthumously published 1941 novel The Last Tycoon. Amazon picked up the pilot to series on July 27, 2016. The first season premiered on July 28, 2017. On September 9, 2017, Amazon cancelled the series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,58 @@
+{
+  "show_id": "Sex_&_Drugs_&_Rock_&_Roll_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sex_&_Drugs_&_Rock_&_Roll_(TV_series)",
+  "wiki_page_title": "Sex & Drugs & Rock & Roll (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:59:57.732659+00:00",
+  "retrieval_confidence": "high",
+  "title": "Sex & Drugs & Rock & Roll (TV series)",
+  "search_title_used": "Sex & Drugs & Rock & Roll",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Musical comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "Apostle",
+    "Fox 21 Television Studios",
+    "FXPCredited as FX Productions for first season"
+  ],
+  "distributor": null,
+  "creators": [
+    "Denis Leary"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Denis Leary",
+    "John Corbett",
+    "Elizabeth Gillies",
+    "Robert Kelly",
+    "John Ales",
+    "Elaine Hendrix"
+  ],
+  "executive_producers": [
+    "Jim Serpico",
+    "Denis Leary"
+  ],
+  "premise_summary": "Sex & Drugs & Rock & Roll is an American musical comedy television series created by and starring Denis Leary. The series aired on FX for a total of 20 episodes from July 16, 2015, to September 1, 2016. Following the end of the second season, FX canceled the show.",
+  "wikipedia_extract": "Sex & Drugs & Rock & Roll is an American musical comedy television series created by and starring Denis Leary. The series aired on FX for a total of 20 episodes from July 16, 2015, to September 1, 2016. Following the end of the second season, FX canceled the show.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

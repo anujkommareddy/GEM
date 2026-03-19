@@ -1,0 +1,90 @@
+{
+  "show_id": "Shameless_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Shameless_(American_TV_series)",
+  "wiki_page_title": "Shameless (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:00:13.163242+00:00",
+  "retrieval_confidence": "high",
+  "title": "Shameless (American TV series)",
+  "search_title_used": "Shameless",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Black comedy",
+    "Family drama",
+    "Satire"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 11,
+  "episodes": 134,
+  "original_network": [
+    "Showtime"
+  ],
+  "production_companies": [
+    "John Wells Productions",
+    "Bonanza Productions",
+    "Warner Bros. Television",
+    "Showtime Networks"
+  ],
+  "distributor": null,
+  "creators": [
+    "Paul Abbott"
+  ],
+  "showrunners": [
+    "Paul AbbottJohn WellsWilliam H. Macy"
+  ],
+  "lead_cast": [
+    "1=",
+    "William H. Macy",
+    "Emmy Rossum",
+    "Justin Chatwin",
+    "Ethan Cutkosky",
+    "Shanola Hampton",
+    "Steve Howey",
+    "Emma Kenney",
+    "Jeremy Allen White",
+    "Cameron Monaghan",
+    "Noel Fisher",
+    "Joan Cusack",
+    "Laura Slade Wiggins",
+    "Zach McGowan",
+    "Emma Greenwell",
+    "Jake McDorman",
+    "Emily Bergl",
+    "Isidora Goreshter",
+    "Richard Flood",
+    "Christian Isaiah",
+    "Kate Miner"
+  ],
+  "executive_producers": [
+    "John Wells",
+    "Mark Mylod",
+    "Paul Abbott",
+    "Andrew Stearn",
+    "Etan Frankel",
+    "Krista Vernoff",
+    "Davey Holmes",
+    "Nancy M. Pimental",
+    "Christopher Chulack",
+    "Michael Hissrich",
+    "Erin Jontow",
+    "Joe Lawson",
+    "Silver Tree",
+    "Iain B. MacDonald"
+  ],
+  "premise_summary": "Shameless is an American comedy-drama television series developed by John Wells that aired on Showtime from January 9, 2011, to April 11, 2021. It is an adaptation of Paul Abbott's British series of the same name and features an ensemble cast led by William H. Macy. The series is set in the South Side of Chicago, Illinois.",
+  "wikipedia_extract": "Shameless is an American comedy-drama television series developed by John Wells that aired on Showtime from January 9, 2011, to April 11, 2021. It is an adaptation of Paul Abbott's British series of the same name and features an ensemble cast led by William H. Macy. The series is set in the South Side of Chicago, Illinois.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

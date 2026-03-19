@@ -1,0 +1,63 @@
+{
+  "show_id": "New_VIPs_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/V.I.P._(American_TV_series)",
+  "wiki_page_title": "V.I.P. (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:50:46.254742+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "V.I.P. (American TV series)",
+  "search_title_used": "New VIPs",
+  "alternate_titles": [],
+  "start_year": 1998,
+  "end_year": 2002,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Comedy-drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 88,
+  "original_network": [
+    "Syndication"
+  ],
+  "production_companies": [
+    "Lawton Entertainment",
+    "Columbia TriStar Television Distribution(1998&ndash",
+    "2001)(seasons 1&ndash",
+    "4)",
+    "Columbia TriStar Domestic Television(2001&ndash",
+    "2002)(season 4)"
+  ],
+  "distributor": null,
+  "creators": [
+    "J. F. Lawton"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Pamela Anderson",
+    "Molly Culver",
+    "Natalie Raitano",
+    "Shaun Baker",
+    "Dustin Nguyen",
+    "Angelle Brooks",
+    "Leah Lail"
+  ],
+  "executive_producers": [
+    "Pamela Anderson",
+    "J. F. Lawton"
+  ],
+  "premise_summary": "V.I.P. is an American action/comedy-drama television series starring Pamela Anderson, Molly Culver, Shaun Baker. Created by J. F. Lawton, the series aired in syndication for four seasons from 1998 to 2002.",
+  "wikipedia_extract": "V.I.P. is an American action/comedy-drama television series starring Pamela Anderson, Molly Culver, Shaun Baker. Created by J. F. Lawton, the series aired in syndication for four seasons from 1998 to 2002.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2002",
+  "franchise_status": null
+}

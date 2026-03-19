@@ -1,0 +1,53 @@
+{
+  "show_id": "Proof_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Burden_of_Proof_(TV_series)",
+  "wiki_page_title": "Burden of Proof (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:54:55.863351+00:00",
+  "retrieval_confidence": "high",
+  "title": "Burden of Proof (TV series)",
+  "search_title_used": "Proof",
+  "alternate_titles": [],
+  "start_year": 2023,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Documentary"
+  ],
+  "format_type": "limited_series",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 4,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "HBO Documentary Films",
+    "Markay Media",
+    "Field of Vision",
+    "The Concordia Fellowship"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Charlotte Cook",
+    "Davis Guggenheim",
+    "Rahdi Taylor",
+    "Nancy Abraham",
+    "Lisa Heller"
+  ],
+  "premise_summary": "Burden of Proof is an American psychological thriller and true crime documentary miniseries directed and produced by Cynthia Hill. It follows Stephen Pandos as he begins a search for the truth about his sister Jennifer, who disappeared in 1987. It premiered June 6, 2023, on HBO.",
+  "wikipedia_extract": "Burden of Proof is an American psychological thriller and true crime documentary miniseries directed and produced by Cynthia Hill. It follows Stephen Pandos as he begins a search for the truth about his sister Jennifer, who disappeared in 1987. It premiered June 6, 2023, on HBO.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

@@ -1,0 +1,55 @@
+{
+  "show_id": "I_Love_Dick_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/I_Love_Dick_(TV_series)",
+  "wiki_page_title": "I Love Dick (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:41:26.555128+00:00",
+  "retrieval_confidence": "high",
+  "title": "I Love Dick (TV series)",
+  "search_title_used": "I Love Dick",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Topple ProductionsPicrowAmazon Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sarah GubbinsJoey Soloway"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kevin Bacon",
+    "Kathryn Hahn",
+    "Griffin Dunne",
+    "Roberta Colindrez",
+    "Lily Mojekwu"
+  ],
+  "executive_producers": [
+    "Joey Solloway",
+    "Sarah Gubbins",
+    "Andrea Sperling",
+    "Victor Hsu"
+  ],
+  "premise_summary": "I Love Dick is an American television series released on Amazon Prime. Based on the novel of the same name by Chris Kraus, it was created by Joey Soloway and Sarah Gubbins. The pilot premiered on August 19, 2016, and the first season was released on May 12, 2017. On January 17, 2018, the series was canceled after one season due to failure to connect with a limited audience.",
+  "wikipedia_extract": "I Love Dick is an American television series released on Amazon Prime. Based on the novel of the same name by Chris Kraus, it was created by Joey Soloway and Sarah Gubbins. The pilot premiered on August 19, 2016, and the first season was released on May 12, 2017. On January 17, 2018, the series was canceled after one season due to failure to connect with a limited audience.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

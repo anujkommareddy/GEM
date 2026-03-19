@@ -1,0 +1,60 @@
+{
+  "show_id": "Jane_by_Design_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Jane_by_Design",
+  "wiki_page_title": "Jane by Design",
+  "retrieval_timestamp": "2026-03-19T04:42:47.487335+00:00",
+  "retrieval_confidence": "high",
+  "title": "Jane by Design",
+  "search_title_used": "Jane by Design",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 18,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "Pariah Television",
+    "April Blair's Logo"
+  ],
+  "distributor": null,
+  "creators": [
+    "April Blair"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Erica Dasher",
+    "Nick Roux",
+    "Rowly Dennis",
+    "David Clayton Rogers",
+    "India de Beaufort",
+    "Meagan Tandy",
+    "Matthew Atkinson",
+    "Andie MacDowell"
+  ],
+  "executive_producers": [
+    "Gavin Polone",
+    "John Ziffren",
+    "April Blair"
+  ],
+  "premise_summary": "Jane by Design is an American comedy-drama television series on ABC Family. The series follows the life of Jane Quimby, a teenager who is mistaken for an adult, as she finally gets her fashion dream job working with a world-famous designer, Gray Chandler Murray. She has to juggle between two secret lives: one in high school, and one in high fashion.",
+  "wikipedia_extract": "Jane by Design is an American comedy-drama television series on ABC Family. The series follows the life of Jane Quimby, a teenager who is mistaken for an adult, as she finally gets her fashion dream job working with a world-famous designer, Gray Chandler Murray. She has to juggle between two secret lives: one in high school, and one in high fashion.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

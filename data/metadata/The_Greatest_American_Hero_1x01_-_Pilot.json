@@ -1,0 +1,53 @@
+{
+  "show_id": "The_Greatest_American_Hero_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Greatest_American_Hero",
+  "wiki_page_title": "The Greatest American Hero",
+  "retrieval_timestamp": "2026-03-19T05:08:27.952561+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Greatest American Hero",
+  "search_title_used": "The Greatest American Hero",
+  "alternate_titles": [],
+  "start_year": 1981,
+  "end_year": 1983,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sci-fi",
+    "Comedy drama",
+    "Fantasy",
+    "Superhero"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 45,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Stephen J. Cannell Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Stephen J. Cannell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "William KattRobert Culp Connie SelleccaMichael ParéFaye Grant"
+  ],
+  "executive_producers": [
+    "Stephen J. Cannell"
+  ],
+  "premise_summary": "The Greatest American Hero is an American comedy-drama superhero television series that aired on ABC. Created by producer Stephen J. Cannell, it premiered as a two-hour pilot movie on March 18, 1981, and ran until February 2, 1983. The series features William Katt as teacher Ralph Hinkley, Robert Culp as FBI agent Bill Maxwell, and Connie Sellecca as lawyer Pam Davidson.",
+  "wikipedia_extract": "The Greatest American Hero is an American comedy-drama superhero television series that aired on ABC. Created by producer Stephen J. Cannell, it premiered as a two-hour pilot movie on March 18, 1981, and ran until February 2, 1983. The series features William Katt as teacher Ralph Hinkley, Robert Culp as FBI agent Bill Maxwell, and Connie Sellecca as lawyer Pam Davidson.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1983",
+  "franchise_status": null
+}

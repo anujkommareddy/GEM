@@ -1,0 +1,76 @@
+{
+  "show_id": "Code_Black_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Code_Black_(TV_series)",
+  "wiki_page_title": "Code Black (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:51.869945+00:00",
+  "retrieval_confidence": "high",
+  "title": "Code Black (TV series)",
+  "search_title_used": "Code Black",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 47,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Michael Seitzman's Pictures (2015–17)",
+    "Maniac Productions (2018)",
+    "Tiny Pyro Productions",
+    "CBS Television Studios",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Seitzman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Marcia Gay Harden",
+    "Raza Jaffrey",
+    "Bonnie Somerville",
+    "Melanie Chandra",
+    "William Allen Young",
+    "Harry Ford",
+    "Benjamin Hollingsworth",
+    "Luis Guzmán",
+    "Boris Kodjoe",
+    "Jillian Murray",
+    "Rob Lowe",
+    "Noah Gray-Cabey",
+    "Emily Tyra",
+    "Emily Alyn Lind",
+    "Moon Bloodgood"
+  ],
+  "executive_producers": [
+    "Michael Seitzman",
+    "David Semel",
+    "Marti Noxon",
+    "Linda Goldstein-Knowlton",
+    "David Von Ancken",
+    "Molly Newman",
+    "David Marshall Grant",
+    "Brett Mahoney",
+    "Ryan McGarry"
+  ],
+  "premise_summary": "Code Black is an American medical drama television series created by Michael Seitzman that premiered on CBS on September 30, 2015. It takes place in an overcrowded and understaffed emergency room in Los Angeles, California, and is based on a 2013 documentary film by Ryan McGarry. On May 16, 2016, the show was renewed for a 13-episode second season, which premiered on September 28, 2016. On November 14, 2016, CBS added three more episodes, to bring the total to 16.",
+  "wikipedia_extract": "Code Black is an American medical drama television series created by Michael Seitzman that premiered on CBS on September 30, 2015. It takes place in an overcrowded and understaffed emergency room in Los Angeles, California, and is based on a 2013 documentary film by Ryan McGarry. On May 16, 2016, the show was renewed for a 13-episode second season, which premiered on September 28, 2016. On November 14, 2016, CBS added three more episodes, to bring the total to 16.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

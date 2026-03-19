@@ -1,0 +1,59 @@
+{
+  "show_id": "Action_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Action_(TV_series)",
+  "wiki_page_title": "Action (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:23.726098+00:00",
+  "retrieval_confidence": "high",
+  "title": "Action (TV series)",
+  "search_title_used": "Action",
+  "alternate_titles": [],
+  "start_year": 1999,
+  "end_year": 1999,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Silver Pictures Television",
+    "Christopher Thompson Productions",
+    "Columbia TriStar Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chris Thompson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jay Mohr",
+    "Illeana Douglas",
+    "Jarrad Paul",
+    "Buddy Hackett",
+    "Jack Plotnick"
+  ],
+  "executive_producers": [
+    "Joel Silver",
+    "Chris Thompson",
+    "Don Reo",
+    "Barry Katz"
+  ],
+  "premise_summary": "Action is an American dark comedy series about a Hollywood producer named Peter Dragon, who is trying to recover from his last box-office failure. It aired on Fox from September 16 to December 2, 1999. The series was critically praised for its irreverent and sometimes hostile look at Hollywood culture. Thirteen episodes were produced. The show was created by Chris Thompson and the show runner was Don Reo. Future Saturday Night Live cast member Will Forte was the story editor for twelve episodes, and wrote three.",
+  "wikipedia_extract": "Action is an American dark comedy series about a Hollywood producer named Peter Dragon, who is trying to recover from his last box-office failure. It aired on Fox from September 16 to December 2, 1999. The series was critically praised for its irreverent and sometimes hostile look at Hollywood culture. Thirteen episodes were produced. The show was created by Chris Thompson and the show runner was Don Reo. Future Saturday Night Live cast member Will Forte was the story editor for twelve episodes, and wrote three.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1999",
+  "franchise_status": null
+}

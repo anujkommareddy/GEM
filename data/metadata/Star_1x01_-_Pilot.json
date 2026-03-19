@@ -1,0 +1,71 @@
+{
+  "show_id": "Star_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Star_(TV_series)",
+  "wiki_page_title": "Star (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:21.413501+00:00",
+  "retrieval_confidence": "high",
+  "title": "Star (TV series)",
+  "search_title_used": "Star",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Musical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 48,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Lee Daniels Entertainment",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lee Daniels",
+    "Tom Donaghy"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jude Demorest",
+    "Brittany O'Grady",
+    "Ryan Destiny",
+    "Amiyah Scott",
+    "Quincy Brown",
+    "Benjamin Bratt",
+    "Queen Latifah",
+    "Miss Lawrence",
+    "Luke James",
+    "Michael Michele",
+    "Stephen Dorff",
+    "Lance Gross",
+    "Brandy Norwood",
+    "William Levy",
+    "Matthew Noszka"
+  ],
+  "executive_producers": [
+    "Lee Daniels",
+    "Tom Donaghy",
+    "Pamela Oas Williams",
+    "Effie Brown",
+    "Karin Gist",
+    "Jason Richman"
+  ],
+  "premise_summary": "Star is an American music drama television series created by Lee Daniels and Tom Donaghy for the Fox Broadcasting Company. It revolves around three talented young singers who navigate the music business on their road to success and stars Jude Demorest, Brittany O'Grady and Ryan Destiny. The series, which is set in Atlanta, consists of original music, along with musical fantasy sequences, as dreams of the future. Queen Latifah, Benjamin Bratt, Amiyah Scott and Quincy Brown co-star.",
+  "wikipedia_extract": "Star is an American music drama television series created by Lee Daniels and Tom Donaghy for the Fox Broadcasting Company. It revolves around three talented young singers who navigate the music business on their road to success and stars Jude Demorest, Brittany O'Grady and Ryan Destiny. The series, which is set in Atlanta, consists of original music, along with musical fantasy sequences, as dreams of the future. Queen Latifah, Benjamin Bratt, Amiyah Scott and Quincy Brown co-star.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

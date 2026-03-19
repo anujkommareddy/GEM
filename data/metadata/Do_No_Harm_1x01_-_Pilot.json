@@ -1,0 +1,63 @@
+{
+  "show_id": "Do_No_Harm_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Do_No_Harm_(TV_series)",
+  "wiki_page_title": "Do No Harm (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:28:51.965933+00:00",
+  "retrieval_confidence": "high",
+  "title": "Do No Harm (TV series)",
+  "search_title_used": "Do No Harm",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Mount Moriah",
+    "The Best Day Entertainment",
+    "Universal Television",
+    "Open 4 Business Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Schulner"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Steven Pasquale",
+    "Alana de la Garza",
+    "Ruta Gedmintas",
+    "Phylicia Rashad",
+    "Michael Esper",
+    "John Carroll Lynch",
+    "Lin-Manuel Miranda",
+    "Samm Levine"
+  ],
+  "executive_producers": [
+    "David Schulner",
+    "Michael Mayer",
+    "Peter Traugott",
+    "Rachel Kaplan"
+  ],
+  "premise_summary": "Do No Harm is an American medical drama television series that aired on NBC from January 31 through September 7, 2013. The series follows Dr. Jason Cole as he balances working as a neurosurgeon with suppressing his evil alter ego, Ian Price.",
+  "wikipedia_extract": "Do No Harm is an American medical drama television series that aired on NBC from January 31 through September 7, 2013. The series follows Dr. Jason Cole as he balances working as a neurosurgeon with suppressing his evil alter ego, Ian Price.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

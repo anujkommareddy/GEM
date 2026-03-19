@@ -1,0 +1,48 @@
+{
+  "show_id": "Boom_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sonic_Boom_(TV_series)",
+  "wiki_page_title": "Sonic Boom (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:23:21.921760+00:00",
+  "retrieval_confidence": "high",
+  "title": "Sonic Boom (TV series)",
+  "search_title_used": "Boom",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "en-GB"
+  ],
+  "genres": [
+    "Animated sitcomAction comedy"
+  ],
+  "format_type": "animated",
+  "runtime_class": "short-form",
+  "seasons": 2,
+  "episodes": 104,
+  "original_network": [
+    "Cartoon Network & Boomerang (U.S.)Canal J & Gulli (France)"
+  ],
+  "production_companies": [
+    "Technicolor Animation Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Evan Baily"
+  ],
+  "lead_cast": null,
+  "executive_producers": [
+    "Sandrine Nguyen}}"
+  ],
+  "premise_summary": "Sonic Boom is an animated sitcom produced by Sega of America, Inc. and Technicolor Animation Productions in collaboration with Lagardère Thématiques and Jeunesse TV, respectively for Cartoon Network, Canal J, and Gulli, following Sonic X (2003-2006). It is loosely based on the Sonic the Hedgehog video game series by Sega, the fifth animated television series based on the franchise, and the first to be produced in both CGI animation and high-definition.",
+  "wikipedia_extract": "Sonic Boom is an animated sitcom produced by Sega of America, Inc. and Technicolor Animation Productions in collaboration with Lagardère Thématiques and Jeunesse TV, respectively for Cartoon Network, Canal J, and Gulli, following Sonic X (2003-2006). It is loosely based on the Sonic the Hedgehog video game series by Sega, the fifth animated television series based on the franchise, and the first to be produced in both CGI animation and high-definition.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

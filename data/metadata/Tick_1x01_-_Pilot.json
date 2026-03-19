@@ -1,0 +1,48 @@
+{
+  "show_id": "Tick_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Tick_(1994_TV_series)",
+  "wiki_page_title": "The Tick (1994 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:13:38.238026+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Tick (1994 TV series)",
+  "search_title_used": "Tick",
+  "alternate_titles": [],
+  "start_year": 1994,
+  "end_year": 1996,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Superhero, comedy, satire"
+  ],
+  "format_type": "animated",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 36,
+  "original_network": [
+    "Fox (Fox Kids)"
+  ],
+  "production_companies": [
+    "Sunbow ProductionsGraz EntertainmentAKOMFox Children's ProductionsMadhouse Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ben Edlund"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Joe Bacall",
+    "Tom Griffin",
+    "CJ Kettler"
+  ],
+  "premise_summary": "The Tick is an American animated television series adaptation of the New England Comics satirical superhero the Tick. The series aired for three seasons from 1994 to 1996 on the Fox network's Fox Kids block, which introduced the character to a mainstream audience. The Tick has been syndicated by various networks, further increasing the show's cult following, and has been released on both VHS and DVD. A first live-action series aired in 2001, with Amazon launching a second live-action series in 2016. The Tick was also shown on Teletoon in Canada and on Fox Kids/Jetix in the United States, Europe, and Middle East. The show was aired in the United Kingdom on BBC2 at various time slots between 1995 and 1996. Ownership of the series passed to Disney in 2001 when Disney acquired Fox Kids Worldwide.",
+  "wikipedia_extract": "The Tick is an American animated television series adaptation of the New England Comics satirical superhero the Tick. The series aired for three seasons from 1994 to 1996 on the Fox network's Fox Kids block, which introduced the character to a mainstream audience. The Tick has been syndicated by various networks, further increasing the show's cult following, and has been released on both VHS and DVD. A first live-action series aired in 2001, with Amazon launching a second live-action series in 2016. The Tick was also shown on Teletoon in Canada and on Fox Kids/Jetix in the United States, Europe, and Middle East. The show was aired in the United Kingdom on BBC2 at various time slots between 1995 and 1996. Ownership of the series passed to Disney in 2001 when Disney acquired Fox Kids Worldwide.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1996",
+  "franchise_status": null
+}

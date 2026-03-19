@@ -1,0 +1,64 @@
+{
+  "show_id": "The_Firm_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Firm_(2012_TV_series)",
+  "wiki_page_title": "The Firm (2012 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:07:24.286031+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Firm (2012 TV series)",
+  "search_title_used": "The Firm",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2012,
+  "country": [
+    "United States",
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "AXN"
+  ],
+  "production_companies": [
+    "AXN Original Production",
+    "Shaw Media",
+    "Paramount Pictures",
+    "Lukas Reiter Productions",
+    "Entertainment One"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lukas Reiter"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Josh Lucas",
+    "Molly Parker",
+    "Callum Keith Rennie",
+    "Juliette Lewis",
+    "Natasha Calis"
+  ],
+  "executive_producers": [
+    "John Grisham",
+    "John Morayniss",
+    "Michael Rosenberg",
+    "Noreen Halpern",
+    "Lukas Reiter"
+  ],
+  "premise_summary": "The Firm is a legal thriller television series that began airing in February 2012 on AXN, and is a sequel to the 1991 John Grisham novel of the same name and its 1993 film adaptation. It was also picked up for first run syndication by Global in Canada and NBC in the US before release. The television adaptation is set ten years after the novel and film.",
+  "wikipedia_extract": "The Firm is a legal thriller television series that began airing in February 2012 on AXN, and is a sequel to the 1991 John Grisham novel of the same name and its 1993 film adaptation. It was also picked up for first run syndication by Global in Canada and NBC in the US before release. The television adaptation is set ten years after the novel and film.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

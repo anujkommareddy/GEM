@@ -1,0 +1,60 @@
+{
+  "show_id": "Happily_Divorced_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Happily_Divorced",
+  "wiki_page_title": "Happily Divorced",
+  "retrieval_timestamp": "2026-03-19T04:35:52.787035+00:00",
+  "retrieval_confidence": "high",
+  "title": "Happily Divorced",
+  "search_title_used": "Happily Divorced",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 34,
+  "original_network": [
+    "TV Land"
+  ],
+  "production_companies": [
+    "Uh-Oh Productions",
+    "TV Land Original Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Fran Drescher",
+    "Peter Marc Jacobson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Fran Drescher",
+    "John Michael Higgins",
+    "Tichina Arnold",
+    "Valente Rodriguez",
+    "Robert Walden",
+    "Rita Moreno"
+  ],
+  "executive_producers": [
+    "Fran Drescher",
+    "Keith Cox",
+    "Larry W. Jones",
+    "Peter Marc Jacobson"
+  ],
+  "premise_summary": "Happily Divorced is an American sitcom created by Fran Drescher and Peter Marc Jacobson. Inspired by their own experiences as a formerly married couple, the series, which became TV Land's third original scripted series following Hot in Cleveland and Retired at 35, ran from June 15, 2011, to February 13, 2013, and revolves around a Los Angeles florist who finds out her husband of 18 years is gay. The series was canceled after two seasons on August 23, 2013.",
+  "wikipedia_extract": "Happily Divorced is an American sitcom created by Fran Drescher and Peter Marc Jacobson. Inspired by their own experiences as a formerly married couple, the series, which became TV Land's third original scripted series following Hot in Cleveland and Retired at 35, ran from June 15, 2011, to February 13, 2013, and revolves around a Los Angeles florist who finds out her husband of 18 years is gay. The series was canceled after two seasons on August 23, 2013.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

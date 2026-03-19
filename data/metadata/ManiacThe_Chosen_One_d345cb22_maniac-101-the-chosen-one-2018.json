@@ -1,0 +1,56 @@
+{
+  "show_id": "ManiacThe_Chosen_One_d345cb22_maniac-101-the-chosen-one-2018",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Maniac_Mansion_(TV_series)",
+  "wiki_page_title": "Maniac Mansion (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:47:14.912921+00:00",
+  "retrieval_confidence": "high",
+  "title": "Maniac Mansion (TV series)",
+  "search_title_used": "Maniac",
+  "alternate_titles": [],
+  "start_year": 1990,
+  "end_year": 1993,
+  "country": [
+    "Canada",
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 66,
+  "original_network": [
+    "YTV (Canada) The Family Channel (U.S.)"
+  ],
+  "production_companies": [
+    "Lucasfilm Ltd. Televisionname=zuck",
+    "Atlantis Films"
+  ],
+  "distributor": null,
+  "creators": [
+    "Eugene LevyMichael ShortJohn HemphillPaul Flanerty"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Joe Flaherty",
+    "Deborah Theaker",
+    "Kathleen Robertson",
+    "Avi Phillips",
+    "George Buza"
+  ],
+  "executive_producers": [
+    "Peter Sussman Eugene Levy Barry Jossen"
+  ],
+  "premise_summary": "Maniac Mansion is a sitcom co-created by Eugene Levy that aired concurrently on YTV in Canada and The Family Channel in the United States for three seasons from September 14, 1990, to April 4, 1993.",
+  "wikipedia_extract": "Maniac Mansion is a sitcom co-created by Eugene Levy that aired concurrently on YTV in Canada and The Family Channel in the United States for three seasons from September 14, 1990, to April 4, 1993.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1993",
+  "franchise_status": null
+}

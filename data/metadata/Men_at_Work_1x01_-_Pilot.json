@@ -1,0 +1,58 @@
+{
+  "show_id": "Men_at_Work_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Men_at_Work_(TV_series)",
+  "wiki_page_title": "Men at Work (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:48:16.519699+00:00",
+  "retrieval_confidence": "high",
+  "title": "Men at Work (TV series)",
+  "search_title_used": "Men at Work",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Monkey Shoe Productions",
+    "FanFare Productions",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Breckin Meyer"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Danny Masterson",
+    "Michael Cassidy",
+    "Adam Busch",
+    "Meredith Hagner",
+    "James Lesure"
+  ],
+  "executive_producers": [
+    "Breckin Meyer",
+    "Jamie Tarses",
+    "Julia Franz"
+  ],
+  "premise_summary": "Men at Work is an American sitcom that aired on TBS. The series was created by Breckin Meyer and stars Danny Masterson, Michael Cassidy, Adam Busch, James Lesure, and Meredith Hagner. The series premiered on May 24, 2012.",
+  "wikipedia_extract": "Men at Work is an American sitcom that aired on TBS. The series was created by Breckin Meyer and stars Danny Masterson, Michael Cassidy, Adam Busch, James Lesure, and Meredith Hagner. The series premiered on May 24, 2012.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

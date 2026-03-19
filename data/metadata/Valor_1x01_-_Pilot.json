@@ -1,0 +1,61 @@
+{
+  "show_id": "Valor_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Valor_(TV_series)",
+  "wiki_page_title": "Valor (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:16:03.349659+00:00",
+  "retrieval_confidence": "high",
+  "title": "Valor (TV series)",
+  "search_title_used": "Valor",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Military drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Ostar Productions",
+    "Warner Bros. Television",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kyle Jarrow"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matt Barr",
+    "Christina Ochoa",
+    "Charlie Barnett",
+    "W. Trè Davis",
+    "Corbin Reid",
+    "Nigel Thatch",
+    "Melissa Roxburgh"
+  ],
+  "executive_producers": [
+    "Bill Haber",
+    "Anna Fricke",
+    "Kyle Jarrow",
+    "Michael M. Robin"
+  ],
+  "premise_summary": "Valor is an American military drama television series created by Kyle Jarrow. The show was produced by CBS Television Studios and Warner Bros. Television, with Anna Fricke and Kyle Jarrow serving as showrunners. The series premiered on The CW on October 9, 2017, as part of the 2017–18 U.S. television season. In November 2017, The CW announced that it would not be ordering any additional episodes of the show beyond the 13 episodes already produced. On May 8, 2018, The CW cancelled Valor after one season.",
+  "wikipedia_extract": "Valor is an American military drama television series created by Kyle Jarrow. The show was produced by CBS Television Studios and Warner Bros. Television, with Anna Fricke and Kyle Jarrow serving as showrunners. The series premiered on The CW on October 9, 2017, as part of the 2017–18 U.S. television season. In November 2017, The CW announced that it would not be ordering any additional episodes of the show beyond the 13 episodes already produced. On May 8, 2018, The CW cancelled Valor after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

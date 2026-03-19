@@ -1,0 +1,64 @@
+{
+  "show_id": "Glow_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/GLOW_(TV_series)",
+  "wiki_page_title": "GLOW (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:33:41.694219+00:00",
+  "retrieval_confidence": "high",
+  "title": "GLOW (TV series)",
+  "search_title_used": "Glow",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama Sports"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Tilted ProductionsPerhapsatronFan Dancer"
+  ],
+  "distributor": null,
+  "creators": [
+    "Liz FlahiveCarly Mensch"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Alison Brie",
+    "Betty Gilpin",
+    "Sydelle Noel",
+    "Britney Young",
+    "Marc Maron",
+    "Britt Baron",
+    "Kate Nash",
+    "Gayle Rankin",
+    "Kia Stevens",
+    "Jackie Tohn",
+    "Ellen Wong",
+    "Chris Lowell"
+  ],
+  "executive_producers": [
+    "Liz Flahive",
+    "Carly Mensch",
+    "Jenji Kohan",
+    "Tara Herrmann"
+  ],
+  "premise_summary": "GLOW is an American comedy-drama television series created by Liz Flahive and Carly Mensch for Netflix. The series revolves around a fictionalization of the characters and gimmicks of the 1980s syndicated women's professional wrestling circuit Gorgeous Ladies of Wrestling founded by David McLane.",
+  "wikipedia_extract": "GLOW is an American comedy-drama television series created by Liz Flahive and Carly Mensch for Netflix. The series revolves around a fictionalization of the characters and gimmicks of the 1980s syndicated women's professional wrestling circuit Gorgeous Ladies of Wrestling founded by David McLane.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

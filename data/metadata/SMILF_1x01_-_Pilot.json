@@ -1,0 +1,50 @@
+{
+  "show_id": "SMILF_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/SMILF",
+  "wiki_page_title": "SMILF",
+  "retrieval_timestamp": "2026-03-19T04:58:15.078152+00:00",
+  "retrieval_confidence": "high",
+  "title": "SMILF",
+  "search_title_used": "SMILF",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 18,
+  "original_network": [
+    "Showtime"
+  ],
+  "production_companies": [
+    "Supahsmaht ProductionsQuantity EntertainmentGroundswell ProductionsABC SignatureShowtime Networks"
+  ],
+  "distributor": null,
+  "creators": [
+    "Frankie Shaw"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Frankie ShawMiguel GomezSamara WeavingRosie O'DonnellRaven Goodwin"
+  ],
+  "executive_producers": [
+    "Lee EisenbergGene StupnitskyFrankie ShawMichael LondonScott King"
+  ],
+  "premise_summary": "SMILF is an American comedy drama starring, created, written, and directed by Frankie Shaw. It was based on her short film of the same title. The series premiered on Showtime on November 5, 2017. The series' name, SMILF, is a play on the term \"MILF\", with the \"S\" standing for \"single\", or \"Southie\", or both. On November 29, 2017, Showtime renewed the series for a second season.",
+  "wikipedia_extract": "SMILF is an American comedy drama starring, created, written, and directed by Frankie Shaw. It was based on her short film of the same title. The series premiered on Showtime on November 5, 2017. The series' name, SMILF, is a play on the term \"MILF\", with the \"S\" standing for \"single\", or \"Southie\", or both. On November 29, 2017, Showtime renewed the series for a second season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

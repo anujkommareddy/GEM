@@ -1,0 +1,61 @@
+{
+  "show_id": "Dirt_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dirt_(TV_series)",
+  "wiki_page_title": "Dirt (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:28:40.320366+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dirt (TV series)",
+  "search_title_used": "Dirt",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "FX Productions",
+    "Coquette Productions",
+    "Matthew Carnahan Circus Products",
+    "ABC StudiosCredited as Touchstone Television in season 1"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matthew Carnahan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Courteney Cox",
+    "Ian Hart",
+    "Laura Allen",
+    "Will McCormack",
+    "Josh Stewart",
+    "Jeffrey Nordling",
+    "Alexandra Breckenridge"
+  ],
+  "executive_producers": [
+    "Matthew Carnahan",
+    "David Arquette",
+    "Courteney Cox"
+  ],
+  "premise_summary": "Dirt is an American television series broadcast on the FX network. It premiered on January 2, 2007, and starred Courteney Cox as Lucy Spiller, the editor-in-chief of the first-of-its-kind \"glossy tabloid\" magazine DirtNow. A 13-episode second and final season was announced on May 8, 2007. However, only seven episodes were produced before the 2007 WGA strike shut down production. The shortened second season began airing on March 2, 2008.",
+  "wikipedia_extract": "Dirt is an American television series broadcast on the FX network. It premiered on January 2, 2007, and starred Courteney Cox as Lucy Spiller, the editor-in-chief of the first-of-its-kind \"glossy tabloid\" magazine DirtNow. A 13-episode second and final season was announced on May 8, 2007. However, only seven episodes were produced before the 2007 WGA strike shut down production. The shortened second season began airing on March 2, 2008.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

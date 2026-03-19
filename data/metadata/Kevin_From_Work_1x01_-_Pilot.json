@@ -1,0 +1,60 @@
+{
+  "show_id": "Kevin_From_Work_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Kevin_from_Work",
+  "wiki_page_title": "Kevin from Work",
+  "retrieval_timestamp": "2026-03-19T04:43:30.510837+00:00",
+  "retrieval_confidence": "high",
+  "title": "Kevin from Work",
+  "search_title_used": "Kevin From Work",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "40 or 50 Years",
+    "Inc.",
+    "Wonderland Sound and Vision",
+    "Kapital Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Barbara Adler"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Noah Reid",
+    "Paige Spara",
+    "Jordan Hinson",
+    "Matt Murray",
+    "Punam Patel"
+  ],
+  "executive_producers": [
+    "Barbara Adler",
+    "Aaron Kaplan",
+    "McG",
+    "Mary Viola"
+  ],
+  "premise_summary": "Kevin from Work is an American sitcom that aired on ABC Family from August 12 to October 7, 2015. The pilot was ordered on January 6, 2015 and picked up to series on March 24, 2015.",
+  "wikipedia_extract": "Kevin from Work is an American sitcom that aired on ABC Family from August 12 to October 7, 2015. The pilot was ordered on January 6, 2015 and picked up to series on March 24, 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

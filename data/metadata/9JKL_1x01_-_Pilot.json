@@ -1,0 +1,64 @@
+{
+  "show_id": "9JKL_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/9JKL",
+  "wiki_page_title": "9JKL",
+  "retrieval_timestamp": "2026-03-19T04:17:41.664797+00:00",
+  "retrieval_confidence": "high",
+  "title": "9JKL",
+  "search_title_used": "9JKL",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 16,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Liscolaide Productions",
+    "Trill TV",
+    "Kapital Entertainment",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dana Klein",
+    "Mark Feuerstein"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Mark Feuerstein",
+    "Linda Lavin",
+    "David Walton",
+    "Liza Lapira",
+    "Albert Tsai",
+    "Elliott Gould",
+    "Matt Murray"
+  ],
+  "executive_producers": [
+    "Dana Klein",
+    "Mark Feuerstein",
+    "Aaron Kaplan",
+    "Wendi Trilling",
+    "Dana Honor"
+  ],
+  "premise_summary": "9JKL is an American sitcom television series that was created and executive produced by Dana Klein and Mark Feuerstein, loosely based on the life of the couple, who are married in real life. The series aired from October 2, 2017, to February 5, 2018 on CBS. It stars Feuerstein, Linda Lavin, David Walton, Elliott Gould, and Liza Lapira. On May 12, 2018, CBS cancelled the series after one season.",
+  "wikipedia_extract": "9JKL is an American sitcom television series that was created and executive produced by Dana Klein and Mark Feuerstein, loosely based on the life of the couple, who are married in real life. The series aired from October 2, 2017, to February 5, 2018 on CBS. It stars Feuerstein, Linda Lavin, David Walton, Elliott Gould, and Liza Lapira. On May 12, 2018, CBS cancelled the series after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

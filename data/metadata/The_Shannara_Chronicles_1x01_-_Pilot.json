@@ -1,0 +1,71 @@
+{
+  "show_id": "The_Shannara_Chronicles_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Shannara_Chronicles",
+  "wiki_page_title": "The Shannara Chronicles",
+  "retrieval_timestamp": "2026-03-19T05:11:51.237960+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Shannara Chronicles",
+  "search_title_used": "The Shannara Chronicles",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "MTV (2016)",
+    "Spike (2017)"
+  ],
+  "production_companies": [
+    "Farah Films",
+    "Millar Gough Ink",
+    "Raygun One",
+    "Sonar Entertainment",
+    "MTV Production Development"
+  ],
+  "distributor": null,
+  "creators": [
+    "Alfred Gough",
+    "Miles Millar"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Austin Butler",
+    "Poppy Drayton",
+    "Ivana Baquero",
+    "Manu Bennett",
+    "Aaron Jakubenko",
+    "Marcus Vanco",
+    "Malese Jow",
+    "Vanessa Morgan",
+    "Gentry White"
+  ],
+  "executive_producers": [
+    "Dan Farah",
+    "Terry Brooks",
+    "Eugene Stein",
+    "Stewart Till",
+    "Jon Favreau",
+    "Jonathan Liebesman",
+    "Alfred Gough",
+    "Miles Millar"
+  ],
+  "premise_summary": "The Shannara Chronicles is an American fantasy drama television series created by Alfred Gough and Miles Millar. It is an adaptation of The Sword of Shannara trilogy of fantasy novels by Terry Brooks. It follows three heroes as they seek to protect an ancient tree to stop the escape of banished demons. The series was filmed in the Auckland Film Studios and on location elsewhere in New Zealand.",
+  "wikipedia_extract": "The Shannara Chronicles is an American fantasy drama television series created by Alfred Gough and Miles Millar. It is an adaptation of The Sword of Shannara trilogy of fantasy novels by Terry Brooks. It follows three heroes as they seek to protect an ancient tree to stop the escape of banished demons. The series was filmed in the Auckland Film Studios and on location elsewhere in New Zealand.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

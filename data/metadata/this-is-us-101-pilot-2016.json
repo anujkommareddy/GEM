@@ -1,0 +1,91 @@
+{
+  "show_id": "this-is-us-101-pilot-2016",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/This_Is_Us",
+  "wiki_page_title": "This Is Us",
+  "retrieval_timestamp": "2026-03-19T05:26:29.662852+00:00",
+  "retrieval_confidence": "high",
+  "title": "This Is Us",
+  "search_title_used": "this is us",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Family drama",
+    "Romantic drama",
+    "Tragedy"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 106,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Rhode Island Ave. Productions",
+    "Zaftig Films",
+    "20th TelevisionKnown as 20th Century Fox Television from seasons 1 through 4."
+  ],
+  "distributor": null,
+  "creators": [
+    "Dan Fogelman"
+  ],
+  "showrunners": [
+    "Dan Fogelman",
+    "Isaac Aptaker",
+    "Elizabeth Berger"
+  ],
+  "lead_cast": [
+    "Milo Ventimiglia",
+    "Mandy Moore",
+    "Sterling K. Brown",
+    "Chrissy Metz",
+    "Justin Hartley",
+    "Susan Kelechi Watson",
+    "Chris Sullivan",
+    "Ron Cephas Jones",
+    "Jon Huertas",
+    "Alexandra Breckenridge",
+    "Niles Fitch",
+    "Logan Shroyer",
+    "Hannah Zeile",
+    "Mackenzie Hancsicsak",
+    "Parker Bates",
+    "Eris Baker",
+    "Faithe Herman",
+    "Lonnie Chavis",
+    "Melanie Liburd",
+    "Lyric Ross",
+    "Griffin Dunne",
+    "Asante Blackk",
+    "Caitlin Thompson",
+    "Chris Geere"
+  ],
+  "executive_producers": [
+    "Dan Fogelman",
+    "Jess Rosenthal",
+    "Donald Todd",
+    "Ken Olin",
+    "Charlie Gogolak",
+    "John Requa",
+    "Glenn Ficarra",
+    "Isaac Aptaker",
+    "Elizabeth Berger",
+    "Kay Oyegun"
+  ],
+  "premise_summary": "This Is Us is an American drama television series created by Dan Fogelman that aired on NBC from September 20, 2016, to May 24, 2022. The series follows the lives and families of two parents and their three children in several different timeframes. It stars an ensemble cast featuring Milo Ventimiglia, Mandy Moore, Sterling K. Brown, Chrissy Metz, Justin Hartley, Susan Kelechi Watson, Chris Sullivan, Ron Cephas Jones, Jon Huertas, Alexandra Breckenridge, Niles Fitch, Logan Shroyer, Hannah Zeile, Mackenzie Hancsicsak, Parker Bates, Eris Baker, Faithe Herman, Lonnie Chavis, Melanie Liburd, Lyric Ross, Asante Blackk, Griffin Dunne, Caitlin Thompson and Chris Geere. This Is Us was filmed in Los Angeles.",
+  "wikipedia_extract": "This Is Us is an American drama television series created by Dan Fogelman that aired on NBC from September 20, 2016, to May 24, 2022. The series follows the lives and families of two parents and their three children in several different timeframes. It stars an ensemble cast featuring Milo Ventimiglia, Mandy Moore, Sterling K. Brown, Chrissy Metz, Justin Hartley, Susan Kelechi Watson, Chris Sullivan, Ron Cephas Jones, Jon Huertas, Alexandra Breckenridge, Niles Fitch, Logan Shroyer, Hannah Zeile, Mackenzie Hancsicsak, Parker Bates, Eris Baker, Faithe Herman, Lonnie Chavis, Melanie Liburd, Lyric Ross, Asante Blackk, Griffin Dunne, Caitlin Thompson and Chris Geere. This Is Us was filmed in Los Angeles.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2022",
+  "franchise_status": null
+}

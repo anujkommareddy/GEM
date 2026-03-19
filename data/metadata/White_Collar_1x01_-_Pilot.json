@@ -1,0 +1,50 @@
+{
+  "show_id": "White_Collar_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/White_Collar_(TV_series)",
+  "wiki_page_title": "White Collar (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:17:34.703788+00:00",
+  "retrieval_confidence": "high",
+  "title": "White Collar (TV series)",
+  "search_title_used": "White Collar",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 81,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Jeff Eastin & Warrior George Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jeff Eastin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matt Bomer"
+  ],
+  "executive_producers": [
+    "Jeff Eastin"
+  ],
+  "premise_summary": "White Collar is an American police procedural television series created by Jeff Eastin, starring Tim DeKay as FBI Special Agent Peter Burke and Matt Bomer as Neal Caffrey, a highly intelligent, charming and multi-talented con artist, forger, and thief, working as both Burke's criminal informant and an FBI consultant. Willie Garson and Tiffani Thiessen also star. The show premiered on October 23, 2009, on USA Network, and aired six complete seasons, concluding on December 18, 2014.",
+  "wikipedia_extract": "White Collar is an American police procedural television series created by Jeff Eastin, starring Tim DeKay as FBI Special Agent Peter Burke and Matt Bomer as Neal Caffrey, a highly intelligent, charming and multi-talented con artist, forger, and thief, working as both Burke's criminal informant and an FBI consultant. Willie Garson and Tiffani Thiessen also star. The show premiered on October 23, 2009, on USA Network, and aired six complete seasons, concluding on December 18, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

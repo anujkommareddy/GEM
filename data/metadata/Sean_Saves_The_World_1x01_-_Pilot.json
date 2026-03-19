@@ -1,0 +1,61 @@
+{
+  "show_id": "Sean_Saves_The_World_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sean_Saves_the_World",
+  "wiki_page_title": "Sean Saves the World",
+  "retrieval_timestamp": "2026-03-19T04:59:17.619551+00:00",
+  "retrieval_confidence": "high",
+  "title": "Sean Saves the World",
+  "search_title_used": "Sean Saves The World",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 15,
+  "original_network": [
+    "NBC (episodes 1–13)",
+    "iTunes (episodes 14–15)"
+  ],
+  "production_companies": [
+    "Garfield Grove Productions",
+    "Hazy Mills Productions",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Victor Fresco"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sean Hayes",
+    "Megan Hilty",
+    "Echo Kellum",
+    "Samantha Isler",
+    "Thomas Lennon",
+    "Linda Lavin"
+  ],
+  "executive_producers": [
+    "Sean Hayes",
+    "Todd Milliner",
+    "James Burrows",
+    "Victor Fresco"
+  ],
+  "premise_summary": "Sean Saves the World is an American sitcom television series created by Victor Fresco and starring Sean Hayes that aired on NBC from October 3, 2013, to March 24, 2014, as part of the 2013–14 American television season. It was announced on January 28, 2014, that Sean Saves the World had been cancelled after 13 episodes had aired. Of the 18 ordered, only 15 were filmed.",
+  "wikipedia_extract": "Sean Saves the World is an American sitcom television series created by Victor Fresco and starring Sean Hayes that aired on NBC from October 3, 2013, to March 24, 2014, as part of the 2013–14 American television season. It was announced on January 28, 2014, that Sean Saves the World had been cancelled after 13 episodes had aired. Of the 18 ordered, only 15 were filmed.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,61 @@
+{
+  "show_id": "Bionic_Woman_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Bionic_Woman_(2007_TV_series)",
+  "wiki_page_title": "Bionic Woman (2007 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:22:19.947292+00:00",
+  "retrieval_confidence": "high",
+  "title": "Bionic Woman (2007 TV series)",
+  "search_title_used": "Bionic Woman",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2007,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction"
+  ],
+  "format_type": "sci_fi",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "GEP Productions",
+    "David Eick Productions",
+    "NBC Universal Television Studio (episodes 1–5)",
+    "Universal Media Studios (episodes 6–8)"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Eick"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Michelle Ryan",
+    "Miguel Ferrer",
+    "Molly Price",
+    "Lucy Hale",
+    "Will Yun Lee",
+    "Chris Bowers",
+    "Mark Sheppard"
+  ],
+  "executive_producers": [
+    "David Eick",
+    "Laeta Kalogridis",
+    "Jason Smilovic"
+  ],
+  "premise_summary": "Bionic Woman is an American science fiction drama television series that aired on NBC from September 26 to November 28, 2007, which was created by David Eick, under NBC Universal Television Studio, GEP Productions, and David Eick Productions. The series was a re-imagining of the original television series, The Bionic Woman, created by Kenneth Johnson, which in turn was based upon the novel Cyborg by Martin Caidin and its TV adaptation The Six Million Dollar Man, retaining its forebears' premise while taking on a more contemporary setting. David Eick also served as executive producer alongside Laeta Kalogridis and Jason Smilovic. Production of the series was halted due to a strike by the Writers Guild of America, causing only eight episodes to be aired. The series was then canceled as the result of low ratings.",
+  "wikipedia_extract": "Bionic Woman is an American science fiction drama television series that aired on NBC from September 26 to November 28, 2007, which was created by David Eick, under NBC Universal Television Studio, GEP Productions, and David Eick Productions. The series was a re-imagining of the original television series, The Bionic Woman, created by Kenneth Johnson, which in turn was based upon the novel Cyborg by Martin Caidin and its TV adaptation The Six Million Dollar Man, retaining its forebears' premise while taking on a more contemporary setting. David Eick also served as executive producer alongside Laeta Kalogridis and Jason Smilovic. Production of the series was halted due to a strike by the Writers Guild of America, causing only eight episodes to be aired. The series was then canceled as the result of low ratings.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

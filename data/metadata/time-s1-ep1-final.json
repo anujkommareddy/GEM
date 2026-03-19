@@ -1,0 +1,63 @@
+{
+  "show_id": "time-s1-ep1-final",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Wheel_of_Time_(TV_series)",
+  "wiki_page_title": "The Wheel of Time (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:26:33.640094+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Wheel of Time (TV series)",
+  "search_title_used": "time final",
+  "alternate_titles": [],
+  "start_year": 2021,
+  "end_year": 2025,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action-adventure",
+    "Fantasy drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 24,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Radar Pictures",
+    "Iwot Pictures",
+    "Long Weekend",
+    "Little Island Productions",
+    "Amazon MGM StudiosCredited as Amazon Studios for seasons 1 and 2",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Rafe Judkins"
+  ],
+  "lead_cast": [
+    "See below"
+  ],
+  "executive_producers": [
+    "Rafe Judkins",
+    "Rick Selvage",
+    "Larry Mondragon",
+    "Ted Field",
+    "Mike Weber",
+    "Darren Lemke",
+    "Marigo Kehoe",
+    "Sanaa Hamri"
+  ],
+  "premise_summary": "The Wheel of Time is an American fantasy television series developed by Rafe Judkins for Amazon Prime Video. The series is based on the book series of the same name by Robert Jordan. It features an ensemble cast led by Rosamund Pike.",
+  "wikipedia_extract": "The Wheel of Time is an American fantasy television series developed by Rafe Judkins for Amazon Prime Video. The series is based on the book series of the same name by Robert Jordan. It features an ensemble cast led by Rosamund Pike.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2025",
+  "franchise_status": null
+}

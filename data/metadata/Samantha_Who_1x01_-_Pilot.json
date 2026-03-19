@@ -1,0 +1,64 @@
+{
+  "show_id": "Samantha_Who_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Samantha_Who?",
+  "wiki_page_title": "Samantha Who?",
+  "retrieval_timestamp": "2026-03-19T04:58:38.123152+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Samantha Who?",
+  "search_title_used": "Samantha Who",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2009,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 35,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Donald Todd Productions",
+    "Brillstein Entertainment Partners",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Cecelia Ahern",
+    "Donald Todd"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Christina Applegate",
+    "Jennifer Esposito",
+    "Kevin Dunn",
+    "Melissa McCarthy",
+    "Tim Russ",
+    "Barry Watson",
+    "Jean Smart"
+  ],
+  "executive_producers": [
+    "Christina Applegate",
+    "Donald Todd",
+    "Peter Traugott",
+    "Bob Kushell",
+    "Alex Reid",
+    "Marco Pennette"
+  ],
+  "premise_summary": "Samantha Who? is an American television sitcom that originally aired on ABC from October 15, 2007, to July 23, 2009. The series was created by Cecelia Ahern and Donald Todd, who also served as producers. Although highly rated during its first season, the sitcom lost viewers throughout its second season, and ABC canceled the show in May 2009 before the remaining seven episodes were burned off the 2008–09 TV schedule.",
+  "wikipedia_extract": "Samantha Who? is an American television sitcom that originally aired on ABC from October 15, 2007, to July 23, 2009. The series was created by Cecelia Ahern and Donald Todd, who also served as producers. Although highly rated during its first season, the sitcom lost viewers throughout its second season, and ABC canceled the show in May 2009 before the remaining seven episodes were burned off the 2008–09 TV schedule.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

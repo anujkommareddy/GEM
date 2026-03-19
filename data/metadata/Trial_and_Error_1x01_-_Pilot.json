@@ -1,0 +1,48 @@
+{
+  "show_id": "Trial_and_Error_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Trial_and_Error_(TV_series)",
+  "wiki_page_title": "Trial and Error (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:14:32.052287+00:00",
+  "retrieval_confidence": "high",
+  "title": "Trial and Error (TV series)",
+  "search_title_used": "Trial and Error",
+  "alternate_titles": [],
+  "start_year": 1988,
+  "end_year": 1988,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "ELP CommunicationsColumbia Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Don SeigelJerry Perzigian"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Paul RodriguezEddie Velez"
+  ],
+  "executive_producers": [
+    "Donald L. SeigelJerry PerzigianHoward BrownTommy Chong"
+  ],
+  "premise_summary": "Trial and Error is an American sitcom that was broadcast on CBS from March 15 to March 29, 1988. It was canceled after the third episode, leaving the remaining five episodes unaired.",
+  "wikipedia_extract": "Trial and Error is an American sitcom that was broadcast on CBS from March 15 to March 29, 1988. It was canceled after the third episode, leaving the remaining five episodes unaired.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

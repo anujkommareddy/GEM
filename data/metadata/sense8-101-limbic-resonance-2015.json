@@ -1,0 +1,82 @@
+{
+  "show_id": "sense8-101-limbic-resonance-2015",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sense8",
+  "wiki_page_title": "Sense8",
+  "retrieval_timestamp": "2026-03-19T05:23:51.825642+00:00",
+  "retrieval_confidence": "low",
+  "title": "Sense8",
+  "search_title_used": "sense8 limbic resonance",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 24,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Anarchos Productions (s. 1)",
+    "Studio JMS",
+    "Georgeville Television",
+    "Venus Castina LLC (s. 2)",
+    "Elizabeth Bay Productions (",
+    "Unpronounceable Productions",
+    "}}"
+  ],
+  "distributor": null,
+  "creators": [
+    "The Wachowskis",
+    "J. Michael Straczynski"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Aml Ameen",
+    "Doona Bae",
+    "Jamie Clayton",
+    "Tina Desai",
+    "Tuppence Middleton",
+    "Max Riemelt",
+    "Miguel Ángel Silvestre",
+    "Brian J. Smith",
+    "Freema Agyeman",
+    "Terrence Mann",
+    "Anupam Kher",
+    "Naveen Andrews",
+    "Daryl Hannah",
+    "Toby Onwumere"
+  ],
+  "executive_producers": [
+    "Grant Hill",
+    "Lana Wachowski",
+    "Lilly Wachowski",
+    "J. Michael Straczynski",
+    "Cindy Holland",
+    "Peter Friedlander",
+    "Tara Duncan",
+    "Deepak Nayar",
+    "Leon Clarance",
+    "Marc Rosen",
+    "John Toll",
+    "Laura Delahaye"
+  ],
+  "premise_summary": "Sense8 is an American science fiction drama television series created by Lana and Lilly Wachowski and J. Michael Straczynski for Netflix. The production companies behind Sense8 included the Wachowskis' Anarchos Productions, Straczynski's Studio JMS, and Georgeville Television, with Unpronounceable Productions having been set up specifically for the show.",
+  "wikipedia_extract": "Sense8 is an American science fiction drama television series created by Lana and Lilly Wachowski and J. Michael Straczynski for Netflix. The production companies behind Sense8 included the Wachowskis' Anarchos Productions, Straczynski's Studio JMS, and Georgeville Television, with Unpronounceable Productions having been set up specifically for the show.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

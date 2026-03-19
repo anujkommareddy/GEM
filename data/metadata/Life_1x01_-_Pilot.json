@@ -1,0 +1,52 @@
+{
+  "show_id": "Life_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Life_After_Life_(TV_series)",
+  "wiki_page_title": "Life After Life (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:51.545508+00:00",
+  "retrieval_confidence": "high",
+  "title": "Life After Life (TV series)",
+  "search_title_used": "Life",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": 2022,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Period drama",
+    "Science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": null,
+  "episodes": 4,
+  "original_network": [
+    "BBC Two"
+  ],
+  "production_companies": null,
+  "distributor": null,
+  "creators": [
+    "Bash Doran"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Kate Atkinson",
+    "Ayela Butt",
+    "John Crowley",
+    "Juliette Howell",
+    "Lucy Richer",
+    "Tessa Ross"
+  ],
+  "premise_summary": "Life After Life is a 2022 British television miniseries created and written by playwright Bash Doran that adapts the 2013 novel Life After Life by Kate Atkinson. The series was directed by John Crowley. It follows the story of Ursula Todd, a woman in the first half of the 20th century who experiences an endless cycle of birth, death, and rebirth.",
+  "wikipedia_extract": "Life After Life is a 2022 British television miniseries created and written by playwright Bash Doran that adapts the 2013 novel Life After Life by Kate Atkinson. The series was directed by John Crowley. It follows the story of Ursula Todd, a woman in the first half of the 20th century who experiences an endless cycle of birth, death, and rebirth.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2022",
+  "franchise_status": null
+}

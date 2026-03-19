@@ -1,0 +1,50 @@
+{
+  "show_id": "Terriers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Terriers_(TV_series)",
+  "wiki_page_title": "Terriers (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:38.882047+00:00",
+  "retrieval_confidence": "high",
+  "title": "Terriers (TV series)",
+  "search_title_used": "Terriers",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime dramaComedy-dramaNeo-noirBlack comedy"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "MiddKid Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ted Griffin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Donal Logue"
+  ],
+  "executive_producers": [
+    "Shawn Ryan"
+  ],
+  "premise_summary": "Terriers is an American crime comedy-drama television series created by Ted Griffin that aired on FX from September 8 to December 1, 2010. The show was canceled by FX on December 6, 2010, after the first season.",
+  "wikipedia_extract": "Terriers is an American crime comedy-drama television series created by Ted Griffin that aired on FX from September 8 to December 1, 2010. The show was canceled by FX on December 6, 2010, after the first season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

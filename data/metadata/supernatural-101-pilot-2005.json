@@ -1,0 +1,82 @@
+{
+  "show_id": "supernatural-101-pilot-2005",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)",
+  "wiki_page_title": "Supernatural (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:24:30.785722+00:00",
+  "retrieval_confidence": "high",
+  "title": "Supernatural (American TV series)",
+  "search_title_used": "supernatural",
+  "alternate_titles": [],
+  "start_year": 2005,
+  "end_year": 2006,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "}}"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 15,
+  "episodes": 327,
+  "original_network": [
+    "The WB"
+  ],
+  "production_companies": [
+    "Kripke Enterprises",
+    "Wonderland Sound and Vision (2005–2013)",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Eric Kripke"
+  ],
+  "showrunners": [
+    "Eric Kripke",
+    "Sera Gamble",
+    "Jeremy Carver",
+    "Andrew Dabb",
+    "Robert Singer"
+  ],
+  "lead_cast": [
+    "Jared Padalecki",
+    "Jensen Ackles",
+    "Katie Cassidy",
+    "Lauren Cohan",
+    "Misha Collins",
+    "Mark A. Sheppard",
+    "Mark Pellegrino",
+    "Alexander Calvert"
+  ],
+  "executive_producers": [
+    "Eric Kripke",
+    "Robert Singer",
+    "McG",
+    "David Nutter",
+    "Kim Manners",
+    "John Shiban",
+    "Phil Sgriccia",
+    "Sera Gamble",
+    "Ben Edlund",
+    "Jeremy Carver",
+    "Jim Michaels",
+    "Todd Aronauer",
+    "Adam Glass",
+    "Andrew Dabb",
+    "Brad Buckner",
+    "Eugenie Ross-Leming"
+  ],
+  "premise_summary": "Supernatural is an American television series created by Eric Kripke. It was first broadcast on September 13, 2005, on The WB, and subsequently became part of successor network The CW's lineup. Starring Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester, the series follows the two brothers as they hunt demons, ghosts, monsters and other supernatural beings.",
+  "wikipedia_extract": "Supernatural is an American television series created by Eric Kripke. It was first broadcast on September 13, 2005, on The WB, and subsequently became part of successor network The CW's lineup. Starring Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester, the series follows the two brothers as they hunt demons, ghosts, monsters and other supernatural beings.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2006",
+  "franchise_status": null
+}

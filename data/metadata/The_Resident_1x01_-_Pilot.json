@@ -1,0 +1,81 @@
+{
+  "show_id": "The_Resident_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Resident_(TV_series)",
+  "wiki_page_title": "The Resident (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:20.016053+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Resident (TV series)",
+  "search_title_used": "The Resident",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 107,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Fuqua Films",
+    "3 Arts Entertainment",
+    "Nickels Productions (seasons 2–6)",
+    "Up Island Films",
+    "20th TelevisionCredited as 20th Century Fox Television for the first three seasons."
+  ],
+  "distributor": null,
+  "creators": [
+    "Amy Holden Jones",
+    "Hayley Schore",
+    "Roshan Sethi"
+  ],
+  "showrunners": [
+    "Todd Jason Harthan",
+    "Andrew Chapman"
+  ],
+  "lead_cast": [
+    "Matt Czuchry",
+    "Emily VanCamp",
+    "Manish Dayal",
+    "Shaunette Renée Wilson",
+    "Bruce Greenwood",
+    "Merrin Dungey",
+    "Melina Kanakaredes",
+    "Moran Atias",
+    "Malcolm-Jamal Warner",
+    "Glenn Morshower",
+    "Jane Leeves",
+    "Morris Chestnut",
+    "Jessica Lucas",
+    "Anuja Joshi",
+    "Miles Fowler",
+    "Kaley Ronayne",
+    "Andrew McCarthy"
+  ],
+  "executive_producers": [
+    "Amy Holden Jones",
+    "Antoine Fuqua",
+    "Phillip Noyce",
+    "Oly Obst",
+    "David Boorstein",
+    "Todd Harthan",
+    "Marc Halsey"
+  ],
+  "premise_summary": "The Resident is an American medical drama television series that aired on Fox from January 21, 2018, to January 17, 2023. The series premiered on Fox as a mid-season replacement during the 2017–18 television season. The series focuses on the lives and duties of staff members at fictional Chastain Park Memorial Hospital in Atlanta, Georgia, with generally a critical eye into current issues of medical practice and tensions in the healthcare industry.",
+  "wikipedia_extract": "The Resident is an American medical drama television series that aired on Fox from January 21, 2018, to January 17, 2023. The series premiered on Fox as a mid-season replacement during the 2017–18 television season. The series focuses on the lives and duties of staff members at fictional Chastain Park Memorial Hospital in Atlanta, Georgia, with generally a critical eye into current issues of medical practice and tensions in the healthcare industry.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

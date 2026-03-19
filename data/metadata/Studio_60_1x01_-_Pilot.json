@@ -1,0 +1,59 @@
+{
+  "show_id": "Studio_60_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip",
+  "wiki_page_title": "Studio 60 on the Sunset Strip",
+  "retrieval_timestamp": "2026-03-19T05:03:06.884075+00:00",
+  "retrieval_confidence": "high",
+  "title": "Studio 60 on the Sunset Strip",
+  "search_title_used": "Studio 60",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": 2007,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy-drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Shoe Money Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Aaron Sorkin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matthew Perry",
+    "Amanda Peet",
+    "Bradley Whitford",
+    "Steven Weber",
+    "D. L. Hughley",
+    "Sarah Paulson",
+    "Nate Corddry",
+    "Timothy Busfield"
+  ],
+  "executive_producers": [
+    "Thomas Schlamme",
+    "Aaron Sorkin"
+  ],
+  "premise_summary": "Studio 60 on the Sunset Strip is an American comedy-drama television series created for NBC and primarily written by Aaron Sorkin. The series was about the production of a live comedy series similar to Saturday Night Live. Produced by Warner Bros. Television, Studio 60 on the Sunset Strip ran from September 18, 2006, to June 28, 2007. On May 14, 2007, NBC canceled the series after one season. Twenty-two episodes were produced.",
+  "wikipedia_extract": "Studio 60 on the Sunset Strip is an American comedy-drama television series created for NBC and primarily written by Aaron Sorkin. The series was about the production of a live comedy series similar to Saturday Night Live. Produced by Warner Bros. Television, Studio 60 on the Sunset Strip ran from September 18, 2006, to June 28, 2007. On May 14, 2007, NBC canceled the series after one season. Twenty-two episodes were produced.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

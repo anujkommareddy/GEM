@@ -1,0 +1,47 @@
+{
+  "show_id": "house-of-saddam-s1-ep1-stephen-butchard-alex-holmes",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/House_of_Saddam",
+  "wiki_page_title": "House of Saddam",
+  "retrieval_timestamp": "2026-03-19T05:21:33.513809+00:00",
+  "retrieval_confidence": "low",
+  "title": "House of Saddam",
+  "search_title_used": "house of saddam stephen butchard alex holmes",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2008,
+  "country": [
+    "United KingdomUnited States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Biographical drama, docudrama, historical drama"
+  ],
+  "format_type": "limited_series",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 4,
+  "original_network": [
+    "BBC Two"
+  ],
+  "production_companies": null,
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Yigal NaorShohreh AghdashlooPhilip ArdittiAmr WakedSaid TaghmaouiChristine Stephen-Daly"
+  ],
+  "executive_producers": [
+    "Alex Holmes",
+    "Hilary Salmon"
+  ],
+  "premise_summary": "House of Saddam is a 2008 British docudrama television miniseries that charted the rise and fall of Saddam Hussein. A co-production between BBC Television and HBO Films, the series was first broadcast on BBC Two in four parts between 30 July and 20 August 2008.",
+  "wikipedia_extract": "House of Saddam is a 2008 British docudrama television miniseries that charted the rise and fall of Saddam Hussein. A co-production between BBC Television and HBO Films, the series was first broadcast on BBC Two in four parts between 30 July and 20 August 2008.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

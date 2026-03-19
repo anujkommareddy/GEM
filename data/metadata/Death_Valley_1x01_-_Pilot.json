@@ -1,0 +1,53 @@
+{
+  "show_id": "Death_Valley_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Death_Valley_(British_TV_series)",
+  "wiki_page_title": "Death Valley (British TV series)",
+  "retrieval_timestamp": "2026-03-19T04:27:46.887436+00:00",
+  "retrieval_confidence": "high",
+  "title": "Death Valley (British TV series)",
+  "search_title_used": "Death Valley",
+  "alternate_titles": [],
+  "start_year": 2025,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Cosy mystery"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 6,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "BBC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Paul Doolan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Timothy Spall",
+    "Gwyneth Keyworth"
+  ],
+  "executive_producers": [
+    "Madeline Addy",
+    "Paul Doolan",
+    "Josh Cole"
+  ],
+  "premise_summary": "Death Valley is a 2025 crime mystery television series starring Timothy Spall and Gwyneth Keyworth, which premiered on 25 May 2025 on BBC One. In August 2025, it was renewed for a second series, set to air in 2026.",
+  "wikipedia_extract": "Death Valley is a 2025 crime mystery television series starring Timothy Spall and Gwyneth Keyworth, which premiered on 25 May 2025 on BBC One. In August 2025, it was renewed for a second series, set to air in 2026.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

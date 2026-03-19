@@ -1,0 +1,60 @@
+{
+  "show_id": "The_Divide_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Divide_(TV_series)",
+  "wiki_page_title": "The Divide (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:07:00.628109+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Divide (TV series)",
+  "search_title_used": "The Divide",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "WE TV"
+  ],
+  "production_companies": [
+    "AMC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Richard LaGravenese",
+    "Tony Goldwyn"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Marin Ireland",
+    "Damon Gupton",
+    "Nia Long",
+    "Clarke Peters",
+    "Britne Oldford",
+    "Joe Anderson",
+    "Paul Schneider"
+  ],
+  "executive_producers": [
+    "Andrew Sugerman",
+    "John Tinker",
+    "Richard LaGravenese",
+    "Tony Goldwyn"
+  ],
+  "premise_summary": "The Divide is a 2014 American legal drama television series created by Richard LaGravenese and Tony Goldwyn that aired on WE TV. The first season consisted of eight hour-long episodes. It premiered on July 16, 2014. On October 30, 2014, the series was canceled.",
+  "wikipedia_extract": "The Divide is a 2014 American legal drama television series created by Richard LaGravenese and Tony Goldwyn that aired on WE TV. The first season consisted of eight hour-long episodes. It premiered on July 16, 2014. On October 30, 2014, the series was canceled.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

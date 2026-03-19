@@ -1,0 +1,48 @@
+{
+  "show_id": "Newhart_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Newhart",
+  "wiki_page_title": "Newhart",
+  "retrieval_timestamp": "2026-03-19T04:50:49.978653+00:00",
+  "retrieval_confidence": "high",
+  "title": "Newhart",
+  "search_title_used": "Newhart",
+  "alternate_titles": [],
+  "start_year": 1982,
+  "end_year": 1990,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 8,
+  "episodes": 184,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "MTM Enterprises20th Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Barry Kemp"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Bob NewhartMary FrannJennifer HolmesJulia DuffyTom PostonSteven KampmannPeter ScolariWilliam SandersonTony PapenfussJohn Voldstad"
+  ],
+  "executive_producers": [
+    "Barry KempMark EganMark SolomonDan WilcoxDouglas WymanDavid Mirkin"
+  ],
+  "premise_summary": "Newhart is an American television sitcom that aired on CBS from October 25, 1982, to May 21, 1990, with a total of 184 half-hour episodes spanning eight seasons. The series stars Bob Newhart and Mary Frann as an author and his wife, respectively, who own and operate the Stratford Inn in rural Vermont. The small town is home to many eccentric characters. TV Guide, TV Land, and A&E named the Newhart series finale as one of the most memorable in television history. The theme music for Newhart was composed by Henry Mancini.",
+  "wikipedia_extract": "Newhart is an American television sitcom that aired on CBS from October 25, 1982, to May 21, 1990, with a total of 184 half-hour episodes spanning eight seasons. The series stars Bob Newhart and Mary Frann as an author and his wife, respectively, who own and operate the Stratford Inn in rural Vermont. The small town is home to many eccentric characters. TV Guide, TV Land, and A&E named the Newhart series finale as one of the most memorable in television history. The theme music for Newhart was composed by Henry Mancini.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1990",
+  "franchise_status": null
+}

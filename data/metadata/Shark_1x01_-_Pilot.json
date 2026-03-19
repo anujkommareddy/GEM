@@ -1,0 +1,57 @@
+{
+  "show_id": "Shark_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Shark_Tank",
+  "wiki_page_title": "Shark Tank",
+  "retrieval_timestamp": "2026-03-19T05:00:17.043112+00:00",
+  "retrieval_confidence": "high",
+  "title": "Shark Tank",
+  "search_title_used": "Shark",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Reality television"
+  ],
+  "format_type": "reality",
+  "runtime_class": "hour",
+  "seasons": 17,
+  "episodes": 370,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Mark Burnett Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mark Burnett"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kevin O'Leary",
+    "Mark Cuban",
+    "Robert Herjavec",
+    "Lori Greiner",
+    "Daymond John",
+    "Barbara Corcoran",
+    "Kevin Harrington",
+    "Daniel Lubetzky"
+  ],
+  "executive_producers": [
+    "Mark Burnett"
+  ],
+  "premise_summary": "Shark Tank is an American business reality television series that premiered on August 9, 2009, on ABC. The show is the American franchise of the international format Dragons' Den, a British television series, which itself is a remake of the Japanese television show The Tigers of Money. It shows entrepreneurs making business presentations to a panel of five angel investors called \"Sharks\" on the program, who decide whether to invest in their companies.",
+  "wikipedia_extract": "Shark Tank is an American business reality television series that premiered on August 9, 2009, on ABC. The show is the American franchise of the international format Dragons' Den, a British television series, which itself is a remake of the Japanese television show The Tigers of Money. It shows entrepreneurs making business presentations to a panel of five angel investors called \"Sharks\" on the program, who decide whether to invest in their companies.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

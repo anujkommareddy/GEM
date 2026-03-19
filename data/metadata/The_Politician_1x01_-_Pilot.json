@@ -1,0 +1,76 @@
+{
+  "show_id": "The_Politician_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Politician_(TV_series)",
+  "wiki_page_title": "The Politician (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:00.368016+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Politician (TV series)",
+  "search_title_used": "The Politician",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Satire",
+    "Comedy drama",
+    "Political satire",
+    "Cringe comedy"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 15,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Prospect Films",
+    "Brad Falchuk Teley-Vision",
+    "Ryan Murphy Television",
+    "20th Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ryan Murphy",
+    "Brad Falchuk",
+    "Ian Brennan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ben Platt",
+    "Zoey Deutch",
+    "Lucy Boynton",
+    "Bob Balaban",
+    "David Corenswet",
+    "Julia Schlaepfer",
+    "Laura Dreyfuss",
+    "Theo Germaine",
+    "Rahne Jones",
+    "Benjamin Barrett",
+    "Jessica Lange",
+    "Gwyneth Paltrow",
+    "Judith Light",
+    "Bette Midler"
+  ],
+  "executive_producers": [
+    "Ryan Murphy",
+    "Brad Falchuk",
+    "Ian Brennan",
+    "Alexis Martin Woodall",
+    "Ben Platt",
+    "Gwyneth Paltrow"
+  ],
+  "premise_summary": "The Politician is an American comedy-drama television series created by Ryan Murphy, Brad Falchuk, and Ian Brennan and released on Netflix. The trio also serves as executive producers with Alexis Martin Woodall, Ben Platt, and Gwyneth Paltrow. The series centers on the story of Payton Hobart (Platt), a wealthy Santa Barbaran, and each season revolves around a different political race his character is involved in.",
+  "wikipedia_extract": "The Politician is an American comedy-drama television series created by Ryan Murphy, Brad Falchuk, and Ian Brennan and released on Netflix. The trio also serves as executive producers with Alexis Martin Woodall, Ben Platt, and Gwyneth Paltrow. The series centers on the story of Payton Hobart (Platt), a wealthy Santa Barbaran, and each season revolves around a different political race his character is involved in.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,63 @@
+{
+  "show_id": "The_Mick_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Mick_(TV_series)",
+  "wiki_page_title": "The Mick (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:09:49.737893+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Mick (TV series)",
+  "search_title_used": "The Mick",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 37,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "BingBangBoom Productions",
+    "3 Arts Entertainment",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dave Chernin",
+    "John Chernin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kaitlin Olson",
+    "Sofia Black-D'Elia",
+    "Carla Jimenez",
+    "Thomas Barbusca",
+    "Jack Stanton",
+    "Scott MacArthur"
+  ],
+  "executive_producers": [
+    "Kaitlin Olson",
+    "John Chernin",
+    "Dave Chernin",
+    "Nicholas Frenkel",
+    "Oly Obst",
+    "Randall Einhorn"
+  ],
+  "premise_summary": "The Mick is an American television sitcom broadcast on Fox. Created by Dave Chernin and John Chernin, the series stars Kaitlin Olson, who is also an executive producer. The series premiered on January 1, 2017, and assumed its regular Tuesday night slot on January 3, 2017. On January 11, 2017, Fox picked up the series for a full season of 17 episodes.",
+  "wikipedia_extract": "The Mick is an American television sitcom broadcast on Fox. Created by Dave Chernin and John Chernin, the series stars Kaitlin Olson, who is also an executive producer. The series premiered on January 1, 2017, and assumed its regular Tuesday night slot on January 3, 2017. On January 11, 2017, Fox picked up the series for a full season of 17 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

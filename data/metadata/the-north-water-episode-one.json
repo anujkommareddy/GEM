@@ -1,0 +1,62 @@
+{
+  "show_id": "the-north-water-episode-one",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_North_Water_(TV_series)",
+  "wiki_page_title": "The North Water (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:25:40.523045+00:00",
+  "retrieval_confidence": "high",
+  "title": "The North Water (TV series)",
+  "search_title_used": "the north water",
+  "alternate_titles": [],
+  "start_year": 2021,
+  "end_year": 2021,
+  "country": [
+    "United KingdomCanada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "DramaMystery"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 5,
+  "original_network": [
+    "BBC Two (United Kingdom)",
+    "Super Channel Fuse and CBC Television/ICI Radio-Canada Télé (Canada)"
+  ],
+  "production_companies": [
+    "See-Saw Films",
+    "Rhombus Media"
+  ],
+  "distributor": null,
+  "creators": [
+    "Andrew Haigh"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Colin Farrell",
+    "Jack O'Connell",
+    "Stephen Graham",
+    "Tom Courtenay",
+    "Peter Mullan"
+  ],
+  "executive_producers": [
+    "Iain Canning",
+    "Niv Fichman",
+    "Andrew Haigh",
+    "Hakan Kousetta",
+    "Jamie Laurenson",
+    "Jo McClellan",
+    "Emile Sherman"
+  ],
+  "premise_summary": "The North Water is a 2021 five-part television miniseries based on Ian McGuire's 2016 novel of the same name written and directed by Andrew Haigh and starring Colin Farrell and Jack O'Connell. An international co-production between British public broadcaster BBC, and Canadian English-language public broadcaster CBC Television, in association with Canadian premium television channel Super Channel and CBC Television's French-language counterpart ICI Radio-Canada Télé, the series first premiered in the United States on AMC+ on 15 July 2021 before premiering in the United Kingdom on BBC Two on 10 September 2021 and in Canada on Super Channel Fuse a week later on 19 September, followed by a nationwide broadcast in the country on CBC Television in English and ICI Radio-Canada Télé in French, with video on demand availability on the CBC Gem and ICI TOU.TV services in both respective languages.",
+  "wikipedia_extract": "The North Water is a 2021 five-part television miniseries based on Ian McGuire's 2016 novel of the same name written and directed by Andrew Haigh and starring Colin Farrell and Jack O'Connell. An international co-production between British public broadcaster BBC, and Canadian English-language public broadcaster CBC Television, in association with Canadian premium television channel Super Channel and CBC Television's French-language counterpart ICI Radio-Canada Télé, the series first premiered in the United States on AMC+ on 15 July 2021 before premiering in the United Kingdom on BBC Two on 10 September 2021 and in Canada on Super Channel Fuse a week later on 19 September, followed by a nationwide broadcast in the country on CBC Television in English and ICI Radio-Canada Télé in French, with video on demand availability on the CBC Gem and ICI TOU.TV services in both respective languages.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

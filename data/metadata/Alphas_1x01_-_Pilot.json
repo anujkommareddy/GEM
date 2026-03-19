@@ -1,0 +1,50 @@
+{
+  "show_id": "Alphas_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Alphas",
+  "wiki_page_title": "Alphas",
+  "retrieval_timestamp": "2026-03-19T04:19:06.937778+00:00",
+  "retrieval_confidence": "high",
+  "title": "Alphas",
+  "search_title_used": "Alphas",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Superhero"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 24,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "BermanBraun"
+  ],
+  "distributor": null,
+  "creators": [
+    "Zak Penn"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Strathairn"
+  ],
+  "executive_producers": [
+    "Bruce Miller"
+  ],
+  "premise_summary": "Alphas is an American superhero drama television series created by Zak Penn and Michael Karnow. It follows a group of people with superhuman abilities, known as \"Alphas\", as they work to prevent crimes committed by other Alphas.",
+  "wikipedia_extract": "Alphas is an American superhero drama television series created by Zak Penn and Michael Karnow. It follows a group of people with superhuman abilities, known as \"Alphas\", as they work to prevent crimes committed by other Alphas.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

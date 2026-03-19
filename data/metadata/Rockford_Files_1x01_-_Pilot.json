@@ -1,0 +1,50 @@
+{
+  "show_id": "Rockford_Files_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Rockford_Files",
+  "wiki_page_title": "The Rockford Files",
+  "retrieval_timestamp": "2026-03-19T04:57:21.153148+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Rockford Files",
+  "search_title_used": "Rockford Files",
+  "alternate_titles": [],
+  "start_year": 1974,
+  "end_year": 1980,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Detective fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 123,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Roy Huggins-Public Arts ProductionsCherokee ProductionsUniversal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Roy HugginsStephen J. Cannell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "James GarnerNoah Beery Jr.Joe SantosGretchen CorbettStuart Margolin"
+  ],
+  "executive_producers": [
+    "Stephen J. CannellMeta Rosenberg"
+  ],
+  "premise_summary": "The Rockford Files is an American detective drama television series starring James Garner, aired on NBC from September 13, 1974, to January 10, 1980. Garner portrays Los Angeles private investigator Jim Rockford, with Noah Beery Jr. in the supporting role of his father, Joseph \"Rocky\" Rockford, a retired truck driver. The show was created by Roy Huggins and Stephen J. Cannell.",
+  "wikipedia_extract": "The Rockford Files is an American detective drama television series starring James Garner, aired on NBC from September 13, 1974, to January 10, 1980. Garner portrays Los Angeles private investigator Jim Rockford, with Noah Beery Jr. in the supporting role of his father, Joseph \"Rocky\" Rockford, a retired truck driver. The show was created by Roy Huggins and Stephen J. Cannell.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1980",
+  "franchise_status": null
+}

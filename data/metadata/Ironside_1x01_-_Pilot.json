@@ -1,0 +1,48 @@
+{
+  "show_id": "Ironside_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ironside_(1967_TV_series)",
+  "wiki_page_title": "Ironside (1967 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:42:35.829661+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ironside (1967 TV series)",
+  "search_title_used": "Ironside",
+  "alternate_titles": [],
+  "start_year": 1967,
+  "end_year": 1975,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Detective fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 8,
+  "episodes": 199,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Harbour Productions UnlimitedUniversal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Collier Young"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Raymond Burr"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Ironside is an American television crime drama that aired on NBC over eight seasons from 1967 to 1975. The show starred Raymond Burr as Robert T. Ironside, a consultant to the San Francisco police department, who was paralyzed from the waist down after being shot while on vacation. The character debuted on March 28, 1967, in a TV movie titled Ironside. When the series was broadcast in the United Kingdom, from late 1967 onward, it was broadcast as A Man Called Ironside. The show earned Burr six Emmy and two Golden Globe nominations.",
+  "wikipedia_extract": "Ironside is an American television crime drama that aired on NBC over eight seasons from 1967 to 1975. The show starred Raymond Burr as Robert T. Ironside, a consultant to the San Francisco police department, who was paralyzed from the waist down after being shot while on vacation. The character debuted on March 28, 1967, in a TV movie titled Ironside. When the series was broadcast in the United Kingdom, from late 1967 onward, it was broadcast as A Man Called Ironside. The show earned Burr six Emmy and two Golden Globe nominations.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1975",
+  "franchise_status": null
+}

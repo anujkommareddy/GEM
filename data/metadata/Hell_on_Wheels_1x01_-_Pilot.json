@@ -1,0 +1,71 @@
+{
+  "show_id": "Hell_on_Wheels_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Hell_on_Wheels_(TV_series)",
+  "wiki_page_title": "Hell on Wheels (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:36:34.834823+00:00",
+  "retrieval_confidence": "high",
+  "title": "Hell on Wheels (TV series)",
+  "search_title_used": "Hell on Wheels",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Western"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 57,
+  "original_network": [
+    "AMC"
+  ],
+  "production_companies": [
+    "Entertainment One Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Joe Gayton"
+  ],
+  "showrunners": [
+    "Joe Gayton"
+  ],
+  "lead_cast": [
+    "Anson Mount",
+    "Colm Meaney",
+    "Common",
+    "Dominique McElligott",
+    "Tom Noonan",
+    "Eddie Spears",
+    "Ben Esler",
+    "Phil Burke",
+    "Christopher Heyerdahl",
+    "Robin McLeavy",
+    "Kasha Kropinski",
+    "Dohn Norwood",
+    "Jennifer Ferrin",
+    "MacKenzie Porter",
+    "Jake Weber",
+    "Tim Guinee",
+    "Byron Mann",
+    "Reg Rogers",
+    "Angela Zhou",
+    "Chelah Horsdal"
+  ],
+  "executive_producers": [
+    "Jeremy Gold"
+  ],
+  "premise_summary": "Hell on Wheels is an American Western television series about the construction of the first transcontinental railroad across the United States, which broadcast in the United States and Canada on the cable channel AMC, from November 6, 2011 to July 23, 2016. The series, which features Anson Mount, Colm Meaney, Common, and Dominique McElligott, chronicles the Union Pacific Railroad and its laborers, mercenaries, prostitutes, surveyors, and others who lived, worked, and died in the mobile encampment, called \"Hell on Wheels\", that followed the railhead west across the Great Plains.",
+  "wikipedia_extract": "Hell on Wheels is an American Western television series about the construction of the first transcontinental railroad across the United States, which broadcast in the United States and Canada on the cable channel AMC, from November 6, 2011 to July 23, 2016. The series, which features Anson Mount, Colm Meaney, Common, and Dominique McElligott, chronicles the Union Pacific Railroad and its laborers, mercenaries, prostitutes, surveyors, and others who lived, worked, and died in the mobile encampment, called \"Hell on Wheels\", that followed the railhead west across the Great Plains.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2016",
+  "franchise_status": null
+}

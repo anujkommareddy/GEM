@@ -1,0 +1,68 @@
+{
+  "show_id": "12_Monkeys_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/12_Monkeys_(TV_series)",
+  "wiki_page_title": "12 Monkeys (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:17:03.347864+00:00",
+  "retrieval_confidence": "high",
+  "title": "12 Monkeys (TV series)",
+  "search_title_used": "12 Monkeys",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Mystery",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 47,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "Division Street (season 3–4)",
+    "Atlas Entertainment",
+    "Universal Cable Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Natalie Chaidez (season 1)",
+    "Terry Matalas (seasons 2–4)",
+    "Travis Fickett (season 2)"
+  ],
+  "lead_cast": [
+    "Aaron Stanford",
+    "Amanda Schull",
+    "Kirk Acevedo",
+    "Noah Bean",
+    "Todd Stashwick",
+    "Emily Hampshire",
+    "Barbara Sukowa"
+  ],
+  "executive_producers": [
+    "Richard Suckle",
+    "Charles Roven",
+    "Natalie Chaidez (season 1)",
+    "Jeffrey Reiner (pilot)",
+    "David Grossman (season 2–4)",
+    "Travis Fickett (season 2)",
+    "Terry Matalas"
+  ],
+  "premise_summary": "12 Monkeys is an American television series on Syfy created by Terry Matalas and Travis Fickett. It is a science fiction mystery drama with a time traveling plot loosely adapting the 1995 film of the same name, itself based on Chris Marker's 1962 featurette La Jetée.",
+  "wikipedia_extract": "12 Monkeys is an American television series on Syfy created by Terry Matalas and Travis Fickett. It is a science fiction mystery drama with a time traveling plot loosely adapting the 1995 film of the same name, itself based on Chris Marker's 1962 featurette La Jetée.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

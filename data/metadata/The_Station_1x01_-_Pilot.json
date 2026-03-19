@@ -1,0 +1,70 @@
+{
+  "show_id": "The_Station_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Berlin_Station_(TV_series)",
+  "wiki_page_title": "Berlin Station (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:59.223176+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Berlin Station (TV series)",
+  "search_title_used": "The Station",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "German"
+  ],
+  "genres": [
+    "DramaSpyThriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 29,
+  "original_network": [
+    "Epix"
+  ],
+  "production_companies": [
+    "Third State",
+    "Harbor Men Pictures (Season 1)",
+    "Solid State Pictures (Season 3)",
+    "Vanessa Productions",
+    "LTD.",
+    "Anonymous Content",
+    "Paramount Television",
+    "Studio Babelsberg"
+  ],
+  "distributor": null,
+  "creators": [
+    "Olen Steinhauer"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Richard Armitage",
+    "Rhys Ifans",
+    "Leland Orser",
+    "Michelle Forbes",
+    "Richard Jenkins",
+    "Keke Palmer",
+    "Ashley Judd",
+    "John Doman",
+    "Tamlyn Tomita",
+    "Ismael Cruz Córdova"
+  ],
+  "executive_producers": [
+    "Michaël Roskam",
+    "Olen Steinhauer",
+    "Bradford Winters",
+    "Jason Horwitch"
+  ],
+  "premise_summary": "Berlin Station is an American drama television series created by Olen Steinhauer. The series stars Richard Armitage, Rhys Ifans, Leland Orser, Michelle Forbes, Richard Jenkins, Keke Palmer, Ashley Judd, John Doman, Tamlyn Tomita, and Ismael Cruz Córdova. Bradford Winters had been showrunner for its first two seasons, with Jason Horwitch taking over for season 3.",
+  "wikipedia_extract": "Berlin Station is an American drama television series created by Olen Steinhauer. The series stars Richard Armitage, Rhys Ifans, Leland Orser, Michelle Forbes, Richard Jenkins, Keke Palmer, Ashley Judd, John Doman, Tamlyn Tomita, and Ismael Cruz Córdova. Bradford Winters had been showrunner for its first two seasons, with Jason Horwitch taking over for season 3.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

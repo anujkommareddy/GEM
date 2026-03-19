@@ -1,0 +1,91 @@
+{
+  "show_id": "Nashville_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Nashville_(2012_TV_series)",
+  "wiki_page_title": "Nashville (2012 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:50:34.698473+00:00",
+  "retrieval_confidence": "high",
+  "title": "Nashville (2012 TV series)",
+  "search_title_used": "Nashville",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Musical",
+    "Soap opera"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 124,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "ABC Studios (seasons 1–5)",
+    "Lionsgate Television",
+    "Opry Entertainment",
+    "Cutler Productions (season 1)",
+    "Walk & Chew Gum",
+    "Inc.",
+    "Small Wishes Productions (seasons 1–4)",
+    "The Bedford Falls Company (seasons 5–6)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Callie Khouri"
+  ],
+  "showrunners": [
+    "Dee Johnson (seasons 1–4)",
+    "Marshall Herskovitz (seasons 5–6)",
+    "Ed Zwick (seasons 5–6)"
+  ],
+  "lead_cast": [
+    "Connie Britton",
+    "Hayden Panettiere",
+    "Clare Bowen",
+    "Eric Close",
+    "Charles Esten",
+    "Jonathan Jackson",
+    "Sam Palladio",
+    "Robert Wisdom",
+    "Powers Boothe",
+    "Chris Carmack",
+    "Lennon Stella",
+    "Maisy Stella",
+    "Will Chase",
+    "Oliver Hudson",
+    "Aubrey Peeples",
+    "Cameron Scoggins",
+    "Kaitlin Doubleday",
+    "Jeff Nordling"
+  ],
+  "executive_producers": [
+    "Callie Khouri",
+    "Steve Buchanan",
+    "Loucas George (season 1)",
+    "James Parriott (season 1)",
+    "R. J. Cutler (season 1)",
+    "Dee Johnson (seasons 1–4)",
+    "Connie Britton (seasons 1–5)",
+    "Ed Zwick (seasons 5–6)",
+    "Marshall Herskovitz (seasons 5–6)",
+    "Jayson Dinsmore (seasons 5–6)",
+    "Morgan Selzer (seasons 5–6)",
+    "Brian Phillips (seasons 5–6)",
+    "Liberty Godshall (seasons 5–6)"
+  ],
+  "premise_summary": "Nashville is an American musical drama television series created by Callie Khouri, who also served as an executive producer of the series along with Steve Buchanan. Other executive producers included Dee Johnson through season four, Connie Britton through season five, and Marshall Herskovitz and Ed Zwick from season five on.",
+  "wikipedia_extract": "Nashville is an American musical drama television series created by Callie Khouri, who also served as an executive producer of the series along with Steve Buchanan. Other executive producers included Dee Johnson through season four, Connie Britton through season five, and Marshall Herskovitz and Ed Zwick from season five on.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2016",
+  "franchise_status": null
+}

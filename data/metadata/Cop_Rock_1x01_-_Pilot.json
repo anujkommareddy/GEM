@@ -1,0 +1,63 @@
+{
+  "show_id": "Cop_Rock_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Cop_Rock",
+  "wiki_page_title": "Cop Rock",
+  "retrieval_timestamp": "2026-03-19T04:26:22.514518+00:00",
+  "retrieval_confidence": "high",
+  "title": "Cop Rock",
+  "search_title_used": "Cop Rock",
+  "alternate_titles": [],
+  "start_year": 1990,
+  "end_year": 1990,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Musical",
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 11,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Steven Bochco Productions",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Steven Bochco",
+    "William M. Finkelstein"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Anne Bobby",
+    "Barbara Bosson",
+    "David Gianopoulos",
+    "Larry Joshua",
+    "James McDaniel",
+    "Ron McLarty",
+    "Mick Murray",
+    "Peter Onorati",
+    "Ronny Cox",
+    "Vondie Curtis-Hall",
+    "Paul McCrane"
+  ],
+  "executive_producers": [
+    "Steven Bochco"
+  ],
+  "premise_summary": "Cop Rock is an American police procedural musical television series created by Steven Bochco and William M. Finkelstein for ABC. It premiered on September 26, 1990, and broadcast eleven episodes before concluding on December 26. It was both a critical and commercial failure.",
+  "wikipedia_extract": "Cop Rock is an American police procedural musical television series created by Steven Bochco and William M. Finkelstein for ABC. It premiered on September 26, 1990, and broadcast eleven episodes before concluding on December 26. It was both a critical and commercial failure.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1990",
+  "franchise_status": null
+}

@@ -1,0 +1,67 @@
+{
+  "show_id": "Miracle_Workers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Miracle_Workers_(2019_TV_series)",
+  "wiki_page_title": "Miracle Workers (2019 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:48:58.836655+00:00",
+  "retrieval_confidence": "high",
+  "title": "Miracle Workers (2019 TV series)",
+  "search_title_used": "Miracle Workers",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy",
+    "Anthology"
+  ],
+  "format_type": "anthology",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 37,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Broadway Video",
+    "Allagash Industries (seasons 1–2)",
+    "FXP",
+    "Studio T (season 1)",
+    "RIP Productions (season 3)",
+    "Pink Moment Productions (season 3)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Simon Rich"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Daniel Radcliffe",
+    "Geraldine Viswanathan",
+    "Karan Soni",
+    "Jon Bass",
+    "Sasha Compère",
+    "Lolly Adefope",
+    "Steve Buscemi"
+  ],
+  "executive_producers": [
+    "Lorne Michaels",
+    "Simon Rich",
+    "Andrew Singer",
+    "Daniel Radcliffe",
+    "Steve Buscemi",
+    "Jorma Taccone"
+  ],
+  "premise_summary": "Miracle Workers is an American anthology comedy television series created by Simon Rich for TBS. It is based in part on Rich's writings, with the first season being based on his 2012 novel What in God's Name, while the short story \"Revolution\" provided the basis for the second season. The series stars an ensemble cast comprising Daniel Radcliffe, Steve Buscemi, Geraldine Viswanathan, Jon Bass, Karan Soni, Sasha Compère, and Lolly Adefope. The show is a co-production between TBS and FX, whose in-house production company FXP is involved.",
+  "wikipedia_extract": "Miracle Workers is an American anthology comedy television series created by Simon Rich for TBS. It is based in part on Rich's writings, with the first season being based on his 2012 novel What in God's Name, while the short story \"Revolution\" provided the basis for the second season. The series stars an ensemble cast comprising Daniel Radcliffe, Steve Buscemi, Geraldine Viswanathan, Jon Bass, Karan Soni, Sasha Compère, and Lolly Adefope. The show is a co-production between TBS and FX, whose in-house production company FXP is involved.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

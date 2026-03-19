@@ -1,0 +1,63 @@
+{
+  "show_id": "The_Playboy_Club_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Playboy_Club",
+  "wiki_page_title": "The Playboy Club",
+  "retrieval_timestamp": "2026-03-19T05:10:56.435456+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Playboy Club",
+  "search_title_used": "The Playboy Club",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical fictionlast=Masters"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 7,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "20th Century Fox Television",
+    "Imagine Television",
+    "Storyland Entertainment",
+    "Alta Loma Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chad Hodge"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eddie Cibrian",
+    "Laura Benanti",
+    "Amber Heard",
+    "Jenna Dewan",
+    "Naturi Naughton",
+    "Leah Renee",
+    "Wes Ramsey",
+    "Jenifer Lewis",
+    "David Krumholtz"
+  ],
+  "executive_producers": [
+    "Chad Hodge",
+    "Brian Grazer",
+    "Francie Calfo"
+  ],
+  "premise_summary": "The Playboy Club is an American historical crime drama television series that aired on NBC from September 19 to October 3, 2011. Set in 1961, the series centers on the employees of the original Playboy Club operating in Chicago. The Playboy Club stars Eddie Cibrian, Laura Benanti, Amber Heard, Jenna Dewan, Naturi Naughton, Leah Renee, Wes Ramsey, Jenifer Lewis, and David Krumholtz.",
+  "wikipedia_extract": "The Playboy Club is an American historical crime drama television series that aired on NBC from September 19 to October 3, 2011. Set in 1961, the series centers on the employees of the original Playboy Club operating in Chicago. The Playboy Club stars Eddie Cibrian, Laura Benanti, Amber Heard, Jenna Dewan, Naturi Naughton, Leah Renee, Wes Ramsey, Jenifer Lewis, and David Krumholtz.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

@@ -1,0 +1,69 @@
+{
+  "show_id": "Rebel_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rebel_(2021_TV_series)",
+  "wiki_page_title": "Rebel (2021 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:55:57.235878+00:00",
+  "retrieval_confidence": "high",
+  "title": "Rebel (2021 TV series)",
+  "search_title_used": "Rebel",
+  "alternate_titles": [],
+  "start_year": 2021,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Legal drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Trip the Light Productions",
+    "Davis Entertainment",
+    "Sony Pictures Television Studios",
+    "ABC Signature"
+  ],
+  "distributor": null,
+  "creators": [
+    "Krista Vernoff"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Katey Sagal",
+    "John Corbett",
+    "Lex Scott Davis",
+    "Tamala Reneé Jones",
+    "James Lesure",
+    "Kevin Zegers",
+    "Sam Palladio",
+    "Ariela Barer",
+    "Andy Garcia"
+  ],
+  "executive_producers": [
+    "Marc Webb",
+    "Andrew Stearn",
+    "Erin Brockovich",
+    "John Davis",
+    "John Fox",
+    "Alexandre Schmitt",
+    "Krista Vernoff",
+    "Adam Arkin"
+  ],
+  "premise_summary": "Rebel is an American legal comedy-drama television series inspired by the life of Erin Brockovich, created by Krista Vernoff, that premiered on ABC on April 8, 2021, and concluded on June 10, 2021. In May 2021, the series was canceled after one season.",
+  "wikipedia_extract": "Rebel is an American legal comedy-drama television series inspired by the life of Erin Brockovich, created by Krista Vernoff, that premiered on ABC on April 8, 2021, and concluded on June 10, 2021. In May 2021, the series was canceled after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

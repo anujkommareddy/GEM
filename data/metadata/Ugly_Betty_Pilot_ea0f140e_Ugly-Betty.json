@@ -1,0 +1,65 @@
+{
+  "show_id": "Ugly_Betty_Pilot_ea0f140e_Ugly-Betty",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ugly_Betty",
+  "wiki_page_title": "Ugly Betty",
+  "retrieval_timestamp": "2026-03-19T05:15:10.292270+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Ugly Betty",
+  "search_title_used": "UglyBetty",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 85,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Ventanarosa Productions",
+    "Silent H Productions",
+    "Reveille Productions",
+    "ABC StudiosCredited as Touchstone Television for the first season."
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "America Ferrera",
+    "Eric Mabius",
+    "Alan Dale",
+    "Tony Plana",
+    "Ana Ortiz",
+    "Ashley Jensen",
+    "Becki Newton",
+    "Mark Indelicato",
+    "Vanessa Williams",
+    "Rebecca Romijn",
+    "Michael Urie",
+    "Kevin Sussman",
+    "Christopher Gorham",
+    "Judith Light",
+    "Daniel Eric Gold"
+  ],
+  "executive_producers": [
+    "Salma Hayek"
+  ],
+  "premise_summary": "Ugly Betty is an American comedy-drama television series developed by Silvio Horta, which aired on ABC from September 28, 2006, to April 14, 2010. It is based on the Colombian telenovela Yo soy Betty, la fea, created by Fernando Gaitán. The series follows Betty Suarez, a smart and well-meaning young woman from Queens, New York, who lacks fashion sense but secures a job at a high-end fashion magazine, Mode. As she navigates a glamorous but cutthroat industry, Betty challenges stereotypes and expectations while advancing her career and maintaining close ties to her family.",
+  "wikipedia_extract": "Ugly Betty is an American comedy-drama television series developed by Silvio Horta, which aired on ABC from September 28, 2006, to April 14, 2010. It is based on the Colombian telenovela Yo soy Betty, la fea, created by Fernando Gaitán. The series follows Betty Suarez, a smart and well-meaning young woman from Queens, New York, who lacks fashion sense but secures a job at a high-end fashion magazine, Mode. As she navigates a glamorous but cutthroat industry, Betty challenges stereotypes and expectations while advancing her career and maintaining close ties to her family.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

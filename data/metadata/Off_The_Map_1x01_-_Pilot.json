@@ -1,0 +1,50 @@
+{
+  "show_id": "Off_The_Map_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Off_the_Map_(TV_series)",
+  "wiki_page_title": "Off the Map (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:51:47.436918+00:00",
+  "retrieval_confidence": "high",
+  "title": "Off the Map (TV series)",
+  "search_title_used": "Off The Map",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Minnesota Logging CompanyShondalandABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jenna Bans"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Martin HendersonValerie CruzCaroline DhavernasJason Winston GeorgeZach GilfordMamie GummerRachelle LefevreJonathan Castellanos"
+  ],
+  "executive_producers": [
+    "Shonda RhimesJenna BansBetsy BeersGretchen J. BergAaron HarbertsRandall Zisk"
+  ],
+  "premise_summary": "Off the Map is an American medical drama television series created by Jenna Bans, who also served as an executive producer together with Shonda Rhimes and Betsy Beers. The series ran on ABC from January 12, 2011 to April 6, 2011. The series was filmed in Puerto Rico and on Oahu, Hawaii, using many of the production facilities remaining from the ABC series Lost (2004–10).",
+  "wikipedia_extract": "Off the Map is an American medical drama television series created by Jenna Bans, who also served as an executive producer together with Shonda Rhimes and Betsy Beers. The series ran on ABC from January 12, 2011 to April 6, 2011. The series was filmed in Puerto Rico and on Oahu, Hawaii, using many of the production facilities remaining from the ABC series Lost (2004–10).",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

@@ -1,0 +1,71 @@
+{
+  "show_id": "Blindspot_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Blindspot_(TV_series)",
+  "wiki_page_title": "Blindspot (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:22:54.727927+00:00",
+  "retrieval_confidence": "high",
+  "title": "Blindspot (TV series)",
+  "search_title_used": "Blindspot",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action thriller",
+    "Crime drama",
+    "Mystery",
+    "Police procedural",
+    "Serial drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 100,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Berlanti Productions",
+    "Quinn's House",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Martin Gero"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sullivan Stapleton",
+    "Jaimie Alexander",
+    "Rob Brown",
+    "Audrey Esparza",
+    "Ashley Johnson",
+    "Ukweli Roach",
+    "Marianne Jean-Baptiste",
+    "Luke Mitchell",
+    "Michelle Hurd",
+    "Archie Panjabi",
+    "Ennis Esmer",
+    "Mary Elizabeth Mastrantonio"
+  ],
+  "executive_producers": [
+    "Sarah Schechter",
+    "Martin Gero",
+    "Mark Pellington (seasons 1–2)",
+    "Greg Berlanti",
+    "Marcos Siega (seasons 1–2)"
+  ],
+  "premise_summary": "Blindspot is an American crime drama television series created by Martin Gero for NBC and executive-produced by Gero and Greg Berlanti. The show stars Sullivan Stapleton and Jaimie Alexander, and follows a mysterious woman with no recollection of her past or identity whose numerous tattoos contain clues to crimes that a team of FBI agents must solve. Rob Brown, Audrey Esparza, Ashley Johnson, Ukweli Roach and Marianne Jean-Baptiste co-star alongside Stapleton and Alexander. Archie Panjabi, Luke Mitchell, Michelle Hurd, Ennis Esmer and Mary Elizabeth Mastrantonio joined in later seasons.",
+  "wikipedia_extract": "Blindspot is an American crime drama television series created by Martin Gero for NBC and executive-produced by Gero and Greg Berlanti. The show stars Sullivan Stapleton and Jaimie Alexander, and follows a mysterious woman with no recollection of her past or identity whose numerous tattoos contain clues to crimes that a team of FBI agents must solve. Rob Brown, Audrey Esparza, Ashley Johnson, Ukweli Roach and Marianne Jean-Baptiste co-star alongside Stapleton and Alexander. Archie Panjabi, Luke Mitchell, Michelle Hurd, Ennis Esmer and Mary Elizabeth Mastrantonio joined in later seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

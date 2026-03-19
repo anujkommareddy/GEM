@@ -1,0 +1,68 @@
+{
+  "show_id": "Superior_Donuts_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Superior_Donuts_(TV_series)",
+  "wiki_page_title": "Superior Donuts (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:03:33.710822+00:00",
+  "retrieval_confidence": "high",
+  "title": "Superior Donuts (TV series)",
+  "search_title_used": "Superior Donuts",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 34,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Daily Productions",
+    "Goldman-Donovan Productions",
+    "Teitelbaum Artists",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Judd Hirsch",
+    "Jermaine Fowler",
+    "Katey Sagal",
+    "David Koechner",
+    "Maz Jobrani",
+    "Anna Baryshnikov",
+    "Darien Sills-Evans",
+    "Rell Battle",
+    "Diane Guerrero"
+  ],
+  "executive_producers": [
+    "Neil Goldman",
+    "Garrett Donovan",
+    "Bob Daily",
+    "Tracy Letts",
+    "James Burrows",
+    "John Montgomery",
+    "Mark Teitelbaum",
+    "Jermaine Fowler",
+    "Michael Rotenberg",
+    "Josh Liebermanurl=https://www.hollywoodreporter.com/live-feed/tv-pilots-2016-complete-guide-845373"
+  ],
+  "premise_summary": "Superior Donuts is an American television sitcom based on the play by Tracy Letts that aired on CBS from February 2, 2017, to May 14, 2018. It was produced by Daily Productions, Goldman-Donovan Productions and Teitelbaum Artists, in association with CBS Television Studios. Neil Goldman and Garrett Donovan served as showrunners.",
+  "wikipedia_extract": "Superior Donuts is an American television sitcom based on the play by Tracy Letts that aired on CBS from February 2, 2017, to May 14, 2018. It was produced by Daily Productions, Goldman-Donovan Productions and Teitelbaum Artists, in association with CBS Television Studios. Neil Goldman and Garrett Donovan served as showrunners.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

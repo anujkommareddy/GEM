@@ -1,0 +1,67 @@
+{
+  "show_id": "ElementaryPilot_1dcc8dfd_elementary-101-pilot-2012",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Elementary_(TV_series)",
+  "wiki_page_title": "Elementary (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:54.154739+00:00",
+  "retrieval_confidence": "high",
+  "title": "Elementary (TV series)",
+  "search_title_used": "Elementary",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Crime drama",
+    "Mystery",
+    "Procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 154,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Hill of Beans Productions",
+    "Timberman-Beverly Productions",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robert Doherty"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jonny Lee Miller",
+    "Lucy Liu",
+    "Jon Michael Hill",
+    "Aidan Quinn",
+    "John Noble",
+    "Nelsan Ellis",
+    "Desmond Harrington",
+    "James Frain"
+  ],
+  "executive_producers": [
+    "Jean Cultamaire",
+    "Vivit Laire",
+    "Carl Beverly",
+    "John Coles",
+    "John Polson",
+    "Jason Tracey"
+  ],
+  "premise_summary": "Elementary is an American procedural comedy-drama television series that presented a contemporary update of Arthur Conan Doyle's character Sherlock Holmes. Created by Robert Doherty and starring Jonny Lee Miller as Sherlock Holmes and Lucy Liu as Dr. Joan Watson, the series aired on CBS for seven seasons from September 27, 2012, and ended on August 15, 2019, after 154 episodes. The series was set and filmed primarily in New York City, and, by the end of season two, Miller became the actor who had portrayed Sherlock Holmes in the most episodes on television or in film.",
+  "wikipedia_extract": "Elementary is an American procedural comedy-drama television series that presented a contemporary update of Arthur Conan Doyle's character Sherlock Holmes. Created by Robert Doherty and starring Jonny Lee Miller as Sherlock Holmes and Lucy Liu as Dr. Joan Watson, the series aired on CBS for seven seasons from September 27, 2012, and ended on August 15, 2019, after 154 episodes. The series was set and filmed primarily in New York City, and, by the end of season two, Miller became the actor who had portrayed Sherlock Holmes in the most episodes on television or in film.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

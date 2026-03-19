@@ -1,0 +1,63 @@
+{
+  "show_id": "Marlon_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Marlon_(TV_series)",
+  "wiki_page_title": "Marlon (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:47:33.956762+00:00",
+  "retrieval_confidence": "high",
+  "title": "Marlon (TV series)",
+  "search_title_used": "Marlon",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Bicycle Path Productions",
+    "Baby Way Productions",
+    "3 Arts Entertainment",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Christopher Moynihan",
+    "Marlon Wayans"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Marlon Wayans",
+    "Essence Atkins",
+    "Notlim Taylor",
+    "Amir O'Neil",
+    "Bresha Webb",
+    "Diallo Riddle"
+  ],
+  "executive_producers": [
+    "Marlon Wayans",
+    "Rick Alvarez",
+    "Christopher Moynihan",
+    "Michael Rotenberg",
+    "Andy Ackerman"
+  ],
+  "premise_summary": "Marlon is an American television sitcom that stars Marlon Wayans, Essence Atkins, Notlim Taylor, Amir O'Neil, Bresha Webb, and Diallo Riddle. On May 13, 2016, it was ordered to series. The series premiered on August 16, 2017, on NBC.",
+  "wikipedia_extract": "Marlon is an American television sitcom that stars Marlon Wayans, Essence Atkins, Notlim Taylor, Amir O'Neil, Bresha Webb, and Diallo Riddle. On May 13, 2016, it was ordered to series. The series premiered on August 16, 2017, on NBC.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

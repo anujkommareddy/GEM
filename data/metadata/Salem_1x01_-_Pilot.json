@@ -1,0 +1,50 @@
+{
+  "show_id": "Salem_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Salem_(TV_series)",
+  "wiki_page_title": "Salem (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:58:26.630795+00:00",
+  "retrieval_confidence": "high",
+  "title": "Salem (TV series)",
+  "search_title_used": "Salem",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Supernatural horrorDramaThriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 36,
+  "original_network": [
+    "WGN America"
+  ],
+  "production_companies": [
+    "Beetlecod ProductionsProspect Park (2014–15)The Firm (2016–17)Fox 21 Television StudiosCredited as Fox 21 for the first season"
+  ],
+  "distributor": null,
+  "creators": [
+    "Brannon BragaAdam Simon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Janet MontgomeryShane WestSeth GabelTamzin MerchantAshley MadekweElise EberleIddo GoldbergXander BerkeleyJoe DoyleOliver Bell"
+  ],
+  "executive_producers": [
+    "Brannon BragaDavid Von AnckenKelly SoudersJosh S. BarryJeff KwatinetzJoe MenoskyElizabeth SarnoffTricia SmallAdam SimonJon Harmon FeldmanRichard ShepardBrian Wayne PetersonJosh S. Barry"
+  ],
+  "premise_summary": "Salem is an American supernatural horror television series created by Brannon Braga and Adam Simon, loosely inspired by the real Salem witch trials in the 17th century.",
+  "wikipedia_extract": "Salem is an American supernatural horror television series created by Brannon Braga and Adam Simon, loosely inspired by the real Salem witch trials in the 17th century.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

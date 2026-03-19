@@ -1,0 +1,72 @@
+{
+  "show_id": "The_Big_Bang_Theory_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory",
+  "wiki_page_title": "The Big Bang Theory",
+  "retrieval_timestamp": "2026-03-19T05:05:27.082083+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Big Bang Theory",
+  "search_title_used": "The Big Bang Theory",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 12,
+  "episodes": 279,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Chuck Lorre Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chuck Lorre",
+    "Bill Prady"
+  ],
+  "showrunners": [
+    "Bill Prady",
+    "Steven Molaro",
+    "Steve Holland"
+  ],
+  "lead_cast": [
+    "Johnny Galecki",
+    "Jim Parsons",
+    "Kaley Cuoco",
+    "Simon Helberg",
+    "Kunal Nayyar",
+    "Sara Gilbert",
+    "Mayim Bialik",
+    "Melissa Rauch",
+    "Kevin Sussman",
+    "Laura Spencer"
+  ],
+  "executive_producers": [
+    "Chuck Lorre",
+    "Bill Prady",
+    "Lee Aronsohn",
+    "Steven Molaro",
+    "Eric Kaplan",
+    "Maria Ferrari",
+    "Dave Goetsch",
+    "Steve Holland"
+  ],
+  "premise_summary": "The Big Bang Theory is an American television sitcom created by Chuck Lorre and Bill Prady for CBS. It aired from September 24, 2007, to May 16, 2019, running for 12 seasons and 279 episodes.",
+  "wikipedia_extract": "The Big Bang Theory is an American television sitcom created by Chuck Lorre and Bill Prady for CBS. It aired from September 24, 2007, to May 16, 2019, running for 12 seasons and 279 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

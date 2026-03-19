@@ -1,0 +1,60 @@
+{
+  "show_id": "Project_Blue_Book_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Project_Blue_Book_(TV_series)",
+  "wiki_page_title": "Project Blue Book (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:54:52.095941+00:00",
+  "retrieval_confidence": "high",
+  "title": "Project Blue Book (TV series)",
+  "search_title_used": "Project Blue Book",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical period drama",
+    "Science fiction",
+    "Conspiracy"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "History"
+  ],
+  "production_companies": [
+    "Compari Entertainment",
+    "A&E Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "David O'Leary"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Aidan Gillen",
+    "Michael Malarkey",
+    "Laura Mennell",
+    "Ksenia Solo",
+    "Michael Harney",
+    "Neal McDonough"
+  ],
+  "executive_producers": [
+    "Robert Zemeckis",
+    "David O'Leary",
+    "Sean Jablonski"
+  ],
+  "premise_summary": "Project Blue Book is an American historical drama television series that premiered on History on January 8, 2019. The main role of Dr. J. Allen Hynek is played by Aidan Gillen, and the first season consisted of ten episodes. The series is based on the real-life Project Blue Book, a series of studies on unidentified flying objects conducted by the United States Air Force. On February 10, 2019, History renewed the series for a 10-episode second season which premiered on January 21, 2020. In May 2020, it was announced that the series had been canceled.",
+  "wikipedia_extract": "Project Blue Book is an American historical drama television series that premiered on History on January 8, 2019. The main role of Dr. J. Allen Hynek is played by Aidan Gillen, and the first season consisted of ten episodes. The series is based on the real-life Project Blue Book, a series of studies on unidentified flying objects conducted by the United States Air Force. On February 10, 2019, History renewed the series for a 10-episode second season which premiered on January 21, 2020. In May 2020, it was announced that the series had been canceled.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

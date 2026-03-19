@@ -1,0 +1,69 @@
+{
+  "show_id": "Dietland_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dietland_(TV_series)",
+  "wiki_page_title": "Dietland (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:28:28.855789+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dietland (TV series)",
+  "search_title_used": "Dietland",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Dark comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "AMC"
+  ],
+  "production_companies": [
+    "Uncharted",
+    "AMC Studios",
+    "Mockingbird Pictures",
+    "Tiny Pyro"
+  ],
+  "distributor": null,
+  "creators": [
+    "Marti Noxon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Joy Nash",
+    "Tamara Tunie",
+    "Robin Weigert",
+    "Rowena King",
+    "Adam Rothenberg",
+    "Erin Darke",
+    "Ricardo Davila",
+    "Tramell Tillman",
+    "Will Seefried",
+    "Julianna Margulies"
+  ],
+  "executive_producers": [
+    "Marti Noxon",
+    "David Ellison",
+    "Dana Goldberg",
+    "Marcy Ross",
+    "Maria Grasso",
+    "Bonnie Curtis",
+    "Julie Lynn",
+    "Jacqueline Hoyt"
+  ],
+  "premise_summary": "Dietland is an American dark comedy drama television series created by Marti Noxon, based on the 2015 novel of the same name by Sarai Walker. The straight-to-series 10-episode first season premiered on AMC with back to back episodes on June 4, 2018.",
+  "wikipedia_extract": "Dietland is an American dark comedy drama television series created by Marti Noxon, based on the 2015 novel of the same name by Sarai Walker. The straight-to-series 10-episode first season premiered on AMC with back to back episodes on June 4, 2018.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

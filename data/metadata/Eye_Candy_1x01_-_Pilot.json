@@ -1,0 +1,60 @@
+{
+  "show_id": "Eye_Candy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Eye_Candy_(TV_series)",
+  "wiki_page_title": "Eye Candy (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:30:58.938532+00:00",
+  "retrieval_confidence": "high",
+  "title": "Eye Candy (TV series)",
+  "search_title_used": "Eye Candy",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "MTV",
+    "TLC"
+  ],
+  "production_companies": [
+    "Blumhouse Television",
+    "Jax Media",
+    "MTV Production Development"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Victoria Justice",
+    "Casey Deidrick",
+    "Harvey Guillén",
+    "Kiersey Clemons",
+    "John Garet Stoker"
+  ],
+  "executive_producers": [
+    "Jason Blum",
+    "Yvonne Bernard",
+    "Christian Taylor",
+    "Beth Elise Hawk"
+  ],
+  "premise_summary": "Eye Candy is an American thriller television series that premiered on MTV on January 12, 2015. The series was developed by Christian Taylor, and is based on the 2004 novel of the same name by R. L. Stine. Eye Candy stars Victoria Justice as Lindy Sampson, a tech genius who goes on the hunt for a serial killer in New York while searching for her lost sister Sara. On February 11, 2014, Eye Candy was picked up for a 10-episode first season. Justice revealed on April 18, 2015, that the series had been cancelled.",
+  "wikipedia_extract": "Eye Candy is an American thriller television series that premiered on MTV on January 12, 2015. The series was developed by Christian Taylor, and is based on the 2004 novel of the same name by R. L. Stine. Eye Candy stars Victoria Justice as Lindy Sampson, a tech genius who goes on the hunt for a serial killer in New York while searching for her lost sister Sara. On February 11, 2014, Eye Candy was picked up for a 10-episode first season. Justice revealed on April 18, 2015, that the series had been cancelled.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

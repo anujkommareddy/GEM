@@ -1,0 +1,65 @@
+{
+  "show_id": "Lodge_49_1x01_-_As_Above_So_Below",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Lodge_49",
+  "wiki_page_title": "Lodge 49",
+  "retrieval_timestamp": "2026-03-19T04:45:34.965351+00:00",
+  "retrieval_confidence": "low",
+  "title": "Lodge 49",
+  "search_title_used": "Lodge 49 As Above So Below",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Philosophical fiction",
+    "}}"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "AMC"
+  ],
+  "production_companies": [
+    "Touchy Feely Films",
+    "Byrnesy",
+    "Ocko & Company",
+    "AMC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jim Gavin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Wyatt Russell",
+    "Brent Jennings",
+    "Sonya Cassidy",
+    "Linda Emond",
+    "David Pasquesi",
+    "Eric Allan Kramer"
+  ],
+  "executive_producers": [
+    "Paul Giamatti",
+    "Dan Carey",
+    "Randall Einhorn",
+    "Jeff Freilich",
+    "Jim Gavin",
+    "Peter Ocko"
+  ],
+  "premise_summary": "Lodge 49 is an American comedy-drama television series created by Jim Gavin. It aired on the cable television network AMC in the United States from August 6, 2018, to October 14, 2019, spanning two seasons and 20 episodes. The title alludes to the novella The Crying of Lot 49 by Thomas Pynchon, which Gavin references as an inspiration. Although the series was met with positive reviews, AMC canceled the series after its second season due to low ratings.",
+  "wikipedia_extract": "Lodge 49 is an American comedy-drama television series created by Jim Gavin. It aired on the cable television network AMC in the United States from August 6, 2018, to October 14, 2019, spanning two seasons and 20 episodes. The title alludes to the novella The Crying of Lot 49 by Thomas Pynchon, which Gavin references as an inspiration. Although the series was met with positive reviews, AMC canceled the series after its second season due to low ratings.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

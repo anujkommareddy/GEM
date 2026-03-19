@@ -1,0 +1,67 @@
+{
+  "show_id": "Camp_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Camp_(TV_series)",
+  "wiki_page_title": "Camp (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:24:26.611503+00:00",
+  "retrieval_confidence": "high",
+  "title": "Camp (TV series)",
+  "search_title_used": "Camp",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States",
+    "Australia"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "BermanBraun",
+    "Matchbox Pictures",
+    "Selfish Mermaid",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Liz Heldens",
+    "Peter Elkoff"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Rachel Griffiths",
+    "Thom Green",
+    "Dena Kaplan",
+    "Tim Pocock",
+    "Charles Grounds",
+    "Nikolai Nikolaeff",
+    "Lily Sullivan",
+    "Charlotte Nicdao",
+    "Rodger Corser"
+  ],
+  "executive_producers": [
+    "Gail Berman",
+    "Gene Stein",
+    "Liz Heldens",
+    "Lloyd Braun",
+    "Peter Elkoff"
+  ],
+  "premise_summary": "Camp is a comedy drama television series created by Liz Heldens and Peter Elkoff featuring an all-Australian cast. It follows the antics of a group of campers and counselors at a fictional lakeside summer camp named Little Otter Family Camp, run by director Mackenzie 'Mack' Granger played by Rachel Griffiths. It originally aired on NBC from July 10 through September 11, 2013.",
+  "wikipedia_extract": "Camp is a comedy drama television series created by Liz Heldens and Peter Elkoff featuring an all-Australian cast. It follows the antics of a group of campers and counselors at a fictional lakeside summer camp named Little Otter Family Camp, run by director Mackenzie 'Mack' Granger played by Rachel Griffiths. It originally aired on NBC from July 10 through September 11, 2013.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

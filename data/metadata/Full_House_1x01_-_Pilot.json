@@ -1,0 +1,68 @@
+{
+  "show_id": "Full_House_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Full_House",
+  "wiki_page_title": "Full House",
+  "retrieval_timestamp": "2026-03-19T04:32:50.586580+00:00",
+  "retrieval_confidence": "high",
+  "title": "Full House",
+  "search_title_used": "Full House",
+  "alternate_titles": [],
+  "start_year": 1987,
+  "end_year": 1995,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 8,
+  "episodes": 192,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Jeff Franklin Productions",
+    "Miller-Boyett Productions",
+    "Lorimar-Telepictures (season 1)",
+    "Lorimar Television (seasons 2–6)",
+    "Warner Bros. Television (seasons 7–8)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jeff Franklin"
+  ],
+  "showrunners": [
+    "Jeff Franklin (1987–92)",
+    "Marc Warren (1993–95)",
+    "Dennis Rinsler (1993–95)"
+  ],
+  "lead_cast": [
+    "John Stamos",
+    "Bob Saget",
+    "Dave Coulier",
+    "Candace Cameron",
+    "Jodie Sweetin",
+    "Mary-Kate and Ashley Olsen",
+    "Lori Loughlin",
+    "Andrea Barber",
+    "Scott Weinger",
+    "Blake Tuomy-Wilhoit",
+    "Dylan Tuomy-Wilhoit"
+  ],
+  "executive_producers": [
+    "Jeff Franklin|Marc Warren (1992–95)}}"
+  ],
+  "premise_summary": "Full House is an American television sitcom created by Jeff Franklin for ABC. The show is about the recently widowed father Danny Tanner who enlists his brother-in-law Jesse Katsopolis and childhood best friend Joey Gladstone to help raise his three daughters, D.J., Stephanie, and Michelle, in his San Francisco home. It originally aired from September 22, 1987, to May 23, 1995, with a total of eight seasons consisting of 192 episodes.",
+  "wikipedia_extract": "Full House is an American television sitcom created by Jeff Franklin for ABC. The show is about the recently widowed father Danny Tanner who enlists his brother-in-law Jesse Katsopolis and childhood best friend Joey Gladstone to help raise his three daughters, D.J., Stephanie, and Michelle, in his San Francisco home. It originally aired from September 22, 1987, to May 23, 1995, with a total of eight seasons consisting of 192 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1995",
+  "franchise_status": null
+}

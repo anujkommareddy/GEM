@@ -1,0 +1,61 @@
+{
+  "show_id": "Longmire_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Longmire_(TV_series)",
+  "wiki_page_title": "Longmire (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:45:42.579874+00:00",
+  "retrieval_confidence": "high",
+  "title": "Longmire (TV series)",
+  "search_title_used": "Longmire",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Neo-Western"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 63,
+  "original_network": [
+    "A&E"
+  ],
+  "production_companies": [
+    "Warner Horizon Television",
+    "The Shephard/Robin Company",
+    "Two Boomerangs Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Robert Taylor",
+    "Katee Sackhoff",
+    "Lou Diamond Phillips",
+    "Adam Bartley",
+    "Cassidy Freeman",
+    "Bailey Chase",
+    "Ally Walker"
+  ],
+  "executive_producers": [
+    "John Coveny",
+    "Hunt Baldwin",
+    "Christopher Chulack",
+    "Greer Shephard",
+    "Michael M. Robin"
+  ],
+  "premise_summary": "Longmire is an American neo-Western crime drama television series that premiered on June 3, 2012, on the A&E network, developed by John Coveny and Hunt Baldwin. The series is based on the Walt Longmire Mysteries series of novels by Craig Johnson. It centers on Walt Longmire, a sheriff in Wyoming. He is assisted by staff, friends, and his daughter in investigating major crimes within his jurisdiction.",
+  "wikipedia_extract": "Longmire is an American neo-Western crime drama television series that premiered on June 3, 2012, on the A&E network, developed by John Coveny and Hunt Baldwin. The series is based on the Walt Longmire Mysteries series of novels by Craig Johnson. It centers on Walt Longmire, a sheriff in Wyoming. He is assisted by staff, friends, and his daughter in investigating major crimes within his jurisdiction.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

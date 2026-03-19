@@ -1,0 +1,69 @@
+{
+  "show_id": "Extant_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Extant_(TV_series)",
+  "wiki_page_title": "Extant (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:30:55.119246+00:00",
+  "retrieval_confidence": "high",
+  "title": "Extant (TV series)",
+  "search_title_used": "Extant",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Mystery",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 2,
+  "episodes": 26,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "22 Plates Productions (season 1)",
+    "Amblin Television",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mickey Fisher"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Halle Berry",
+    "Goran Visnjic",
+    "Pierce Gagnon",
+    "Jeffrey Dean Morgan",
+    "Hiroyuki Sanada",
+    "Camryn Manheim",
+    "Grace Gummer",
+    "Michael O'Neill"
+  ],
+  "executive_producers": [
+    "Steven Spielberg",
+    "Greg Walker",
+    "Mickey Fisher",
+    "Brooklyn Weaver",
+    "Justin Falvey",
+    "Darryl Frank",
+    "Liz Kruger",
+    "Craig Shapiro",
+    "Halle Berry"
+  ],
+  "premise_summary": "Extant is an American science fiction drama television series created by Mickey Fisher and, as executive producer, Steven Spielberg. The story revolves around astronaut Molly Woods who returns home to her family inexplicably pregnant after 13 months in outer space on a solo mission.",
+  "wikipedia_extract": "Extant is an American science fiction drama television series created by Mickey Fisher and, as executive producer, Steven Spielberg. The story revolves around astronaut Molly Woods who returns home to her family inexplicably pregnant after 13 months in outer space on a solo mission.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

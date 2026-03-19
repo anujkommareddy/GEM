@@ -1,0 +1,84 @@
+{
+  "show_id": "Dexter_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dexter_(TV_series)",
+  "wiki_page_title": "Dexter (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:28:24.989015+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dexter (TV series)",
+  "search_title_used": "Dexter",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime",
+    "Psychological thriller",
+    "Mystery",
+    "Black comedy",
+    "Police procedural",
+    "Inverted detective story"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "feature-length",
+  "seasons": 8,
+  "episodes": 96,
+  "original_network": [
+    "Showtime"
+  ],
+  "production_companies": [
+    "The Colleton Company",
+    "John Goldwyn Productions",
+    "Clyde Phillips Productions",
+    "801 Productions",
+    "Devilina Productions",
+    "Showtime Networks"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Clyde Phillips (seasons 1–4)",
+    "Chip Johannessen (season 5)",
+    "Scott Buck (seasons 6–8)"
+  ],
+  "lead_cast": [
+    "Michael C. Hall",
+    "Julie Benz",
+    "Jennifer Carpenter",
+    "Erik King",
+    "Lauren Vélez",
+    "David Zayas",
+    "James Remar",
+    "C. S. Lee",
+    "Desmond Harrington",
+    "Aimee Garcia",
+    "Geoff Pierson"
+  ],
+  "executive_producers": [
+    "James Manos Jr.",
+    "Sara Colleton",
+    "John Goldwyn",
+    "Charles H. Eglee",
+    "Michael C. Hall",
+    "Chip Johannessen",
+    "Clyde Phillips",
+    "Manny Coto",
+    "Wendy West",
+    "Tim Schlattmann",
+    "Melissa Rosenberg",
+    "Jace Richdale",
+    "Scott Buck"
+  ],
+  "premise_summary": "Dexter is an American crime television series that initially aired on Showtime from October 1, 2006, to September 22, 2013. Set in Miami, the series centers on Dexter Morgan, a forensic technician specializing in bloodstain pattern analysis for the fictional Miami Metro Police Department, who leads a secret parallel life as a vigilante serial killer, hunting down murderers inadequately punished by the justice system due to corruption or legal technicalities. The show's first season was derived from the novel Darkly Dreaming Dexter (2004), the first in a series of novels by Jeff Lindsay. It was adapted for television by James Manos Jr., who wrote the first episode.",
+  "wikipedia_extract": "Dexter is an American crime television series that initially aired on Showtime from October 1, 2006, to September 22, 2013. Set in Miami, the series centers on Dexter Morgan, a forensic technician specializing in bloodstain pattern analysis for the fictional Miami Metro Police Department, who leads a secret parallel life as a vigilante serial killer, hunting down murderers inadequately punished by the justice system due to corruption or legal technicalities. The show's first season was derived from the novel Darkly Dreaming Dexter (2004), the first in a series of novels by Jeff Lindsay. It was adapted for television by James Manos Jr., who wrote the first episode.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

@@ -1,0 +1,51 @@
+{
+  "show_id": "Century_City_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Century_City_(TV_series)",
+  "wiki_page_title": "Century City (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:01.054179+00:00",
+  "retrieval_confidence": "high",
+  "title": "Century City (TV series)",
+  "search_title_used": "Century City",
+  "alternate_titles": [],
+  "start_year": 2004,
+  "end_year": 2005,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fictionlegal dramacrime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 9,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Heel and Toe Films",
+    "Universal Network Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ed Zuckerman"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Paul Attanasio",
+    "Katie Jacobs",
+    "Ed Zuckerman"
+  ],
+  "premise_summary": "Century City is an American science fiction legal drama television series created by Ed Zuckerman, that aired on CBS from March 16, 2004, to January 20, 2005, before being cancelled due to low ratings. The series is set in Los Angeles in the year 2030.",
+  "wikipedia_extract": "Century City is an American science fiction legal drama television series created by Ed Zuckerman, that aired on CBS from March 16, 2004, to January 20, 2005, before being cancelled due to low ratings. The series is set in Los Angeles in the year 2030.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,61 @@
+{
+  "show_id": "Chaos_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/CHAOS_(TV_series)",
+  "wiki_page_title": "CHAOS (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:16.189085+00:00",
+  "retrieval_confidence": "high",
+  "title": "CHAOS (TV series)",
+  "search_title_used": "Chaos",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Rat Entertainment",
+    "Certified Pulp",
+    "CBS Television Studios",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tom Spezialy"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eric Close",
+    "Christina Cole",
+    "Carmen Ejogo",
+    "James Murray",
+    "Tim Blake Nelson",
+    "Freddy Rodriguez",
+    "Kurtwood Smith"
+  ],
+  "executive_producers": [
+    "Tom Spezialy",
+    "Brett Ratner",
+    "Martha Haight"
+  ],
+  "premise_summary": "CHAOS is an American comedy drama television series that aired on CBS from April 1, 2011 to July 16, 2011. The title is an acronym for the fictitious organization called Clandestine Homeland Administration and Oversight Services.",
+  "wikipedia_extract": "CHAOS is an American comedy drama television series that aired on CBS from April 1, 2011 to July 16, 2011. The title is an acronym for the fictitious organization called Clandestine Homeland Administration and Oversight Services.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

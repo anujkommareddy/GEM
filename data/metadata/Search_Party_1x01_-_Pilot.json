@@ -1,0 +1,61 @@
+{
+  "show_id": "Search_Party_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Search_Party_(TV_series)",
+  "wiki_page_title": "Search Party (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:59:21.479410+00:00",
+  "retrieval_confidence": "high",
+  "title": "Search Party (TV series)",
+  "search_title_used": "Search Party",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Dark comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 5,
+  "episodes": 50,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Jax Media",
+    "Quiet and Considerate Productions",
+    "Semi-Formal Productions",
+    "Studio T"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sarah-Violet Bliss"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Alia Shawkat",
+    "John Reynolds",
+    "John Early",
+    "Meredith Hagner",
+    "Brandon Micheal Hall"
+  ],
+  "executive_producers": [
+    "Sarah-Violet Bliss",
+    "Charles Rogers",
+    "Michael Showalter",
+    "Tony Herandez",
+    "Lilly Burns"
+  ],
+  "premise_summary": "Search Party is an American dark comedy television series created by Sarah-Violet Bliss, Charles Rogers, and Michael Showalter. Primarily set in New York City, the series follows a group of friends who become involved in the search for a missing young woman and the events that result from their involvement.",
+  "wikipedia_extract": "Search Party is an American dark comedy television series created by Sarah-Violet Bliss, Charles Rogers, and Michael Showalter. Primarily set in New York City, the series follows a group of friends who become involved in the search for a missing young woman and the events that result from their involvement.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

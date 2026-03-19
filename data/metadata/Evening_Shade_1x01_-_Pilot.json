@@ -1,0 +1,67 @@
+{
+  "show_id": "Evening_Shade_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Evening_Shade",
+  "wiki_page_title": "Evening Shade",
+  "retrieval_timestamp": "2026-03-19T04:30:32.254493+00:00",
+  "retrieval_confidence": "high",
+  "title": "Evening Shade",
+  "search_title_used": "Evening Shade",
+  "alternate_titles": [],
+  "start_year": 1990,
+  "end_year": 1994,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 101,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Bloodworth/Thomason Mozark Productions",
+    "Burt Reynolds Productions",
+    "MTM Enterprises",
+    "CBS Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Linda Bloodworth-Thomason"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Burt Reynolds",
+    "Marilu Henner",
+    "Michael Jeter",
+    "Jay R. Ferguson",
+    "Hal Holbrook",
+    "Ossie Davis",
+    "Charles Durning",
+    "Elizabeth Ashley",
+    "Ann Wedgeworth",
+    "Linda Gehringer",
+    "Charlie Dell",
+    "Candace Hutson",
+    "Jacob Parker"
+  ],
+  "executive_producers": [
+    "Linda Bloodworth-Thomason",
+    "Harry Thomason",
+    "Burt Reynolds"
+  ],
+  "premise_summary": "Evening Shade is an American sitcom that aired on CBS from September 21, 1990, to May 23, 1994. The series stars Burt Reynolds as Woodrow \"Wood\" Newton, an ex-professional football player for the Pittsburgh Steelers, who returns to rural Evening Shade, Arkansas, to coach a high-school football team with a long losing streak. Reynolds personally requested to use the Steelers as his character's former team because he was a fan.",
+  "wikipedia_extract": "Evening Shade is an American sitcom that aired on CBS from September 21, 1990, to May 23, 1994. The series stars Burt Reynolds as Woodrow \"Wood\" Newton, an ex-professional football player for the Pittsburgh Steelers, who returns to rural Evening Shade, Arkansas, to coach a high-school football team with a long losing streak. Reynolds personally requested to use the Steelers as his character's former team because he was a fan.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1994",
+  "franchise_status": null
+}

@@ -1,0 +1,58 @@
+{
+  "show_id": "Agent_X_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Agent_X_(TV_series)",
+  "wiki_page_title": "Agent X (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:27.452141+00:00",
+  "retrieval_confidence": "high",
+  "title": "Agent X (TV series)",
+  "search_title_used": "Agent X",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "TNT Original Productions",
+    "Beacon Pictures"
+  ],
+  "distributor": null,
+  "creators": [
+    "William Blake Herron"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sharon Stone",
+    "Jeff Hephner",
+    "Jamey Sheridan",
+    "John Shea",
+    "Mike Colter",
+    "Gerald McRaney"
+  ],
+  "executive_producers": [
+    "Armyan Bernstein",
+    "Sharon Stone",
+    "William Blake Herron"
+  ],
+  "premise_summary": "Agent X is an American action drama television series which aired from November 8 to December 27, 2015, on TNT. It stars Sharon Stone, Jeff Hephner, Jamey Sheridan, John Shea and Mike Colter.",
+  "wikipedia_extract": "Agent X is an American action drama television series which aired from November 8 to December 27, 2015, on TNT. It stars Sharon Stone, Jeff Hephner, Jamey Sheridan, John Shea and Mike Colter.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

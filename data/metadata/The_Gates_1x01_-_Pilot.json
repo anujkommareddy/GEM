@@ -1,0 +1,67 @@
+{
+  "show_id": "The_Gates_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Gates_(TV_series)",
+  "wiki_page_title": "The Gates (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:07:53.327891+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Gates (TV series)",
+  "search_title_used": "The Gates",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Mystery",
+    "Supernatural",
+    "Fantasy"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Little Engine Productions",
+    "Summerland Entertainment",
+    "Fox Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Richard Hatem",
+    "Grant Scharbo"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Rhona Mitra",
+    "Frank Grillo",
+    "Marisol Nichols",
+    "Luke Mably",
+    "Travis Caldwell",
+    "Skyler Samuels",
+    "Chandra West",
+    "Colton Haynes",
+    "Janina Gavankar",
+    "Justin Miles"
+  ],
+  "executive_producers": [
+    "Richard Hatem",
+    "Grant Scharbo",
+    "Gina Matthews"
+  ],
+  "premise_summary": "The Gates is an American supernatural crime drama television series that aired on the ABC network from June 20, 2010, to September 19, 2010. The show was cancelled after its first season due to low ratings.",
+  "wikipedia_extract": "The Gates is an American supernatural crime drama television series that aired on the ABC network from June 20, 2010, to September 19, 2010. The show was cancelled after its first season due to low ratings.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,46 @@
+{
+  "show_id": "The_Legend_of_Master_Legend_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Legend_(TV_series)",
+  "wiki_page_title": "The Legend (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:09:14.634384+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Legend (TV series)",
+  "search_title_used": "The Legend of Master Legend",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2007,
+  "country": [
+    "South Korea"
+  ],
+  "original_language": [
+    "Korean"
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "format_type": "fantasy",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 24,
+  "original_network": [
+    "MBC TV"
+  ],
+  "production_companies": [
+    "TSG Company (joint venture of Kim Jong-hak Productions and SSD)"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Bae Yong-joon"
+  ],
+  "executive_producers": null,
+  "premise_summary": "The Legend is a 2007 South Korean historical fantasy television series, starring Bae Yong-joon, Lee Ji-ah, Moon So-ri and Choi Min-soo. Directed by Kim Jong-hak and written by Song Ji-na, it aired on MBC from September 11 to December 5, 2007, on Wednesdays and Thursdays at 21:55 for 24 episodes.",
+  "wikipedia_extract": "The Legend is a 2007 South Korean historical fantasy television series, starring Bae Yong-joon, Lee Ji-ah, Moon So-ri and Choi Min-soo. Directed by Kim Jong-hak and written by Song Ji-na, it aired on MBC from September 11 to December 5, 2007, on Wednesdays and Thursdays at 21:55 for 24 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2007",
+  "franchise_status": null
+}

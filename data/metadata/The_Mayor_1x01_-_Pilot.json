@@ -1,0 +1,62 @@
+{
+  "show_id": "The_Mayor_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Mayor_(TV_series)",
+  "wiki_page_title": "The Mayor (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:09:38.088852+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Mayor (TV series)",
+  "search_title_used": "The Mayor",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Jeremy Bronson Productions",
+    "Fee-Fi-Fo Films",
+    "FanFare Productions",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jeremy Bronson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Brandon Micheal Hall",
+    "Lea Michele",
+    "Bernard David Jones",
+    "Marcel Spears",
+    "Yvette Nicole Brown"
+  ],
+  "executive_producers": [
+    "Jeremy Bronson",
+    "Daveed Diggs",
+    "Dylan Clark",
+    "James Griffiths",
+    "Scott Stuber",
+    "Jamie Tarses"
+  ],
+  "premise_summary": "The Mayor is an American television sitcom created by Jeremy Bronson. The series was produced by ABC Studios, with Bronson serving as showrunner. It aired on ABC from October 3 to December 12, 2017. The series stars Brandon Micheal Hall as Courtney Rose, an aspiring rapper who unwittingly becomes the mayor of his hometown after running to gain publicity for his music. Lea Michele and Yvette Nicole Brown also star, with newcomers Bernard David Jones and Marcel Spears. The pilot was ordered to series by ABC on May 11, 2017.",
+  "wikipedia_extract": "The Mayor is an American television sitcom created by Jeremy Bronson. The series was produced by ABC Studios, with Bronson serving as showrunner. It aired on ABC from October 3 to December 12, 2017. The series stars Brandon Micheal Hall as Courtney Rose, an aspiring rapper who unwittingly becomes the mayor of his hometown after running to gain publicity for his music. Lea Michele and Yvette Nicole Brown also star, with newcomers Bernard David Jones and Marcel Spears. The pilot was ordered to series by ABC on May 11, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

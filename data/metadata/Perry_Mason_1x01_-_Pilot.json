@@ -1,0 +1,58 @@
+{
+  "show_id": "Perry_Mason_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Perry_Mason_(TV_film_series)",
+  "wiki_page_title": "Perry Mason (TV film series)",
+  "retrieval_timestamp": "2026-03-19T04:53:49.333120+00:00",
+  "retrieval_confidence": "high",
+  "title": "Perry Mason (TV film series)",
+  "search_title_used": "Perry Mason",
+  "alternate_titles": [],
+  "start_year": 1985,
+  "end_year": 1995,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "feature-length",
+  "seasons": null,
+  "episodes": null,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Intermedia Entertainment Company (1985–86)",
+    "Strathmore Productions (1985–88)",
+    "The Fred Silverman Company (1987–1995)",
+    "Dean Hargrove Productions (1988–1995)",
+    "Viacom Productions (1985–1995)"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Raymond Burr",
+    "Barbara Hale",
+    "William Katt",
+    "William R. Moses",
+    "David Ogden Stiers",
+    "James McEachin",
+    "Paul Sorvino",
+    "Hal Holbrook"
+  ],
+  "executive_producers": [
+    "Dean Hargrove",
+    "Fred Silverman"
+  ],
+  "premise_summary": "A series of 30 Perry Mason television films aired on NBC from 1985 to 1995 as sequels to the CBS TV series Perry Mason. After a hiatus of nearly 20 years, Raymond Burr reprised his role as Los Angeles defense attorney Mason in 26 of the television films. Following Burr's death in 1993, Paul Sorvino and Hal Holbrook starred in the remaining television films that aired from 1993 to 1995, with Sorvino playing lawyer Anthony Caruso in the first of these and Holbrook playing \"Wild Bill\" McKenzie in the last three.",
+  "wikipedia_extract": "A series of 30 Perry Mason television films aired on NBC from 1985 to 1995 as sequels to the CBS TV series Perry Mason. After a hiatus of nearly 20 years, Raymond Burr reprised his role as Los Angeles defense attorney Mason in 26 of the television films. Following Burr's death in 1993, Paul Sorvino and Hal Holbrook starred in the remaining television films that aired from 1993 to 1995, with Sorvino playing lawyer Anthony Caruso in the first of these and Holbrook playing \"Wild Bill\" McKenzie in the last three.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1995",
+  "franchise_status": null
+}

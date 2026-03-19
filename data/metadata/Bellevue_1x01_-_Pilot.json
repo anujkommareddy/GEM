@@ -1,0 +1,67 @@
+{
+  "show_id": "Bellevue_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Bellevue_(TV_series)",
+  "wiki_page_title": "Bellevue (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:21:29.581047+00:00",
+  "retrieval_confidence": "high",
+  "title": "Bellevue (TV series)",
+  "search_title_used": "Bellevue",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "CBC Television"
+  ],
+  "production_companies": [
+    "Muse Entertainment",
+    "Back Alley Film Productions Ltd."
+  ],
+  "distributor": null,
+  "creators": [
+    "Jane Maggs",
+    "Adrienne Mitchell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Anna Paquin",
+    "Shawn Doyle",
+    "Billy MacLellan",
+    "Sharon Taylor",
+    "Patrick Labbé",
+    "Vincent Leclerc",
+    "Janine Theriault",
+    "Victoria Sanchez",
+    "Joe Cobden",
+    "Allen Leech"
+  ],
+  "executive_producers": [
+    "Anna Paquin",
+    "Morwyn Brebner",
+    "Jane Maggs",
+    "Adrienne Mitchell",
+    "Michael Prupas",
+    "Janis Lundman",
+    "Jesse Prupas"
+  ],
+  "premise_summary": "Bellevue is a Canadian television crime drama series, it premiered on CBC Television on February 20, 2017. Created by Jane Maggs and Adrienne Mitchell, the series stars Anna Paquin as Annie Ryder, a police officer investigating the disappearance of a transgender teen while also dealing with the return of a mysterious person from her past.",
+  "wikipedia_extract": "Bellevue is a Canadian television crime drama series, it premiered on CBC Television on February 20, 2017. Created by Jane Maggs and Adrienne Mitchell, the series stars Anna Paquin as Annie Ryder, a police officer investigating the disappearance of a transgender teen while also dealing with the return of a mysterious person from her past.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

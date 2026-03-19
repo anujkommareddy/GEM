@@ -1,0 +1,59 @@
+{
+  "show_id": "Benders_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Benders_(TV_series)",
+  "wiki_page_title": "Benders (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:21:40.819195+00:00",
+  "retrieval_confidence": "high",
+  "title": "Benders (TV series)",
+  "search_title_used": "Benders",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "IFC"
+  ],
+  "production_companies": [
+    "Apostle"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jim Serpico",
+    "Tom Sellitti"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Chris Distefano",
+    "Steve Schirripa",
+    "Steve Greenstein",
+    "Andrew Schulz",
+    "Lindsey Broad",
+    "Mark Gessner",
+    "Ruy Iskandar"
+  ],
+  "executive_producers": [
+    "Denis Leary",
+    "Tom Sellitti",
+    "Jim Serpico"
+  ],
+  "premise_summary": "Benders is an American sitcom created by Tom Sellitti and Jim Serpico. On March 31, 2015, the series was ordered by IFC. The series premiered on IFC on October 1, 2015. On December 30, 2015, the series was canceled by IFC.",
+  "wikipedia_extract": "Benders is an American sitcom created by Tom Sellitti and Jim Serpico. On March 31, 2015, the series was ordered by IFC. The series premiered on IFC on October 1, 2015. On December 30, 2015, the series was canceled by IFC.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

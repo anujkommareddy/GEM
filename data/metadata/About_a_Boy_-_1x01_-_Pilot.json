@@ -1,0 +1,65 @@
+{
+  "show_id": "About_a_Boy_-_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/About_a_Boy_(TV_series)",
+  "wiki_page_title": "About a Boy (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:12.338517+00:00",
+  "retrieval_confidence": "high",
+  "title": "About a Boy (TV series)",
+  "search_title_used": "About a Boy",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 33,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "True Jack Productions",
+    "Working Title Television",
+    "Tribeca Productions",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jason Katims"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Walton",
+    "Benjamin Stockham",
+    "Al Madrigal",
+    "Annie Mumolo",
+    "Minnie Driver"
+  ],
+  "executive_producers": [
+    "Jason Katims",
+    "Jon Favreau",
+    "Tim Bevan",
+    "Eric Fellner",
+    "Liza Chasin",
+    "Robert De Niro",
+    "Jane Rosenthal",
+    "Michelle Lee",
+    "David M. Israel"
+  ],
+  "premise_summary": "About a Boy is an American single-camera sitcom television series that aired on NBC from February 22, 2014, to July 20, 2015. The show was created by Jason Katims and premiered as a midseason replacement following the 2014 Winter Olympics. It was the second adaptation based on the 1998 novel of the same title by Nick Hornby, preceded by the 2002 theatrical film. The series starred David Walton, Minnie Driver and Benjamin Stockham, and used \"Comeback Kid \" by Brett Dennen as its theme song.",
+  "wikipedia_extract": "About a Boy is an American single-camera sitcom television series that aired on NBC from February 22, 2014, to July 20, 2015. The show was created by Jason Katims and premiered as a midseason replacement following the 2014 Winter Olympics. It was the second adaptation based on the 1998 novel of the same title by Nick Hornby, preceded by the 2002 theatrical film. The series starred David Walton, Minnie Driver and Benjamin Stockham, and used \"Comeback Kid \" by Brett Dennen as its theme song.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

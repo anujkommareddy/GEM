@@ -1,0 +1,66 @@
+{
+  "show_id": "Witchblade_1x01_-_Pilot_(1999)",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Witchblade_(2001_TV_series)",
+  "wiki_page_title": "Witchblade (2001 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:18:09.014823+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Witchblade (2001 TV series)",
+  "search_title_used": "Witchblade ()",
+  "alternate_titles": [],
+  "start_year": 2001,
+  "end_year": 2002,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Superhero",
+    "Supernatural",
+    "Action",
+    "Adventure",
+    "Mystery",
+    "Thriller",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 23,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Halsted Pictures(2001)(season 1)",
+    "Camelot Pictures(2002)(season 2)",
+    "Mythic Films",
+    "Top Cow Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ralph Hemecker"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Yancy Butler",
+    "David Chokachi",
+    "Anthony Cistaro",
+    "Will Yun Lee",
+    "John Hensley",
+    "Eric Etebari"
+  ],
+  "executive_producers": [
+    "Dan Halsted",
+    "Ralph Hemecker"
+  ],
+  "premise_summary": "Witchblade is an American television series that aired on TNT from June 12, 2001 to August 26, 2002. The series is based on the Witchblade comic book series, and followed a pilot film that debuted in August 2000. Some of the episodes were written by Ralph Hemecker, Marc Silvestri and J.D. Zeik.",
+  "wikipedia_extract": "Witchblade is an American television series that aired on TNT from June 12, 2001 to August 26, 2002. The series is based on the Witchblade comic book series, and followed a pilot film that debuted in August 2000. Some of the episodes were written by Ralph Hemecker, Marc Silvestri and J.D. Zeik.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2002",
+  "franchise_status": null
+}

@@ -1,0 +1,82 @@
+{
+  "show_id": "the-expanse-101-pilot-2015",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Expanse_(TV_series)",
+  "wiki_page_title": "The Expanse (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:25:12.737945+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Expanse (TV series)",
+  "search_title_used": "the expanse",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 62,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "Penguin in a Parka",
+    "SeanDanielCo (s. 4–6)",
+    "Hivemind (s. 4–6)",
+    "Amazon Studios (s. 4–6)",
+    "}}"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Mark Fergus",
+    "Hawk Ostby",
+    "Naren Shankar"
+  ],
+  "lead_cast": [
+    "Thomas Jane",
+    "Steven Strait",
+    "Cas Anvar",
+    "Dominique Tipper",
+    "Wes Chatham",
+    "Paulo Costanzo",
+    "Florence Faivre",
+    "Shawn Doyle",
+    "Shohreh Aghdashloo",
+    "Frankie Adams",
+    "Cara Gee",
+    "Keon Alexander",
+    "Jasai Chase Owens",
+    "Nadine Nicole"
+  ],
+  "executive_producers": [
+    "Naren Shankar",
+    "Mark Fergus",
+    "Hawk Ostby",
+    "Sean Daniel",
+    "Jason F. Brown",
+    "Sharon Hall",
+    "Broderick Johnson",
+    "Andrew Kosove",
+    "Laura Lancaster",
+    "Daniel Abraham",
+    "Ty Franck",
+    "Dan Nowak",
+    "Ben Roberts"
+  ],
+  "premise_summary": "The Expanse is an American science fiction television series developed by Mark Fergus and Hawk Ostby for the Syfy network; it is based on the series of novels of the same name by James S. A. Corey. Set in a future where humanity has colonized the Solar System, it follows a disparate band of protagonists – United Nations Security Council member Chrisjen Avasarala, cynical detective Josephus Miller, and ship's officer James Holden and his crew – as they unwittingly unravel and place themselves at the center of a conspiracy that threatens the system's fragile peace, while dealing with existential crises brought forth by newly discovered alien technology.",
+  "wikipedia_extract": "The Expanse is an American science fiction television series developed by Mark Fergus and Hawk Ostby for the Syfy network; it is based on the series of novels of the same name by James S. A. Corey. Set in a future where humanity has colonized the Solar System, it follows a disparate band of protagonists – United Nations Security Council member Chrisjen Avasarala, cynical detective Josephus Miller, and ship's officer James Holden and his crew – as they unwittingly unravel and place themselves at the center of a conspiracy that threatens the system's fragile peace, while dealing with existential crises brought forth by newly discovered alien technology.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

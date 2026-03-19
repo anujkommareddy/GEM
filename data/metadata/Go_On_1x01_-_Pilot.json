@@ -1,0 +1,64 @@
+{
+  "show_id": "Go_On_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Go_On_(TV_series)",
+  "wiki_page_title": "Go On (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:33:49.282005+00:00",
+  "retrieval_confidence": "high",
+  "title": "Go On (TV series)",
+  "search_title_used": "Go On",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Silver & Gold Productions",
+    "Dark Toy Entertainment",
+    "Universal Television",
+    "Open 4 Business Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Scott Silveri"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matthew Perry",
+    "Laura Benanti",
+    "Julie White",
+    "Suzy Nakamura",
+    "Tyler James Williams",
+    "Brett Gelman",
+    "Sarah Baker",
+    "John Cho"
+  ],
+  "executive_producers": [
+    "Scott Silveri",
+    "Matthew Perry",
+    "Todd Holland",
+    "Karey Burke",
+    "Jon Pollack"
+  ],
+  "premise_summary": "Go On is an American television sitcom created by Scott Silveri, that aired on NBC from August 8, 2012, to April 11, 2013. The series starred Matthew Perry as Ryan King, a sports talk radio host trying to move on from the death of his wife. It was given a series order on April 20, 2012. A preview episode aired following the Olympics coverage on August 8. The series premiered on September 11, 2012, in its normal Tuesday timeslot at 9:00 pm Eastern/8:00 pm Central after The Voice.",
+  "wikipedia_extract": "Go On is an American television sitcom created by Scott Silveri, that aired on NBC from August 8, 2012, to April 11, 2013. The series starred Matthew Perry as Ryan King, a sports talk radio host trying to move on from the death of his wife. It was given a series order on April 20, 2012. A preview episode aired following the Olympics coverage on August 8. The series premiered on September 11, 2012, in its normal Tuesday timeslot at 9:00 pm Eastern/8:00 pm Central after The Voice.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

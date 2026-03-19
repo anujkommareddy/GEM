@@ -1,0 +1,67 @@
+{
+  "show_id": "American_Superstore_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Superstore_(TV_series)",
+  "wiki_page_title": "Superstore (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:19:33.832237+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Superstore (TV series)",
+  "search_title_used": "American Superstore",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Workplace comedyurl=https://www.vice.com/en/article/superstore-was-the-last-great-tv-workplace-comedy-series-finale-nbc/"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 113,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Spitzer Holding Company",
+    "The District",
+    "Universal Television",
+    "Miller Green Broadcasting (2019–21)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Justin Spitzer"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "America Ferrera",
+    "Ben Feldman",
+    "Lauren Ash",
+    "Colton Dunn",
+    "Nico Santos",
+    "Nichole Sakura",
+    "Mark McKinney",
+    "Kaliko Kauahi"
+  ],
+  "executive_producers": [
+    "Justin Spitzer",
+    "Ruben Fleischer",
+    "David Bernad",
+    "Gabe Miller",
+    "Jonathan Green",
+    "Jackie Clarke",
+    "America Ferrera (seasons"
+  ],
+  "premise_summary": "Superstore is an American television sitcom that aired on NBC from November 30, 2015, to March 25, 2021. The series was created and produced by Justin Spitzer. Starring America Ferrera and Ben Feldman, Superstore follows a group of employees working at Cloud 9, a fictional big-box chain store in St. Louis, Missouri. The ensemble cast includes Lauren Ash, Colton Dunn, Nico Santos, Nichole Sakura, Mark McKinney, and Kaliko Kauahi. A Spanish-language adaptation, titled Supertitlán, debuted on the Mexican television network Azteca 7 on May 30, 2022. In The United Kingdom The series aired on ITV2 from its premiere until 2025, from January 2026, it has been broadcast on U&Dave in the UK and Ireland on Saturday nights.",
+  "wikipedia_extract": "Superstore is an American television sitcom that aired on NBC from November 30, 2015, to March 25, 2021. The series was created and produced by Justin Spitzer. Starring America Ferrera and Ben Feldman, Superstore follows a group of employees working at Cloud 9, a fictional big-box chain store in St. Louis, Missouri. The ensemble cast includes Lauren Ash, Colton Dunn, Nico Santos, Nichole Sakura, Mark McKinney, and Kaliko Kauahi. A Spanish-language adaptation, titled Supertitlán, debuted on the Mexican television network Azteca 7 on May 30, 2022. In The United Kingdom The series aired on ITV2 from its premiere until 2025, from January 2026, it has been broadcast on U&Dave in the UK and Ireland on Saturday nights.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

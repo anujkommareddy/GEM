@@ -1,0 +1,75 @@
+{
+  "show_id": "Tell_Me_A_Story_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Tell_Me_a_Story_(TV_series)",
+  "wiki_page_title": "Tell Me a Story (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:23.278421+00:00",
+  "retrieval_confidence": "high",
+  "title": "Tell Me a Story (TV series)",
+  "search_title_used": "Tell Me A Story",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Psychological thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "CBS All Access"
+  ],
+  "production_companies": [
+    "Resonant",
+    "Outerbanks Entertainment",
+    "Kapital Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kevin Williamson"
+  ],
+  "showrunners": [
+    "Kevin Williamson"
+  ],
+  "lead_cast": [
+    "James Wolk",
+    "Billy Magnussen",
+    "Dania Ramirez",
+    "Danielle Campbell",
+    "Dorian Crossmond Missick",
+    "Sam Jaeger",
+    "Davi Santos",
+    "Michael Raymond-James",
+    "Zabryna Guevara",
+    "Paul Wesley",
+    "Kim Cattrall",
+    "Odette Annable",
+    "Matt Lauria",
+    "Eka Darville",
+    "Natalie Alyn Lind",
+    "Ashley Madekwe",
+    "Carrie-Anne Moss"
+  ],
+  "executive_producers": [
+    "Gonzalo Cilley",
+    "Andres Tovar",
+    "Dana Honor",
+    "Aaron Kaplan",
+    "Liz Friedlander",
+    "Kevin Williamson"
+  ],
+  "premise_summary": "Tell Me a Story is an American psychological thriller anthology television series created by Kevin Williamson for CBS All Access. Based on the Spanish television series Cuéntame un cuento, it depicts iconic fairy tales reimagined as modern-day thrillers. Each season features a mostly different cast ensemble, with Danielle Campbell and Paul Wesley appearing in both seasons of the series.",
+  "wikipedia_extract": "Tell Me a Story is an American psychological thriller anthology television series created by Kevin Williamson for CBS All Access. Based on the Spanish television series Cuéntame un cuento, it depicts iconic fairy tales reimagined as modern-day thrillers. Each season features a mostly different cast ensemble, with Danielle Campbell and Paul Wesley appearing in both seasons of the series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

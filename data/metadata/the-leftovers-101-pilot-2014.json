@@ -1,0 +1,85 @@
+{
+  "show_id": "the-leftovers-101-pilot-2014",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Leftovers_(TV_series)",
+  "wiki_page_title": "The Leftovers (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:25:28.695638+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Leftovers (TV series)",
+  "search_title_used": "the leftovers",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Supernatural fiction",
+    "Mystery",
+    "Magical realism",
+    "Psychological thriller",
+    "Philosophical fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 28,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "White Rabbit Productions",
+    "Film 44",
+    "Warner Bros. Television",
+    "HBO Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Damon Lindelof",
+    "Tom Perrotta"
+  ],
+  "showrunners": [
+    "Damon Lindelof"
+  ],
+  "lead_cast": [
+    "Justin Theroux",
+    "Amy Brenneman",
+    "Christopher Eccleston",
+    "Liv Tyler",
+    "Chris Zylka",
+    "Margaret Qualley",
+    "Carrie Coon",
+    "Emily Meade",
+    "Amanda Warren",
+    "Ann Dowd",
+    "Michael Gaston",
+    "Max Carver",
+    "Charlie Carver",
+    "Annie Q.",
+    "Janel Moloney",
+    "Regina King",
+    "Kevin Carroll",
+    "Jovan Adepo",
+    "Scott Glenn"
+  ],
+  "executive_producers": [
+    "Damon Lindelof",
+    "Tom Perrotta",
+    "Peter Berg",
+    "Sarah Aubrey",
+    "Mimi Leder",
+    "Tom Spezialy",
+    "Eugene Kelly"
+  ],
+  "premise_summary": "The Leftovers is an American supernatural drama television series created by Damon Lindelof and Tom Perrotta that aired on HBO from June 29, 2014, to June 4, 2017. Based on Perrotta's 2011 novel, the series begins three years after the \"Sudden Departure\", a global event that resulted in 2% of the world's population disappearing. The lives of police chief Kevin Garvey and his family, along with grieving widow Nora Durst and her brother, Reverend Matt Jamison, are the focal points of the series as they struggle to adjust to life after the Departure.",
+  "wikipedia_extract": "The Leftovers is an American supernatural drama television series created by Damon Lindelof and Tom Perrotta that aired on HBO from June 29, 2014, to June 4, 2017. Based on Perrotta's 2011 novel, the series begins three years after the \"Sudden Departure\", a global event that resulted in 2% of the world's population disappearing. The lives of police chief Kevin Garvey and his family, along with grieving widow Nora Durst and her brother, Reverend Matt Jamison, are the focal points of the series as they struggle to adjust to life after the Departure.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

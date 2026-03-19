@@ -1,0 +1,66 @@
+{
+  "show_id": "Everything_Sucks_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Everything_Sucks!",
+  "wiki_page_title": "Everything Sucks!",
+  "retrieval_timestamp": "2026-03-19T04:30:39.821074+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Everything Sucks!",
+  "search_title_used": "Everything Sucks",
+  "alternate_titles": [],
+  "start_year": 1996,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Coming-of-age",
+    "Comedy drama",
+    "Romantic comedy",
+    "Teen drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Midnight Radio"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ben York Jones",
+    "Michael Mohan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jahi Di'Allo Winston",
+    "Peyton Kennedy",
+    "Patch Darragh",
+    "Claudine Nako",
+    "Rio Mangini",
+    "Quinn Liebling",
+    "Sydney Sweeney",
+    "Elijah Stevenson"
+  ],
+  "executive_producers": [
+    "Josh Appelbaum",
+    "André Nemec",
+    "Jeff Pinkner",
+    "Scott Rosenberg",
+    "Ben York Jones",
+    "Michael Mohan"
+  ],
+  "premise_summary": "Everything Sucks! is an American comedy drama television series created by Ben York Jones and Michael Mohan. The series is set in the real-life town of Boring, Oregon in 1996, and focuses on a group of teenagers who attend the fictional Boring High School as they proceed to make a movie together while dealing with issues such as finding their sexualities, mental health, and growing up.",
+  "wikipedia_extract": "Everything Sucks! is an American comedy drama television series created by Ben York Jones and Michael Mohan. The series is set in the real-life town of Boring, Oregon in 1996, and focuses on a group of teenagers who attend the fictional Boring High School as they proceed to make a movie together while dealing with issues such as finding their sexualities, mental health, and growing up.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

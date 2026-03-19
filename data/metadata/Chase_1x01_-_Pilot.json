@@ -1,0 +1,48 @@
+{
+  "show_id": "Chase_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Paper_Chase_(TV_series)",
+  "wiki_page_title": "The Paper Chase (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:23.812522+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Paper Chase (TV series)",
+  "search_title_used": "Chase",
+  "alternate_titles": [],
+  "start_year": 1978,
+  "end_year": 1979,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 59,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "John Houseman"
+  ],
+  "executive_producers": [
+    "Lynn Roth"
+  ],
+  "premise_summary": "The Paper Chase is a 1978 American drama television series based on the 1971 novel of the same title by John Jay Osborn Jr., and a 1973 film adaptation. It follows the lives of law student James T. Hart and his classmates at an unnamed law school, modeled on Harvard Law School.",
+  "wikipedia_extract": "The Paper Chase is a 1978 American drama television series based on the 1971 novel of the same title by John Jay Osborn Jr., and a 1973 film adaptation. It follows the lives of law student James T. Hart and his classmates at an unnamed law school, modeled on Harvard Law School.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1979",
+  "franchise_status": null
+}

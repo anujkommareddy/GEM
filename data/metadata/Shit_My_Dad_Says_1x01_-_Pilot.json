@@ -1,0 +1,59 @@
+{
+  "show_id": "Shit_My_Dad_Says_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/$h*!_My_Dad_Says",
+  "wiki_page_title": "$h*! My Dad Says",
+  "retrieval_timestamp": "2026-03-19T05:00:28.449197+00:00",
+  "retrieval_confidence": "medium",
+  "title": "$h*! My Dad Says",
+  "search_title_used": "Shit My Dad Says",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 18,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "KoMut Entertainment",
+    "Bonanza Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Kohan",
+    "Max Mutchnick",
+    "Justin Halpern",
+    "Patrick Schumacker"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "William Shatner",
+    "Jonathan Sadowski",
+    "Nicole Sullivan",
+    "Will Sasso"
+  ],
+  "executive_producers": [
+    "David Kohan",
+    "Max Mutchnick"
+  ],
+  "premise_summary": "$#*! My Dad Says is an American television sitcom produced by Warner Bros. Television that aired on CBS. It was based on the Twitter feed Shit My Dad Says, created by Justin Halpern and consisting of quotations from his father, Sam.",
+  "wikipedia_extract": "$#*! My Dad Says is an American television sitcom produced by Warner Bros. Television that aired on CBS. It was based on the Twitter feed Shit My Dad Says, created by Justin Halpern and consisting of quotations from his father, Sam.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

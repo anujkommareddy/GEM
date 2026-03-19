@@ -1,0 +1,65 @@
+{
+  "show_id": "Ten_Days_In_The_Valley_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ten_Days_in_the_Valley",
+  "wiki_page_title": "Ten Days in the Valley",
+  "retrieval_timestamp": "2026-03-19T05:04:27.145906+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ten Days in the Valley",
+  "search_title_used": "Ten Days In The Valley",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Pentimento Productions",
+    "Cameron Pictures",
+    "Uncharted"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tassie Cameron"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kyra Sedgwick",
+    "Adewale Akinnuoye-Agbaje",
+    "Erika Christensen",
+    "Kick Gurry",
+    "Josh Randall",
+    "Malcolm-Jamal Warner",
+    "Abigail Pniowsky",
+    "Francois Battiste",
+    "Felix Solis"
+  ],
+  "executive_producers": [
+    "Kyra Sedgwick",
+    "Tassie Cameron",
+    "Jill Littman",
+    "David Ellison",
+    "Dana Goldberg",
+    "Marcy Ross"
+  ],
+  "premise_summary": "Ten Days in the Valley is an American drama television series that aired on ABC from October 1, 2017, through January 6, 2018. The series, starring Kyra Sedgwick, was ordered direct-to-series on August 4, 2016. After airing four episodes, ABC announced that they were pulling the series from their schedule but would air the rest of the episodes beginning December 16, 2017.",
+  "wikipedia_extract": "Ten Days in the Valley is an American drama television series that aired on ABC from October 1, 2017, through January 6, 2018. The series, starring Kyra Sedgwick, was ordered direct-to-series on August 4, 2016. After airing four episodes, ABC announced that they were pulling the series from their schedule but would air the rest of the episodes beginning December 16, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

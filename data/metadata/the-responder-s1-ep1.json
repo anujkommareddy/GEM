@@ -1,0 +1,66 @@
+{
+  "show_id": "the-responder-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Responder",
+  "wiki_page_title": "The Responder",
+  "retrieval_timestamp": "2026-03-19T05:25:56.411894+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Responder",
+  "search_title_used": "the responder",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": 2024,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 10,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Dancing Ledge Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tony Schumacher"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Martin Freeman",
+    "Adelayo Adedayo",
+    "Warren Brown",
+    "MyAnna Buring",
+    "Emily Fairn",
+    "Josh Finan",
+    "Faye McKeever",
+    "Philip S. McGuinness",
+    "Mark Womack",
+    "Rita Tushingham",
+    "Ian Hart",
+    "Amaka Okafor",
+    "Izuka Hoyle",
+    "Adam Nagaitis",
+    "Bernard Hill"
+  ],
+  "executive_producers": [
+    "Laurence Bowen",
+    "Chris Carey",
+    "Martin Freeman"
+  ],
+  "premise_summary": "The Responder is a British police procedural television series set in Liverpool, written by former Merseyside Police officer Tony Schumacher, with Tim Mielants as leading director and starring Martin Freeman, Adelayo Adedayo, Ian Hart, and MyAnna Buring. It aired on BBC One on 24 January 2022. Schumacher has said that the character has \"a lot to do\" with him and the struggles he faced as a police officer but that the storyline is fictional.",
+  "wikipedia_extract": "The Responder is a British police procedural television series set in Liverpool, written by former Merseyside Police officer Tony Schumacher, with Tim Mielants as leading director and starring Martin Freeman, Adelayo Adedayo, Ian Hart, and MyAnna Buring. It aired on BBC One on 24 January 2022. Schumacher has said that the character has \"a lot to do\" with him and the struggles he faced as a police officer but that the storyline is fictional.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2024",
+  "franchise_status": null
+}

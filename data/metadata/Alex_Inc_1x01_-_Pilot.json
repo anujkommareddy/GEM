@@ -1,0 +1,64 @@
+{
+  "show_id": "Alex_Inc_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Alex,_Inc.",
+  "wiki_page_title": "Alex, Inc.",
+  "retrieval_timestamp": "2026-03-19T04:18:31.276644+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Alex, Inc.",
+  "search_title_used": "Alex Inc",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Davis Entertainment",
+    "Two Soups Productions",
+    "ABC Studios",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matt Tarses"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Zach Braff",
+    "Tiya Sircar",
+    "Hillary Anne Matthews",
+    "Elisha Henig",
+    "Audyssie James",
+    "Michael Imperioli"
+  ],
+  "executive_producers": [
+    "Matt Tarses",
+    "Zach Braff",
+    "John Davis",
+    "John Fox",
+    "Alex Blumberg",
+    "Chris Giliberti",
+    "Matt Lieber"
+  ],
+  "premise_summary": "Alex, Inc. is an American sitcom created by Matt Tarses that aired on ABC from March 28 to May 16, 2018. Based on Gimlet Media, Inc.'s StartUp, the series stars Zach Braff, Tiya Sircar, Hillary Anne Matthews, Elisha Henig, Audyssie James and Michael Imperioli. The series was produced by Davis Entertainment, Two Soups Productions, ABC Studios and Sony Pictures Television.",
+  "wikipedia_extract": "Alex, Inc. is an American sitcom created by Matt Tarses that aired on ABC from March 28 to May 16, 2018. Based on Gimlet Media, Inc.'s StartUp, the series stars Zach Braff, Tiya Sircar, Hillary Anne Matthews, Elisha Henig, Audyssie James and Michael Imperioli. The series was produced by Davis Entertainment, Two Soups Productions, ABC Studios and Sony Pictures Television.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

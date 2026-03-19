@@ -1,0 +1,63 @@
+{
+  "show_id": "Incorporated_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Incorporated_(TV_series)",
+  "wiki_page_title": "Incorporated (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:42:04.944842+00:00",
+  "retrieval_confidence": "high",
+  "title": "Incorporated (TV series)",
+  "search_title_used": "Incorporated",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "Pearl Street Films",
+    "Algorithm Entertainment",
+    "Universal Cable Productions",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "David & Alex Pastor"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sean Teale",
+    "Allison Miller",
+    "Eddie Ramos",
+    "Julia Ormond",
+    "Dennis Haysbert",
+    "David Hewlett",
+    "Ian Tracey"
+  ],
+  "executive_producers": [
+    "Ted Humphrey",
+    "Matt Damon",
+    "Ben Affleck",
+    "Jennifer Todd"
+  ],
+  "premise_summary": "Incorporated is an American science fiction drama television series. The show premiered November 30, 2016, on Syfy. Before its official premiere, Syfy released an advance preview of the first episode online on November 16, 2016. The show concluded on January 25, 2017.",
+  "wikipedia_extract": "Incorporated is an American science fiction drama television series. The show premiered November 30, 2016, on Syfy. Before its official premiere, Syfy released an advance preview of the first episode online on November 16, 2016. The show concluded on January 25, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

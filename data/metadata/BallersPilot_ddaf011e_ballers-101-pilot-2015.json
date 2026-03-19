@@ -1,0 +1,70 @@
+{
+  "show_id": "BallersPilot_ddaf011e_ballers-101-pilot-2015",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ballers",
+  "wiki_page_title": "Ballers",
+  "retrieval_timestamp": "2026-03-19T04:20:54.401578+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ballers",
+  "search_title_used": "Ballers",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy-drama",
+    "Sports"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 5,
+  "episodes": 47,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "Closest to the Hole Productions",
+    "Leverage Entertainment",
+    "Seven Bucks Entertainment",
+    "Film 44",
+    "HBO Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Stephen Levinson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Dwayne Johnson",
+    "Rob Corddry",
+    "John David Washington",
+    "Omar Miller",
+    "Donovan W. Carter",
+    "Troy Garity",
+    "London Brown",
+    "Arielle Kebbel"
+  ],
+  "executive_producers": [
+    "Dwayne Johnson",
+    "Dany Garcia",
+    "Mark Wahlberg",
+    "Peter Berg",
+    "Evan Reilly",
+    "Stephen Levinson",
+    "Rob Weiss",
+    "Denis Biggs",
+    "Julian Farino"
+  ],
+  "premise_summary": "Ballers is an American sports comedy-drama series created by Stephen Levinson that aired for five seasons on HBO from June 21, 2015, to October 13, 2019. It stars Dwayne Johnson as a retired NFL player who must navigate his new career as the financial manager of other NFL players.",
+  "wikipedia_extract": "Ballers is an American sports comedy-drama series created by Stephen Levinson that aired for five seasons on HBO from June 21, 2015, to October 13, 2019. It stars Dwayne Johnson as a retired NFL player who must navigate his new career as the financial manager of other NFL players.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

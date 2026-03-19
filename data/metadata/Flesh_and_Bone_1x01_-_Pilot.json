@@ -1,0 +1,63 @@
+{
+  "show_id": "Flesh_and_Bone_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Flesh_and_Bone_(miniseries)",
+  "wiki_page_title": "Flesh and Bone (miniseries)",
+  "retrieval_timestamp": "2026-03-19T04:31:56.353356+00:00",
+  "retrieval_confidence": "high",
+  "title": "Flesh and Bone (miniseries)",
+  "search_title_used": "Flesh and Bone",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "limited_series",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 8,
+  "original_network": [
+    "Starz"
+  ],
+  "production_companies": [
+    "Pelican Ballet",
+    "Bender Brown"
+  ],
+  "distributor": null,
+  "creators": [
+    "Moira Walley-Beckett"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sarah Hay",
+    "Ben Daniels",
+    "Emily Tyra",
+    "Irina Dvorovenko",
+    "Damon Herriman",
+    "Josh Helman",
+    "Raychel Diane Weiner",
+    "Sascha Radetsky",
+    "Marina Benedict",
+    "Karell Williams"
+  ],
+  "executive_producers": [
+    "Moira Walley-Beckett",
+    "John Melfi",
+    "Lawrence Bender",
+    "Kevin Brown"
+  ],
+  "premise_summary": "Flesh and Bone is an American drama television miniseries created by Moira Walley-Beckett. It premiered on November 8, 2015, on the American cable television network Starz. Ethan Stiefel was a consultant and choreographer on the series.",
+  "wikipedia_extract": "Flesh and Bone is an American drama television miniseries created by Moira Walley-Beckett. It premiered on November 8, 2015, on the American cable television network Starz. Ethan Stiefel was a consultant and choreographer on the series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

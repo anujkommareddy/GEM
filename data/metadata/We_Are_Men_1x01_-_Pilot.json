@@ -1,0 +1,58 @@
+{
+  "show_id": "We_Are_Men_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/We_Are_Men",
+  "wiki_page_title": "We Are Men",
+  "retrieval_timestamp": "2026-03-19T05:16:52.851534+00:00",
+  "retrieval_confidence": "high",
+  "title": "We Are Men",
+  "search_title_used": "We Are Men",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "The Tannenbaum Company",
+    "Roughhouse Productions",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Rob Greenberg"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kal Penn",
+    "Christopher Nicholas Smith",
+    "Jerry O'Connell",
+    "Tony Shalhoub",
+    "Rebecca Breeds"
+  ],
+  "executive_producers": [
+    "Rob Greenberg",
+    "Eric Tannenbaum",
+    "Kim Tannenbaum"
+  ],
+  "premise_summary": "We Are Men is an American sitcom television series created by Rob Greenberg starring Christopher Nicholas Smith, Tony Shalhoub, Jerry O'Connell, Kal Penn, and Rebecca Breeds. The series aired on CBS as part of the 2013–14 American television season, and premiered on September 30, 2013. On October 9, 2013, after the airing of two episodes, which performed poorly, CBS cancelled the series.",
+  "wikipedia_extract": "We Are Men is an American sitcom television series created by Rob Greenberg starring Christopher Nicholas Smith, Tony Shalhoub, Jerry O'Connell, Kal Penn, and Rebecca Breeds. The series aired on CBS as part of the 2013–14 American television season, and premiered on September 30, 2013. On October 9, 2013, after the airing of two episodes, which performed poorly, CBS cancelled the series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

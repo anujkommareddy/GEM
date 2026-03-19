@@ -1,0 +1,72 @@
+{
+  "show_id": "luther-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Luther_(TV_series)",
+  "wiki_page_title": "Luther (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:22:25.297050+00:00",
+  "retrieval_confidence": "high",
+  "title": "Luther (TV series)",
+  "search_title_used": "luther",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Police procedural",
+    "Psychological thriller"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 20,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "BBC Studios Drama Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Neil Cross"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Idris Elba",
+    "Ruth Wilson",
+    "Steven Mackintosh",
+    "Indira Varma",
+    "Paul McGann",
+    "Saskia Reeves",
+    "Warren Brown",
+    "Dermot Crowley",
+    "Nikki Amuka-Bird",
+    "Aimee-Ffion Edwards",
+    "Kierston Wareing",
+    "Pam Ferris",
+    "David Dawson",
+    "Sienna Guillory",
+    "David O'Hara",
+    "Michael Smiley",
+    "Darren Boyd",
+    "Rose Leslie",
+    "Laura Haddock",
+    "Patrick Malahide",
+    "Wunmi Mosaku",
+    "Enzo Cilenti",
+    "Hermione Norris"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Luther is a British psychological crime thriller television series starring Idris Elba as DCI John Luther and Ruth Wilson as Alice Morgan, written by Neil Cross. The detective Luther must make cases against criminals while the murderer Morgan has a complicated relationship with him. The first series is composed of six episodes which ran in May and June 2010. A second series of four episodes aired on BBC One in June and July 2011, and a third was commissioned in 2012 composed of four episodes which aired in July 2013. A two-episode fourth series was broadcast in December 2015, and a fifth series of four episodes premiered on 1 January 2019. BBC Studios handled distribution for the TV series.",
+  "wikipedia_extract": "Luther is a British psychological crime thriller television series starring Idris Elba as DCI John Luther and Ruth Wilson as Alice Morgan, written by Neil Cross. The detective Luther must make cases against criminals while the murderer Morgan has a complicated relationship with him. The first series is composed of six episodes which ran in May and June 2010. A second series of four episodes aired on BBC One in June and July 2011, and a third was commissioned in 2012 composed of four episodes which aired in July 2013. A two-episode fourth series was broadcast in December 2015, and a fifth series of four episodes premiered on 1 January 2019. BBC Studios handled distribution for the TV series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

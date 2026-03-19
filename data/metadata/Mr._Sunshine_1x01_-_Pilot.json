@@ -1,0 +1,64 @@
+{
+  "show_id": "Mr._Sunshine_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)",
+  "wiki_page_title": "Mr. Sunshine (2011 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:49:52.354278+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mr. Sunshine (2011 TV series)",
+  "search_title_used": "Mr. Sunshine",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Anhedonia Productions",
+    "Barnow and Firek Productions",
+    "FanFare Productions",
+    "Shoe Money Productions",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matthew Perry",
+    "Marc Firek",
+    "Alex Barnow"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matthew Perry",
+    "Allison Janney",
+    "Andrea Anders",
+    "James Lesure",
+    "Nate Torrence"
+  ],
+  "executive_producers": [
+    "Jamie Tarses",
+    "Thomas Schlamme",
+    "Matthew Perry",
+    "Alex Barnow",
+    "Marc Firek"
+  ],
+  "premise_summary": "Mr. Sunshine is an American television sitcom that aired from February 9 to April 6, 2011, as a mid-season replacement. The single-camera comedy was co-created by Matthew Perry, who also starred in the series. ABC cancelled the series on May 13, 2011, due to low ratings.",
+  "wikipedia_extract": "Mr. Sunshine is an American television sitcom that aired from February 9 to April 6, 2011, as a mid-season replacement. The single-camera comedy was co-created by Matthew Perry, who also starred in the series. ABC cancelled the series on May 13, 2011, due to low ratings.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

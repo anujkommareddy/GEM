@@ -1,0 +1,64 @@
+{
+  "show_id": "Black_Donnellys_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Black_Donnellys",
+  "wiki_page_title": "The Black Donnellys",
+  "retrieval_timestamp": "2026-03-19T04:22:31.396943+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Black Donnellys",
+  "search_title_used": "Black Donnellys",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2007,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Blackfriars Bridge",
+    "NBC Universal Television Studio",
+    "IMPACTS Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Paul Haggis",
+    "Robert Moresco"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jonathan Tucker",
+    "Thomas Guiry",
+    "Olivia Wilde",
+    "Billy Lush",
+    "Michael Stahl-David",
+    "Kirk Acevedo",
+    "Keith Nobbs",
+    "Kate Mulgrew",
+    "Peter Greene",
+    "Michael Rispoli",
+    "Kevin Conway"
+  ],
+  "executive_producers": [
+    "Paul Haggis",
+    "Robert Moresco"
+  ],
+  "premise_summary": "The Black Donnellys is an American drama television series that debuted on NBC on February 26, 2007, and last aired on May 14, 2007. The Black Donnellys was created by Paul Haggis and Robert Moresco, and stars Jonathan Tucker, Olivia Wilde, Billy Lush, Tom Guiry, Kirk Acevedo, Michael Stahl-David, and Keith Nobbs.",
+  "wikipedia_extract": "The Black Donnellys is an American drama television series that debuted on NBC on February 26, 2007, and last aired on May 14, 2007. The Black Donnellys was created by Paul Haggis and Robert Moresco, and stars Jonathan Tucker, Olivia Wilde, Billy Lush, Tom Guiry, Kirk Acevedo, Michael Stahl-David, and Keith Nobbs.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2007",
+  "franchise_status": null
+}

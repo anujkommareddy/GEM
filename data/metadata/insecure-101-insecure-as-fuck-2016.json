@@ -1,0 +1,71 @@
+{
+  "show_id": "insecure-101-insecure-as-fuck-2016",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Insecure_(TV_series)",
+  "wiki_page_title": "Insecure (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:21:58.026796+00:00",
+  "retrieval_confidence": "low",
+  "title": "Insecure (TV series)",
+  "search_title_used": "insecure insecure as fuck",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 5,
+  "episodes": 44,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "Issa Rae Productions (2016–2020)",
+    "Hoorae Media (2020–2021)",
+    "Penny for Your Thoughts Entertainment",
+    "3 Arts Entertainment",
+    "HBO Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Issa Rae"
+  ],
+  "showrunners": [
+    "Issa Rae"
+  ],
+  "lead_cast": [
+    "Issa Rae",
+    "Yvonne Orji",
+    "Jay Ellis",
+    "Lisa Joyce",
+    "Natasha Rothwell",
+    "Amanda Seales",
+    "Y'lan Noel",
+    "Alexander Hodge",
+    "Kendrick Sampson",
+    "Leonard Robinson",
+    "Courtney Taylor"
+  ],
+  "executive_producers": [
+    "Issa Rae",
+    "Prentice Penny",
+    "Michael Rotenberg",
+    "Melina Matsoukas",
+    "Dave Becky",
+    "Jonathan Berry"
+  ],
+  "premise_summary": "Insecure is an American comedy-drama television series created by Issa Rae and Larry Wilmore, and is partially based on Rae's acclaimed web series Awkward Black Girl. The series is about the awkward experiences of a contemporary African-American woman. The series premiered online on September 23, 2016, via HBO Now and HBO Go, before airing weekly on HBO from October 9, 2016.",
+  "wikipedia_extract": "Insecure is an American comedy-drama television series created by Issa Rae and Larry Wilmore, and is partially based on Rae's acclaimed web series Awkward Black Girl. The series is about the awkward experiences of a contemporary African-American woman. The series premiered online on September 23, 2016, via HBO Now and HBO Go, before airing weekly on HBO from October 9, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

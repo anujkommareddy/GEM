@@ -1,0 +1,47 @@
+{
+  "show_id": "Home_Game_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Home_Game_(TV_series)",
+  "wiki_page_title": "Home Game (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:39:44.684151+00:00",
+  "retrieval_confidence": "high",
+  "title": "Home Game (TV series)",
+  "search_title_used": "Home Game",
+  "alternate_titles": [],
+  "start_year": 2020,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Boardwalk Pictures"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Ryan DuffyAustin RezaAndrew FriedDane LillegardJordan WynnMatti LeshemLou Arbetter"
+  ],
+  "premise_summary": "Home Game is a sports documentary television series. The series profiles unique and dangerous traditional sports from around the world, as well as the communities and cultures where they thrive. The series premiered on Netflix on 26 June 2020 and is narrated by Mark Strong.",
+  "wikipedia_extract": "Home Game is a sports documentary television series. The series profiles unique and dangerous traditional sports from around the world, as well as the communities and cultures where they thrive. The series premiered on Netflix on 26 June 2020 and is narrated by Mark Strong.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

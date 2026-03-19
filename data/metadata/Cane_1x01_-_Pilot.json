@@ -1,0 +1,50 @@
+{
+  "show_id": "Cane_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Cane_(TV_series)",
+  "wiki_page_title": "Cane (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:24:30.398066+00:00",
+  "retrieval_confidence": "high",
+  "title": "Cane (TV series)",
+  "search_title_used": "Cane",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2007,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Once a Frog Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Cynthia Cidre"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jimmy Smits"
+  ],
+  "executive_producers": [
+    "Cynthia Cidre"
+  ],
+  "premise_summary": "Cane is an American drama television series created by Cynthia Cidre, who also served as executive producer alongside Jonathan Prince, Jimmy Iovine, and Polly Anthony. The pilot was directed by Christian Duguay. The show chronicled the lives and internal power struggles of a powerful and wealthy Cuban-American family running an immensely successful rum and sugarcane business in South Florida.",
+  "wikipedia_extract": "Cane is an American drama television series created by Cynthia Cidre, who also served as executive producer alongside Jonathan Prince, Jimmy Iovine, and Polly Anthony. The pilot was directed by Christian Duguay. The show chronicled the lives and internal power struggles of a powerful and wealthy Cuban-American family running an immensely successful rum and sugarcane business in South Florida.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2007",
+  "franchise_status": null
+}

@@ -1,0 +1,63 @@
+{
+  "show_id": "Flaked_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Flaked",
+  "wiki_page_title": "Flaked",
+  "retrieval_timestamp": "2026-03-19T04:31:52.575870+00:00",
+  "retrieval_confidence": "high",
+  "title": "Flaked",
+  "search_title_used": "Flaked",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": null,
+  "seasons": 2,
+  "episodes": 14,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Electric Avenue Productions",
+    "A Thousand Words",
+    "Ltd.",
+    "The Hurwitz Company",
+    "Electus",
+    "Principato-Young Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Will Arnett",
+    "Mark Chappell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Will Arnett",
+    "David Sullivan",
+    "Ruth Kearney",
+    "George Basil"
+  ],
+  "executive_producers": [
+    "Will Arnett",
+    "Mark Chappell",
+    "Ben Silverman",
+    "Peter Principato",
+    "Mitchell Hurwitz"
+  ],
+  "premise_summary": "Flaked is an American comedy-drama television series created by Will Arnett and Mark Chappell. It stars Arnett as Chip, a self-appointed \"guru\" who falls in love while he and many other members of the ensemble cast struggle with alcoholism and Alcoholics Anonymous. The first season consisted of eight episodes and was released on Netflix on March 11, 2016. In July 2016, the series was renewed for a six-episode second season, which premiered on June 2, 2017.",
+  "wikipedia_extract": "Flaked is an American comedy-drama television series created by Will Arnett and Mark Chappell. It stars Arnett as Chip, a self-appointed \"guru\" who falls in love while he and many other members of the ensemble cast struggle with alcoholism and Alcoholics Anonymous. The first season consisted of eight episodes and was released on Netflix on March 11, 2016. In July 2016, the series was renewed for a six-episode second season, which premiered on June 2, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

@@ -1,0 +1,65 @@
+{
+  "show_id": "The_Night_OfThe_Beach_d0f934b5_the-night-of-101-the-beach-2016-opt-2",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Night_Shift_(TV_series)",
+  "wiki_page_title": "The Night Shift (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:10:24.783564+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "The Night Shift (TV series)",
+  "search_title_used": "TheNightOf",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 45,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Sachs/Judah Productions",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Gabe Sachs",
+    "Jeff Judah"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eoin Macken",
+    "Jill Flint",
+    "Ken Leung",
+    "Brendan Fehr",
+    "Robert Bailey",
+    "Jr.",
+    "Jeananne Goossen",
+    "JR Lemon",
+    "Freddy Rodriguez",
+    "Daniella Alonso",
+    "Scott Wolf",
+    "Tanaya Beatty",
+    "Luke Macfarlane"
+  ],
+  "executive_producers": [
+    "Gabe Sachs",
+    "Jeff Judah"
+  ],
+  "premise_summary": "The Night Shift is an American medical drama television series that ran on NBC from May 27, 2014, to August 31, 2017, for four seasons and 45 episodes. The series was created by Gabe Sachs and Jeff Judah, and follows the lives of the staff who work the late night shift in the emergency room at San Antonio Memorial Hospital.",
+  "wikipedia_extract": "The Night Shift is an American medical drama television series that ran on NBC from May 27, 2014, to August 31, 2017, for four seasons and 45 episodes. The series was created by Gabe Sachs and Jeff Judah, and follows the lives of the staff who work the late night shift in the emergency room at San Antonio Memorial Hospital.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

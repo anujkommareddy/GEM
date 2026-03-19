@@ -1,0 +1,65 @@
+{
+  "show_id": "Single_Parents_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Single_Parents_(TV_series)",
+  "wiki_page_title": "Single Parents (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:01:00.367639+00:00",
+  "retrieval_confidence": "high",
+  "title": "Single Parents (TV series)",
+  "search_title_used": "Single Parents",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 45,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Elizabeth Meriwether Pictures",
+    "JJ Philbin Productions",
+    "ABC Studios",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Elizabeth Meriwether & J. J. Philbin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Taran Killam",
+    "Leighton Meester",
+    "Kimrie Lewis",
+    "Jake Choi",
+    "Marlow Barkley",
+    "Tyler Wladis",
+    "Devin Trey Campbell",
+    "Mia Allan",
+    "Ella Allan",
+    "Brad Garrett"
+  ],
+  "executive_producers": [
+    "Elizabeth Meriwether",
+    "Katherine Pope",
+    "J. J. Philbin",
+    "Jason Winer"
+  ],
+  "premise_summary": "Single Parents is an American television sitcom that stars Taran Killam, Leighton Meester, Kimrie Lewis, Brad Garrett, and Jake Choi. It follows a group of adults who must venture through single parenthood with their young kids. The series premiered on ABC on September 26, 2018, and had a full 23-episode first season. ABC renewed the series for a second season, which premiered on September 25, 2019. In May 2020, the series was canceled after two seasons.",
+  "wikipedia_extract": "Single Parents is an American television sitcom that stars Taran Killam, Leighton Meester, Kimrie Lewis, Brad Garrett, and Jake Choi. It follows a group of adults who must venture through single parenthood with their young kids. The series premiered on ABC on September 26, 2018, and had a full 23-episode first season. ABC renewed the series for a second season, which premiered on September 25, 2019. In May 2020, the series was canceled after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,64 @@
+{
+  "show_id": "Siren_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Siren_(TV_series)",
+  "wiki_page_title": "Siren (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:01:04.210685+00:00",
+  "retrieval_confidence": "high",
+  "title": "Siren (TV series)",
+  "search_title_used": "Siren",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Fantasy drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 36,
+  "original_network": [
+    "Freeform"
+  ],
+  "production_companies": [
+    "Stockton Drive Inc."
+  ],
+  "distributor": null,
+  "creators": [
+    "Eric Wald",
+    "Dean White"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Alex Roe",
+    "Eline Powell",
+    "Ian Verdun",
+    "Rena Owen",
+    "Fola Evans-Akingbola",
+    "Sibongile Mlambo",
+    "Tiffany Lonsdale"
+  ],
+  "executive_producers": [
+    "Emily Whitesell",
+    "Eric Wald",
+    "Dean White",
+    "Brad Luff",
+    "Nate Hopper",
+    "RD Robb",
+    "Michael Gans",
+    "Richard Register"
+  ],
+  "premise_summary": "Siren is an American fantasy drama television series that follows Ryn Fisher, a young siren who comes to a small coastal town looking for her abducted older sister. The series premiered on Freeform on March 29, 2018. The first season included 10 episodes. In May 2019, the series was renewed for a third season which premiered on April 2, 2020. The series was canceled in August 2020.",
+  "wikipedia_extract": "Siren is an American fantasy drama television series that follows Ryn Fisher, a young siren who comes to a small coastal town looking for her abducted older sister. The series premiered on Freeform on March 29, 2018. The first season included 10 episodes. In May 2019, the series was renewed for a third season which premiered on April 2, 2020. The series was canceled in August 2020.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

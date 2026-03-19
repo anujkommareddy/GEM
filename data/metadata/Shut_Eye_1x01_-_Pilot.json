@@ -1,0 +1,63 @@
+{
+  "show_id": "Shut_Eye_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Shut_Eye",
+  "wiki_page_title": "Shut Eye",
+  "retrieval_timestamp": "2026-03-19T05:00:39.926257+00:00",
+  "retrieval_confidence": "high",
+  "title": "Shut Eye",
+  "search_title_used": "Shut Eye",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "Peg + Les",
+    "Gran Via Productions",
+    "TriStar Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Leslie Bohem"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jeffrey Donovan",
+    "KaDee Strickland",
+    "Susan Misner",
+    "Emmanuelle Chriqui",
+    "David Zayas",
+    "Isabella Rossellini",
+    "Dylan Ray Schmid",
+    "Havana Guppy"
+  ],
+  "executive_producers": [
+    "Melissa Bernstein",
+    "Leslie Bohem",
+    "Mark Johnson",
+    "Larysa Kondracki (season 1)",
+    "David Hudgins"
+  ],
+  "premise_summary": "Shut Eye is an American drama television series created by Leslie Bohem, airing on the streaming service Hulu. It was given a straight-to-series 10-episode order. All ten episodes became available on December 7, 2016. A second season was ordered on March 20, 2017 which was released on December 6, 2017. The series originally was led by David Hudgins as showrunner during season one before he was replaced by John Shiban for season two. On January 30, 2018, the series was canceled after two seasons.",
+  "wikipedia_extract": "Shut Eye is an American drama television series created by Leslie Bohem, airing on the streaming service Hulu. It was given a straight-to-series 10-episode order. All ten episodes became available on December 7, 2016. A second season was ordered on March 20, 2017 which was released on December 6, 2017. The series originally was led by David Hudgins as showrunner during season one before he was replaced by John Shiban for season two. On January 30, 2018, the series was canceled after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

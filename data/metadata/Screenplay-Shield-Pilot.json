@@ -1,0 +1,86 @@
+{
+  "show_id": "Screenplay-Shield-Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.",
+  "wiki_page_title": "Agents of S.H.I.E.L.D.",
+  "retrieval_timestamp": "2026-03-19T04:59:05.136915+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Agents of S.H.I.E.L.D.",
+  "search_title_used": "Screenplay Shield",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Science fiction",
+    "Superhero"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 136,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "ABC Studios",
+    "Marvel Television",
+    "Mutant Enemy Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Joss Whedon",
+    "Jed Whedon",
+    "Maurissa Tancharoen"
+  ],
+  "showrunners": [
+    "Jed Whedon",
+    "Maurissa Tancharoen",
+    "Jeffrey Bell"
+  ],
+  "lead_cast": [
+    "Clark Gregg",
+    "Ming-Na Wen",
+    "Brett Dalton",
+    "Chloe Bennet",
+    "Iain De Caestecker",
+    "Elizabeth Henstridge",
+    "Nick Blood",
+    "Adrianne Palicki",
+    "Henry Simmons",
+    "Luke Mitchell",
+    "John Hannah",
+    "Natalia Cordova-Buckley",
+    "Jeff Ward"
+  ],
+  "executive_producers": [
+    "Alan Fine",
+    "Stan Lee",
+    "Joe Quesada",
+    "Jeph Loeb",
+    "Jeffrey Bell",
+    "Maurissa Tancharoen",
+    "Jed Whedon",
+    "Joss Whedon",
+    "Paul Zbyszewski",
+    "Jim Chory",
+    "Brent Fletcher",
+    "Craig Titley",
+    "Drew Z. Greenberg",
+    "Garry A. Brown"
+  ],
+  "premise_summary": "Marvel's Agents of S.H.I.E.L.D. is an American television series created by Joss Whedon, Jed Whedon, and Maurissa Tancharoen for ABC based on the Marvel Comics organization S.H.I.E.L.D., a peacekeeping and spy agency in a world of superheroes. The series was the first to be set in the Marvel Cinematic Universe (MCU), and it acknowledges the continuity of the franchise's films and other television series. It was produced by ABC Studios, Marvel Television, and Mutant Enemy Productions, with Jed Whedon, Maurissa Tancharoen, and Jeffrey Bell serving as showrunners.",
+  "wikipedia_extract": "Marvel's Agents of S.H.I.E.L.D. is an American television series created by Joss Whedon, Jed Whedon, and Maurissa Tancharoen for ABC based on the Marvel Comics organization S.H.I.E.L.D., a peacekeeping and spy agency in a world of superheroes. The series was the first to be set in the Marvel Cinematic Universe (MCU), and it acknowledges the continuity of the franchise's films and other television series. It was produced by ABC Studios, Marvel Television, and Mutant Enemy Productions, with Jed Whedon, Maurissa Tancharoen, and Jeffrey Bell serving as showrunners.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

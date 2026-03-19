@@ -1,0 +1,84 @@
+{
+  "show_id": "Goliath_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Goliath_(TV_series)",
+  "wiki_page_title": "Goliath (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:34:09.211926+00:00",
+  "retrieval_confidence": "high",
+  "title": "Goliath (TV series)",
+  "search_title_used": "Goliath",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 4,
+  "episodes": 32,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "David E. Kelley Productions",
+    "Jonathan Shapiro Productions",
+    "Amazon Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "David E. Kelley",
+    "Jonathan Shapiro"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Billy Bob Thornton",
+    "William Hurt",
+    "Maria Bello",
+    "Olivia Thirlby",
+    "Nina Arianda",
+    "Molly Parker",
+    "Tania Raymonde",
+    "Sarah Wynter",
+    "Britain Dalton",
+    "Diana Hopper",
+    "Ana de la Reguera",
+    "Matthew Del Negro",
+    "Morris Chestnut",
+    "Mark Duplass",
+    "Dennis Quaid",
+    "Amy Brenneman",
+    "Beau Bridges",
+    "Shamier Anderson",
+    "Graham Greene",
+    "Julia Jones",
+    "J. K. Simmons",
+    "Jena Malone",
+    "Lenora Crichlow",
+    "Brandon Scott",
+    "Geoffrey Arend",
+    "Bruce Dern",
+    "Clara Wong"
+  ],
+  "executive_producers": [
+    "David E. Kelley",
+    "Jonathan Shapiro",
+    "David Semel",
+    "Ross Fineman",
+    "Lawrence Trilling",
+    "Clyde Phillips (season 2)"
+  ],
+  "premise_summary": "Goliath is an American legal drama television series created by David E. Kelley and Jonathan Shapiro. It ran for four eight-episode seasons from 2016 to 2021 on Amazon Prime Video.",
+  "wikipedia_extract": "Goliath is an American legal drama television series created by David E. Kelley and Jonathan Shapiro. It ran for four eight-episode seasons from 2016 to 2021 on Amazon Prime Video.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

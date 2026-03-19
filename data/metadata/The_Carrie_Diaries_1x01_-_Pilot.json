@@ -1,0 +1,66 @@
+{
+  "show_id": "The_Carrie_Diaries_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Carrie_Diaries_(TV_series)",
+  "wiki_page_title": "The Carrie Diaries (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:06:06.059178+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Carrie Diaries (TV series)",
+  "search_title_used": "The Carrie Diaries",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama",
+    "Comedy drama",
+    "Period drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 26,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Fake Empire",
+    "A.B. Baby Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "AnnaSophia Robb",
+    "Austin Butler",
+    "Ellen Wong",
+    "Katie Findlay",
+    "Stefania Owen",
+    "Brendan Dooling",
+    "Chloe Bridges",
+    "Freema Agyeman",
+    "Matt Letscher",
+    "Lindsey Gort"
+  ],
+  "executive_producers": [
+    "Miguel Arteta",
+    "Candace Bushnell",
+    "Len Goldstein",
+    "Amy B. Harris",
+    "Stephanie Savage",
+    "Josh Schwartz"
+  ],
+  "premise_summary": "The Carrie Diaries is an American teen comedy-drama television series that aired for two seasons on the CW from January 14, 2013, to January 31, 2014. It is a prequel to the HBO television series Sex and the City and based on the 2010 book of the same name by Candace Bushnell. The first season focuses on Carrie Bradshaw during her junior year of high school in 1984 as she explores life in New York City while interning at a law firm office, and also secretly working at a magazine company, while the second season focuses more on her expanding life in the city as well as the lives of her friends and boyfriend.",
+  "wikipedia_extract": "The Carrie Diaries is an American teen comedy-drama television series that aired for two seasons on the CW from January 14, 2013, to January 31, 2014. It is a prequel to the HBO television series Sex and the City and based on the 2010 book of the same name by Candace Bushnell. The first season focuses on Carrie Bradshaw during her junior year of high school in 1984 as she explores life in New York City while interning at a law firm office, and also secretly working at a magazine company, while the second season focuses more on her expanding life in the city as well as the lives of her friends and boyfriend.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

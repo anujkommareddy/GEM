@@ -1,0 +1,63 @@
+{
+  "show_id": "Bad_Teacher_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Bad_Teacher_(TV_series)",
+  "wiki_page_title": "Bad Teacher (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:20:50.507080+00:00",
+  "retrieval_confidence": "high",
+  "title": "Bad Teacher (TV series)",
+  "search_title_used": "Bad Teacher",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Black comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Gifted and Talented Camp Productions",
+    "Mosaic Media Group",
+    "Quantity Entertainment",
+    "CBS Television Studios",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Ari Graynor",
+    "Sara Gilbert",
+    "Ryan Hansen",
+    "Sara Rodier",
+    "Kristin Davis",
+    "David Alan Grier"
+  ],
+  "executive_producers": [
+    "Hilary Winston",
+    "Lee Eisenberg",
+    "Gene Stupnitsky",
+    "Jimmy Miller",
+    "Sam Hansen",
+    "Michael Lasker"
+  ],
+  "premise_summary": "Bad Teacher is an American single-camera sitcom developed by Hilary Winston, based on the 2011 film of the same title. The series aired on CBS from April 24 to July 26, 2014, as part of the 2013–14 American television season.",
+  "wikipedia_extract": "Bad Teacher is an American single-camera sitcom developed by Hilary Winston, based on the 2011 film of the same title. The series aired on CBS from April 24 to July 26, 2014, as part of the 2013–14 American television season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

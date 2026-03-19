@@ -1,0 +1,59 @@
+{
+  "show_id": "Common_Law_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Common_Law_(2012_TV_series)",
+  "wiki_page_title": "Common Law (2012 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:59.554292+00:00",
+  "retrieval_confidence": "high",
+  "title": "Common Law (2012 TV series)",
+  "search_title_used": "Common Law",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "CBS Television Studios",
+    "Junction Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "The Wibberleys"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Michael Ealy",
+    "Warren Kole",
+    "Sonya Walger",
+    "Jack McGee"
+  ],
+  "executive_producers": [
+    "Cormac Wibberley",
+    "Craig Sweeny",
+    "Dan Shotz",
+    "Jon Turteltaub",
+    "Karim Zreik",
+    "Marianne Wibberley"
+  ],
+  "premise_summary": "Common Law is an American comedy-drama television series, which ran on USA Network from May 11 to August 10, 2012, and stars Michael Ealy and Warren Kole as two Los Angeles Police Department detectives who can't stand each other and are ordered to see a couples therapist to remedy the situation.",
+  "wikipedia_extract": "Common Law is an American comedy-drama television series, which ran on USA Network from May 11 to August 10, 2012, and stars Michael Ealy and Warren Kole as two Los Angeles Police Department detectives who can't stand each other and are ordered to see a couples therapist to remedy the situation.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

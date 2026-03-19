@@ -1,0 +1,64 @@
+{
+  "show_id": "Bates_Motel_1x01_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Bates_Motel_(TV_series)",
+  "wiki_page_title": "Bates Motel (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:21:05.601512+00:00",
+  "retrieval_confidence": "high",
+  "title": "Bates Motel (TV series)",
+  "search_title_used": "Bates Motel",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Mystery",
+    "Psychological horror",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 50,
+  "original_network": [
+    "A&E"
+  ],
+  "production_companies": [
+    "Cuse ProductionsFirst credited as American Genre in 2013, and later Carlton Cuse Productions from 2014 to 2015.",
+    "Kerry Ehrin Productions",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Vera Farmiga",
+    "Freddie Highmore",
+    "Max Thieriot",
+    "Olivia Cooke",
+    "Nicola Peltz",
+    "Nestor Carbonell",
+    "Kenny Johnson"
+  ],
+  "executive_producers": [
+    "Mark Wolper",
+    "Roy Lee",
+    "John Powers Middleton",
+    "Kerry Ehrin",
+    "Carlton Cuse",
+    "Vera Farmiga",
+    "Tucker Gates"
+  ],
+  "premise_summary": "Bates Motel is an American psychological horror drama television series based on characters from the 1959 novel Psycho by Robert Bloch that aired on A&E from March 18, 2013, to April 24, 2017. It was developed by Carlton Cuse, Kerry Ehrin, and Anthony Cipriano.",
+  "wikipedia_extract": "Bates Motel is an American psychological horror drama television series based on characters from the 1959 novel Psycho by Robert Bloch that aired on A&E from March 18, 2013, to April 24, 2017. It was developed by Carlton Cuse, Kerry Ehrin, and Anthony Cipriano.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

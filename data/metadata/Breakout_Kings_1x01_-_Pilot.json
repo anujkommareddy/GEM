@@ -1,0 +1,50 @@
+{
+  "show_id": "Breakout_Kings_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Breakout_Kings",
+  "wiki_page_title": "Breakout Kings",
+  "retrieval_timestamp": "2026-03-19T04:23:41.069445+00:00",
+  "retrieval_confidence": "high",
+  "title": "Breakout Kings",
+  "search_title_used": "Breakout Kings",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "ActionCrimeThriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 23,
+  "original_network": [
+    "A&E"
+  ],
+  "production_companies": [
+    "Matt Olmstead ProductionsBlackjack FilmsChernin EntertainmentFox 21"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nick SantoraMatt Olmstead"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Laz AlonsoDomenick LombardozziBrooke NevinMalcolm GoodwinSerinda SwanJimmi Simpson"
+  ],
+  "executive_producers": [
+    "Peter CherninMatt OlmsteadKatherine PopeNick SantoraGavin Hood"
+  ],
+  "premise_summary": "Breakout Kings is an American drama television series that aired on the A&E network. It is a production of Fox 21. The series was created, written, and executive-produced by Nick Santora and Matt Olmstead, who previously worked together on Prison Break. Peter Chernin, Katherine Pope, and Gavin Hood also served as executive producers.",
+  "wikipedia_extract": "Breakout Kings is an American drama television series that aired on the A&E network. It is a production of Fox 21. The series was created, written, and executive-produced by Nick Santora and Matt Olmstead, who previously worked together on Prison Break. Peter Chernin, Katherine Pope, and Gavin Hood also served as executive producers.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

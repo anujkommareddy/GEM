@@ -1,0 +1,64 @@
+{
+  "show_id": "Single_Ladies_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Single_Ladies_(TV_series)",
+  "wiki_page_title": "Single Ladies (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:00:56.425348+00:00",
+  "retrieval_confidence": "high",
+  "title": "Single Ladies (TV series)",
+  "search_title_used": "Single Ladies",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 43,
+  "original_network": [
+    "VH1 (seasons 1–3)Centric (season 4)"
+  ],
+  "production_companies": [
+    "In Cahoots Media (seasons 1–3)",
+    "The Popfilms Movie Company (seasons 1–3)",
+    "The Littlejohn Experience (season 1)",
+    "Flavor Unit Entertainment",
+    "Blue Ice Pictures (season 4)",
+    "Water Walk Productions (season 4)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Stacy A. Littlejohn"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Stacey Dash",
+    "LisaRaye McCoy",
+    "Charity Shea",
+    "Denise Vasi"
+  ],
+  "executive_producers": [
+    "Queen Latifah",
+    "Jill Holmes",
+    "Alexander Motlagh (seasons 1–3)",
+    "Stacy A. Littlejohn (season 1)",
+    "Shakim Compere",
+    "Shelby Stone",
+    "Felicia D. Henderson"
+  ],
+  "premise_summary": "Single Ladies is an American comedy-drama television series that debuted on May 30, 2011, as a two-hour television film on VH1. Created by Stacy A. Littlejohn and produced by Queen Latifah's Flavor Unit Entertainment, the series chronicles the lives of three friends—Val, Keisha and April —and their relationships. VH1 announced on February 28, 2014, that Single Ladies was canceled. It was announced on April 8, 2014, that BET Networks ordered a fourth season which would air on Centric. Single Ladies returned on March 18, 2015 with Melissa De Sousa joining the cast.",
+  "wikipedia_extract": "Single Ladies is an American comedy-drama television series that debuted on May 30, 2011, as a two-hour television film on VH1. Created by Stacy A. Littlejohn and produced by Queen Latifah's Flavor Unit Entertainment, the series chronicles the lives of three friends—Val, Keisha and April —and their relationships. VH1 announced on February 28, 2014, that Single Ladies was canceled. It was announced on April 8, 2014, that BET Networks ordered a fourth season which would air on Centric. Single Ladies returned on March 18, 2015 with Melissa De Sousa joining the cast.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

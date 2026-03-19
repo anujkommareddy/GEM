@@ -1,0 +1,72 @@
+{
+  "show_id": "FBI_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/FBI_(TV_series)",
+  "wiki_page_title": "FBI (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:31:06.579933+00:00",
+  "retrieval_confidence": "high",
+  "title": "FBI (TV series)",
+  "search_title_used": "FBI",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Police procedural",
+    "Action"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 8,
+  "episodes": 149,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Wolf Entertainment",
+    "CBS StudiosCredited as CBS Television Studios (seasons 1–2)",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dick Wolf",
+    "Craig Turk"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Missy Peregrym",
+    "Zeeko Zaki",
+    "Jeremy Sisto",
+    "Ebonée Noel",
+    "Sela Ward",
+    "Alana de la Garza",
+    "John Boyd",
+    "Katherine Renee Kane",
+    "Lisette Olivera",
+    "Juliana Aidén Martinez"
+  ],
+  "executive_producers": [
+    "Dick Wolf",
+    "Arthur W. Forney",
+    "Peter Jankowski",
+    "Craig Turk",
+    "Greg Plageman",
+    "Terry Miller",
+    "Rick Eid",
+    "Norberto Barba",
+    "Mike Weiss"
+  ],
+  "premise_summary": "FBI is an American police procedural television series created by Dick Wolf and Craig Turk that premiered on CBS on September 25, 2018. The series is produced by Wolf Entertainment, CBS Studios and Universal Television, with Dick Wolf, Arthur W. Forney, Peter Jankowski and Turk serving as executive producers, and it follows the agents of the Federal Bureau of Investigation (FBI) in New York City. It is the first series in the FBI franchise.",
+  "wikipedia_extract": "FBI is an American police procedural television series created by Dick Wolf and Craig Turk that premiered on CBS on September 25, 2018. The series is produced by Wolf Entertainment, CBS Studios and Universal Television, with Dick Wolf, Arthur W. Forney, Peter Jankowski and Turk serving as executive producers, and it follows the agents of the Federal Bureau of Investigation (FBI) in New York City. It is the first series in the FBI franchise.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

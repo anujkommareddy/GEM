@@ -1,0 +1,68 @@
+{
+  "show_id": "Gypsy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Gypsy_(TV_series)",
+  "wiki_page_title": "Gypsy (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:35:17.973334+00:00",
+  "retrieval_confidence": "high",
+  "title": "Gypsy (TV series)",
+  "search_title_used": "Gypsy",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Psychological thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Rhythm Arts Entertainment",
+    "Working Title Television",
+    "Pen and Paper Industries",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lisa Rubin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Naomi Watts",
+    "Billy Crudup",
+    "Sophie Cookson",
+    "Lucy Boynton",
+    "Karl Glusman",
+    "Melanie Liburd",
+    "Poorna Jagannathan",
+    "Brenda Vaccaro",
+    "Brooke Bloom"
+  ],
+  "executive_producers": [
+    "Lisa Rubin",
+    "Liza Chasin",
+    "Tim Bevan",
+    "Eric Fellner",
+    "Naomi Watts",
+    "Sam Taylor-Johnson",
+    "Sean Jablonski"
+  ],
+  "premise_summary": "Gypsy is an American psychological thriller drama television series created by Lisa Rubin for Netflix. Naomi Watts stars as Jean Holloway, a psychologist who secretly infiltrates the private lives of her patients. Billy Crudup co-stars as her husband Michael. The first season comprises 10 episodes and was released on June 30, 2017.",
+  "wikipedia_extract": "Gypsy is an American psychological thriller drama television series created by Lisa Rubin for Netflix. Naomi Watts stars as Jean Holloway, a psychologist who secretly infiltrates the private lives of her patients. Billy Crudup co-stars as her husband Michael. The first season comprises 10 episodes and was released on June 30, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

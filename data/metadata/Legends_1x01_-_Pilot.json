@@ -1,0 +1,72 @@
+{
+  "show_id": "Legends_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Legends_(TV_series)",
+  "wiki_page_title": "Legends (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:39.924193+00:00",
+  "retrieval_confidence": "high",
+  "title": "Legends (TV series)",
+  "search_title_used": "Legends",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime dramaActionThriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Paperboy Productions (season 2)",
+    "Teakwood Lane Productions",
+    "Fox 21 Television StudiosCredited as Fox 21 for the first season"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Sean Bean",
+    "Ali Larter",
+    "Morris Chestnut",
+    "Tina Majorino",
+    "Steve Harris",
+    "Amber Valletta",
+    "Mason Cook",
+    "Steve Kazee",
+    "Winter Ave Zoli",
+    "Klára Issová",
+    "Aisling Franciosi",
+    "Anna Rust",
+    "Kelly Overton",
+    "Ralph Brown"
+  ],
+  "executive_producers": [
+    "Howard Gordon",
+    "Alexander Cary",
+    "Jonathan Levin",
+    "Brad Turner",
+    "David Wilcox",
+    "Joseph McKay",
+    "Ethan Reiff",
+    "David Semel",
+    "Cyrus Voris",
+    "Kenneth Biller"
+  ],
+  "premise_summary": "Legends is an American crime drama television series that aired on TNT from August 13, 2014, to December 28, 2015. Developed by Howard Gordon, Jeffrey Nachmanoff, and Mark Bomback, the series is based on the 2005 book Legends: A Novel of Dissimulation written by Robert Littell. On December 4, 2014, TNT renewed Legends for a 10-episode second season, which premiered on November 2, 2015. On December 15, 2015, TNT canceled the series after two seasons and 20 episodes.",
+  "wikipedia_extract": "Legends is an American crime drama television series that aired on TNT from August 13, 2014, to December 28, 2015. Developed by Howard Gordon, Jeffrey Nachmanoff, and Mark Bomback, the series is based on the 2005 book Legends: A Novel of Dissimulation written by Robert Littell. On December 4, 2014, TNT renewed Legends for a 10-episode second season, which premiered on November 2, 2015. On December 15, 2015, TNT canceled the series after two seasons and 20 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,63 @@
+{
+  "show_id": "The_Fix_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Fix_(2019_TV_series)",
+  "wiki_page_title": "The Fix (2019 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:07:29.375069+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Fix (2019 TV series)",
+  "search_title_used": "The Fix",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Happier in Hollywood",
+    "Mandeville Television",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Marcia Clark",
+    "Elizabeth Craft",
+    "Sarah Fain"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Robin Tunney",
+    "Adewale Akinnuoye-Agbaje",
+    "Adam Rayner",
+    "Merrin Dungey",
+    "Marc Blucas"
+  ],
+  "executive_producers": [
+    "David Hoberman",
+    "Elizabeth Craft",
+    "Laurie Zaks",
+    "Marcia Clark",
+    "Sarah Fain",
+    "Todd Lieberman"
+  ],
+  "premise_summary": "The Fix is an American legal drama series that premiered on March 18, 2019 on ABC. On May 15, 2018, it was scheduled for midseason 2018–19 television season.",
+  "wikipedia_extract": "The Fix is an American legal drama series that premiered on March 18, 2019 on ABC. On May 15, 2018, it was scheduled for midseason 2018–19 television season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

@@ -1,0 +1,70 @@
+{
+  "show_id": "FargoThe_Crocodiles_Dilemma_29e0fe2e_fargo-101-the-crocodiles-dilemma-2014",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fargo_(TV_series)",
+  "wiki_page_title": "Fargo (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:31:29.527512+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fargo (TV series)",
+  "search_title_used": "Fargo",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2024,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Anthology",
+    "Crime drama",
+    "Noir",
+    "Thriller",
+    "Black comedy",
+    "}}"
+  ],
+  "format_type": "anthology",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 51,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "Nomadic Pictures (2015)",
+    "26 Keys Productions",
+    "The Littlefield Company",
+    "Mike Zoss Productions (2014–2017)",
+    "FXPCredited as FX Productions for the first two seasons",
+    "MGM Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Noah Hawley"
+  ],
+  "showrunners": [
+    "Noah Hawley"
+  ],
+  "lead_cast": [
+    "expand=yes}}expand=yes}}expand=yes}}expand=yes}}",
+    "expand=yes}}"
+  ],
+  "executive_producers": [
+    "Noah Hawley",
+    "Warren Littlefield",
+    "Joel Coen",
+    "Ethan Coen",
+    "Adam Bernstein",
+    "Geyer Kosinsk",
+    "John Cameron",
+    "Leslie Cowan"
+  ],
+  "premise_summary": "Fargo is an American black comedy crime drama television series created by Noah Hawley for FX. It is based on the 1996 film written and directed by Joel and Ethan Coen. The Coens, whose other films also heavily influenced the series, were originally uninvolved with the series, but joined as executive producers after being impressed by Hawley's script for the first season. The series premiered on April 15, 2014, on FX.",
+  "wikipedia_extract": "Fargo is an American black comedy crime drama television series created by Noah Hawley for FX. It is based on the 1996 film written and directed by Joel and Ethan Coen. The Coens, whose other films also heavily influenced the series, were originally uninvolved with the series, but joined as executive producers after being impressed by Hawley's script for the first season. The series premiered on April 15, 2014, on FX.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2024",
+  "franchise_status": null
+}

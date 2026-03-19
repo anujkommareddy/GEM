@@ -1,0 +1,64 @@
+{
+  "show_id": "A_To_Z_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/A_to_Z_(TV_series)",
+  "wiki_page_title": "A to Z (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:04.675287+00:00",
+  "retrieval_confidence": "high",
+  "title": "A to Z (TV series)",
+  "search_title_used": "A To Z",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Romantic comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "BQ Productions",
+    "Le Train Train",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ben Queen"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ben Feldman",
+    "Cristin Milioti",
+    "Katey Sagal",
+    "Lenora Crichlow",
+    "Henry Zebrowski",
+    "Christina Kirk",
+    "Parvesh Cheena",
+    "Hong Chau"
+  ],
+  "executive_producers": [
+    "Ben Queen",
+    "Rashida Jones",
+    "Will McCormack",
+    "Bill Callahan",
+    "Michael Patrick Jann"
+  ],
+  "premise_summary": "A to Z is an American romantic comedy television series created by Ben Queen. He served as an executive producer with Rashida Jones and Will McCormack for Warner Bros. Television. The series debuted on October 2, 2014, on NBC. Viewership fell by nearly 50% by the fifth episode, which aired October 30, and NBC canceled the series the next day, though choosing to air the final eight episodes, which had already been produced. The series finale aired on January 22, 2015.",
+  "wikipedia_extract": "A to Z is an American romantic comedy television series created by Ben Queen. He served as an executive producer with Rashida Jones and Will McCormack for Warner Bros. Television. The series debuted on October 2, 2014, on NBC. Viewership fell by nearly 50% by the fifth episode, which aired October 30, and NBC canceled the series the next day, though choosing to air the final eight episodes, which had already been produced. The series finale aired on January 22, 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

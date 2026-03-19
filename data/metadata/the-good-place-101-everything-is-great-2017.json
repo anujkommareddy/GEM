@@ -1,0 +1,66 @@
+{
+  "show_id": "the-good-place-101-everything-is-great-2017",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Good_Place",
+  "wiki_page_title": "The Good Place",
+  "retrieval_timestamp": "2026-03-19T05:25:16.848169+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Good Place",
+  "search_title_used": "the good place everything is great",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy",
+    "Philosophical fiction",
+    "Fantasy",
+    "Utopian and dystopian fiction",
+    "}}"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 53,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Fremulon",
+    "3 Arts Entertainment",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Schur"
+  ],
+  "showrunners": [
+    "Michael Schur"
+  ],
+  "lead_cast": [
+    "Kristen Bell",
+    "William Jackson Harper",
+    "Jameela Jamil",
+    "D'Arcy Carden",
+    "Manny Jacinto",
+    "Ted Danson"
+  ],
+  "executive_producers": [
+    "Michael Schur",
+    "David Miner",
+    "Morgan Sackett",
+    "Drew Goddard"
+  ],
+  "premise_summary": "The Good Place is an American fantasy-comedy television series created by Michael Schur for NBC. The series premiered on September 19, 2016, and concluded on January 30, 2020, after four seasons consisting of 53 episodes.",
+  "wikipedia_extract": "The Good Place is an American fantasy-comedy television series created by Michael Schur for NBC. The series premiered on September 19, 2016, and concluded on January 30, 2020, after four seasons consisting of 53 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

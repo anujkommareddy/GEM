@@ -1,0 +1,64 @@
+{
+  "show_id": "Outlaw_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Outlaw_(TV_series)",
+  "wiki_page_title": "Outlaw (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:52:47.310861+00:00",
+  "retrieval_confidence": "high",
+  "title": "Outlaw (TV series)",
+  "search_title_used": "Outlaw",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Thanksgiving Day Productions",
+    "Conaco Productions",
+    "Universal Media Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Eisendrath"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jimmy Smits",
+    "David Ramsey",
+    "Ellen Woglom",
+    "Carly Pope",
+    "Jesse Bradford"
+  ],
+  "executive_producers": [
+    "Conan O'Brien",
+    "Jimmy Smits",
+    "John Eisendrath",
+    "Richard Schwartz",
+    "David Kissinger",
+    "Marcos Siega",
+    "Amanda Green",
+    "Lukas Reiter",
+    "Peter Elkoff"
+  ],
+  "premise_summary": "Outlaw is an American legal drama television series created by John Eisendrath that aired on NBC. The one-hour courtroom drama stars Jimmy Smits as a Supreme Court Justice, Cyrus Garza, who resigns from the bench and returns to private practice in an elite law firm where Claire Sax, love interest to Garza, is a powerful senior partner. As part of the deal, the firm has an ex–Supreme Court Justice on their staff of lawyers and Garza is allowed to pick his team and the cases he works.",
+  "wikipedia_extract": "Outlaw is an American legal drama television series created by John Eisendrath that aired on NBC. The one-hour courtroom drama stars Jimmy Smits as a Supreme Court Justice, Cyrus Garza, who resigns from the bench and returns to private practice in an elite law firm where Claire Sax, love interest to Garza, is a powerful senior partner. As part of the deal, the firm has an ex–Supreme Court Justice on their staff of lawyers and Garza is allowed to pick his team and the cases he works.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

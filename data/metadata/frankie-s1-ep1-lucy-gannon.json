@@ -1,0 +1,50 @@
+{
+  "show_id": "frankie-s1-ep1-lucy-gannon",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Frankie_(TV_series)",
+  "wiki_page_title": "Frankie (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:21:08.972868+00:00",
+  "retrieval_confidence": "low",
+  "title": "Frankie (TV series)",
+  "search_title_used": "frankie lucy gannon",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 6,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "BBC"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lucy Gannon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eve MylesDean Lennox KellyDerek RiddellJulia FordCarla HenryLeila MimmackJemma Redgrave"
+  ],
+  "executive_producers": [
+    "Hilary Salmon"
+  ],
+  "premise_summary": "Frankie is a British television drama series created by Lucy Gannon. The series stars Eve Myles as Frankie Maddox, a district nurse more emotionally involved with her job than her personal life. The series is both set and filmed in the English city of Bristol.",
+  "wikipedia_extract": "Frankie is a British television drama series created by Lucy Gannon. The series stars Eve Myles as Frankie Maddox, a district nurse more emotionally involved with her job than her personal life. The series is both set and filmed in the English city of Bristol.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

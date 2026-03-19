@@ -1,0 +1,46 @@
+{
+  "show_id": "Betas_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Betas",
+  "wiki_page_title": "Betas",
+  "retrieval_timestamp": "2026-03-19T04:21:52.169746+00:00",
+  "retrieval_confidence": "high",
+  "title": "Betas",
+  "search_title_used": "Betas",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 11,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Picrow"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Joe Dinicol"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Betas is an American television sitcom produced by Amazon Studios. The show stars Joe Dinicol and Karan Soni as \"dating app\" developers in Silicon Valley who are looking for an investor.",
+  "wikipedia_extract": "Betas is an American television sitcom produced by Amazon Studios. The show stars Joe Dinicol and Karan Soni as \"dating app\" developers in Silicon Valley who are looking for an investor.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

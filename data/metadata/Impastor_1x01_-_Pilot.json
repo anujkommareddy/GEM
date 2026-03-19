@@ -1,0 +1,61 @@
+{
+  "show_id": "Impastor_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Impastor",
+  "wiki_page_title": "Impastor",
+  "retrieval_timestamp": "2026-03-19T04:41:37.845753+00:00",
+  "retrieval_confidence": "high",
+  "title": "Impastor",
+  "search_title_used": "Impastor",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "TV Land"
+  ],
+  "production_companies": [
+    "TV Land Original Productions",
+    "CBS Television Studios",
+    "The Tannenbaum Company",
+    "All In Vane"
+  ],
+  "distributor": null,
+  "creators": [
+    "Christopher Vane"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Michael Rosenbaum",
+    "Sara Rue",
+    "Mircea Monroe",
+    "David Rasche",
+    "Mike Kosinski"
+  ],
+  "executive_producers": [
+    "Christopher Vane",
+    "Rob Greenberg",
+    "Eric Tannenbaum",
+    "Kim Tannenbaum",
+    "Michael Rosenbaum"
+  ],
+  "premise_summary": "Impastor is an American sitcom created by Christopher Vane. The series stars Michael Rosenbaum, who also serves as executive producer alongside Vane, Eric Tannenbaum and Kim Tannenbaum. Impastor premiered on July 15, 2015, on TV Land. The series was renewed for a second season which began airing on September 28, 2016.",
+  "wikipedia_extract": "Impastor is an American sitcom created by Christopher Vane. The series stars Michael Rosenbaum, who also serves as executive producer alongside Vane, Eric Tannenbaum and Kim Tannenbaum. Impastor premiered on July 15, 2015, on TV Land. The series was renewed for a second season which began airing on September 28, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

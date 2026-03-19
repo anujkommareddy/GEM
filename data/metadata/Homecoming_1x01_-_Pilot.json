@@ -1,0 +1,76 @@
+{
+  "show_id": "Homecoming_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Homecoming_(TV_series)",
+  "wiki_page_title": "Homecoming (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:39:48.592492+00:00",
+  "retrieval_confidence": "high",
+  "title": "Homecoming (TV series)",
+  "search_title_used": "Homecoming",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Psychological thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 17,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Esmail Corp",
+    "Gimlet Pictures",
+    "Crocodile",
+    "We Here At",
+    "Red Om Films",
+    "Anonymous Content",
+    "Universal Content Productions",
+    "Amazon Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Eli Horowitz",
+    "Micah Bloomberg"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Julia Roberts",
+    "Bobby Cannavale",
+    "Stephan James",
+    "Shea Whigham",
+    "Alex Karpovsky",
+    "Sissy Spacek",
+    "Janelle Monáe",
+    "Hong Chau",
+    "Chris Cooper",
+    "Joan Cusack"
+  ],
+  "executive_producers": [
+    "Micah Bloomberg",
+    "Eli Horowitz",
+    "Sam Esmail",
+    "Chad Hamilton",
+    "Julia Roberts",
+    "Alex Blumberg",
+    "Matt Lieber",
+    "Chris Giliberti",
+    "Kyle Patrick Alvarez"
+  ],
+  "premise_summary": "Homecoming is an American psychological thriller television series based on the Gimlet Media podcast of the same name. The series premiered November 2, 2018, on Amazon Prime Video, and stars Julia Roberts, Bobby Cannavale, Stephan James, Shea Whigham, Alex Karpovsky, and Sissy Spacek. Created by Eli Horowitz and Micah Bloomberg, the pair also served as writers and executive producers alongside Sam Esmail, Chad Hamilton, Julia Roberts, Alex Blumberg, Matt Lieber, and Chris Giliberti. Esmail also directed every episode of the first season.",
+  "wikipedia_extract": "Homecoming is an American psychological thriller television series based on the Gimlet Media podcast of the same name. The series premiered November 2, 2018, on Amazon Prime Video, and stars Julia Roberts, Bobby Cannavale, Stephan James, Shea Whigham, Alex Karpovsky, and Sissy Spacek. Created by Eli Horowitz and Micah Bloomberg, the pair also served as writers and executive producers alongside Sam Esmail, Chad Hamilton, Julia Roberts, Alex Blumberg, Matt Lieber, and Chris Giliberti. Esmail also directed every episode of the first season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

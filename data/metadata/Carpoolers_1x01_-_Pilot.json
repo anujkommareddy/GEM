@@ -1,0 +1,64 @@
+{
+  "show_id": "Carpoolers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Carpoolers",
+  "wiki_page_title": "Carpoolers",
+  "retrieval_timestamp": "2026-03-19T04:24:41.926112+00:00",
+  "retrieval_confidence": "high",
+  "title": "Carpoolers",
+  "search_title_used": "Carpoolers",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "T.R.O.N.T.",
+    "3 Arts Entertainment",
+    "DreamWorks TelevisionABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Bruce McCulloch"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Fred Goss",
+    "Faith Ford",
+    "Jerry Minor",
+    "Tim Peper",
+    "Allison Munn",
+    "T. J. Miller",
+    "Jerry O'Connell"
+  ],
+  "executive_producers": [
+    "Justin Falvey",
+    "Darryl Frank",
+    "David Miner",
+    "Bruce McCulloch",
+    "Marsh McCall",
+    "Joe Russo",
+    "Anthony Russo"
+  ],
+  "premise_summary": "Carpoolers is an American television sitcom that aired on ABC from October 2, 2007, to March 4, 2008. The show was created by Bruce McCulloch, who also executive produced alongside Justin Falvey, Darryl Frank, David Miner, Marsh McCall, Joe Russo and Anthony Russo. Joe and Anthony Russo also directed the pilot. The series focuses on the everyday lives of four male suburbanites with different occupations, who take their private lives and issues along for the ride during their daily commute to and from work.",
+  "wikipedia_extract": "Carpoolers is an American television sitcom that aired on ABC from October 2, 2007, to March 4, 2008. The show was created by Bruce McCulloch, who also executive produced alongside Justin Falvey, Darryl Frank, David Miner, Marsh McCall, Joe Russo and Anthony Russo. Joe and Anthony Russo also directed the pilot. The series focuses on the everyday lives of four male suburbanites with different occupations, who take their private lives and issues along for the ride during their daily commute to and from work.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

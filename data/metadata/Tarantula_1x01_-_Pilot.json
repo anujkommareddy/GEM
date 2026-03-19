@@ -1,0 +1,51 @@
+{
+  "show_id": "Tarantula_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Tarantula_(TV_series)",
+  "wiki_page_title": "Tarantula (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:07.931394+00:00",
+  "retrieval_confidence": "high",
+  "title": "Tarantula (TV series)",
+  "search_title_used": "Tarantula",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "Rough Draft Studios",
+    "Rough House Pictures",
+    "Solid Brass",
+    "Studio T"
+  ],
+  "distributor": null,
+  "creators": [
+    "Carson Mell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Carson MellDan BakkedahlJacob VargasLauren WeedmanSteve Jones"
+  ],
+  "executive_producers": [
+    "Carson MellDanny McBrideJody HillDavid Gordon GreenBrandon JamesClaudia KatzGregg Vanzo (animation)"
+  ],
+  "premise_summary": "Tarantula is an American adult animated sitcom. It is adapted from a web series of the same name, which was released on YouTube by its creator, Carson Mell, from 2012 to 2015. It aired on TBS from December 4 until December 25, 2017.",
+  "wikipedia_extract": "Tarantula is an American adult animated sitcom. It is adapted from a web series of the same name, which was released on YouTube by its creator, Carson Mell, from 2012 to 2015. It aired on TBS from December 4 until December 25, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

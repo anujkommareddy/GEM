@@ -1,0 +1,69 @@
+{
+  "show_id": "Missing_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Missing_(Canadian_TV_series)",
+  "wiki_page_title": "Missing (Canadian TV series)",
+  "retrieval_timestamp": "2026-03-19T04:49:02.688030+00:00",
+  "retrieval_confidence": "high",
+  "title": "Missing (Canadian TV series)",
+  "search_title_used": "Missing",
+  "alternate_titles": [],
+  "start_year": 2003,
+  "end_year": 2006,
+  "country": [
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 55,
+  "original_network": [
+    "A-Channel",
+    "W Network (Canada)",
+    "Lifetime (United States)"
+  ],
+  "production_companies": [
+    "NDG Productions",
+    "Lions Gate Television",
+    "Missing Production Corp",
+    "Missing Productions II",
+    "CHUM Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Glenn Davis",
+    "William Laurin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Gloria Reuben",
+    "Caterina Scorsone",
+    "Dean McDermott",
+    "Adam MacDonald",
+    "Alberta Watson",
+    "Justina Machado",
+    "Vivica A. Fox",
+    "Mark Consuelos",
+    "Justin Louis"
+  ],
+  "executive_producers": [
+    "Richard J. Anobile",
+    "Glenn Davis",
+    "Debra Martin Chase",
+    "Lee Goldberg",
+    "William Rabkin"
+  ],
+  "premise_summary": "Missing is a Canadian crime drama television series based on the 1-800-WHERE-R-YOU book series by Meg Cabot. The series aired on the A-Channel network and W Network in Canada, and on Lifetime in the United States from August 2003 to February 2006.",
+  "wikipedia_extract": "Missing is a Canadian crime drama television series based on the 1-800-WHERE-R-YOU book series by Meg Cabot. The series aired on the A-Channel network and W Network in Canada, and on Lifetime in the United States from August 2003 to February 2006.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2006",
+  "franchise_status": null
+}

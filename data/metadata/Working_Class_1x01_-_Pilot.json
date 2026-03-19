@@ -1,0 +1,50 @@
+{
+  "show_id": "Working_Class_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Working_Class_(TV_series)",
+  "wiki_page_title": "Working Class (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:18:20.630430+00:00",
+  "retrieval_confidence": "high",
+  "title": "Working Class (TV series)",
+  "search_title_used": "Working Class",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "CMT"
+  ],
+  "production_companies": [
+    "Spoon Size ProductionsThe Film Syndicate"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jill Cargerman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Melissa PetermanEd AsnerSteve KazeePatrick FabianLachlan BuchananCourtney MerrittCameron Castaneda"
+  ],
+  "executive_producers": [
+    "Jill CargermanBryan Johnson"
+  ],
+  "premise_summary": "Working Class is an American television sitcom created by Jill Cargerman, which premiered on CMT on January 28, 2011. The network ordered twelve episodes for the comedy, which was the first scripted series for the network.",
+  "wikipedia_extract": "Working Class is an American television sitcom created by Jill Cargerman, which premiered on CMT on January 28, 2011. The network ordered twelve episodes for the comedy, which was the first scripted series for the network.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

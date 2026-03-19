@@ -1,0 +1,48 @@
+{
+  "show_id": "Smith_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Smith_(TV_series)",
+  "wiki_page_title": "Smith (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:01:19.627014+00:00",
+  "retrieval_confidence": "high",
+  "title": "Smith (TV series)",
+  "search_title_used": "Smith",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": 2006,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 7,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "John Wells ProductionsWarner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Wells"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ray LiottaVirginia MadsenJonny Lee MillerSimon BakerFranky GAmy SmartChris BauerLisa VidalShohreh Aghdashloo"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Smith is an American drama television series that premiered on September 19, 2006 on CBS, created by John Wells. The series was canceled after only three episodes had aired.",
+  "wikipedia_extract": "Smith is an American drama television series that premiered on September 19, 2006 on CBS, created by John Wells. The series was canceled after only three episodes had aired.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

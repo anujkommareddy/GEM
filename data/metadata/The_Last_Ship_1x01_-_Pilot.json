@@ -1,0 +1,77 @@
+{
+  "show_id": "The_Last_Ship_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Last_Ship_(TV_series)",
+  "wiki_page_title": "The Last Ship (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:09:06.980447+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Last Ship (TV series)",
+  "search_title_used": "The Last Ship",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Post-apocalyptic",
+    "Action drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 56,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Channel Road Productions",
+    "Platinum Dunes",
+    "TNT Original Productions (seasons 1–3)",
+    "Studio T (from season 4)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Hank Steinberg",
+    "Steven Kane"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eric Dane",
+    "Rhona Mitra",
+    "Adam Baldwin",
+    "Charles Parnell",
+    "Travis Van Winkle",
+    "Marissa Neitling",
+    "Christina Elmore",
+    "Jocko Sims",
+    "John Pyper-Ferguson",
+    "Bridget Regan",
+    "Bren Foster",
+    "Kevin Michael Martin",
+    "Emerson Brooks",
+    "Fay Masterson",
+    "Jodie Turner-Smith",
+    "Hiroyuki Sanada",
+    "Grace Kaufman"
+  ],
+  "executive_producers": [
+    "Michael Bay",
+    "Jack Bender",
+    "Andrew Form",
+    "Brad Fuller",
+    "Hank Steinberg",
+    "Steven Kane",
+    "Jonathan Mostow"
+  ],
+  "premise_summary": "The Last Ship is an American action drama television series, loosely based on the 1988 novel of the same name by William Brinkley. The series premiered on TNT on June 22, 2014, and concluded after five seasons on November 11, 2018.",
+  "wikipedia_extract": "The Last Ship is an American action drama television series, loosely based on the 1988 novel of the same name by William Brinkley. The series premiered on TNT on June 22, 2014, and concluded after five seasons on November 11, 2018.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

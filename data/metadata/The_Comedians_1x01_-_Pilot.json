@@ -1,0 +1,46 @@
+{
+  "show_id": "The_Comedians_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Comedians_(1971_TV_series)",
+  "wiki_page_title": "The Comedians (1971 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:06:29.522357+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Comedians (1971 TV series)",
+  "search_title_used": "The Comedians",
+  "alternate_titles": [],
+  "start_year": 1972,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": null,
+  "episodes": 81,
+  "original_network": [
+    "ITV"
+  ],
+  "production_companies": [
+    "Granada Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Russ AbbotLennie BennettStan BoardmanJim BowenFrank CarsonJohnnie CassonLes DennisJimmy JonesBernard ManningTom O'ConnorMike ReidGeorge RoperPaul ShaneRoy WalkerDon AdamsDuggie BrownColin CromptonVince EarlStu FrancisKen GoodwinJackie HamiltonBobby KnuttPaul MelbaMick MillerCharlie WilliamsLee Wilson"
+  ],
+  "executive_producers": null,
+  "premise_summary": "The Comedians is a British television show of the 1970s, later reprised in the mid-1980s, and early 1990s (1972-1993) produced by Johnnie Hamp of Granada Television. The show gave TV exposure to nightclub and working men's club comedians of the era, including Russ Abbot, Jim Bowen and Bernard Manning, many of whom went on to enjoy mainstream success in the 1980s. Filmed before a live audience in Manchester, comics each performed 20-minute sets, which were then edited together into half-hour shows featuring up to thirteen stand-up comics, and lasted a total of 81 episodes.",
+  "wikipedia_extract": "The Comedians is a British television show of the 1970s, later reprised in the mid-1980s, and early 1990s (1972-1993) produced by Johnnie Hamp of Granada Television. The show gave TV exposure to nightclub and working men's club comedians of the era, including Russ Abbot, Jim Bowen and Bernard Manning, many of whom went on to enjoy mainstream success in the 1980s. Filmed before a live audience in Manchester, comics each performed 20-minute sets, which were then edited together into half-hour shows featuring up to thirteen stand-up comics, and lasted a total of 81 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

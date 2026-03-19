@@ -1,0 +1,64 @@
+{
+  "show_id": "Frequency_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Frequency_(TV_series)",
+  "wiki_page_title": "Frequency (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:32:23.425240+00:00",
+  "retrieval_confidence": "high",
+  "title": "Frequency (TV series)",
+  "search_title_used": "Frequency",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Jeremy Carver Productions",
+    "Lin Pictures",
+    "New Line Cinema",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Peyton List",
+    "Riley Smith",
+    "Devin Kelley",
+    "Mekhi Phifer",
+    "Anthony Ruivivar",
+    "Lenny Jacobson",
+    "Daniel Bonjour"
+  ],
+  "executive_producers": [
+    "Brad Anderson",
+    "Jeremy Carver",
+    "Toby Emmerich",
+    "Jennifer Gwartz",
+    "Dan Lin",
+    "John Rickard"
+  ],
+  "premise_summary": "Frequency is an American mystery science fiction drama television series that aired on the CW from October 5, 2016, to January 25, 2017. Inspired by the 2000 film Frequency, the television series was developed by Jeremy Carver. The series was canceled on May 8, 2017; five days later, an epilogue to the series was released.",
+  "wikipedia_extract": "Frequency is an American mystery science fiction drama television series that aired on the CW from October 5, 2016, to January 25, 2017. Inspired by the 2000 film Frequency, the television series was developed by Jeremy Carver. The series was canceled on May 8, 2017; five days later, an epilogue to the series was released.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

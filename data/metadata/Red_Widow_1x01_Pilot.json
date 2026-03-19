@@ -1,0 +1,66 @@
+{
+  "show_id": "Red_Widow_1x01_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Red_Widow",
+  "wiki_page_title": "Red Widow",
+  "retrieval_timestamp": "2026-03-19T04:56:24.009556+00:00",
+  "retrieval_confidence": "high",
+  "title": "Red Widow",
+  "search_title_used": "Red Widow",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "ABC Studios",
+    "Endemol",
+    "Tall Girls Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Melissa Rosenberg"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Radha Mitchell",
+    "Goran Visnjic",
+    "Clifton Collins Jr.",
+    "Luke Goss",
+    "Jaime Ray Newman",
+    "Rade Šerbedžija",
+    "Lee Tergesen",
+    "Erin Moriarty",
+    "Sterling Beaumon",
+    "Jakob Salvati",
+    "Suleka Mathew",
+    "Wil Traval",
+    "Pedro Pascal"
+  ],
+  "executive_producers": [
+    "Melissa Rosenberg",
+    "Alon Aranya",
+    "Howard Klein"
+  ],
+  "premise_summary": "Red Widow is an American drama television series created by Melissa Rosenberg, starring Radha Mitchell and Goran Visnjic. On May 11, 2012, ABC picked up Red Widow as a series. The series ran from March 3 to May 5, 2013 and aired on Sundays. The series is based on a 2010 Dutch drama series titled Penoza created by Pieter Bart Korthuis and Diederik van Rooijen.",
+  "wikipedia_extract": "Red Widow is an American drama television series created by Melissa Rosenberg, starring Radha Mitchell and Goran Visnjic. On May 11, 2012, ABC picked up Red Widow as a series. The series ran from March 3 to May 5, 2013 and aired on Sundays. The series is based on a 2010 Dutch drama series titled Penoza created by Pieter Bart Korthuis and Diederik van Rooijen.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

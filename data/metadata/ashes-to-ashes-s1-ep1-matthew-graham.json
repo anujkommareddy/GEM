@@ -1,0 +1,63 @@
+{
+  "show_id": "ashes-to-ashes-s1-ep1-matthew-graham",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ashes_to_Ashes_(British_TV_series)",
+  "wiki_page_title": "Ashes to Ashes (British TV series)",
+  "retrieval_timestamp": "2026-03-19T05:19:33.815685+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Ashes to Ashes (British TV series)",
+  "search_title_used": "ashes to ashes matthew graham",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2010,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Time travel",
+    "Supernatural drama",
+    "Science fiction",
+    "Police procedural",
+    "Period drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 24,
+  "original_network": [
+    "BBC One (2008–2010)",
+    "BBC HD (2010)"
+  ],
+  "production_companies": [
+    "Kudos Film and Television",
+    "BBC Wales",
+    "Monastic Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matthew Graham",
+    "Ashley Pharoah"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Philip Glenister",
+    "Keeley Hawes",
+    "Dean Andrews",
+    "Marshall&nbsp",
+    "Lancaster",
+    "Montserrat Lombard",
+    "Adrian Dunbar",
+    "Daniel Mays"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Ashes to Ashes is a British fantasy crime drama and police procedural drama television series, serving as the sequel to Life on Mars.",
+  "wikipedia_extract": "Ashes to Ashes is a British fantasy crime drama and police procedural drama television series, serving as the sequel to Life on Mars.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

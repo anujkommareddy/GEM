@@ -1,0 +1,66 @@
+{
+  "show_id": "the-x-files-101-pilot-1993",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_X-Files",
+  "wiki_page_title": "The X-Files",
+  "retrieval_timestamp": "2026-03-19T05:26:25.550751+00:00",
+  "retrieval_confidence": "low",
+  "title": "The X-Files",
+  "search_title_used": "the x files",
+  "alternate_titles": [],
+  "start_year": 1993,
+  "end_year": 2002,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction"
+  ],
+  "format_type": "sci_fi",
+  "runtime_class": "hour",
+  "seasons": 11,
+  "episodes": 218,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Ten Thirteen Productions",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chris Carter"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Duchovny",
+    "Gillian Anderson",
+    "Robert Patrick",
+    "Annabeth Gish",
+    "Mitch Pileggi"
+  ],
+  "executive_producers": [
+    "Chris Carter",
+    "R. W. Goodwin",
+    "Howard Gordon",
+    "Frank Spotnitz",
+    "Vince Gilligan",
+    "John Shiban",
+    "Kim Manners",
+    "Glen Morgan",
+    "James Wong",
+    "Michelle MacLaren",
+    "Michael W. Watkins",
+    "David Greenwalt"
+  ],
+  "premise_summary": "The X-Files is an American science fiction drama television series created by Chris Carter. The original series aired from September 10, 1993, to May 19, 2002, on Fox, spanning nine seasons, with 202 episodes. A tenth season of six episodes ran from January to February 2016. Following the ratings success of this revival, The X-Files returned for an eleventh season of ten episodes, which ran from January to March 2018. In addition to the television series, two feature films have been released: the 1998 film The X-Files and the stand-alone film The X-Files: I Want to Believe, released in 2008, six years after the original television run ended.",
+  "wikipedia_extract": "The X-Files is an American science fiction drama television series created by Chris Carter. The original series aired from September 10, 1993, to May 19, 2002, on Fox, spanning nine seasons, with 202 episodes. A tenth season of six episodes ran from January to February 2016. Following the ratings success of this revival, The X-Files returned for an eleventh season of ten episodes, which ran from January to March 2018. In addition to the television series, two feature films have been released: the 1998 film The X-Files and the stand-alone film The X-Files: I Want to Believe, released in 2008, six years after the original television run ended.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2002",
+  "franchise_status": null
+}

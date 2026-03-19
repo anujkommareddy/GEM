@@ -1,0 +1,60 @@
+{
+  "show_id": "Aliens_In_America_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Aliens_in_America",
+  "wiki_page_title": "Aliens in America",
+  "retrieval_timestamp": "2026-03-19T04:18:39.725316+00:00",
+  "retrieval_confidence": "high",
+  "title": "Aliens in America",
+  "search_title_used": "Aliens In America",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 18,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "CBS Paramount Network Television",
+    "Guarascio/Port Productions",
+    "Mr. Bigshot Fancy-Pants Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Guarascio",
+    "Moses Port"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Dan Byrd",
+    "Adhir Kalyan",
+    "Amy Pietz",
+    "Lindsey Shaw",
+    "Scott Patterson"
+  ],
+  "executive_producers": [
+    "David Guarascio",
+    "Moses Port",
+    "Tim Doyle"
+  ],
+  "premise_summary": "Aliens in America is an American sitcom created by David Guarascio and Moses Port that aired on The CW for one season from October 1, 2007, to May 18, 2008. Guarascio and Port also served as executive producers of the show alongside Tim Doyle. Luke Greenfield directed the pilot. The show is about an American teenager in Wisconsin whose family takes in a Muslim foreign exchange student from Pakistan.",
+  "wikipedia_extract": "Aliens in America is an American sitcom created by David Guarascio and Moses Port that aired on The CW for one season from October 1, 2007, to May 18, 2008. Guarascio and Port also served as executive producers of the show alongside Tim Doyle. Luke Greenfield directed the pilot. The show is about an American teenager in Wisconsin whose family takes in a Muslim foreign exchange student from Pakistan.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

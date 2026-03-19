@@ -1,0 +1,70 @@
+{
+  "show_id": "Chambers_1x01_-_Into_the_Void",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Chambers_(TV_series)",
+  "wiki_page_title": "Chambers (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:04.809721+00:00",
+  "retrieval_confidence": "low",
+  "title": "Chambers (TV series)",
+  "search_title_used": "Chambers Into the Void",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Supernatural",
+    "Horror",
+    "Drama",
+    "Thriller",
+    "Psychological horror",
+    "Mystery"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Super Deluxe",
+    "Super Emotional"
+  ],
+  "distributor": null,
+  "creators": [
+    "Leah Rachel"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sivan Alyra Rose",
+    "Marcus LaVoi",
+    "Nicholas Galitzine",
+    "Kyanna Simone Simpson",
+    "Griffin Powell-Arcand",
+    "Lilli Kay",
+    "Sarah Mezzanotte",
+    "Tony Goldwyn",
+    "Uma Thurman"
+  ],
+  "executive_producers": [
+    "Leah Rachel",
+    "Stephen Gaghan",
+    "Akela Cooper",
+    "Jennifer Yale",
+    "Wolfgang Hammer",
+    "Winnie Kemp",
+    "Alfonso Gomez-Rejon"
+  ],
+  "premise_summary": "Chambers is an American supernatural horror television series created by Leah Rachel. The first season, consisting of ten episodes, premiered on Netflix on April 26, 2019. The series stars Sivan Alyra Rose, Marcus LaVoi, Nicholas Galitzine, Kyanna Simone Simpson, Griffin Powell-Arcand, Lilli Kay, Sarah Mezzanotte, Tony Goldwyn and Uma Thurman. In June 2019, the series was cancelled after one season.",
+  "wikipedia_extract": "Chambers is an American supernatural horror television series created by Leah Rachel. The first season, consisting of ten episodes, premiered on Netflix on April 26, 2019. The series stars Sivan Alyra Rose, Marcus LaVoi, Nicholas Galitzine, Kyanna Simone Simpson, Griffin Powell-Arcand, Lilli Kay, Sarah Mezzanotte, Tony Goldwyn and Uma Thurman. In June 2019, the series was cancelled after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

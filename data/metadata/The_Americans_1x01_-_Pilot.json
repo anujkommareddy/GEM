@@ -1,0 +1,82 @@
+{
+  "show_id": "The_Americans_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Americans",
+  "wiki_page_title": "The Americans",
+  "retrieval_timestamp": "2026-03-19T05:05:07.705099+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Americans",
+  "search_title_used": "The Americans",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Russian"
+  ],
+  "genres": [
+    "Period drama",
+    "Spy thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 75,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "Nemo Films",
+    "DreamWorks Television (pilot)",
+    "Amblin Television",
+    "Fox Television Studios (seasons 1–2)",
+    "Fox 21 Television Studios (seasons 3–6)",
+    "FX Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Joe Weisberg"
+  ],
+  "showrunners": [
+    "Joe Weisberg",
+    "Joel Fields"
+  ],
+  "lead_cast": [
+    "Keri Russell",
+    "Matthew Rhys",
+    "Maximiliano Hernández",
+    "Holly Taylor",
+    "Keidrich Sellati",
+    "Noah Emmerich",
+    "Annet Mahendru",
+    "Susan Misner",
+    "Alison Wright",
+    "Lev Gorn",
+    "Costa Ronin",
+    "Richard Thomas",
+    "Dylan Baker",
+    "Brandon J. Dirden",
+    "Margo Martindale"
+  ],
+  "executive_producers": [
+    "Joe Weisberg",
+    "Joel Fields",
+    "Graham Yost",
+    "Justin Falvey",
+    "Darryl Frank",
+    "Gavin O'Connor (pilot)",
+    "Daniel Sackheim",
+    "Chris Long",
+    "Stephen Schiff"
+  ],
+  "premise_summary": "The Americans is an American period spy drama television series created by Joe Weisberg for FX. It aired for six seasons from January 30, 2013, to May 30, 2018. Weisberg and Joel Fields also served as showrunners and executive producers. Set during the Cold War, the show follows Elizabeth and Philip Jennings, two Soviet KGB intelligence officers posing as an American married couple living in Falls Church, a Virginia suburb of Washington, D.C. The couple combine their spying duties with raising their American-born children Paige and Henry.",
+  "wikipedia_extract": "The Americans is an American period spy drama television series created by Joe Weisberg for FX. It aired for six seasons from January 30, 2013, to May 30, 2018. Weisberg and Joel Fields also served as showrunners and executive producers. Set during the Cold War, the show follows Elizabeth and Philip Jennings, two Soviet KGB intelligence officers posing as an American married couple living in Falls Church, a Virginia suburb of Washington, D.C. The couple combine their spying duties with raising their American-born children Paige and Henry.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

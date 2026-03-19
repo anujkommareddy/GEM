@@ -1,0 +1,50 @@
+{
+  "show_id": "Endgame_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Endgame_(TV_series)",
+  "wiki_page_title": "Endgame (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:30:17.008896+00:00",
+  "retrieval_confidence": "high",
+  "title": "Endgame (TV series)",
+  "search_title_used": "Endgame",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "DramaMysteryCrime"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Showcase"
+  ],
+  "production_companies": [
+    "Thunderbird FilmsFront Street PicturesShaw Media"
+  ],
+  "distributor": null,
+  "creators": [
+    "Avrum Jacobson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Shawn Doyle"
+  ],
+  "executive_producers": [
+    "Michael ShepardTim GambleHarvey Kahn"
+  ],
+  "premise_summary": "Endgame is a Canadian drama television series that premiered on the Showcase Television network on Monday, March 14, 2011. The series was developed and produced by Thunderbird Films. The series followed fictional former World Chess Champion Arkady Balagan, a genius who uses his analytical skills to solve crimes.",
+  "wikipedia_extract": "Endgame is a Canadian drama television series that premiered on the Showcase Television network on Monday, March 14, 2011. The series was developed and produced by Thunderbird Films. The series followed fictional former World Chess Champion Arkady Balagan, a genius who uses his analytical skills to solve crimes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

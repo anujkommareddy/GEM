@@ -1,0 +1,63 @@
+{
+  "show_id": "Pan_Am_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pan_Am_(TV_series)",
+  "wiki_page_title": "Pan Am (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:52:54.978309+00:00",
+  "retrieval_confidence": "high",
+  "title": "Pan Am (TV series)",
+  "search_title_used": "Pan Am",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Period drama",
+    "Historical fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 14,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Jack Orman Productions",
+    "Out of the Blue Entertainment",
+    "Shoe Money Productions",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jack Orman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Christina Ricci",
+    "Margot Robbie",
+    "Michael Mosley",
+    "Karine Vanasse",
+    "Mike Vogel",
+    "Kelli Garner"
+  ],
+  "executive_producers": [
+    "Nancy Hult Ganis",
+    "Jack Orman",
+    "Thomas Schlamme",
+    "Steven Maeda",
+    "Sid Ganis"
+  ],
+  "premise_summary": "Pan Am is an American period drama television series created by writer Jack Orman. Named for the iconic Pan American World Airways, the series features the aircraft pilots and stewardesses of the fictional Pan Am Clipper Majestic, operating in the early 1960s at the beginning of the commercial Jet Age. The show stars Christina Ricci, Margot Robbie, Karine Vanasse, and Kelli Garner as the crew's stewardesses, and Michael Mosley and Mike Vogel as the pilots.",
+  "wikipedia_extract": "Pan Am is an American period drama television series created by writer Jack Orman. Named for the iconic Pan American World Airways, the series features the aircraft pilots and stewardesses of the fictional Pan Am Clipper Majestic, operating in the early 1960s at the beginning of the commercial Jet Age. The show stars Christina Ricci, Margot Robbie, Karine Vanasse, and Kelli Garner as the crew's stewardesses, and Michael Mosley and Mike Vogel as the pilots.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

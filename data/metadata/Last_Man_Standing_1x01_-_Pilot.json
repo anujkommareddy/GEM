@@ -1,0 +1,78 @@
+{
+  "show_id": "Last_Man_Standing_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Last_Man_Standing_(American_TV_series)",
+  "wiki_page_title": "Last Man Standing (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:32.137762+00:00",
+  "retrieval_confidence": "high",
+  "title": "Last Man Standing (American TV series)",
+  "search_title_used": "Last Man Standing",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 9,
+  "episodes": 194,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "21 Laps-Adelstein Productions",
+    "Double Wide ProductionsSeason 1, episodes 1–11.",
+    "Mr. Bigshot Fancy-Pants Productions",
+    "Inc."
+  ],
+  "distributor": null,
+  "creators": [
+    "Jack Burditt"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tim Allen",
+    "Nancy Travis",
+    "Alexandra Krosney",
+    "Molly Ephraim",
+    "Kaitlyn Dever",
+    "Christoph Sanders",
+    "Héctor Elizondo",
+    "Amanda Fuller",
+    "Flynn Morrison",
+    "Jordan Masterson",
+    "Jonathan Adams",
+    "Molly McCook",
+    "Jet Jurgensmeyer",
+    "Krista Marie Yu"
+  ],
+  "executive_producers": [
+    "Tim Allen",
+    "Becky Clements",
+    "Marty Adelstein",
+    "Shawn Levy",
+    "Richard Baker",
+    "Rick Messina",
+    "John Pasquin",
+    "Kevin Abbott",
+    "Michael Shipley",
+    "Matt Berry",
+    "Tim Doyle",
+    "Kevin Hench",
+    "Jack Burditt"
+  ],
+  "premise_summary": "Last Man Standing is an American sitcom created by Jack Burditt. It aired from October 11, 2011, to March 31, 2017, on ABC, and then again from September 28, 2018, to May 20, 2021, on Fox. The show stars Tim Allen as Mike Baxter, an executive at Outdoor Man, a sporting goods store chain headquartered in Denver, Colorado. Mike is a married father of three daughters and a grandfather to his eldest daughter's son. Last Man Standing was a joint production by 21 Laps-Adelstein Productions, NestEgg Productions, and 20th Television.",
+  "wikipedia_extract": "Last Man Standing is an American sitcom created by Jack Burditt. It aired from October 11, 2011, to March 31, 2017, on ABC, and then again from September 28, 2018, to May 20, 2021, on Fox. The show stars Tim Allen as Mike Baxter, an executive at Outdoor Man, a sporting goods store chain headquartered in Denver, Colorado. Mike is a married father of three daughters and a grandfather to his eldest daughter's son. Last Man Standing was a joint production by 21 Laps-Adelstein Productions, NestEgg Productions, and 20th Television.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

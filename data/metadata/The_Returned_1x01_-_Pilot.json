@@ -1,0 +1,56 @@
+{
+  "show_id": "The_Returned_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Returned_(American_TV_series)",
+  "wiki_page_title": "The Returned (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:24.030209+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Returned (American TV series)",
+  "search_title_used": "The Returned",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "A&E"
+  ],
+  "production_companies": [
+    "A+E StudiosFremantleMedia North AmericaCarlton Cuse ProductionsAngry Annie Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Kevin Alejandro",
+    "Agnes Bruckner",
+    "India Ennenga",
+    "Sandrine Holt",
+    "Sophie Lowe",
+    "Mark Pellegrino",
+    "Jeremy Sisto",
+    "Mat Vairo",
+    "Mary Elizabeth Winstead",
+    "Tandi Wright"
+  ],
+  "executive_producers": [
+    "Carlton Cuse",
+    "Raelle Tucker"
+  ],
+  "premise_summary": "The Returned is an American supernatural drama television series developed by Carlton Cuse as an adaptation of the 2012 French series Les Revenants, which was broadcast internationally as The Returned.\nThe American adapted series follows residents in a small town whose lives are disrupted when people who have been dead for many years begin reappearing. Cuse wrote the pilot episode and executive produced the series alongside Raelle Tucker. The series premiered on March 9, 2015 and was cancelled by A&E after one season, on June 15, 2015.",
+  "wikipedia_extract": "The Returned is an American supernatural drama television series developed by Carlton Cuse as an adaptation of the 2012 French series Les Revenants, which was broadcast internationally as The Returned.\nThe American adapted series follows residents in a small town whose lives are disrupted when people who have been dead for many years begin reappearing. Cuse wrote the pilot episode and executive produced the series alongside Raelle Tucker. The series premiered on March 9, 2015 and was cancelled by A&E after one season, on June 15, 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

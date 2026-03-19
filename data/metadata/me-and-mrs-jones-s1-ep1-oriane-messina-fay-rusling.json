@@ -1,0 +1,46 @@
+{
+  "show_id": "me-and-mrs-jones-s1-ep1-oriane-messina-fay-rusling",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Me_and_Mrs_Jones_(TV_series)",
+  "wiki_page_title": "Me and Mrs Jones (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:22:36.889828+00:00",
+  "retrieval_confidence": "high",
+  "title": "Me and Mrs Jones (TV series)",
+  "search_title_used": "me and mrs jones",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2012,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": null,
+  "episodes": 6,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Hartswood Films"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Beryl VertueGregor Sharp"
+  ],
+  "premise_summary": "Me and Mrs Jones is a British comedy about the life of a woman named Gemma Jones. The first series began on 12 October 2012 on BBC One. It stars Sarah Alexander and Neil Morrissey.",
+  "wikipedia_extract": "Me and Mrs Jones is a British comedy about the life of a woman named Gemma Jones. The first series began on 12 October 2012 on BBC One. It stars Sarah Alexander and Neil Morrissey.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

@@ -1,0 +1,71 @@
+{
+  "show_id": "ChuckPilot_dd50ed61_chuck-101-pilot-2007",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Chuck_(TV_series)",
+  "wiki_page_title": "Chuck (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:32.790309+00:00",
+  "retrieval_confidence": "high",
+  "title": "Chuck (TV series)",
+  "search_title_used": "Chuck",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action comedy",
+    "Romance",
+    "Spy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 91,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "College Hill Pictures",
+    "Inc. (2007–2010)(seasons 1–3)",
+    "Fake Empire (2010–2012)(seasons 4–5)",
+    "Wonderland Sound and Vision",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Josh Schwartz",
+    "Chris Fedak"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Zachary Levi",
+    "Yvonne Strahovski",
+    "Joshua Gomez",
+    "Sarah Lancaster",
+    "Adam Baldwin",
+    "Ryan McPartlin",
+    "Mark Christopher Lawrence",
+    "Scott Krinsky",
+    "Vik Sahay",
+    "Julia Ling",
+    "Bonita Friedericy"
+  ],
+  "executive_producers": [
+    "Josh Schwartz",
+    "Chris Fedak",
+    "Phil Laudicina",
+    "Robert Duncan McNeill",
+    "McG"
+  ],
+  "premise_summary": "Chuck is an American action comedy spy drama television series created by Josh Schwartz and Chris Fedak. The series is about an \"average-computer-whiz-next-door\" named Chuck Bartowski, played by Zachary Levi, who receives an encoded email from an old college friend now working for the CIA. The message embeds the only remaining copy of a software program containing the United States' greatest spy secrets into Chuck's brain, leading the CIA and the NSA to assign him handlers and use him on top-secret missions.",
+  "wikipedia_extract": "Chuck is an American action comedy spy drama television series created by Josh Schwartz and Chris Fedak. The series is about an \"average-computer-whiz-next-door\" named Chuck Bartowski, played by Zachary Levi, who receives an encoded email from an old college friend now working for the CIA. The message embeds the only remaining copy of a software program containing the United States' greatest spy secrets into Chuck's brain, leading the CIA and the NSA to assign him handlers and use him on top-secret missions.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

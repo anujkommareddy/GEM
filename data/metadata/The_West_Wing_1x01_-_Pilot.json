@@ -1,0 +1,75 @@
+{
+  "show_id": "The_West_Wing_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_West_Wing",
+  "wiki_page_title": "The West Wing",
+  "retrieval_timestamp": "2026-03-19T05:12:50.190099+00:00",
+  "retrieval_confidence": "high",
+  "title": "The West Wing",
+  "search_title_used": "The West Wing",
+  "alternate_titles": [],
+  "start_year": 1999,
+  "end_year": 2006,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Serial drama",
+    "Political drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 154,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "John Wells Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Aaron Sorkin"
+  ],
+  "showrunners": [
+    "Aaron Sorkin",
+    "John Wells"
+  ],
+  "lead_cast": [
+    "Rob Lowe",
+    "Moira Kelly",
+    "Dulé Hill",
+    "Allison Janney",
+    "Richard Schiff",
+    "John Spencer",
+    "Bradley Whitford",
+    "Martin Sheen",
+    "Janel Moloney",
+    "Stockard Channing",
+    "Joshua Malina",
+    "Mary McCormack",
+    "Jimmy Smits",
+    "Alan Alda",
+    "Kristin Chenoweth"
+  ],
+  "executive_producers": [
+    "Aaron Sorkin",
+    "John Wells",
+    "Thomas Schlamme",
+    "Christopher Misiano",
+    "Alex Graves",
+    "Lawrence O'Donnell",
+    "Peter Noah"
+  ],
+  "premise_summary": "The West Wing is an American political drama television series created by Aaron Sorkin that was originally broadcast on NBC from September 22, 1999, to May 14, 2006. The series is set primarily in the West Wing of the White House, where the Oval Office and offices of presidential senior personnel are located, during the fictional two-term Democratic administration of President Josiah Bartlet.",
+  "wikipedia_extract": "The West Wing is an American political drama television series created by Aaron Sorkin that was originally broadcast on NBC from September 22, 1999, to May 14, 2006. The series is set primarily in the West Wing of the White House, where the Oval Office and offices of presidential senior personnel are located, during the fictional two-term Democratic administration of President Josiah Bartlet.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2006",
+  "franchise_status": null
+}

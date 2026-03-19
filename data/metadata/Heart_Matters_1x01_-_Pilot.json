@@ -1,0 +1,92 @@
+{
+  "show_id": "Heart_Matters_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/When_Calls_the_Heart",
+  "wiki_page_title": "When Calls the Heart",
+  "retrieval_timestamp": "2026-03-19T04:36:19.426799+00:00",
+  "retrieval_confidence": "medium",
+  "title": "When Calls the Heart",
+  "search_title_used": "Heart Matters",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": null,
+  "country": [
+    "United States",
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Western",
+    "Romance"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 13,
+  "episodes": 142,
+  "original_network": [
+    "Hallmark Channel (United States)",
+    "Super Channel (Canada)"
+  ],
+  "production_companies": [
+    "Believe Pictures",
+    "Brad Krevoy Television",
+    "Jordan Films"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Michael Landon Jr.",
+    "Brian Bird",
+    "Robin Bernheim Burger",
+    "Tony Blake",
+    "Alfonso H. Moreno",
+    "John Tinker",
+    "Lindsay Sturman",
+    "Joy Gregory"
+  ],
+  "lead_cast": [
+    "Erin Krakow",
+    "Daniel Lissing",
+    "Lori Loughlin",
+    "Martin Cummins",
+    "Jack Wagner",
+    "Pascale Hutton",
+    "Kavan Smith",
+    "Paul Greene",
+    "Andrea Brooks",
+    "Chris McNally",
+    "Kevin McGarry",
+    "Viv Leacock"
+  ],
+  "executive_producers": [
+    "Michael Landon Jr.",
+    "Jimmy Townsend",
+    "Roman Viaris",
+    "Francisco Gonzalez",
+    "Brian Bird",
+    "Brad Krevoy",
+    "Robin Bernheim Burger",
+    "Tony Blake",
+    "Alfonso H. Moreno",
+    "Vicki Sotheran",
+    "Greg Malcolm",
+    "Neill Fearnley",
+    "Susie Belzberg Krevoy",
+    "Michael Shepard",
+    "Eric Jarboe",
+    "John Tinker",
+    "Erin Krakow",
+    "Lindsay Sturman",
+    "Joy Gregory"
+  ],
+  "premise_summary": "When Calls the Heart is a Western drama television series inspired by Janette Oke's book of the same name from her Canadian West series and created by Michael Landon Jr. and Brian Bird. The series began airing on the Hallmark Channel in the United States on January 11, 2014, and on Super Channel in Canada on April 16, 2014.",
+  "wikipedia_extract": "When Calls the Heart is a Western drama television series inspired by Janette Oke's book of the same name from her Canadian West series and created by Michael Landon Jr. and Brian Bird. The series began airing on the Hallmark Channel in the United States on January 11, 2014, and on Super Channel in Canada on April 16, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

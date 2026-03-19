@@ -1,0 +1,52 @@
+{
+  "show_id": "Those_Who_Can't_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Those_Who_Can't",
+  "wiki_page_title": "Those Who Can't",
+  "retrieval_timestamp": "2026-03-19T05:13:14.706700+00:00",
+  "retrieval_confidence": "high",
+  "title": "Those Who Can't",
+  "search_title_used": "Those Who Can't",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 35,
+  "original_network": [
+    "truTV"
+  ],
+  "production_companies": [
+    "Thank You",
+    "Brain! Productions3 Arts Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Adam Cayton-HollandAndrew OrvedahlBen Roy"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Dean Lorey",
+    "Tracey Baird",
+    "Krysia Plonka",
+    "Michael Rotenberg",
+    "Josh Lieberman",
+    "Richard Korson"
+  ],
+  "premise_summary": "Those Who Can't is an American sitcom that aired on truTV. The series revolves around a group of teachers at a fictional high school in Denver, Colorado. It premiered February 11, 2016, and ran for three seasons before being canceled on April 24, 2019.",
+  "wikipedia_extract": "Those Who Can't is an American sitcom that aired on truTV. The series revolves around a group of teachers at a fictional high school in Denver, Colorado. It premiered February 11, 2016, and ran for three seasons before being canceled on April 24, 2019.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

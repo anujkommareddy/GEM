@@ -1,0 +1,63 @@
+{
+  "show_id": "Mozart_in_the_Jungle_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mozart_in_the_Jungle",
+  "wiki_page_title": "Mozart in the Jungle",
+  "retrieval_timestamp": "2026-03-19T04:49:44.630037+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mozart in the Jungle",
+  "search_title_used": "Mozart in the Jungle",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 40,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "American Zoetrope",
+    "Depth of Field",
+    "Picrow",
+    "Amazon Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Gael García Bernal",
+    "Lola Kirke",
+    "Saffron Burrows",
+    "Bernadette Peters",
+    "Peter Vack",
+    "Hannah Dunne",
+    "Malcolm McDowell"
+  ],
+  "executive_producers": [
+    "Roman Coppola",
+    "Jason Schwartzman",
+    "Paul Weitz",
+    "Caroline Baron",
+    "Alex Timbers",
+    "Will Graham",
+    "John J. Strauss"
+  ],
+  "premise_summary": "Mozart in the Jungle is an American comedy-drama television series developed by Roman Coppola, Jason Schwartzman, Alex Timbers, and Paul Weitz for the video-on-demand service Amazon Prime Video. It received a production order in March 2014.",
+  "wikipedia_extract": "Mozart in the Jungle is an American comedy-drama television series developed by Roman Coppola, Jason Schwartzman, Alex Timbers, and Paul Weitz for the video-on-demand service Amazon Prime Video. It received a production order in March 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

@@ -1,0 +1,65 @@
+{
+  "show_id": "Mercy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mercy_(TV_series)",
+  "wiki_page_title": "Mercy (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:48:20.367586+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mercy (TV series)",
+  "search_title_used": "Mercy",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "BermanBraun",
+    "Selfish Mermaid",
+    "Universal Media Studios",
+    "Open 4 Business Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Liz Heldens"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Taylor Schilling",
+    "Michelle Trachtenberg",
+    "Jaime Lee Kirchner",
+    "James Tupper",
+    "Diego Klattenhoff",
+    "Guillermo Díaz",
+    "James LeGros"
+  ],
+  "executive_producers": [
+    "Gail Berman",
+    "Lloyd Braun",
+    "Liz Heldens",
+    "Gretchen J. Berg",
+    "Aaron Harberts",
+    "Jim Ellis",
+    "Adam Bernstein"
+  ],
+  "premise_summary": "Mercy is an American medical drama television series created by Liz Heldens, which aired on NBC from September 23, 2009, to May 12, 2010. The series initially aired on Wednesday at 8:00 pm (ET), as part of the 2009 fall season, but was pushed back to 9:00 pm in April.",
+  "wikipedia_extract": "Mercy is an American medical drama television series created by Liz Heldens, which aired on NBC from September 23, 2009, to May 12, 2010. The series initially aired on Wednesday at 8:00 pm (ET), as part of the 2009 fall season, but was pushed back to 9:00 pm in April.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

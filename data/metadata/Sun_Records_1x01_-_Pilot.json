@@ -1,0 +1,57 @@
+{
+  "show_id": "Sun_Records_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sun_Records_(TV_series)",
+  "wiki_page_title": "Sun Records (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:03:22.191961+00:00",
+  "retrieval_confidence": "high",
+  "title": "Sun Records (TV series)",
+  "search_title_used": "Sun Records",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "CMT"
+  ],
+  "production_companies": [
+    "Thinkfactory Media"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Chad Michael Murray",
+    "Margaret Anne Florence",
+    "Keir O'Donnell",
+    "Drake Milligan",
+    "Kevin Fonteyne",
+    "Christian Lees",
+    "Jennifer Holland",
+    "Trevor Donovan",
+    "Billy Gardell",
+    "Leo Goff"
+  ],
+  "executive_producers": [
+    "Leslie GreifGil GrantBarry BergJayson DinsmoreJulia Silverton"
+  ],
+  "premise_summary": "Sun Records is an American drama television miniseries based on the musical Million Dollar Quartet written by Colin Escott and Floyd Mutrux. The series takes place at the Sun Studio in Memphis and stars Drake Milligan, Trevor Donovan, Kevin Fonteyne, Christian Lees, Dustin Ingram, Billy Gardell, Jonah Lees, Chad Michael Murray, Leo Goff, and Jennifer Holland. The series premiered on CMT on February 23, 2017, and concluded on April 13, 2017.",
+  "wikipedia_extract": "Sun Records is an American drama television miniseries based on the musical Million Dollar Quartet written by Colin Escott and Floyd Mutrux. The series takes place at the Sun Studio in Memphis and stars Drake Milligan, Trevor Donovan, Kevin Fonteyne, Christian Lees, Dustin Ingram, Billy Gardell, Jonah Lees, Chad Michael Murray, Leo Goff, and Jennifer Holland. The series premiered on CMT on February 23, 2017, and concluded on April 13, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

@@ -1,0 +1,71 @@
+{
+  "show_id": "Seal_Team_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/SEAL_Team_(TV_series)",
+  "wiki_page_title": "SEAL Team (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:59:13.738611+00:00",
+  "retrieval_confidence": "high",
+  "title": "SEAL Team (TV series)",
+  "search_title_used": "Seal Team",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action fiction",
+    "Military drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 114,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Chulack Productions",
+    "East 25 C (season 1)",
+    "Timberman/Beverly Productions",
+    "John Glenn Entertainment (seasons 2–3)",
+    "CBS StudiosCredited as CBS Television Studios (seasons 1–3)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Benjamin Cavell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Boreanaz",
+    "Max Thieriot",
+    "Jessica Paré",
+    "Neil Brown Jr.",
+    "A. J. Buckley",
+    "Toni Trucks",
+    "Judd Lormand",
+    "Raffi Barsoumian",
+    "Beau Knapp"
+  ],
+  "executive_producers": [
+    "Benjamin Cavell",
+    "Ed Redlich",
+    "Sarah Timberman",
+    "Carl Beverly",
+    "Christopher Chulack",
+    "Spencer Hudnut",
+    "John Glenn",
+    "David Boreanaz",
+    "Mark Owen"
+  ],
+  "premise_summary": "SEAL Team is an American military drama television series created by Benjamin Cavell and produced by CBS Studios. The series stars David Boreanaz, Max Thieriot, Jessica Paré, Neil Brown Jr., A. J. Buckley, and Toni Trucks and follows an elite unit of United States Navy SEALs. It aired on CBS from September 27, 2017 to October 31, 2021; it then moved to Paramount+ for the remainder of its run, with the series finale airing on October 6, 2024.",
+  "wikipedia_extract": "SEAL Team is an American military drama television series created by Benjamin Cavell and produced by CBS Studios. The series stars David Boreanaz, Max Thieriot, Jessica Paré, Neil Brown Jr., A. J. Buckley, and Toni Trucks and follows an elite unit of United States Navy SEALs. It aired on CBS from September 27, 2017 to October 31, 2021; it then moved to Paramount+ for the remainder of its run, with the series finale airing on October 6, 2024.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

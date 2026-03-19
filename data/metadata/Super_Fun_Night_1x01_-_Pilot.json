@@ -1,0 +1,63 @@
+{
+  "show_id": "Super_Fun_Night_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Super_Fun_Night",
+  "wiki_page_title": "Super Fun Night",
+  "retrieval_timestamp": "2026-03-19T05:03:29.868926+00:00",
+  "retrieval_confidence": "high",
+  "title": "Super Fun Night",
+  "search_title_used": "Super Fun Night",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 17,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Conaco",
+    "Bonanza Productions",
+    "Warner Bros. Television (episodes 1–17)",
+    "ABC Studios (episodes 10–17)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Rebel Wilson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Rebel Wilson",
+    "Liza Lapira",
+    "Lauren Ash",
+    "Kate Jenkinson",
+    "Kevin Bishop"
+  ],
+  "executive_producers": [
+    "Conan O'Brien",
+    "Jeff Ross",
+    "John Riggi",
+    "David Kissinger",
+    "Rebel Wilson",
+    "Andrew Reich",
+    "Ted Cohen"
+  ],
+  "premise_summary": "Super Fun Night is an American television sitcom that aired on ABC from October 2, 2013, to February 19, 2014. The series was broadcast during the 2013–14 television season on ABC in the Wednesday night 9:30 pm (ET/PT) slot after Modern Family. The series stars and was created by Rebel Wilson; it was green-lit by ABC for a series order pick-up on May 10, 2013. On May 9, 2014, ABC canceled the series after one season.",
+  "wikipedia_extract": "Super Fun Night is an American television sitcom that aired on ABC from October 2, 2013, to February 19, 2014. The series was broadcast during the 2013–14 television season on ABC in the Wednesday night 9:30 pm (ET/PT) slot after Modern Family. The series stars and was created by Rebel Wilson; it was green-lit by ABC for a series order pick-up on May 10, 2013. On May 9, 2014, ABC canceled the series after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

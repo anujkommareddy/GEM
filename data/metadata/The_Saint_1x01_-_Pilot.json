@@ -1,0 +1,50 @@
+{
+  "show_id": "The_Saint_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Saint_(TV_series)",
+  "wiki_page_title": "The Saint (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:47.454787+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Saint (TV series)",
+  "search_title_used": "The Saint",
+  "alternate_titles": [],
+  "start_year": 1962,
+  "end_year": 1969,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 118,
+  "original_network": [
+    "ATV"
+  ],
+  "production_companies": [
+    "Tempean Films for ITC (B/W)",
+    "Bamore for ITC (colour)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Leslie Charteris"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Roger Moore"
+  ],
+  "executive_producers": [
+    "Robert S. Baker",
+    "Monty Berman (B/W)"
+  ],
+  "premise_summary": "The Saint is a British crime television series that aired in the United Kingdom on ITV between 1962 and 1969. It was based on the literary character Simon Templar created by Leslie Charteris in the 1920s and featured in many novels over the years. In the television series, Templar was played by Roger Moore. Templar helps those whom conventional agencies are powerless or unwilling to protect, often using methods that skirt the law. Chief Inspector Claud Eustace Teal is his nominal nemesis who considers Templar a common criminal, but often grudgingly tolerates his actions for the greater good.",
+  "wikipedia_extract": "The Saint is a British crime television series that aired in the United Kingdom on ITV between 1962 and 1969. It was based on the literary character Simon Templar created by Leslie Charteris in the 1920s and featured in many novels over the years. In the television series, Templar was played by Roger Moore. Templar helps those whom conventional agencies are powerless or unwilling to protect, often using methods that skirt the law. Chief Inspector Claud Eustace Teal is his nominal nemesis who considers Templar a common criminal, but often grudgingly tolerates his actions for the greater good.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1969",
+  "franchise_status": null
+}

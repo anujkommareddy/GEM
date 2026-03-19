@@ -1,0 +1,66 @@
+{
+  "show_id": "Red_Line_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Red_Line_(TV_series)",
+  "wiki_page_title": "The Red Line (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:56:16.455382+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Red Line (TV series)",
+  "search_title_used": "Red Line",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Berlanti Productions",
+    "Forward Movement",
+    "Array Filmworks",
+    "CBS Television Studios",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Caitlin Parrish",
+    "Erica Weiss"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Noah Wyle",
+    "Noel Fisher",
+    "Michael Patrick Thornton",
+    "Aliyah Royale",
+    "Vinny Chhibber",
+    "Emayatzy Corinealdi",
+    "Howard Charles"
+  ],
+  "executive_producers": [
+    "Caitlin Parrish",
+    "Erica Weiss",
+    "Sunil Nayar",
+    "Ava DuVernay",
+    "Greg Berlanti",
+    "Sarah Schechter"
+  ],
+  "premise_summary": "The Red Line is an American drama limited television series created and written by Caitlin Parrish and Erica Weiss which premiered on CBS on April 28 and concluded on May 19, 2019.",
+  "wikipedia_extract": "The Red Line is an American drama limited television series created and written by Caitlin Parrish and Erica Weiss which premiered on CBS on April 28 and concluded on May 19, 2019.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

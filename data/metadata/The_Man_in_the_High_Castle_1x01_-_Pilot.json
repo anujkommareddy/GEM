@@ -1,0 +1,84 @@
+{
+  "show_id": "The_Man_in_the_High_Castle_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series)",
+  "wiki_page_title": "The Man in the High Castle (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:09:34.275292+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Man in the High Castle (TV series)",
+  "search_title_used": "The Man in the High Castle",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "genres": [
+    "Alternate history",
+    "Drama",
+    "Dystopian",
+    "Sci-fi"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 40,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Amazon Studios",
+    "Scott Free Productions",
+    "Electric Shepherd Productions",
+    "Headline Pictures",
+    "Big Light Productions",
+    "Picrow",
+    "Reunion Pictures"
+  ],
+  "distributor": null,
+  "creators": [
+    "Frank Spotnitz"
+  ],
+  "showrunners": [
+    "Frank Spotnitz (season 1)",
+    "Erik Oleson (season 2)",
+    "Eric Overmyer (season 3)",
+    "David Scarpa (season 4)"
+  ],
+  "lead_cast": [
+    "Alexa Davalos",
+    "Rupert Evans",
+    "Luke Kleintank",
+    "DJ Qualls",
+    "Joel de la Fuente",
+    "Cary-Hiroyuki Tagawa",
+    "Rufus Sewell",
+    "Brennan Brown",
+    "Callum Keith Rennie",
+    "Bella Heathcote",
+    "Chelah Horsdal",
+    "Michael Gaston",
+    "Jason O'Mara",
+    "Frances Turner"
+  ],
+  "executive_producers": [
+    "Ridley Scott",
+    "Frank Spotnitz",
+    "Christian Baute",
+    "Isa Dick Hackett",
+    "Stewart Mackinnon",
+    "Christopher Tricarico"
+  ],
+  "premise_summary": "The Man in the High Castle is an American dystopian alternate history television series created for the streaming service Amazon Prime Video, depicting a parallel universe where the Axis powers of Nazi Germany and the Empire of Japan rule the world after their victory in World War II. It was created by Frank Spotnitz and produced by Amazon Studios, Ridley Scott's Scott Free Productions, Headline Pictures, Electric Shepherd Productions, and Big Light Productions. It is based on Philip K. Dick's 1962 novel.",
+  "wikipedia_extract": "The Man in the High Castle is an American dystopian alternate history television series created for the streaming service Amazon Prime Video, depicting a parallel universe where the Axis powers of Nazi Germany and the Empire of Japan rule the world after their victory in World War II. It was created by Frank Spotnitz and produced by Amazon Studios, Ridley Scott's Scott Free Productions, Headline Pictures, Electric Shepherd Productions, and Big Light Productions. It is based on Philip K. Dick's 1962 novel.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

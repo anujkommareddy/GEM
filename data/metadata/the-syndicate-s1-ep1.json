@@ -1,0 +1,48 @@
+{
+  "show_id": "the-syndicate-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Syndicate",
+  "wiki_page_title": "The Syndicate",
+  "retrieval_timestamp": "2026-03-19T05:26:08.080962+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Syndicate",
+  "search_title_used": "the syndicate",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2021,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 23,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Rollem Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kay Mellor"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Polly HillNicola Shindler"
+  ],
+  "premise_summary": "The Syndicate is a British television drama series. It was written by Kay Mellor and is broadcast on BBC One. It sees five members of a betting syndicate win the lottery. Each series follows a different syndicate. The first series is set in a Leeds supermarket; the second, a public hospital in Bradford; the third, a crumbling stately home near Scarborough; and the fourth is set between a dog kennel in Yorkshire and Monaco.",
+  "wikipedia_extract": "The Syndicate is a British television drama series. It was written by Kay Mellor and is broadcast on BBC One. It sees five members of a betting syndicate win the lottery. Each series follows a different syndicate. The first series is set in a Leeds supermarket; the second, a public hospital in Bradford; the third, a crumbling stately home near Scarborough; and the fourth is set between a dog kennel in Yorkshire and Monaco.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

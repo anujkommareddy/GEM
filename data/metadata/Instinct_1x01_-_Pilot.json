@@ -1,0 +1,66 @@
+{
+  "show_id": "Instinct_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Instinct_(American_TV_series)",
+  "wiki_page_title": "Instinct (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:42:20.522677+00:00",
+  "retrieval_confidence": "high",
+  "title": "Instinct (American TV series)",
+  "search_title_used": "Instinct",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Thriller",
+    "Drama",
+    "Mystery"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 24,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "34 Films",
+    "Secret Hideout",
+    "James Patterson Entertainment",
+    "Black Lamb",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Alan Cumming",
+    "Bojana Novakovic",
+    "Daniel Ings",
+    "Naveen Andrews",
+    "Sharon Leal"
+  ],
+  "executive_producers": [
+    "Michael Rauch",
+    "Alex Kurtzman",
+    "Heather Kadin",
+    "James Patterson",
+    "Bill Robinson",
+    "Leopoldo Gout",
+    "Alan Cumming",
+    "Marc Webb"
+  ],
+  "premise_summary": "Instinct is an American police procedural drama television series which premiered on March 18, 2018, on CBS. The series is based on James Patterson's 2017 novel Murder Games. In May 2018, CBS renewed the series for a second season. The second season premiered on June 30, 2019. The series was cancelled near the end of its second season, on August 17, 2019. The series is notable for featuring a gay male character in the lead, who is married to another man.",
+  "wikipedia_extract": "Instinct is an American police procedural drama television series which premiered on March 18, 2018, on CBS. The series is based on James Patterson's 2017 novel Murder Games. In May 2018, CBS renewed the series for a second season. The second season premiered on June 30, 2019. The series was cancelled near the end of its second season, on August 17, 2019. The series is notable for featuring a gay male character in the lead, who is married to another man.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

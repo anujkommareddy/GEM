@@ -1,0 +1,68 @@
+{
+  "show_id": "The_Unicorn_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Unicorn_(TV_series)",
+  "wiki_page_title": "The Unicorn (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:12:30.482223+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Unicorn (TV series)",
+  "search_title_used": "The Unicorn",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 31,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Trill TV",
+    "Kapital Entertainment",
+    "Mike and Bill Productions",
+    "CBS Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Bill Martin",
+    "Mike Schiff",
+    "Grady Cooper"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Walton Goggins",
+    "Rob Corddry",
+    "Omar Miller",
+    "Maya Lynne Robinson",
+    "Ruby Jay",
+    "Makenzie Moss",
+    "Devin Bright",
+    "Michaela Watkins"
+  ],
+  "executive_producers": [
+    "Bill Martin",
+    "Mike Schiff",
+    "Aaron Kaplan",
+    "Dana Honor",
+    "Wendi Trilling",
+    "Peyton Reed",
+    "John Hamburg"
+  ],
+  "premise_summary": "The Unicorn is an American sitcom created by Bill Martin, Mike Schiff and Grady Cooper for CBS which premiered on September 26, 2019 and concluded on March 18, 2021. It stars Walton Goggins along with Rob Corddry, Omar Miller, Maya Lynne Robinson, Ruby Jay, MaKenzie Moss, Devin Bright, and Michaela Watkins in supporting roles. In May 2020, the series was renewed for a second season which premiered on November 12, 2020. In May 2021, the series was canceled after two seasons.",
+  "wikipedia_extract": "The Unicorn is an American sitcom created by Bill Martin, Mike Schiff and Grady Cooper for CBS which premiered on September 26, 2019 and concluded on March 18, 2021. It stars Walton Goggins along with Rob Corddry, Omar Miller, Maya Lynne Robinson, Ruby Jay, MaKenzie Moss, Devin Bright, and Michaela Watkins in supporting roles. In May 2020, the series was renewed for a second season which premiered on November 12, 2020. In May 2021, the series was canceled after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,73 @@
+{
+  "show_id": "Quantico_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Quantico_(TV_series)",
+  "wiki_page_title": "Quantico (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:55:11.082006+00:00",
+  "retrieval_confidence": "high",
+  "title": "Quantico (TV series)",
+  "search_title_used": "Quantico",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Terrorism thriller",
+    "Drama",
+    "Conspiracy thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 57,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "ABC Studios",
+    "Mark Gordon Company",
+    "Random Acts Productions (2015–17)",
+    "Maniac Productions (2018)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Joshua Safran"
+  ],
+  "showrunners": [
+    "Joshua Safran",
+    "Michael Seitzman"
+  ],
+  "lead_cast": [
+    "Priyanka Chopra",
+    "Josh Hopkins",
+    "Jake McLaughlin",
+    "Aunjanue Ellis",
+    "Yasmine Al Massri",
+    "Johanna Braddy",
+    "Tate Ellington",
+    "Graham Rogers",
+    "Anabelle Acosta",
+    "Russell Tovey",
+    "Pearl Thusi",
+    "Blair Underwood",
+    "Marlee Matlin",
+    "Alan Powell"
+  ],
+  "executive_producers": [
+    "Mark Gordon",
+    "Robert Sertner",
+    "Nicholas Pepper",
+    "Joshua Safran",
+    "Michael Seitzman"
+  ],
+  "premise_summary": "Quantico is an American thriller drama television series which aired on ABC from September 27, 2015, to August 3, 2018, with 57 episodes broadcast over three seasons. Produced by ABC Studios, the series was created by Joshua Safran, who also served as the showrunner. Mark Gordon, Robert Sertner, Nicholas Pepper and Safran are its executive producers. Michael Seitzman replaced Safran as the new showrunner and an executive producer in its third season, with Safran remaining as an executive producer.",
+  "wikipedia_extract": "Quantico is an American thriller drama television series which aired on ABC from September 27, 2015, to August 3, 2018, with 57 episodes broadcast over three seasons. Produced by ABC Studios, the series was created by Joshua Safran, who also served as the showrunner. Mark Gordon, Robert Sertner, Nicholas Pepper and Safran are its executive producers. Michael Seitzman replaced Safran as the new showrunner and an executive producer in its third season, with Safran remaining as an executive producer.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

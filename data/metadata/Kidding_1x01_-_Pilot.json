@@ -1,0 +1,66 @@
+{
+  "show_id": "Kidding_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Kidding",
+  "wiki_page_title": "Kidding",
+  "retrieval_timestamp": "2026-03-19T04:43:38.212313+00:00",
+  "retrieval_confidence": "high",
+  "title": "Kidding",
+  "search_title_used": "Kidding",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Family dramaComedy dramaTragicomedy"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Showtime"
+  ],
+  "production_companies": [
+    "I Love You Julian!",
+    "Aggregate Films",
+    "Some Kind of Garden",
+    "Showtime Networks"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dave Holstein"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jim Carrey",
+    "Frank Langella",
+    "Judy Greer",
+    "Cole Allen",
+    "Juliet Morris",
+    "Catherine Keener",
+    "Justin Kirk"
+  ],
+  "executive_producers": [
+    "Dave Holstein",
+    "Jim Carrey",
+    "Michel Gondry",
+    "Raffi Adlan",
+    "Michael Aguilar",
+    "Roberto Benabib",
+    "Jason Bateman",
+    "James Garavente"
+  ],
+  "premise_summary": "Kidding is an American family tragicomedy television series created by Dave Holstein that premiered on September 9, 2018, on Showtime. The series stars Jim Carrey, Frank Langella, Judy Greer, Cole Allen, Juliet Morris, and Catherine Keener. Michel Gondry serves as executive producer and directed several episodes. In October 2018, Showtime renewed the series for a second season which premiered February 9, 2020. In July 2020, the series was canceled after two seasons.",
+  "wikipedia_extract": "Kidding is an American family tragicomedy television series created by Dave Holstein that premiered on September 9, 2018, on Showtime. The series stars Jim Carrey, Frank Langella, Judy Greer, Cole Allen, Juliet Morris, and Catherine Keener. Michel Gondry serves as executive producer and directed several episodes. In October 2018, Showtime renewed the series for a second season which premiered February 9, 2020. In July 2020, the series was canceled after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,62 @@
+{
+  "show_id": "Miami_Vice_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Miami_Vice",
+  "wiki_page_title": "Miami Vice",
+  "retrieval_timestamp": "2026-03-19T04:48:31.953581+00:00",
+  "retrieval_confidence": "high",
+  "title": "Miami Vice",
+  "search_title_used": "Miami Vice",
+  "alternate_titles": [],
+  "start_year": 1984,
+  "end_year": 1990,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Crime drama",
+    "Neo-noir",
+    "Mystery thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 114,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Michael Mann Productions",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Anthony Yerkovich"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Don Johnson",
+    "Philip Michael Thomas",
+    "Saundra Santiago",
+    "Michael Talbott",
+    "John Diehl",
+    "Olivia Brown",
+    "Gregory Sierra",
+    "Edward James Olmos"
+  ],
+  "executive_producers": [
+    "Michael Mann",
+    "Anthony Yerkovich (season 1)"
+  ],
+  "premise_summary": "Miami Vice is an American crime drama television series created by Anthony Yerkovich and executive-produced by Michael Mann for NBC. It stars Don Johnson as James \"Sonny\" Crockett and Philip Michael Thomas as Ricardo \"Rico\" Tubbs, two Metro-Dade Police Department detectives working undercover in Miami, Florida. The series ran for five seasons on NBC from September 16, 1984, to June 28, 1989, airing on Friday nights.",
+  "wikipedia_extract": "Miami Vice is an American crime drama television series created by Anthony Yerkovich and executive-produced by Michael Mann for NBC. It stars Don Johnson as James \"Sonny\" Crockett and Philip Michael Thomas as Ricardo \"Rico\" Tubbs, two Metro-Dade Police Department detectives working undercover in Miami, Florida. The series ran for five seasons on NBC from September 16, 1984, to June 28, 1989, airing on Friday nights.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1990",
+  "franchise_status": null
+}

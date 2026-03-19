@@ -1,0 +1,72 @@
+{
+  "show_id": "Revolution_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Revolution_(TV_series)",
+  "wiki_page_title": "Revolution (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:56:50.782985+00:00",
+  "retrieval_confidence": "high",
+  "title": "Revolution (TV series)",
+  "search_title_used": "Revolution",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Post-apocalyptic",
+    "Action-adventure",
+    "Science fiction",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 42,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Kripke Enterprises",
+    "Bad Robot",
+    "Bonanza Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Eric Kripke"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Billy Burke",
+    "Tracy Spiridakos",
+    "Giancarlo Esposito",
+    "Zak Orth",
+    "David Lyons",
+    "Daniella Alonso",
+    "Anna Lise Phillips",
+    "Graham Rogers",
+    "J. D. Pardo",
+    "Tim Guinee",
+    "Maria Howell",
+    "Stephen Collins",
+    "Elizabeth Mitchell"
+  ],
+  "executive_producers": [
+    "Bryan Burk",
+    "Eric Kripke",
+    "J. J. Abrams",
+    "Rockne S. O'Bannon",
+    "Jon Favreau"
+  ],
+  "premise_summary": "Revolution is an American post-apocalyptic science fiction television series that ran from September 17, 2012, until May 21, 2014, when it was cancelled by NBC. The show takes place in the post-apocalyptic near-future of the year 2027, 15 years after the start of a worldwide, permanent electrical-power blackout in 2012. Created by Eric Kripke and produced by J. J. Abrams' Bad Robot for the NBC network, it originally aired on Mondays at 10:00 p.m. ET, and did well enough that NBC ordered a second season shortly after the first-season finale.",
+  "wikipedia_extract": "Revolution is an American post-apocalyptic science fiction television series that ran from September 17, 2012, until May 21, 2014, when it was cancelled by NBC. The show takes place in the post-apocalyptic near-future of the year 2027, 15 years after the start of a worldwide, permanent electrical-power blackout in 2012. Created by Eric Kripke and produced by J. J. Abrams' Bad Robot for the NBC network, it originally aired on Mondays at 10:00 p.m. ET, and did well enough that NBC ordered a second season shortly after the first-season finale.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

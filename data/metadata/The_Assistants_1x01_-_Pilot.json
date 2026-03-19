@@ -1,0 +1,42 @@
+{
+  "show_id": "The_Assistants_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Assistant_(TV_series)",
+  "wiki_page_title": "The Assistant (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:05:15.396035+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Assistant (TV series)",
+  "search_title_used": "The Assistants",
+  "alternate_titles": [],
+  "start_year": 2004,
+  "end_year": 2004,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Reality comedy"
+  ],
+  "format_type": "reality",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "MTV"
+  ],
+  "production_companies": null,
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": null,
+  "premise_summary": "The Assistant is a reality television series that parodies other reality shows such as The Apprentice, The Bachelor, The Bachelorette, Survivor, American Idol, and Fear Factor. Its eight episodes originally aired on MTV. It features comedian Andy Dick's search for a new personal assistant. The beginning of the first episode parodied The Bachelor, with the twelve contestants arriving in limousines, and Dick waiting outside to greet them with his maid and butler. A \"rose ceremony\" immediately followed, and one contestant was eliminated.",
+  "wikipedia_extract": "The Assistant is a reality television series that parodies other reality shows such as The Apprentice, The Bachelor, The Bachelorette, Survivor, American Idol, and Fear Factor. Its eight episodes originally aired on MTV. It features comedian Andy Dick's search for a new personal assistant. The beginning of the first episode parodied The Bachelor, with the twelve contestants arriving in limousines, and Dick waiting outside to greet them with his maid and butler. A \"rose ceremony\" immediately followed, and one contestant was eliminated.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2004",
+  "franchise_status": null
+}

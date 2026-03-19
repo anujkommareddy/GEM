@@ -1,0 +1,78 @@
+{
+  "show_id": "Heroes_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Heroes_(American_TV_series)",
+  "wiki_page_title": "Heroes (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:39:10.087927+00:00",
+  "retrieval_confidence": "high",
+  "title": "Heroes (American TV series)",
+  "search_title_used": "Heroes",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Superhero",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 77,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Tailwind Productions",
+    "NBC Universal Television Studio (2006–07)",
+    "Universal Media Studios (2007–10)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tim Kring"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Hayden Panettiere",
+    "Santiago Cabrera",
+    "Jack Coleman",
+    "Tawny Cypress",
+    "Noah Gray-Cabey",
+    "Greg Grunberg",
+    "Ali Larter",
+    "Masi Oka",
+    "Adrian Pasdar",
+    "Sendhil Ramamurthy",
+    "Leonard Roberts",
+    "Milo Ventimiglia",
+    "David Anders",
+    "Kristen Bell",
+    "Dana Davis",
+    "James Kyson Lee",
+    "Zachary Quinto",
+    "Dania Ramirez",
+    "Cristine Rose",
+    "Robert Knepper"
+  ],
+  "executive_producers": [
+    "Tim Kring",
+    "Dennis Hammer",
+    "Allan Arkush",
+    "Greg Beeman",
+    "Matt Shakman",
+    "Peter Elkoff",
+    "James Middleton"
+  ],
+  "premise_summary": "Heroes is an American superhero drama television series created by Tim Kring that aired on NBC for four seasons from September 25, 2006, to February 8, 2010. The series tells the stories of ordinary people who discover that they have superhuman abilities and how these abilities take effect in the characters' lives as they work together to prevent catastrophic futures. The series emulates the aesthetic style and storytelling of American comic books, using multi-episode story arcs that build upon a larger, more encompassing narrative. It was produced by Tailwind Productions in association with Universal Media Studios. It was filmed primarily in Los Angeles, California.",
+  "wikipedia_extract": "Heroes is an American superhero drama television series created by Tim Kring that aired on NBC for four seasons from September 25, 2006, to February 8, 2010. The series tells the stories of ordinary people who discover that they have superhuman abilities and how these abilities take effect in the characters' lives as they work together to prevent catastrophic futures. The series emulates the aesthetic style and storytelling of American comic books, using multi-episode story arcs that build upon a larger, more encompassing narrative. It was produced by Tailwind Productions in association with Universal Media Studios. It was filmed primarily in Los Angeles, California.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

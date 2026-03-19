@@ -1,0 +1,64 @@
+{
+  "show_id": "Downward_Dog_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Downward_Dog_(TV_series)",
+  "wiki_page_title": "Downward Dog (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:14.986476+00:00",
+  "retrieval_confidence": "high",
+  "title": "Downward Dog (TV series)",
+  "search_title_used": "Downward Dog",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Mosaic Media Group",
+    "Animal Media Group",
+    "ABC Studios",
+    "Legendary Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Samm Hodges",
+    "Michael Killen"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Allison Tolman",
+    "Ned",
+    "Lucas Neff",
+    "Kirby Howell-Baptiste",
+    "Barry Rothbart"
+  ],
+  "executive_producers": [
+    "Samm Hodges",
+    "Michael Killen",
+    "Jimmy Miller",
+    "Sam Hansen",
+    "Kathy Dziubek",
+    "Kat Likkel",
+    "John Hoberg"
+  ],
+  "premise_summary": "Downward Dog is an American sitcom that was broadcast on ABC. The series premiered on May 17, 2017, before starting its Tuesday run on May 23, 2017. On June 24, 2017, ABC canceled the series after one season of eight episodes, with the final episode airing on June 27, 2017.",
+  "wikipedia_extract": "Downward Dog is an American sitcom that was broadcast on ABC. The series premiered on May 17, 2017, before starting its Tuesday run on May 23, 2017. On June 24, 2017, ABC canceled the series after one season of eight episodes, with the final episode airing on June 27, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,71 @@
+{
+  "show_id": "Friends-Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Friends",
+  "wiki_page_title": "Friends",
+  "retrieval_timestamp": "2026-03-19T04:32:31.237773+00:00",
+  "retrieval_confidence": "high",
+  "title": "Friends",
+  "search_title_used": "Friends",
+  "alternate_titles": [],
+  "start_year": 1994,
+  "end_year": 2004,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 10,
+  "episodes": 236,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Bright/Kauffman/Crane Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Crane",
+    "Marta Kauffman"
+  ],
+  "showrunners": [
+    "David Crane",
+    "Marta Kauffman"
+  ],
+  "lead_cast": [
+    "Jennifer Aniston",
+    "Courteney Cox",
+    "Lisa Kudrow",
+    "Matt LeBlanc",
+    "Matthew Perry",
+    "David Schwimmer"
+  ],
+  "executive_producers": [
+    "David Crane",
+    "Marta Kauffman",
+    "Kevin S. Bright",
+    "Michael Borkow (season 4)",
+    "Michael Curtis (season 5)",
+    "Adam Chase (seasons 5–6)",
+    "Greg Malins (seasons 5–7)",
+    "Wil Calhoun (season 7)",
+    "Scott Silveri (seasons 8–10)",
+    "Shana Goldberg-Meehan (seasons 8–10)",
+    "Andrew Reich (seasons 8–10)",
+    "Ted Cohen (seasons 8–10)"
+  ],
+  "premise_summary": "Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons. With an ensemble cast starring Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, and David Schwimmer, the show revolves around six friends in their 20s and early 30s who live in Manhattan, New York City. The original executive producers were Kevin S. Bright, Kauffman, and Crane.",
+  "wikipedia_extract": "Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons. With an ensemble cast starring Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, and David Schwimmer, the show revolves around six friends in their 20s and early 30s who live in Manhattan, New York City. The original executive producers were Kevin S. Bright, Kauffman, and Crane.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2004",
+  "franchise_status": null
+}

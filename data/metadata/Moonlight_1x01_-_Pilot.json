@@ -1,0 +1,60 @@
+{
+  "show_id": "Moonlight_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Moonlight_(American_TV_series)",
+  "wiki_page_title": "Moonlight (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:49:33.143028+00:00",
+  "retrieval_confidence": "high",
+  "title": "Moonlight (American TV series)",
+  "search_title_used": "Moonlight",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 16,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Warner Bros. Television",
+    "Silver Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ron Koslow",
+    "Trevor Munson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Alex O'Loughlin",
+    "Sophia Myles",
+    "Jason Dohring",
+    "Shannyn Sossamon"
+  ],
+  "executive_producers": [
+    "Ron Koslow",
+    "Trevor Munson",
+    "Gerard Bocaccio",
+    "Joel Silver",
+    "Rod Holcomb",
+    "Chip Johannessen",
+    "Gabrielle Stanton",
+    "Harry Werksman",
+    "David Barrett",
+    "David Greenwalt"
+  ],
+  "premise_summary": "Moonlight is an American paranormal romance television drama created by Ron Koslow and Trevor Munson, who was also executive producer for all episodes with Joel Silver, Gerard Bocaccio, Gabrielle Stanton and Harry Werksman. The series follows private investigator Mick St. John, who was turned into a vampire by his bride Coraline on the couple's wedding night fifty-five years earlier. In the present day, he struggles with his attraction to a mortal woman, Beth Turner, his friendship with his mentor and fellow vampire Josef Kostan, and his dealings with other vampires in Los Angeles.",
+  "wikipedia_extract": "Moonlight is an American paranormal romance television drama created by Ron Koslow and Trevor Munson, who was also executive producer for all episodes with Joel Silver, Gerard Bocaccio, Gabrielle Stanton and Harry Werksman. The series follows private investigator Mick St. John, who was turned into a vampire by his bride Coraline on the couple's wedding night fifty-five years earlier. In the present day, he struggles with his attraction to a mortal woman, Beth Turner, his friendship with his mentor and fellow vampire Josef Kostan, and his dealings with other vampires in Los Angeles.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

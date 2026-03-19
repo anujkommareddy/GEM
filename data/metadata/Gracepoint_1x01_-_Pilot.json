@@ -1,0 +1,72 @@
+{
+  "show_id": "Gracepoint_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Gracepoint",
+  "wiki_page_title": "Gracepoint",
+  "retrieval_timestamp": "2026-03-19T04:34:36.008023+00:00",
+  "retrieval_confidence": "high",
+  "title": "Gracepoint",
+  "search_title_used": "Gracepoint",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Shine America",
+    "Kudos",
+    "South Slope Pictures",
+    "Imaginary Friends"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "David Tennant",
+    "Anna Gunn",
+    "Michael Peña",
+    "Virginia Kull",
+    "Nick Nolte",
+    "Jacki Weaver",
+    "Josh Hamilton",
+    "Kevin Rankin",
+    "Kevin Zegers",
+    "Jessica Lucas",
+    "Stephen Louis Grush",
+    "Madalyn Horcher",
+    "Sarah-Jane Potts",
+    "Jack Irvine",
+    "Kendrick Sampson"
+  ],
+  "executive_producers": [
+    "David Tennant",
+    "Anna Gunn",
+    "Anya Epstein",
+    "Dan Futterman",
+    "Chris Chibnall",
+    "Jane Featherstone",
+    "John Goldwyn",
+    "Carolyn Bernstein"
+  ],
+  "premise_summary": "Gracepoint is an American crime drama television series created by Chris Chibnall. It is a remake of Chibnall's series, Broadchurch, and stars that series' lead, David Tennant, along with Anna Gunn, as two detectives investigating the murder of a boy in a small, tightly knit coastal town.",
+  "wikipedia_extract": "Gracepoint is an American crime drama television series created by Chris Chibnall. It is a remake of Chibnall's series, Broadchurch, and stars that series' lead, David Tennant, along with Anna Gunn, as two detectives investigating the murder of a boy in a small, tightly knit coastal town.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

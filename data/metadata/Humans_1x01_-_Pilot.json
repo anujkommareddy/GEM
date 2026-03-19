@@ -1,0 +1,78 @@
+{
+  "show_id": "Humans_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Humans_(TV_series)",
+  "wiki_page_title": "Humans (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:40:47.648455+00:00",
+  "retrieval_confidence": "high",
+  "title": "Humans (TV series)",
+  "search_title_used": "Humans",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": null,
+  "country": [
+    "United Kingdom",
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction"
+  ],
+  "format_type": "sci_fi",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 24,
+  "original_network": [
+    "Channel 4",
+    "AMC"
+  ],
+  "production_companies": [
+    "Kudos",
+    "AMC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jonathan Brackley and Sam Vincent"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Emily Berrington",
+    "Ruth Bradley",
+    "Lucy Carless",
+    "Gemma Chan",
+    "Pixie Davies",
+    "Jack Derges",
+    "Sope Dirisu",
+    "Rebecca Front",
+    "Tom Goodman-Hill",
+    "Jill Halfpenny",
+    "Ivanno Jeremiah",
+    "Neil Maskell",
+    "Colin Morgan",
+    "Katherine Parkinson",
+    "Theo Stevenson",
+    "Will Tudor",
+    "Danny Webb",
+    "William Hurt",
+    "Marshall Allman",
+    "Sonya Cassidy",
+    "Carrie-Anne Moss"
+  ],
+  "executive_producers": [
+    "Jonathan Brackley",
+    "Jane Featherstone",
+    "Lars Lundström",
+    "Sam Vincent",
+    "Derek Wax",
+    "Henrik Widman"
+  ],
+  "premise_summary": "Humans is a science fiction television series that debuted in June 2015 on Channel 4 and on AMC. Written by Jonathan Brackley and Sam Vincent, based on the Swedish science fiction drama Real Humans, the series explores the themes of artificial intelligence, robotics, and their effects on the future of humanity, focusing on the social, cultural, and psychological impact of the invention and marketing of anthropomorphic robots called \"synths\". The series is produced jointly by Channel 4 and Kudos in the United Kingdom, and AMC in the United States.",
+  "wikipedia_extract": "Humans is a science fiction television series that debuted in June 2015 on Channel 4 and on AMC. Written by Jonathan Brackley and Sam Vincent, based on the Swedish science fiction drama Real Humans, the series explores the themes of artificial intelligence, robotics, and their effects on the future of humanity, focusing on the social, cultural, and psychological impact of the invention and marketing of anthropomorphic robots called \"synths\". The series is produced jointly by Channel 4 and Kudos in the United Kingdom, and AMC in the United States.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,58 @@
+{
+  "show_id": "Blue_Bloods_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Blue_Bloods",
+  "wiki_page_title": "Blue Bloods",
+  "retrieval_timestamp": "2026-03-19T04:23:06.432049+00:00",
+  "retrieval_confidence": "high",
+  "title": "Blue Bloods",
+  "search_title_used": "Blue Bloods",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2024,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Crime drama",
+    "Legal drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 14,
+  "episodes": 293,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Panda Productions (2010–2020)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robin Green"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Donnie Wahlberg",
+    "Bridget Moynahan",
+    "Will Estes",
+    "Len Cariou",
+    "Tom Selleck",
+    "Sami Gayle",
+    "Amy Carlson"
+  ],
+  "executive_producers": [
+    "Leonard Goldberg (2010–2020)"
+  ],
+  "premise_summary": "Blue Bloods is an American police procedural drama television series that aired on CBS from September 24, 2010, to December 13, 2024, across 14 seasons and 293 episodes. Its main characters are the fictional Reagan family, an Irish-American Catholic family in New York City with a history of work in law enforcement. Blue Bloods stars Tom Selleck as New York City Police Commissioner Frank Reagan; other main cast members include Donnie Wahlberg, Bridget Moynahan, Will Estes and Len Cariou for all 14 seasons, plus Amy Carlson, Sami Gayle, as well as Marisa Ramirez and Vanessa Ray.",
+  "wikipedia_extract": "Blue Bloods is an American police procedural drama television series that aired on CBS from September 24, 2010, to December 13, 2024, across 14 seasons and 293 episodes. Its main characters are the fictional Reagan family, an Irish-American Catholic family in New York City with a history of work in law enforcement. Blue Bloods stars Tom Selleck as New York City Police Commissioner Frank Reagan; other main cast members include Donnie Wahlberg, Bridget Moynahan, Will Estes and Len Cariou for all 14 seasons, plus Amy Carlson, Sami Gayle, as well as Marisa Ramirez and Vanessa Ray.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2024",
+  "franchise_status": null
+}

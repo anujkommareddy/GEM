@@ -1,0 +1,77 @@
+{
+  "show_id": "Sons_of_Anarchy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sons_of_Anarchy",
+  "wiki_page_title": "Sons of Anarchy",
+  "retrieval_timestamp": "2026-03-19T05:01:35.038395+00:00",
+  "retrieval_confidence": "high",
+  "title": "Sons of Anarchy",
+  "search_title_used": "Sons of Anarchy",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Crime drama",
+    "Tragedy",
+    "Neo-Western",
+    "}}"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 92,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "The Linson Company",
+    "Sutter Ink",
+    "Fox 21",
+    "FX Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kurt Sutter"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Charlie Hunnam",
+    "Katey Sagal",
+    "Mark Boone Junior",
+    "Tommy Flanagan",
+    "Kim Coates",
+    "Johnny Lewis",
+    "Maggie Siff",
+    "Ron Perlman",
+    "Ryan Hurst",
+    "William Lucking",
+    "Theo Rossi",
+    "Dayton Callie",
+    "Jimmy Smits",
+    "Drea de Matteo",
+    "David Labrava",
+    "Niko Nicotera"
+  ],
+  "executive_producers": [
+    "Kurt Sutter",
+    "John Linson",
+    "Phil Laudicina",
+    "James D. Parriott",
+    "Paris Barclay",
+    "Dave Erickson"
+  ],
+  "premise_summary": "Sons of Anarchy is an American action crime drama television series created by Kurt Sutter for FX. Originally aired from September 3, 2008, to December 9, 2014, Sons of Anarchy follows the lives of a close-knit outlaw motorcycle club operating in Charming, a fictional town in California's Central Valley.",
+  "wikipedia_extract": "Sons of Anarchy is an American action crime drama television series created by Kurt Sutter for FX. Originally aired from September 3, 2008, to December 9, 2014, Sons of Anarchy follows the lives of a close-knit outlaw motorcycle club operating in Charming, a fictional town in California's Central Valley.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

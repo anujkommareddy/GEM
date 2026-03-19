@@ -1,0 +1,62 @@
+{
+  "show_id": "Rosewood_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rosewood_(TV_series)",
+  "wiki_page_title": "Rosewood (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:57:40.527923+00:00",
+  "retrieval_confidence": "high",
+  "title": "Rosewood (TV series)",
+  "search_title_used": "Rosewood",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 44,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Temple Hill Productions",
+    "Nickels Productions",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Todd Harthan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Morris Chestnut",
+    "Jaina Lee Ortiz",
+    "Gabrielle Dennis",
+    "Anna Konkle",
+    "Domenick Lombardozzi",
+    "Lorraine Toussaint",
+    "Sam Huntington",
+    "Eddie Cibrian"
+  ],
+  "executive_producers": [
+    "Todd Harthan",
+    "Richard Shepard",
+    "Marty Bowen",
+    "Wyck Godfrey"
+  ],
+  "premise_summary": "Rosewood is an American police procedural drama series that aired on Fox from September 23, 2015, to April 28, 2017. The series was created by Todd Harthan, starring Morris Chestnut as Dr. Beaumont Rosewood Jr., a private pathologist working in Miami, Florida, in high demand with law enforcement. On October 16, 2015, Fox picked up Rosewood for a full season of 22 episodes.\nOn April 7, 2016, Fox renewed the series for a second season which premiered on September 22, 2016.",
+  "wikipedia_extract": "Rosewood is an American police procedural drama series that aired on Fox from September 23, 2015, to April 28, 2017. The series was created by Todd Harthan, starring Morris Chestnut as Dr. Beaumont Rosewood Jr., a private pathologist working in Miami, Florida, in high demand with law enforcement. On October 16, 2015, Fox picked up Rosewood for a full season of 22 episodes.\nOn April 7, 2016, Fox renewed the series for a second season which premiered on September 22, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

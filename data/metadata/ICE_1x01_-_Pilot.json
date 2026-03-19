@@ -1,0 +1,64 @@
+{
+  "show_id": "ICE_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_(American_TV_series)",
+  "wiki_page_title": "Ice (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:41:03.127289+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ice (American TV series)",
+  "search_title_used": "ICE",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": null,
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Audience Network"
+  ],
+  "production_companies": [
+    "Fuqua Films (season 1)",
+    "Benero Productions (season 2)",
+    "Alcon Entertainment",
+    "Entertainment One"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robert Munic"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jeremy Sisto",
+    "Cam Gigandet",
+    "Raymond J. Barry",
+    "Ray Winstone",
+    "Judi Shekoni",
+    "Jocelyn Hudon",
+    "Audrey Marie Anderson",
+    "Donald Sutherland",
+    "Ella Thomas",
+    "Rey Gallegos"
+  ],
+  "executive_producers": [
+    "Robert Munic",
+    "Antoine Fuqua",
+    "Ron Bass",
+    "Vince Geraldis",
+    "Hans Tobeason"
+  ],
+  "premise_summary": "Ice is an American television series created by Robert Munic. The project, which began airing in late 2016 on Audience Network was ordered straight-to-series with an order of 10 episodes on August 2, 2016. The project was originally ordered in 2014 but was dropped for creative reasons. The series was then released on November 16, 2016. On June 16, 2017, the series was renewed for a second season.",
+  "wikipedia_extract": "Ice is an American television series created by Robert Munic. The project, which began airing in late 2016 on Audience Network was ordered straight-to-series with an order of 10 episodes on August 2, 2016. The project was originally ordered in 2014 but was dropped for creative reasons. The series was then released on November 16, 2016. On June 16, 2017, the series was renewed for a second season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

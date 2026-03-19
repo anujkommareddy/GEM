@@ -1,0 +1,64 @@
+{
+  "show_id": "The_Cape_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Cape_Fear_(TV_series)",
+  "wiki_page_title": "Cape Fear (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:06:02.182488+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Cape Fear (TV series)",
+  "search_title_used": "The Cape",
+  "alternate_titles": [],
+  "start_year": 1962,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Thriller drama"
+  ],
+  "format_type": "limited_series",
+  "runtime_class": null,
+  "seasons": null,
+  "episodes": null,
+  "original_network": [
+    "Apple TV"
+  ],
+  "production_companies": [
+    "Universal Content Productions",
+    "Amblin Television",
+    "Sikelia Productions",
+    "Eat the Cat"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nick Antosca"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Javier Bardem",
+    "Amy Adams",
+    "Patrick Wilson",
+    "CCH Pounder"
+  ],
+  "executive_producers": [
+    "Nick Antosca",
+    "Steven Spielberg",
+    "Martin Scorsese",
+    "Alex Hedlund",
+    "Darryl Frank",
+    "Justin Falvey",
+    "Morten Tyldum",
+    "Javier Bardem",
+    "Amy Adams"
+  ],
+  "premise_summary": "Cape Fear is an upcoming American thriller drama television miniseries created by Nick Antosca, based on the novel The Executioners by John D. MacDonald and its film adaptations in 1962 and 1991. It is produced by Eat the Cat, Universal Content Productions, and Amblin Television. It will premiere on June 5, 2026.",
+  "wikipedia_extract": "Cape Fear is an upcoming American thriller drama television miniseries created by Nick Antosca, based on the novel The Executioners by John D. MacDonald and its film adaptations in 1962 and 1991. It is produced by Eat the Cat, Universal Content Productions, and Amblin Television. It will premiere on June 5, 2026.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,70 @@
+{
+  "show_id": "Ringer_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ringer_(TV_series)",
+  "wiki_page_title": "Ringer (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:56:54.587828+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ringer (TV series)",
+  "search_title_used": "Ringer",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Neo-noir",
+    "Mystery",
+    "Crime"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Green Eggs and Pam Productions",
+    "Inc.",
+    "Brillstein Entertainment Partners",
+    "ABC Studiosurl=https://deadline.com/2011/05/surprise-sarah-michelle-gellars-the-ringer-to-get-picked-up-by-cw-131684/"
+  ],
+  "distributor": null,
+  "creators": [
+    "Eric Charmelo",
+    "Nicole Snyder"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sarah Michelle Gellar",
+    "Kristoffer Polaha",
+    "Ioan Gruffudd",
+    "Nestor Carbonell",
+    "Mike Colter"
+  ],
+  "executive_producers": [
+    "Rachel Kaplan (pilot only)",
+    "Sarah Michelle Gellar",
+    "Eric Charmelo",
+    "Nicole Snyder",
+    "Richard Shepard",
+    "Jon Liebman",
+    "JoAnne Colonna",
+    "Peter Traugott",
+    "Pam Veasey"
+  ],
+  "premise_summary": "Ringer is an American crime thriller drama television series that aired on The CW from September 13, 2011, to April 17, 2012. The series stars Sarah Michelle Gellar, who plays twin sisters Bridget Kelly and Siobhan Martin. On May 13, 2011, it was reported that the project had been picked up to series by The CW. On October 12, 2011, The CW ordered a full first season of 22 episodes.",
+  "wikipedia_extract": "Ringer is an American crime thriller drama television series that aired on The CW from September 13, 2011, to April 17, 2012. The series stars Sarah Michelle Gellar, who plays twin sisters Bridget Kelly and Siobhan Martin. On May 13, 2011, it was reported that the project had been picked up to series by The CW. On October 12, 2011, The CW ordered a full first season of 22 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

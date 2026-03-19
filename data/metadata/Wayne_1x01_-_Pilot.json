@@ -1,0 +1,60 @@
+{
+  "show_id": "Wayne_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Wayne_(TV_series)",
+  "wiki_page_title": "Wayne (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:16:45.087460+00:00",
+  "retrieval_confidence": "high",
+  "title": "Wayne (TV series)",
+  "search_title_used": "Wayne",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action comedy",
+    "Black comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "YouTube Premium"
+  ],
+  "production_companies": [
+    "Coolidge Ward Entertainment",
+    "Reese Wernick Productions",
+    "Endeavor Content"
+  ],
+  "distributor": null,
+  "creators": [
+    "Shawn Simmons"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Mark McKenna",
+    "Ciara Bravo",
+    "Joshua J. Williams"
+  ],
+  "executive_producers": [
+    "Paul Wernick",
+    "Rhett Reese",
+    "Greg Coolidge",
+    "Kirk Ward",
+    "Shawn Simmons",
+    "Iain B. MacDonald (pilot)"
+  ],
+  "premise_summary": "Wayne is an American action comedy television series created by Shawn Simmons that premiered on January 16, 2019, on YouTube Premium. The series stars Mark McKenna, Ciara Bravo, and Joshua J. Williams and it follows Wayne, \"a 16-year-old Dirty Harry with a heart of gold\", as he sets out to retrieve his late father's stolen car with the help of Del, a girl he has a crush on.",
+  "wikipedia_extract": "Wayne is an American action comedy television series created by Shawn Simmons that premiered on January 16, 2019, on YouTube Premium. The series stars Mark McKenna, Ciara Bravo, and Joshua J. Williams and it follows Wayne, \"a 16-year-old Dirty Harry with a heart of gold\", as he sets out to retrieve his late father's stolen car with the help of Del, a girl he has a crush on.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

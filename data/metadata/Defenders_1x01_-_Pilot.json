@@ -1,0 +1,60 @@
+{
+  "show_id": "Defenders_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Defenders_(2010_TV_series)",
+  "wiki_page_title": "The Defenders (2010 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:27:54.451564+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Defenders (2010 TV series)",
+  "search_title_used": "Defenders",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Legal drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 18,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Carol Mendelsohn Productions",
+    "CBS Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kevin Kennedy",
+    "Niels Mueller"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jim Belushi",
+    "Jerry O'Connell",
+    "Jurnee Smollett-Bell",
+    "Tanya Fischer"
+  ],
+  "executive_producers": [
+    "Harry Gantz",
+    "Joe Gantz",
+    "Kevin Kennedy",
+    "Niels Mueller",
+    "Carol Mendelsohn"
+  ],
+  "premise_summary": "The Defenders is an American legal comedy-drama television series that was ordered to series by CBS for the 2010–11 television season. The series originally ran from September 22, 2010, to March 11, 2011. Set in Las Vegas, Nevada, the show involves a pair of defense attorneys who go all out to help their clients while keeping their personal lives in order. The show is loosely based on real-life Vegas lawyers Michael Cristalli and Marc Saggese. This series is not related to the 1960s CBS series of the same name.",
+  "wikipedia_extract": "The Defenders is an American legal comedy-drama television series that was ordered to series by CBS for the 2010–11 television season. The series originally ran from September 22, 2010, to March 11, 2011. Set in Las Vegas, Nevada, the show involves a pair of defense attorneys who go all out to help their clients while keeping their personal lives in order. The show is loosely based on real-life Vegas lawyers Michael Cristalli and Marc Saggese. This series is not related to the 1960s CBS series of the same name.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

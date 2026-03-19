@@ -1,0 +1,63 @@
+{
+  "show_id": "Switched_At_Birth_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Switched_at_Birth_(TV_series)",
+  "wiki_page_title": "Switched at Birth (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:03:56.526761+00:00",
+  "retrieval_confidence": "high",
+  "title": "Switched at Birth (TV series)",
+  "search_title_used": "Switched At Birth",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "American Sign Language"
+  ],
+  "genres": [
+    "Family drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 103,
+  "original_network": [
+    "Freeform"
+  ],
+  "production_companies": [
+    "Pirates' Cove Entertainment",
+    "Suzy B. Productions (from \"This Is The Color Of My Dreams\")"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lizzy Weiss"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sean Berdy",
+    "Lucas Grabeel",
+    "Katie Leclerc",
+    "Vanessa Marano",
+    "Constance Marie",
+    "D. W. Moffett",
+    "Lea Thompson",
+    "Gilles Marini"
+  ],
+  "executive_producers": [
+    "Lizzy Weiss",
+    "Paul Stupin",
+    "John Ziffren",
+    "Becky Hartman Edwards",
+    "Linda Gase"
+  ],
+  "premise_summary": "Switched at Birth is an American teen and family drama television series that premiered on ABC Family on June 6, 2011. The one-hour scripted drama is set in the Kansas City metropolitan area, and revolves around two teenagers who were switched at birth and grew up in very different environments: one in an affluent suburb, and the other in a working-class neighborhood. According to ABC Family, it is \"the first mainstream television series to have multiple deaf and hard-of-hearing series regulars and scenes shot entirely in American Sign Language (ASL)\".",
+  "wikipedia_extract": "Switched at Birth is an American teen and family drama television series that premiered on ABC Family on June 6, 2011. The one-hour scripted drama is set in the Kansas City metropolitan area, and revolves around two teenagers who were switched at birth and grew up in very different environments: one in an affluent suburb, and the other in a working-class neighborhood. According to ABC Family, it is \"the first mainstream television series to have multiple deaf and hard-of-hearing series regulars and scenes shot entirely in American Sign Language (ASL)\".",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

@@ -1,0 +1,54 @@
+{
+  "show_id": "Complications_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Complications_(TV_series)",
+  "wiki_page_title": "Complications (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:26:03.351801+00:00",
+  "retrieval_confidence": "high",
+  "title": "Complications (TV series)",
+  "search_title_used": "Complications",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Flying Glass of Milk ProductionsFox 21 Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matt Nix"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jason O'Mara",
+    "Jessica Szohr",
+    "Beth Riesgraf",
+    "Lauren Stamile"
+  ],
+  "executive_producers": [
+    "Matt Nix"
+  ],
+  "premise_summary": "Complications is an American drama television series created by Matt Nix. Starring Jason O'Mara and Jessica Szohr, the series aired on USA Network from June 18 through August 13, 2015. On August 28, 2015, USA Network cancelled Complications.",
+  "wikipedia_extract": "Complications is an American drama television series created by Matt Nix. Starring Jason O'Mara and Jessica Szohr, the series aired on USA Network from June 18 through August 13, 2015. On August 28, 2015, USA Network cancelled Complications.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

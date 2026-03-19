@@ -1,0 +1,64 @@
+{
+  "show_id": "The_Michael_J_Fox_Show_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Michael_J._Fox_Show",
+  "wiki_page_title": "The Michael J. Fox Show",
+  "retrieval_timestamp": "2026-03-19T05:09:45.868789+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Michael J. Fox Show",
+  "search_title_used": "The Michael J Fox Show",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Olive Bridge Entertainment",
+    "Sam Laybourne Inc.",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Will Gluck",
+    "Sam Laybourne"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Michael J. Fox",
+    "Betsy Brandt",
+    "Wendell Pierce",
+    "Katie Finneran",
+    "Juliette Goglia",
+    "Conor Romero",
+    "Jack Gore",
+    "Ana Nogueira"
+  ],
+  "executive_producers": [
+    "Alex Reid",
+    "Richard Schwartz",
+    "Sam Laybourne",
+    "Michael J. Fox",
+    "Will Gluck"
+  ],
+  "premise_summary": "The Michael J. Fox Show is an American television sitcom starring Michael J. Fox, that aired on NBC from September 26, 2013, to January 23, 2014. Fox made his regular return to television for the first time since he was on ABC's Spin City. It was his second NBC series, as he appeared on that network's sitcom Family Ties from 1982 to 1989 as Alex P. Keaton.",
+  "wikipedia_extract": "The Michael J. Fox Show is an American television sitcom starring Michael J. Fox, that aired on NBC from September 26, 2013, to January 23, 2014. Fox made his regular return to television for the first time since he was on ABC's Spin City. It was his second NBC series, as he appeared on that network's sitcom Family Ties from 1982 to 1989 as Alex P. Keaton.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

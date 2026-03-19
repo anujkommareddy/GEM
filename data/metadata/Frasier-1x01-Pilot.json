@@ -1,0 +1,71 @@
+{
+  "show_id": "Frasier-1x01-Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Frasier",
+  "wiki_page_title": "Frasier",
+  "retrieval_timestamp": "2026-03-19T04:32:15.856498+00:00",
+  "retrieval_confidence": "high",
+  "title": "Frasier",
+  "search_title_used": "Frasier",
+  "alternate_titles": [],
+  "start_year": 1993,
+  "end_year": 2004,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 11,
+  "episodes": 264,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Grub Street Productions",
+    "Grammnet Productions (seasons 3–11, uncredited)",
+    "Paramount TelevisionParamount Domestic Televisionurl=http://mentalfloss.com/article/60555/18-things-you-might-not-know-about-frasier"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Angell",
+    "Peter Casey",
+    "David Lee"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kelsey Grammer",
+    "Jane Leeves",
+    "David Hyde Pierce",
+    "Peri Gilpin",
+    "John Mahoney",
+    "Dan Butler"
+  ],
+  "executive_producers": [
+    "Peter Casey",
+    "David Lee",
+    "David Angell (seasons 1–8)",
+    "Christopher Lloyd(seasons 2–7 & 11)",
+    "Kelsey Grammer (seasons 6–11)",
+    "Joe Keenan (seasons 6–7 & 11)",
+    "Dan O'Shannon (seasons 8–10)",
+    "Mark Reisman (season 8)",
+    "Rob Hanning (seasons 9–10)",
+    "Sam Johnson (seasons 10–11)",
+    "Chris Marcil (seasons 10–11)",
+    "Lori Kirkland Baker (seasons 10–11)",
+    "Jeffrey Richman (seasons 10–11)"
+  ],
+  "premise_summary": "Frasier is an American television sitcom that was broadcast on NBC for 11 seasons from September 16, 1993, to May 13, 2004. The program was created and produced by David Angell, Peter Casey, and David Lee, in association with Grammnet Productions (1995–2004) and Paramount Television.",
+  "wikipedia_extract": "Frasier is an American television sitcom that was broadcast on NBC for 11 seasons from September 16, 1993, to May 13, 2004. The program was created and produced by David Angell, Peter Casey, and David Lee, in association with Grammnet Productions (1995–2004) and Paramount Television.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2004",
+  "franchise_status": null
+}

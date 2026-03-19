@@ -1,0 +1,71 @@
+{
+  "show_id": "The_Client_List_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Client_List_(TV_series)",
+  "wiki_page_title": "The Client List (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:06:21.915276+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Client List (TV series)",
+  "search_title_used": "The Client List",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 25,
+  "original_network": [
+    "Lifetime"
+  ],
+  "production_companies": [
+    "Fedora Films",
+    "Jaffe-Braunstein Entertainment",
+    "Sony Pictures Television",
+    "ITV Studios America"
+  ],
+  "distributor": null,
+  "creators": [
+    "Suzanne Martin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jennifer Love Hewitt",
+    "Cybill Shepherd",
+    "Loretta Devine",
+    "Colin Egglesfield",
+    "Rebecca Field",
+    "Naturi Naughton",
+    "Alicia Lagano",
+    "Kathleen York",
+    "Brian Hallisay",
+    "Laura-Leigh"
+  ],
+  "executive_producers": [
+    "Jennifer Love Hewitt",
+    "Dannielle Thomas",
+    "Howard Braunstein",
+    "Michael Jaffe",
+    "AJ Rinella",
+    "Jordan Budde",
+    "John Tinker",
+    "John Strauss",
+    "Ed Decter",
+    "Efrem Seeger",
+    "Michael Reisz",
+    "Dannielle Thomas"
+  ],
+  "premise_summary": "The Client List is an American drama television series based on the 2010 television film of the same name, which aired on the Lifetime network. The series stars Jennifer Love Hewitt, who starred in the film, though she plays a different character, in a premise that is slightly different from the film. The series premiered on Sunday, April 8, 2012.",
+  "wikipedia_extract": "The Client List is an American drama television series based on the 2010 television film of the same name, which aired on the Lifetime network. The series stars Jennifer Love Hewitt, who starred in the film, though she plays a different character, in a premise that is slightly different from the film. The series premiered on Sunday, April 8, 2012.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

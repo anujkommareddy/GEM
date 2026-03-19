@@ -1,0 +1,77 @@
+{
+  "show_id": "The_Mindy_Project_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Mindy_Project",
+  "wiki_page_title": "The Mindy Project",
+  "retrieval_timestamp": "2026-03-19T05:09:57.414010+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Mindy Project",
+  "search_title_used": "The Mindy Project",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Romantic comedy",
+    "Cringe comedydate=12 May 2013"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 117,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "3 Arts Entertainment",
+    "Kaling International",
+    "Universal Television Credited as Open 4 Business Productions in copyright."
+  ],
+  "distributor": null,
+  "creators": [
+    "Mindy Kaling"
+  ],
+  "showrunners": [
+    "Mindy Kaling"
+  ],
+  "lead_cast": [
+    "Mindy Kaling",
+    "Chris Messina",
+    "Ed Weeks",
+    "Anna Camp",
+    "Zoe Jarman",
+    "Amanda Setton",
+    "Stephen Tobolowsky",
+    "Ike Barinholtz",
+    "Beth Grant",
+    "Xosha Roquemore",
+    "Adam Pally",
+    "Garret Dillahunt",
+    "Fortune Feimster",
+    "Rebecca Rittenhouse"
+  ],
+  "executive_producers": [
+    "Mindy Kaling",
+    "Howard Klein",
+    "Jack Burditt",
+    "Matt Warburton",
+    "Charlie Grandy",
+    "Michael Spiller",
+    "Tracey Wigfield",
+    "Tucker Cawley",
+    "B. J. Novak (pilot)",
+    "Charles McDougall (pilot)"
+  ],
+  "premise_summary": "The Mindy Project is an American romantic comedy television series created by and starring Mindy Kaling that began airing on Fox in September 2012 and finished its six-season run on Hulu in November 2017. The series was co-produced by Universal Television and 3 Arts Entertainment.",
+  "wikipedia_extract": "The Mindy Project is an American romantic comedy television series created by and starring Mindy Kaling that began airing on Fox in September 2012 and finished its six-season run on Hulu in November 2017. The series was co-produced by Universal Television and 3 Arts Entertainment.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

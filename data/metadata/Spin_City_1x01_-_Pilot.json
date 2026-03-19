@@ -1,0 +1,72 @@
+{
+  "show_id": "Spin_City_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Spin_City",
+  "wiki_page_title": "Spin City",
+  "retrieval_timestamp": "2026-03-19T05:02:05.777238+00:00",
+  "retrieval_confidence": "high",
+  "title": "Spin City",
+  "search_title_used": "Spin City",
+  "alternate_titles": [],
+  "start_year": 1996,
+  "end_year": 2002,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Political satire"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 145,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Ubu Productions",
+    "Lottery Hill Entertainment",
+    "DreamWorks Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Gary David Goldberg",
+    "Bill Lawrence"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Michael J. Fox",
+    "Carla Gugino",
+    "Richard Kind",
+    "Alan Ruck",
+    "Michael Boatman",
+    "Connie Britton",
+    "Alexander Chaplin",
+    "Barry Bostwick",
+    "Victoria Dillard",
+    "Jennifer Esposito",
+    "Heather Locklear",
+    "Charlie Sheen",
+    "Lana Parrilla"
+  ],
+  "executive_producers": [
+    "Gary David Goldberg",
+    "Michael J. Fox",
+    "Bill Lawrence",
+    "Andy Cadiff (season 4)",
+    "Richard Day (season 4)",
+    "David S. Rosenthal (season 4)",
+    "Tom Hertz (season 6)"
+  ],
+  "premise_summary": "Spin City is an American sitcom television series that aired from September 17, 1996, to April 30, 2002, on ABC. Created by Gary David Goldberg and Bill Lawrence and produced by Ubu Productions, Lottery Hill Entertainment and DreamWorks Television, the show is set in a fictionalized version of the New York City mayor's office, and originally starred Michael J. Fox as Mike Flaherty, the Deputy Mayor of New York. Fox departed in 2000 at the conclusion of the fourth season due to symptoms of Parkinson's disease, and Charlie Sheen became the new lead as Charlie Crawford for the final two seasons.",
+  "wikipedia_extract": "Spin City is an American sitcom television series that aired from September 17, 1996, to April 30, 2002, on ABC. Created by Gary David Goldberg and Bill Lawrence and produced by Ubu Productions, Lottery Hill Entertainment and DreamWorks Television, the show is set in a fictionalized version of the New York City mayor's office, and originally starred Michael J. Fox as Mike Flaherty, the Deputy Mayor of New York. Fox departed in 2000 at the conclusion of the fourth season due to symptoms of Parkinson's disease, and Charlie Sheen became the new lead as Charlie Crawford for the final two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2002",
+  "franchise_status": null
+}

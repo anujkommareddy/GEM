@@ -1,0 +1,59 @@
+{
+  "show_id": "The_Sinner_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Sinner_(TV_series)",
+  "wiki_page_title": "The Sinner (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:55.126729+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Sinner (TV series)",
+  "search_title_used": "The Sinner",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Anthology",
+    "Crime drama",
+    "Mystery"
+  ],
+  "format_type": "anthology",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 32,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Midnight Choir Inc.",
+    "Zaftig Films",
+    "Iron Ocean",
+    "Universal Content Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Bill PullmanJessica Hechttitle=Season 1}}title=Season 2}}title=Season 3}}title=Season 4}}"
+  ],
+  "executive_producers": [
+    "Jessica Biel",
+    "Michelle Purple",
+    "Derek Simonds",
+    "Antonio Campos",
+    "Charlie Gogolak",
+    "Bradford Winters",
+    "John David Coles"
+  ],
+  "premise_summary": "The Sinner is an American police procedural anthology television series developed by Derek Simonds for USA Network. It is named after Petra Hammesfahr's 1999 novel, which served as the basis for the first season. Bill Pullman stars as a police detective who investigates crimes committed by unlikely culprits and attempts to uncover their motivations. Only Pullman appears in every season, while the rest of the cast mostly changes for each season's story.",
+  "wikipedia_extract": "The Sinner is an American police procedural anthology television series developed by Derek Simonds for USA Network. It is named after Petra Hammesfahr's 1999 novel, which served as the basis for the first season. Bill Pullman stars as a police detective who investigates crimes committed by unlikely culprits and attempts to uncover their motivations. Only Pullman appears in every season, while the rest of the cast mostly changes for each season's story.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

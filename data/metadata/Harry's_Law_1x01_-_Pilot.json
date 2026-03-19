@@ -1,0 +1,61 @@
+{
+  "show_id": "Harry's_Law_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Harry's_Law",
+  "wiki_page_title": "Harry's Law",
+  "retrieval_timestamp": "2026-03-19T04:36:08.023437+00:00",
+  "retrieval_confidence": "high",
+  "title": "Harry's Law",
+  "search_title_used": "Harry's Law",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama",
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 34,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "David E. Kelley Productions",
+    "Bonanza Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "David E. Kelley"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kathy Bates",
+    "Nate Corddry",
+    "Brittany Snow",
+    "Aml Ameen",
+    "Karen Olivo",
+    "Mark Valley",
+    "Christopher McDonald",
+    "Justine Lupe"
+  ],
+  "executive_producers": [
+    "David E. Kelley",
+    "Bill D'Elia"
+  ],
+  "premise_summary": "Harry's Law is an American legal comedy drama series created by David E. Kelley, and starring Kathy Bates, which ran for two seasons on NBC from January 17, 2011, to May 27, 2012. On May 11, 2012, NBC announced that Harry's Law would not be renewed for a third season.",
+  "wikipedia_extract": "Harry's Law is an American legal comedy drama series created by David E. Kelley, and starring Kathy Bates, which ran for two seasons on NBC from January 17, 2011, to May 27, 2012. On May 11, 2012, NBC announced that Harry's Law would not be renewed for a third season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

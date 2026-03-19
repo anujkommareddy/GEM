@@ -1,0 +1,61 @@
+{
+  "show_id": "Wiseguy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Wiseguy_(TV_series)",
+  "wiki_page_title": "Wiseguy (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:18:05.329936+00:00",
+  "retrieval_confidence": "high",
+  "title": "Wiseguy (TV series)",
+  "search_title_used": "Wiseguy",
+  "alternate_titles": [],
+  "start_year": 1987,
+  "end_year": 1990,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Mystery",
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 75,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Stephen J. Cannell Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Stephen J. Cannell",
+    "Frank Lupo"
+  ],
+  "showrunners": [
+    "David J. Burke"
+  ],
+  "lead_cast": [
+    "Ken Wahl",
+    "Jonathan Banks",
+    "Jim Byrnes",
+    "Steven Bauer",
+    "Cecil Hoffman"
+  ],
+  "executive_producers": [
+    "Stephen J. Cannell",
+    "David J. Burke",
+    "Stephen Kronish"
+  ],
+  "premise_summary": "Wiseguy is an American crime drama television series created by Stephen J. Cannell and Frank Lupo, that aired on CBS from September 16, 1987, to December 8, 1990, for a total of 75 episodes over four seasons. It centered on undercover agents of the Organized Crime Bureau (OCB), a fictional division of the FBI, as they infiltrated organized crime groups.",
+  "wikipedia_extract": "Wiseguy is an American crime drama television series created by Stephen J. Cannell and Frank Lupo, that aired on CBS from September 16, 1987, to December 8, 1990, for a total of 75 episodes over four seasons. It centered on undercover agents of the Organized Crime Bureau (OCB), a fictional division of the FBI, as they infiltrated organized crime groups.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1990",
+  "franchise_status": null
+}

@@ -1,0 +1,55 @@
+{
+  "show_id": "Fast_Layne_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fast_Layne",
+  "wiki_page_title": "Fast Layne",
+  "retrieval_timestamp": "2026-03-19T04:31:37.115940+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fast Layne",
+  "search_title_used": "Fast Layne",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "Disney Channel"
+  ],
+  "production_companies": [
+    "Lakeshore Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Travis Braun"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sophie Pollono",
+    "Sofia Rosinsky",
+    "Brandon Rossel",
+    "Winslow Fegley"
+  ],
+  "executive_producers": [
+    "Matt Dearborn",
+    "Tom Burkhard",
+    "Brian Hamilton"
+  ],
+  "premise_summary": "Fast Layne is an American comedy television series created by Travis Braun that aired on Disney Channel from February 15 to March 31, 2019. The series stars Sophie Pollono, Sofia Rosinsky, Brandon Rossel, and Winslow Fegley.",
+  "wikipedia_extract": "Fast Layne is an American comedy television series created by Travis Braun that aired on Disney Channel from February 15 to March 31, 2019. The series stars Sophie Pollono, Sofia Rosinsky, Brandon Rossel, and Winslow Fegley.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

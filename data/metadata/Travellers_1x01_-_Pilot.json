@@ -1,0 +1,55 @@
+{
+  "show_id": "Travellers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Travelers_(TV_series)",
+  "wiki_page_title": "Travelers (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:14:24.503302+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Travelers (TV series)",
+  "search_title_used": "Travellers",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "Canada",
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction"
+  ],
+  "format_type": "sci_fi",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 34,
+  "original_network": [
+    "Showcase (Canada)",
+    "Netflix (international)"
+  ],
+  "production_companies": [
+    "Peacock Alley Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Brad Wright"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eric McCormack",
+    "MacKenzie Porter",
+    "Nesta Cooper",
+    "Jared Abrahamson",
+    "Reilly Dolman",
+    "Patrick Gilmore"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Travelers is a science fiction television series created by Brad Wright, starring Eric McCormack, Mackenzie Porter, Jared Abrahamson, Nesta Cooper, Reilly Dolman, and Patrick Gilmore. The first two seasons were co-produced by Netflix and Canadian specialty channel Showcase. After the second season, Netflix became the sole commissioning broadcaster and worldwide distributor. The show premiered in Canada on October 17, 2016, and worldwide on December 23, 2016. A second season followed in 2017, and a third season was released on December 14, 2018. In February 2019, the series was cancelled.",
+  "wikipedia_extract": "Travelers is a science fiction television series created by Brad Wright, starring Eric McCormack, Mackenzie Porter, Jared Abrahamson, Nesta Cooper, Reilly Dolman, and Patrick Gilmore. The first two seasons were co-produced by Netflix and Canadian specialty channel Showcase. After the second season, Netflix became the sole commissioning broadcaster and worldwide distributor. The show premiered in Canada on October 17, 2016, and worldwide on December 23, 2016. A second season followed in 2017, and a third season was released on December 14, 2018. In February 2019, the series was cancelled.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

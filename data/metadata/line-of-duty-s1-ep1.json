@@ -1,0 +1,71 @@
+{
+  "show_id": "line-of-duty-s1-ep1",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Line_of_Duty",
+  "wiki_page_title": "Line of Duty",
+  "retrieval_timestamp": "2026-03-19T05:22:13.608333+00:00",
+  "retrieval_confidence": "high",
+  "title": "Line of Duty",
+  "search_title_used": "line of duty",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Serial drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 36,
+  "original_network": [
+    "BBC Two"
+  ],
+  "production_companies": [
+    "World Productions",
+    "ITV Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jed Mercurio"
+  ],
+  "showrunners": [
+    "Jed Mercurio"
+  ],
+  "lead_cast": [
+    "Lennie James",
+    "Martin Compston",
+    "Vicky McClure",
+    "Keeley Hawes",
+    "Adrian Dunbar",
+    "Jessica Raine",
+    "Craig Parkinson",
+    "Daniel Mays",
+    "Thandie Newton",
+    "Jason Watkins",
+    "Stephen Graham",
+    "Anna&nbsp",
+    "Maxwell&nbsp",
+    "Martin",
+    "Kelly Macdonald"
+  ],
+  "executive_producers": [
+    "Simon Heath",
+    "Stephen Wright",
+    "Jed Mercurio",
+    "Tommy Bulfin"
+  ],
+  "premise_summary": "Line of Duty is a British police procedural and serial drama television programme created by Jed Mercurio and produced by World Productions for the British Broadcasting Corporation (BBC). It began broadcasting on BBC Two on 26 June 2012. The programme performed well and was quickly commissioned for additional series that aired in 2014 and 2016. After becoming the highest-rated series on BBC Two in 10 years, Line of Duty was promoted to BBC One, beginning with the fourth series in 2017 and the fifth in 2019. It secured commissions for a sixth series, which concluded on 2 May 2021, after the programme had aired a total of 36 episodes.",
+  "wikipedia_extract": "Line of Duty is a British police procedural and serial drama television programme created by Jed Mercurio and produced by World Productions for the British Broadcasting Corporation (BBC). It began broadcasting on BBC Two on 26 June 2012. The programme performed well and was quickly commissioned for additional series that aired in 2014 and 2016. After becoming the highest-rated series on BBC Two in 10 years, Line of Duty was promoted to BBC One, beginning with the fourth series in 2017 and the fifth in 2019. It secured commissions for a sixth series, which concluded on 2 May 2021, after the programme had aired a total of 36 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

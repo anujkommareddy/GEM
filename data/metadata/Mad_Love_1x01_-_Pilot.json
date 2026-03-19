@@ -1,0 +1,57 @@
+{
+  "show_id": "Mad_Love_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mad_Love_(TV_series)",
+  "wiki_page_title": "Mad Love (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:46:32.380143+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mad Love (TV series)",
+  "search_title_used": "Mad Love",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Two Soups Productions",
+    "FanFare Productions",
+    "CBS Television Studios",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matt Tarses"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jason Biggs",
+    "Sarah Chalke",
+    "Judy Greer",
+    "Tyler Labine"
+  ],
+  "executive_producers": [
+    "Jamie Tarses",
+    "Matt Tarses"
+  ],
+  "premise_summary": "Mad Love is an American sitcom television series created by Matt Tarses that premiered on CBS on February 14, 2011. This multi-camera sitcom starred Jason Biggs, Sarah Chalke, Judy Greer and Tyler Labine, who also is the show's narrator. It was planned as a mid-season replacement during the 2010–11 television season.",
+  "wikipedia_extract": "Mad Love is an American sitcom television series created by Matt Tarses that premiered on CBS on February 14, 2011. This multi-camera sitcom starred Jason Biggs, Sarah Chalke, Judy Greer and Tyler Labine, who also is the show's narrator. It was planned as a mid-season replacement during the 2010–11 television season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

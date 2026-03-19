@@ -1,0 +1,50 @@
+{
+  "show_id": "The_Bridge_1x01",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Bridge_(2011_TV_series)",
+  "wiki_page_title": "The Bridge (2011 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:05:50.474369+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Bridge (2011 TV series)",
+  "search_title_used": "The Bridge",
+  "alternate_titles": [],
+  "start_year": null,
+  "end_year": null,
+  "country": [
+    "Sweden"
+  ],
+  "original_language": [
+    "Swedish"
+  ],
+  "genres": [
+    "Serial crime thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 38,
+  "original_network": [
+    "SVT1 (Sweden)"
+  ],
+  "production_companies": [
+    "Nimbus Film"
+  ],
+  "distributor": null,
+  "creators": [
+    "Hans Rosenfeldt"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sofia Helin"
+  ],
+  "executive_producers": [
+    "Stefan Baron"
+  ],
+  "premise_summary": "The Bridge is a Nordic noir crime television series created and written by Hans Rosenfeldt. A joint production between Sweden's SVT and Denmark's DR, it has been shown in more than 100 countries.",
+  "wikipedia_extract": "The Bridge is a Nordic noir crime television series created and written by Hans Rosenfeldt. A joint production between Sweden's SVT and Denmark's DR, it has been shown in more than 100 countries.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

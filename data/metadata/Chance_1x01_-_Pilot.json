@@ -1,0 +1,64 @@
+{
+  "show_id": "Chance_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Chance_(TV_series)",
+  "wiki_page_title": "Chance (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:12.385796+00:00",
+  "retrieval_confidence": "high",
+  "title": "Chance (TV series)",
+  "search_title_used": "Chance",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Psychological thriller",
+    "Mystery"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "Nutmegger",
+    "Kem Nunn Stories",
+    "Inc.",
+    "Groundswell Productions",
+    "Fox 21 Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Hugh Laurie",
+    "Ethan Suplee",
+    "Greta Lee",
+    "Stefania LaVie Owen",
+    "Clarke Peters",
+    "Diane Farr"
+  ],
+  "executive_producers": [
+    "Brian Grazer",
+    "Hugh Laurie",
+    "Lenny Abrahamson",
+    "Michael London",
+    "Kem Nunn",
+    "Alexandra Cunningham"
+  ],
+  "premise_summary": "Chance is an American television series created by Kem Nunn and Alexandra Cunningham which stars Hugh Laurie. The series is based on Nunn's 2014 book of the same name and was ordered straight-to-series in January 2016 with a straight two-season order containing twenty episodes. It premiered on Hulu on October 19, 2016. The second season premiered on October 11, 2017. On January 9, 2018, the series was cancelled.",
+  "wikipedia_extract": "Chance is an American television series created by Kem Nunn and Alexandra Cunningham which stars Hugh Laurie. The series is based on Nunn's 2014 book of the same name and was ordered straight-to-series in January 2016 with a straight two-season order containing twenty episodes. It premiered on Hulu on October 19, 2016. The second season premiered on October 11, 2017. On January 9, 2018, the series was cancelled.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

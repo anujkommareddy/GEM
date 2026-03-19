@@ -1,0 +1,50 @@
+{
+  "show_id": "Boss_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Boss_(TV_series)",
+  "wiki_page_title": "Boss (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:23:29.610920+00:00",
+  "retrieval_confidence": "high",
+  "title": "Boss (TV series)",
+  "search_title_used": "Boss",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Political drama/thrillerPsychological thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 18,
+  "original_network": [
+    "Starz"
+  ],
+  "production_companies": [
+    "Category 5 Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Farhad Safinia"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kelsey Grammer"
+  ],
+  "executive_producers": [
+    "Kelsey Grammer"
+  ],
+  "premise_summary": "Boss is an American political drama television series created by Farhad Safinia. The series stars Kelsey Grammer as Tom Kane, the mayor of Chicago, who has recently been diagnosed with Lewy body dementia, a degenerative neurological disorder.",
+  "wikipedia_extract": "Boss is an American political drama television series created by Farhad Safinia. The series stars Kelsey Grammer as Tom Kane, the mayor of Chicago, who has recently been diagnosed with Lewy body dementia, a degenerative neurological disorder.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

@@ -1,0 +1,61 @@
+{
+  "show_id": "Allegiance_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Allegiance_(Canadian_TV_series)",
+  "wiki_page_title": "Allegiance (Canadian TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:55.549842+00:00",
+  "retrieval_confidence": "high",
+  "title": "Allegiance (Canadian TV series)",
+  "search_title_used": "Allegiance",
+  "alternate_titles": [],
+  "start_year": 2024,
+  "end_year": null,
+  "country": [
+    "Canada"
+  ],
+  "original_language": null,
+  "genres": [
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 27,
+  "original_network": [
+    "CBC"
+  ],
+  "production_companies": [
+    "Lark Productions",
+    "Universal International Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Anar Ali"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Supinder Wraich",
+    "Stephen Lobo",
+    "Enrico Colantoni",
+    "Adolyn H. Dar",
+    "Samer Salem"
+  ],
+  "executive_producers": [
+    "Anar Ali",
+    "Tex Antonucci",
+    "Mark Ellis",
+    "Erin Haskett",
+    "Nicole Mendes",
+    "Stephanie Morgenstern",
+    "David Valleau",
+    "Nimisha Mukerji",
+    "David Frazee"
+  ],
+  "premise_summary": "Allegiance is a Canadian drama television series that premiered on CBC Television on February 7, 2024. The series has been renewed for a third season.",
+  "wikipedia_extract": "Allegiance is a Canadian drama television series that premiered on CBC Television on February 7, 2024. The series has been renewed for a third season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

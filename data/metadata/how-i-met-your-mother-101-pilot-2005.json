@@ -1,0 +1,75 @@
+{
+  "show_id": "how-i-met-your-mother-101-pilot-2005",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/How_I_Met_Your_Mother",
+  "wiki_page_title": "How I Met Your Mother",
+  "retrieval_timestamp": "2026-03-19T05:21:37.470851+00:00",
+  "retrieval_confidence": "high",
+  "title": "How I Met Your Mother",
+  "search_title_used": "how i met your mother",
+  "alternate_titles": [],
+  "start_year": 2005,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Romantic comedy",
+    "Comedy drama"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 9,
+  "episodes": 208,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Bays Thomas Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Carter Bays",
+    "Craig Thomas"
+  ],
+  "showrunners": [
+    "Carter Bays",
+    "Craig Thomas"
+  ],
+  "lead_cast": [
+    "Josh Radnor",
+    "Jason Segel",
+    "Cobie Smulders",
+    "Neil Patrick Harris",
+    "Alyson Hannigan",
+    "Cristin Milioti"
+  ],
+  "executive_producers": [
+    "Carter Bays",
+    "Craig Thomas",
+    "Rob Greenberg",
+    "Pamela Fryman",
+    "Eileen Heisler",
+    "DeAnn Heline",
+    "Phil Lord",
+    "Greg Malins",
+    "Christopher Miller",
+    "Chris Harris",
+    "Stephen Lloyd",
+    "Kourtney Kang",
+    "Jamie Rhonheimer",
+    "Chuck Tatham",
+    "Josh Radnor (season 9)"
+  ],
+  "premise_summary": "How I Met Your Mother is an American sitcom created by Craig Thomas and Carter Bays for CBS. The series, which aired from September 19, 2005, to March 31, 2014, follows main character Ted Mosby and his group of friends in New York City's Manhattan. As a frame story, Ted recounts to his children Penny and Luke the events from September 2005 to May 2013 that led to him meeting their mother.",
+  "wikipedia_extract": "How I Met Your Mother is an American sitcom created by Craig Thomas and Carter Bays for CBS. The series, which aired from September 19, 2005, to March 31, 2014, follows main character Ted Mosby and his group of friends in New York City's Manhattan. As a frame story, Ted recounts to his children Penny and Luke the events from September 2005 to May 2013 that led to him meeting their mother.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

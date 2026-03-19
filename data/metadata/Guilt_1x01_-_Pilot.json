@@ -1,0 +1,48 @@
+{
+  "show_id": "Guilt_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Guilt_(British_TV_series)",
+  "wiki_page_title": "Guilt (British TV series)",
+  "retrieval_timestamp": "2026-03-19T04:35:10.292574+00:00",
+  "retrieval_confidence": "high",
+  "title": "Guilt (British TV series)",
+  "search_title_used": "Guilt",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2023,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 12,
+  "original_network": [
+    "BBC Scotland",
+    "BBC Two"
+  ],
+  "production_companies": [
+    "Expectation Entertainment",
+    "Happy Tramp North",
+    "BBC Scotland",
+    "BBC Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Mark Bonnar"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Guilt is a Scottish mystery thriller television series. It was the first drama commission of BBC Scotland. Episodes premiered on that channel before being broadcast across the UK on BBC Two. Written and created by Neil Forsyth, Guilt initially centres on two brothers, played by Mark Bonnar and Jamie Sives, who are involved in a hit and run. The series eventually draws a large cast of characters into an ongoing story.",
+  "wikipedia_extract": "Guilt is a Scottish mystery thriller television series. It was the first drama commission of BBC Scotland. Episodes premiered on that channel before being broadcast across the UK on BBC Two. Written and created by Neil Forsyth, Guilt initially centres on two brothers, played by Mark Bonnar and Jamie Sives, who are involved in a hit and run. The series eventually draws a large cast of characters into an ongoing story.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

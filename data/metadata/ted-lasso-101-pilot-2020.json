@@ -1,0 +1,70 @@
+{
+  "show_id": "ted-lasso-101-pilot-2020",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ted_Lasso",
+  "wiki_page_title": "Ted Lasso",
+  "retrieval_timestamp": "2026-03-19T05:24:43.922672+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ted Lasso",
+  "search_title_used": "ted lasso",
+  "alternate_titles": [],
+  "start_year": 2020,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sports comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 34,
+  "original_network": [
+    "Apple TV+"
+  ],
+  "production_companies": [
+    "Ruby's Tuna Inc.",
+    "Doozer",
+    "Universal Television",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Jason Sudeikis",
+    "Hannah Waddingham",
+    "Jeremy Swift",
+    "Phil Dunster",
+    "Brett Goldstein",
+    "Brendan Hunt",
+    "Nick Mohammed",
+    "Juno Temple",
+    "Sarah Niles",
+    "Anthony Head",
+    "Toheeb Jimoh",
+    "Cristo Fernández",
+    "Kola Bokinni",
+    "Billy Harris",
+    "James Lance"
+  ],
+  "executive_producers": [
+    "Bill Lawrence",
+    "Jason Sudeikis",
+    "Brendan Hunt",
+    "Joe Kelly",
+    "Jeff Ingold",
+    "Bill Wrubel"
+  ],
+  "premise_summary": "Ted Lasso is an American sports comedy-drama television series developed by Jason Sudeikis, Bill Lawrence, Brendan Hunt, and Joe Kelly. It is based on a character Sudeikis portrayed in a series of promotional media for NBC Sports' coverage of England's soccer Premier League. The show follows Ted Lasso, an American college football coach who is hired to coach an English soccer team whose owner secretly hopes his inexperience will lead it to failure; instead, Lasso's folksy, optimistic leadership proves unexpectedly successful. The first season of 10 episodes premiered on Apple TV+ on August 14, 2020, with the first three episodes releasing immediately. A second season of 12 episodes followed on July 23, 2021, with the third season released on March 15, 2023. It was announced in March 2025 that the series had been renewed for a fourth season.",
+  "wikipedia_extract": "Ted Lasso is an American sports comedy-drama television series developed by Jason Sudeikis, Bill Lawrence, Brendan Hunt, and Joe Kelly. It is based on a character Sudeikis portrayed in a series of promotional media for NBC Sports' coverage of England's soccer Premier League. The show follows Ted Lasso, an American college football coach who is hired to coach an English soccer team whose owner secretly hopes his inexperience will lead it to failure; instead, Lasso's folksy, optimistic leadership proves unexpectedly successful. The first season of 10 episodes premiered on Apple TV+ on August 14, 2020, with the first three episodes releasing immediately. A second season of 12 episodes followed on July 23, 2021, with the third season released on March 15, 2023. It was announced in March 2025 that the series had been renewed for a fourth season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

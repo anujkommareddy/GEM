@@ -1,0 +1,62 @@
+{
+  "show_id": "The_McCarthys_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_McCarthys",
+  "wiki_page_title": "The McCarthys",
+  "retrieval_timestamp": "2026-03-19T05:09:41.880028+00:00",
+  "retrieval_confidence": "high",
+  "title": "The McCarthys",
+  "search_title_used": "The McCarthys",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 15,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Loosely Inspired by Bambi Cottages Productions",
+    "Olive Bridge Entertainment",
+    "CBS Television Studios",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Brian Gallivan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tyler Ritter",
+    "Joey McIntyre",
+    "Jimmy Dunn",
+    "Kelen Coleman",
+    "Jack McGee",
+    "Laurie Metcalf"
+  ],
+  "executive_producers": [
+    "Brian Gallivan",
+    "Mike Sikowitz",
+    "Will Gluck",
+    "Richard Schwartz",
+    "Andy Ackerman"
+  ],
+  "premise_summary": "The McCarthys is an American sitcom television series created by Brian Gallivan, who also shares executive producer credits with Mike Sikowitz, Will Gluck, Richard Schwartz, and Andy Ackerman for CBS Television Studios and Sony Pictures Television. The series debuted on CBS during the 2014–15 television season, airing Thursdays at 9:30 pm (ET/PT)/8:30 pm (CT). It aired from October 30, 2014, to July 11, 2015.",
+  "wikipedia_extract": "The McCarthys is an American sitcom television series created by Brian Gallivan, who also shares executive producer credits with Mike Sikowitz, Will Gluck, Richard Schwartz, and Andy Ackerman for CBS Television Studios and Sony Pictures Television. The series debuted on CBS during the 2014–15 television season, airing Thursdays at 9:30 pm (ET/PT)/8:30 pm (CT). It aired from October 30, 2014, to July 11, 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

@@ -1,0 +1,46 @@
+{
+  "show_id": "Wu_Tang_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Shadow_of_Empress_Wu",
+  "wiki_page_title": "The Shadow of Empress Wu",
+  "retrieval_timestamp": "2026-03-19T05:18:31.919840+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Shadow of Empress Wu",
+  "search_title_used": "Wu Tang",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2008,
+  "country": [
+    "China"
+  ],
+  "original_language": [
+    "Mandarin"
+  ],
+  "genres": [
+    "Historical fiction, costume drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 62,
+  "original_network": [
+    "CCTV"
+  ],
+  "production_companies": [
+    "Nanjing Film Studio"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Liu XiaoqingEva HuangVincent JiaoMa XiaoweiYang Zi"
+  ],
+  "executive_producers": null,
+  "premise_summary": "The Shadow of Empress Wu, also known as Riyue Lingkong, is a Chinese television series about the relationship between Wu Zetian, the only female emperor in Chinese history, and Xie Yaohuan, a fictional female official serving in Wu's court. The series was directed by Lu Qi and starred Liu Xiaoqing, Eva Huang, Vincent Jiao, Ma Xiaowei and Yang Zi in the leading roles. It was first broadcast on CCTV from August 2007 to January 2008 in mainland China, and in November 2008 on HD Jade in Hong Kong.",
+  "wikipedia_extract": "The Shadow of Empress Wu, also known as Riyue Lingkong, is a Chinese television series about the relationship between Wu Zetian, the only female emperor in Chinese history, and Xie Yaohuan, a fictional female official serving in Wu's court. The series was directed by Lu Qi and starred Liu Xiaoqing, Eva Huang, Vincent Jiao, Ma Xiaowei and Yang Zi in the leading roles. It was first broadcast on CCTV from August 2007 to January 2008 in mainland China, and in November 2008 on HD Jade in Hong Kong.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

@@ -1,0 +1,64 @@
+{
+  "show_id": "Reprisal_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Reprisal_(TV_series)",
+  "wiki_page_title": "Reprisal (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:56:35.351794+00:00",
+  "retrieval_confidence": "high",
+  "title": "Reprisal (TV series)",
+  "search_title_used": "Reprisal",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "A+E Studios",
+    "The Littlefield Company"
+  ],
+  "distributor": null,
+  "creators": [
+    "Josh Corbin"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Abigail Spencer",
+    "Rodrigo Santoro",
+    "Mena Massoud",
+    "Rhys Wakefield",
+    "Madison Davenport",
+    "David Dastmalchian",
+    "Gilbert Owuor",
+    "W. Earl Brown",
+    "Craig Tate",
+    "Wavyy Jonez",
+    "Shane Callahan",
+    "Rory Cochrane"
+  ],
+  "executive_producers": [
+    "Josh Corbin",
+    "Warren Littlefield",
+    "Barry Jossen"
+  ],
+  "premise_summary": "Reprisal is an American television drama series that premiered on Hulu on December 6, 2019. In June 2020, the series was canceled after one season.",
+  "wikipedia_extract": "Reprisal is an American television drama series that premiered on Hulu on December 6, 2019. In June 2020, the series was canceled after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,62 @@
+{
+  "show_id": "Playing_House_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Playing_House_(TV_series)",
+  "wiki_page_title": "Playing House (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:54:04.882106+00:00",
+  "retrieval_confidence": "high",
+  "title": "Playing House (TV series)",
+  "search_title_used": "Playing House",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 26,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Universal Cable Productions",
+    "A24 Films",
+    "Parham St. Clair Productions",
+    "Open 4 Business Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lennon Parham",
+    "Jessica St. Clair"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Lennon Parham",
+    "Jessica St. Clair",
+    "Keegan-Michael Key",
+    "Zach Woods",
+    "Brad Morris"
+  ],
+  "executive_producers": [
+    "Lennon Parham",
+    "Jessica St. Clair",
+    "Scot Armstrong",
+    "Judah Miller",
+    "Ravi Nandan"
+  ],
+  "premise_summary": "Playing House is an American sitcom that premiered on April 29, 2014, on the USA Network. Lennon Parham and Jessica St. Clair created and star in the series, which is inspired by their real-life friendship.",
+  "wikipedia_extract": "Playing House is an American sitcom that premiered on April 29, 2014, on the USA Network. Lennon Parham and Jessica St. Clair created and star in the series, which is inspired by their real-life friendship.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

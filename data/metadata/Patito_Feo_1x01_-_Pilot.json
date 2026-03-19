@@ -1,0 +1,51 @@
+{
+  "show_id": "Patito_Feo_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Patito_Feo",
+  "wiki_page_title": "Patito Feo",
+  "retrieval_timestamp": "2026-03-19T04:53:14.244426+00:00",
+  "retrieval_confidence": "high",
+  "title": "Patito Feo",
+  "search_title_used": "Patito Feo",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": null,
+  "country": [
+    "Argentina"
+  ],
+  "original_language": [
+    "Spanish"
+  ],
+  "genres": [
+    "Telenovela",
+    "Teen drama",
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": null,
+  "seasons": 2,
+  "episodes": 304,
+  "original_network": [
+    "Canal 13"
+  ],
+  "production_companies": [
+    "Ideas del Sur Televisa"
+  ],
+  "distributor": null,
+  "creators": [
+    "Alejandro Stoessel",
+    "Mario Schajris"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Leonardo Blanco"
+  ],
+  "premise_summary": "Patito Feo is an Argentine children's–teen telenovela produced by Ideas del Sur. It originally aired on Canal 13 from 2007 to 2008. Following its popularity among the younger audience in Argentina, Disney Channel acquired the broadcast rights, aired the series internationally and produced new original episodes between 2007 and 2011 in more than 50 countries across Eurasia and the Americas. Although it received mixed reviews from critics, the series achieved high ratings and became a global phenomenon.",
+  "wikipedia_extract": "Patito Feo is an Argentine children's–teen telenovela produced by Ideas del Sur. It originally aired on Canal 13 from 2007 to 2008. Following its popularity among the younger audience in Argentina, Disney Channel acquired the broadcast rights, aired the series internationally and produced new original episodes between 2007 and 2011 in more than 50 countries across Eurasia and the Americas. Although it received mixed reviews from critics, the series achieved high ratings and became a global phenomenon.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

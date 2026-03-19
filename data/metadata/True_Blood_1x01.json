@@ -1,0 +1,113 @@
+{
+  "show_id": "True_Blood_1x01",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/True_Blood",
+  "wiki_page_title": "True Blood",
+  "retrieval_timestamp": "2026-03-19T05:14:43.473530+00:00",
+  "retrieval_confidence": "high",
+  "title": "True Blood",
+  "search_title_used": "True Blood",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Fantasy drama",
+    "Supernatural horror"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 80,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "Your Face Goes Here Entertainment",
+    "HBO Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Alan Ball"
+  ],
+  "showrunners": [
+    "Alan Ball (seasons 1–5)",
+    "Brian Buckner (seasons 6–7)"
+  ],
+  "lead_cast": [
+    "Anna Paquin",
+    "Stephen Moyer",
+    "Alexander Skarsgård",
+    "Sam Trammell",
+    "Ryan Kwanten",
+    "Rutina Wesley",
+    "Chris Bauer",
+    "Nelsan Ellis",
+    "Jim Parrack",
+    "Carrie Preston",
+    "Michael Raymond-James",
+    "William Sanderson",
+    "Lynn Collins",
+    "Lois Smith",
+    "Adina Porter",
+    "Lizzy Caplan",
+    "Stephen Root",
+    "Mehcad Brooks",
+    "Anna Camp",
+    "Michelle Forbes",
+    "Todd Lowe",
+    "Michael McMillian",
+    "Deborah Ann Woll",
+    "Mariana Klaveno",
+    "Marshall Allman",
+    "Kristin Bauer van Straten",
+    "Kevin Alejandro",
+    "Denis O'Hare",
+    "Lindsay Pulsipher",
+    "Lauren Bowles",
+    "Janina Gavankar",
+    "Fiona Shaw",
+    "Jessica Tuck",
+    "Joe Manganiello",
+    "Scott Foley",
+    "Lucy Griffiths",
+    "Christopher Meloni",
+    "Valentina Cervi",
+    "Rutger Hauer",
+    "Arliss Howard",
+    "Kelly Overton",
+    "Robert Patrick",
+    "Rob Kazinsky",
+    "Jurnee Smollett-Bell",
+    "Amelia Rose Blaire",
+    "Gregg Daniel",
+    "Aaron Christian Howles",
+    "Noah Matthews",
+    "Bailey Noble",
+    "Nathan Parsons",
+    "Karolina Wydra",
+    "Tara Buck"
+  ],
+  "executive_producers": [
+    "Alan Ball",
+    "Gregg Fienberg",
+    "Brian Buckner",
+    "Raelle Tucker",
+    "Alexander Woo",
+    "Nancy Oliver",
+    "Mark Hudis",
+    "Angela Robinson"
+  ],
+  "premise_summary": "True Blood is an American fantasy horror drama television series produced and created by Alan Ball. It is based on The Southern Vampire Mysteries, a series of novels by Charlaine Harris.",
+  "wikipedia_extract": "True Blood is an American fantasy horror drama television series produced and created by Alan Ball. It is based on The Southern Vampire Mysteries, a series of novels by Charlaine Harris.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

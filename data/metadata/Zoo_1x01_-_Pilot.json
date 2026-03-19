@@ -1,0 +1,70 @@
+{
+  "show_id": "Zoo_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Zoo_(American_TV_series)",
+  "wiki_page_title": "Zoo (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:19:18.230636+00:00",
+  "retrieval_confidence": "high",
+  "title": "Zoo (American TV series)",
+  "search_title_used": "Zoo",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 39,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Midnight Radio",
+    "Tree Line Film",
+    "James Patterson Entertainment",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "James Wolk",
+    "Kristen Connolly",
+    "Nonso Anozie",
+    "Nora Arnezeder",
+    "Billy Burke",
+    "Alyssa Diaz",
+    "Josh Salatin",
+    "Gracie Dzienny"
+  ],
+  "executive_producers": [
+    "Jeff Pinkner",
+    "Josh Appelbaum",
+    "André Nemec",
+    "Scott Rosenberg",
+    "Michael Katleman",
+    "James Mangold",
+    "Cathy Konrad",
+    "James Patterson",
+    "Bill Robinson",
+    "Leopoldo Gout",
+    "Steve Bowen"
+  ],
+  "premise_summary": "Zoo is an American drama television series based on the 2012 novel by James Patterson and Michael Ledwidge, the former also serving as an executive producer for the series, which stars James Wolk, Kristen Connolly, Nonso Anozie, Nora Arnezeder and Billy Burke as a group of varied professionals who investigate a mysterious outbreak of violent animal attacks upon humans all over the world.\nZoo premiered on June 30, 2015, on CBS. CBS renewed the series for a third season in August 2016, which aired between June 29 and September 21, 2017. On October 23, 2017, CBS announced the series had been cancelled after three seasons.",
+  "wikipedia_extract": "Zoo is an American drama television series based on the 2012 novel by James Patterson and Michael Ledwidge, the former also serving as an executive producer for the series, which stars James Wolk, Kristen Connolly, Nonso Anozie, Nora Arnezeder and Billy Burke as a group of varied professionals who investigate a mysterious outbreak of violent animal attacks upon humans all over the world.\nZoo premiered on June 30, 2015, on CBS. CBS renewed the series for a third season in August 2016, which aired between June 29 and September 21, 2017. On October 23, 2017, CBS announced the series had been cancelled after three seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,62 @@
+{
+  "show_id": "The_I-Land_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_I-Land",
+  "wiki_page_title": "The I-Land",
+  "retrieval_timestamp": "2026-03-19T05:08:43.525905+00:00",
+  "retrieval_confidence": "low",
+  "title": "The I-Land",
+  "search_title_used": "The I Land",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fiction",
+    "Thriller"
+  ],
+  "format_type": "limited_series",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 7,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Nomadic Pictures Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Anthony Salter"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Natalie Martinez",
+    "Kate Bosworth",
+    "Ronald Peet",
+    "Kyle Schmid",
+    "Sibylla Deen",
+    "Gilles Geary",
+    "Anthony Lee Medina",
+    "Kota Eberhardt",
+    "Michelle Veintimilla",
+    "Alex Pettyfer"
+  ],
+  "executive_producers": [
+    "Neil LaBute",
+    "Chad Oakes",
+    "Michael Frislev"
+  ],
+  "premise_summary": "The I-Land is an American science fiction thriller television miniseries created by Anthony Salter. The series is executive produced by Neil LaBute, Chad Oakes and Mike Frislev. The series stars Kate Bosworth, Natalie Martinez, Ronald Peet, Kyle Schmid, Gilles Geary, Sibylla Deen, Anthony Lee Medina, Kota Eberhardt, Michelle Veintimilla and Alex Pettyfer. It was released on September 12, 2019 on Netflix. The series received overwhelmingly negative reviews from critics.",
+  "wikipedia_extract": "The I-Land is an American science fiction thriller television miniseries created by Anthony Salter. The series is executive produced by Neil LaBute, Chad Oakes and Mike Frislev. The series stars Kate Bosworth, Natalie Martinez, Ronald Peet, Kyle Schmid, Gilles Geary, Sibylla Deen, Anthony Lee Medina, Kota Eberhardt, Michelle Veintimilla and Alex Pettyfer. It was released on September 12, 2019 on Netflix. The series received overwhelmingly negative reviews from critics.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

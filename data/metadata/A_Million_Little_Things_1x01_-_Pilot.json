@@ -1,0 +1,69 @@
+{
+  "show_id": "A_Million_Little_Things_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/A_Million_Little_Things",
+  "wiki_page_title": "A Million Little Things",
+  "retrieval_timestamp": "2026-03-19T04:18:00.732195+00:00",
+  "retrieval_confidence": "high",
+  "title": "A Million Little Things",
+  "search_title_used": "A Million Little Things",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Family drama",
+    "Romance"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 87,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Next Thing You Know ProductionsCredited as Fee-Fi-Fo... ...Next Thing You Know through season 1",
+    "ABC Signature"
+  ],
+  "distributor": null,
+  "creators": [
+    "DJ Nash"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Giuntoli",
+    "Romany Malco",
+    "Allison Miller",
+    "Christina Moses",
+    "Grace Park",
+    "James Roday Rodriguez",
+    "Stéphanie Szostak",
+    "Tristan Byon",
+    "Lizzy Greene",
+    "Chance Hurstfield",
+    "Floriana Lima"
+  ],
+  "executive_producers": [
+    "DJ Nash",
+    "Aaron Kaplan",
+    "Dana Honor",
+    "James Griffiths",
+    "Marshall Boone",
+    "David Marshall Grant",
+    "Terrence Coli",
+    "Brian Morewitz"
+  ],
+  "premise_summary": "A Million Little Things is an American family drama television series created by DJ Nash for ABC. Produced by ABC Signature and Kapital Entertainment, it features an ensemble cast including David Giuntoli, Grace Park, Romany Malco, Christina Moses, Allison Miller, James Roday Rodriguez, Stéphanie Szostak, Tristan Byon, and Lizzy Greene. The series aired from September 26, 2018 until May 3, 2023, across five seasons and 87 episodes.",
+  "wikipedia_extract": "A Million Little Things is an American family drama television series created by DJ Nash for ABC. Produced by ABC Signature and Kapital Entertainment, it features an ensemble cast including David Giuntoli, Grace Park, Romany Malco, Christina Moses, Allison Miller, James Roday Rodriguez, Stéphanie Szostak, Tristan Byon, and Lizzy Greene. The series aired from September 26, 2018 until May 3, 2023, across five seasons and 87 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

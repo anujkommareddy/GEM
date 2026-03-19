@@ -1,0 +1,59 @@
+{
+  "show_id": "Limetown_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Limetown_(TV_series)",
+  "wiki_page_title": "Limetown (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:45:10.713051+00:00",
+  "retrieval_confidence": "high",
+  "title": "Limetown (TV series)",
+  "search_title_used": "Limetown",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Facebook Watch"
+  ],
+  "production_companies": [
+    "Iron Ocean Productions",
+    "Endeavor Content",
+    "Midnight Radio"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Jessica Biel",
+    "Stanley Tucci"
+  ],
+  "executive_producers": [
+    "Jessica Biel",
+    "Michelle Purple",
+    "Zack Akers",
+    "Skip Bronkie",
+    "Josh Appelbaum",
+    "André Nemec",
+    "Jeff Pinkner",
+    "Scott Rosenberg",
+    "Adrienne Erickson"
+  ],
+  "premise_summary": "Limetown is an American drama series, based on the podcast of the same name created by Zack Akers and Skip Bronkie, that premiered on Facebook Watch on October 16, 2019. The series stars Jessica Biel and Stanley Tucci.",
+  "wikipedia_extract": "Limetown is an American drama series, based on the podcast of the same name created by Zack Akers and Skip Bronkie, that premiered on Facebook Watch on October 16, 2019. The series stars Jessica Biel and Stanley Tucci.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

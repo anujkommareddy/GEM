@@ -1,0 +1,73 @@
+{
+  "show_id": "Fringe_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fringe_(TV_series)",
+  "wiki_page_title": "Fringe (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:32:42.885174+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fringe (TV series)",
+  "search_title_used": "Fringe",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Science fiction",
+    "Paranormal fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 100,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Bad Robot",
+    "K/O Paper Products",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "J. J. Abrams",
+    "Alex Kurtzman",
+    "Roberto Orci"
+  ],
+  "showrunners": [
+    "Jeff Pinkner (seasons 1–4)",
+    "J. H. Wyman (seasons 2–5)"
+  ],
+  "lead_cast": [
+    "Anna Torv",
+    "Joshua Jackson",
+    "John Noble",
+    "Lance Reddick",
+    "Kirk Acevedo",
+    "Blair Brown",
+    "Jasika Nicole",
+    "Mark Valley",
+    "Seth Gabel"
+  ],
+  "executive_producers": [
+    "J. J. Abrams",
+    "Bryan Burk",
+    "Alex Kurtzman",
+    "Roberto Orci",
+    "J. H. Wyman",
+    "Jeff Pinkner",
+    "Joe Chappelle"
+  ],
+  "premise_summary": "Fringe is an American science fiction television series created by J. J. Abrams, Alex Kurtzman, and Roberto Orci. It premiered on Fox on September 9, 2008, and concluded on January 18, 2013, after five seasons comprising 100 episodes. An FBI agent, Olivia Dunham, a genius but dysfunctional scientist, Walter Bishop, and his son with a troubled past, Peter Bishop, are all members of a newly formed Fringe Division in the Federal Bureau of Investigation. Based in Boston, Massachusetts, the team uses fringe science to investigate a series of unexplained and often ghastly occurrences which are related to a parallel universe.",
+  "wikipedia_extract": "Fringe is an American science fiction television series created by J. J. Abrams, Alex Kurtzman, and Roberto Orci. It premiered on Fox on September 9, 2008, and concluded on January 18, 2013, after five seasons comprising 100 episodes. An FBI agent, Olivia Dunham, a genius but dysfunctional scientist, Walter Bishop, and his son with a troubled past, Peter Bishop, are all members of a newly formed Fringe Division in the Federal Bureau of Investigation. Based in Boston, Massachusetts, the team uses fringe science to investigate a series of unexplained and often ghastly occurrences which are related to a parallel universe.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

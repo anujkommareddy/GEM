@@ -1,0 +1,82 @@
+{
+  "show_id": "1899The_Ship_4374a381_1899-101-the-ship-2022",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/1899_(TV_series)",
+  "wiki_page_title": "1899 (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:17:14.962515+00:00",
+  "retrieval_confidence": "high",
+  "title": "1899 (TV series)",
+  "search_title_used": "1899",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": null,
+  "country": [
+    "Germany"
+  ],
+  "original_language": [
+    "English",
+    "Spanish",
+    "French",
+    "Polish",
+    "German",
+    "Danish",
+    "Portuguese",
+    "Cantonese"
+  ],
+  "genres": [
+    "Period drama",
+    "Mystery",
+    "Supernatural horror",
+    "Science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Dark Ways"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jantje Friese",
+    "Baran bo Odar"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Emily Beecham",
+    "Aneurin Barnard",
+    "Andreas Pietschmann",
+    "Miguel Bernardeau",
+    "José Pimentão",
+    "Isabella Wei",
+    "Gabby Wong",
+    "Yann Gael",
+    "Mathilde Ollivier",
+    "Jonas Bloquet",
+    "Rosalie Craig",
+    "Maciej Musiał",
+    "Clara Rosager",
+    "Lucas Lynggaard Tønnesen",
+    "Maria Erwolter",
+    "Alexandre Willaume",
+    "Tino Mewes",
+    "Isaak Dentler",
+    "Fflyn Edwards",
+    "Anton Lesser"
+  ],
+  "executive_producers": [
+    "Jantje Friese",
+    "Baran bo Odar",
+    "Philipp Klausing"
+  ],
+  "premise_summary": "1899 is a multilingual German mystery science fiction television series created by Jantje Friese and Baran bo Odar. It premiered on Netflix in November 2022 and received generally favourable reviews. The series was cancelled in January 2023.",
+  "wikipedia_extract": "1899 is a multilingual German mystery science fiction television series created by Jantje Friese and Baran bo Odar. It premiered on Netflix in November 2022 and received generally favourable reviews. The series was cancelled in January 2023.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,67 @@
+{
+  "show_id": "Outcast_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Outcast_(TV_series)",
+  "wiki_page_title": "Outcast (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:52:43.533010+00:00",
+  "retrieval_confidence": "high",
+  "title": "Outcast (TV series)",
+  "search_title_used": "Outcast",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Horror",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Cinemax"
+  ],
+  "production_companies": [
+    "Circle of Confusion",
+    "Skybound Entertainment",
+    "Fox International Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Robert Kirkman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Patrick Fugit",
+    "Philip Glenister",
+    "Wrenn Schmidt",
+    "David Denman",
+    "Julia Crockett",
+    "Kate Lyn Sheil",
+    "Brent Spiner",
+    "Reg E. Cathey",
+    "Madeleine McGraw"
+  ],
+  "executive_producers": [
+    "Robert Kirkman",
+    "Chris Black",
+    "David Alpert",
+    "Sharon Tal Yguado",
+    "Sue Naegle",
+    "Adam Wingard",
+    "Howard Deutch"
+  ],
+  "premise_summary": "Outcast is an American horror drama television series based on the comics of the same name by Robert Kirkman and Paul Azaceta. A ten-episode first season debuted on Cinemax on June 3, 2016. It is a supernatural horror story that features people involved in demonic possession, and revolves around the life of Kyle Barnes, who is rejected by the people of Rome, West Virginia, for allegedly hurting his wife and daughter.",
+  "wikipedia_extract": "Outcast is an American horror drama television series based on the comics of the same name by Robert Kirkman and Paul Azaceta. A ten-episode first season debuted on Cinemax on June 3, 2016. It is a supernatural horror story that features people involved in demonic possession, and revolves around the life of Kyle Barnes, who is rejected by the people of Rome, West Virginia, for allegedly hurting his wife and daughter.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

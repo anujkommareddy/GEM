@@ -1,0 +1,64 @@
+{
+  "show_id": "The_Good_Cop_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Good_Cop/Bad_Cop",
+  "wiki_page_title": "Good Cop/Bad Cop",
+  "retrieval_timestamp": "2026-03-19T05:08:04.699690+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Good Cop/Bad Cop",
+  "search_title_used": "The Good Cop",
+  "alternate_titles": [],
+  "start_year": 2025,
+  "end_year": 2025,
+  "country": [
+    "United States",
+    "Australia"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "The CW",
+    "The Roku Channel",
+    "Stan"
+  ],
+  "production_companies": [
+    "Future Shack Entertainment",
+    "Jungle Entertainment",
+    "ITV Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Quaintance"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Leighton Meester",
+    "Luke Cook",
+    "Devon Terrell",
+    "Clancy Brown"
+  ],
+  "executive_producers": [
+    "Trent O'Donnell",
+    "John Quaintance",
+    "Chloe Rickard",
+    "Jeff Wachtel",
+    "Cailah Scobie",
+    "Amanda Duthie"
+  ],
+  "premise_summary": "Good Cop/Bad Cop is a comedy drama television series created by John Quaintance. It premiered on February 19, 2025, on The CW in the United States and Stan in Australia. In February 2026, the series was canceled after one season.",
+  "wikipedia_extract": "Good Cop/Bad Cop is a comedy drama television series created by John Quaintance. It premiered on February 19, 2025, on The CW in the United States and Stan in Australia. In February 2026, the series was canceled after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

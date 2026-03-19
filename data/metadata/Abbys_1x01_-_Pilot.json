@@ -1,0 +1,58 @@
+{
+  "show_id": "Abbys_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Abby_(TV_series)",
+  "wiki_page_title": "Abby (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:18:08.480835+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Abby (TV series)",
+  "search_title_used": "Abbys",
+  "alternate_titles": [],
+  "start_year": 2003,
+  "end_year": 2003,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "UPN"
+  ],
+  "production_companies": [
+    "Katlin/Bernstein Productions",
+    "CBS Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mitchel Katlin",
+    "Nat Bernstein"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sydney Tamiia Poitier",
+    "Kadeem Hardison",
+    "Randy J. Goodwin",
+    "Tangie Ambrose",
+    "Sean O'Bryan"
+  ],
+  "executive_producers": [
+    "Nat Bernstein",
+    "Mitchel Katlin",
+    "Jacque Edmonds"
+  ],
+  "premise_summary": "Abby is an American sitcom created by Nat Bernstein and Mitchel Katlin that aired for one season on UPN from January 6, 2003, to March 4, 2003. The show revolves around television producer Abigail \"Abby\" Walker and her relationship with her ex-boyfriend Will Jeffries. After they break up in the pilot episode, they agree to live together as friends in their rent-controlled San Francisco apartment.",
+  "wikipedia_extract": "Abby is an American sitcom created by Nat Bernstein and Mitchel Katlin that aired for one season on UPN from January 6, 2003, to March 4, 2003. The show revolves around television producer Abigail \"Abby\" Walker and her relationship with her ex-boyfriend Will Jeffries. After they break up in the pilot episode, they agree to live together as friends in their rent-controlled San Francisco apartment.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2003",
+  "franchise_status": null
+}

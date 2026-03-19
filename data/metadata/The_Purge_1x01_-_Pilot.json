@@ -1,0 +1,77 @@
+{
+  "show_id": "The_Purge_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Purge_(TV_series)",
+  "wiki_page_title": "The Purge (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:04.246021+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Purge (TV series)",
+  "search_title_used": "The Purge",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Horror",
+    "Action thriller",
+    "Crime drama",
+    "Anthology"
+  ],
+  "format_type": "anthology",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Blumhouse Television",
+    "Universal Content ProductionsKnown as Universal Cable Productions for season 1",
+    "Platinum Dunes",
+    "Man in a Tree Productions",
+    "Racket Squad Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "James DeMonaco"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Gabriel Chavarria",
+    "Hannah Emily Anderson",
+    "Jessica Garza",
+    "Lili Simmons",
+    "Amanda Warren",
+    "Colin Woodell",
+    "Lee Tergesen",
+    "Derek Luke",
+    "Max Martini",
+    "Paola Núñez",
+    "Joel Allen"
+  ],
+  "executive_producers": [
+    "Anthony Hemingway",
+    "Michael Bay",
+    "Andrew Form",
+    "Brad Fuller",
+    "Jason Blum",
+    "Sébastien Lemercier",
+    "James DeMonaco",
+    "Thomas Kelly",
+    "Tim Andrew",
+    "James Roland",
+    "Krystal Houghton Ziv"
+  ],
+  "premise_summary": "The Purge is an American action horror anthology television series, based on the franchise of the same name and created by James DeMonaco. The first season premiered on USA Network on September 4, 2018, and stars Gabriel Chavarria, Hannah Emily Anderson, Jessica Garza, Lili Simmons, Amanda Warren, Colin Woodell, and Lee Tergesen, with Cindy Robinson reprising her role as the voice of the Purge Emergency Broadcast System from the films.",
+  "wikipedia_extract": "The Purge is an American action horror anthology television series, based on the franchise of the same name and created by James DeMonaco. The first season premiered on USA Network on September 4, 2018, and stars Gabriel Chavarria, Hannah Emily Anderson, Jessica Garza, Lili Simmons, Amanda Warren, Colin Woodell, and Lee Tergesen, with Cindy Robinson reprising her role as the voice of the Purge Emergency Broadcast System from the films.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

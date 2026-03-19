@@ -1,0 +1,50 @@
+{
+  "show_id": "Underemployed_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Underemployed_(TV_series)",
+  "wiki_page_title": "Underemployed (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:15:36.614258+00:00",
+  "retrieval_confidence": "high",
+  "title": "Underemployed (TV series)",
+  "search_title_used": "Underemployed",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "DramaComedy"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "MTV"
+  ],
+  "production_companies": [
+    "Pine CityMTV Production Development"
+  ],
+  "distributor": null,
+  "creators": [
+    "Craig Wright"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Michelle AngDiego BonetaSarah HabelJared KusnitzInbar Lavi"
+  ],
+  "executive_producers": [
+    "Craig WrightJustin LevyClay SpencerJulie Schwachenwald"
+  ],
+  "premise_summary": "Underemployed is an American comedy-drama television series on MTV. The series premiered on October 16, 2012 and ended on January 12, 2013.",
+  "wikipedia_extract": "Underemployed is an American comedy-drama television series on MTV. The series premiered on October 16, 2012 and ended on January 12, 2013.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

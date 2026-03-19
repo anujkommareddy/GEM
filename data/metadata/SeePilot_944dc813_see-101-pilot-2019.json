@@ -1,0 +1,77 @@
+{
+  "show_id": "SeePilot_944dc813_see-101-pilot-2019",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/See_(TV_series)",
+  "wiki_page_title": "See (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:59:37.239575+00:00",
+  "retrieval_confidence": "high",
+  "title": "See (TV series)",
+  "search_title_used": "See",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action-adventure",
+    "Drama",
+    "Science fiction",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 24,
+  "original_network": [
+    "Apple TV+"
+  ],
+  "production_companies": [
+    "about:blank",
+    "Quaker Moving Pictures",
+    "Tropper Ink Productions (season 2)",
+    "Chernin Entertainment",
+    "Endeavor Content",
+    "Nebula Star"
+  ],
+  "distributor": null,
+  "creators": [
+    "Steven Knight"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jason Momoa",
+    "Sylvia Hoeks",
+    "Hera Hilmar",
+    "Christian Camargo",
+    "Archie Madekwe",
+    "Nesta Cooper",
+    "Yadira Guevara-Prip",
+    "Alfre Woodard",
+    "Eden Epstein",
+    "Olivia Cheng",
+    "Hoon Lee",
+    "Tom Mison",
+    "Dave Bautista",
+    "David Hewlett",
+    "Michael Raymond-James"
+  ],
+  "executive_producers": [
+    "Francis Lawrence",
+    "Steven Knight",
+    "Peter Chernin",
+    "Jenno Topping",
+    "Jonathan Tropper",
+    "Kristen Campo"
+  ],
+  "premise_summary": "See is an American science fiction drama television series produced for Apple TV+ and starring Jason Momoa and Alfre Woodard in leading roles. Set in a post-apocalyptic dystopia in the distant future where humanity's descendants have lost their sight, and the ability to see is considered to be a myth, the plot is set in motion by the birth of twin sighted children in a mountain tribe.",
+  "wikipedia_extract": "See is an American science fiction drama television series produced for Apple TV+ and starring Jason Momoa and Alfre Woodard in leading roles. Set in a post-apocalyptic dystopia in the distant future where humanity's descendants have lost their sight, and the ability to see is considered to be a myth, the plot is set in motion by the birth of twin sighted children in a mountain tribe.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2022",
+  "franchise_status": null
+}

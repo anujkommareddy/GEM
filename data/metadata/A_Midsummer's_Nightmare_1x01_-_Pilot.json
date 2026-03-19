@@ -1,0 +1,61 @@
+{
+  "show_id": "A_Midsummer's_Nightmare_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/A_Midsummer's_Nightmare_(film)",
+  "wiki_page_title": "A Midsummer's Nightmare (film)",
+  "retrieval_timestamp": "2026-03-19T04:17:56.781166+00:00",
+  "retrieval_confidence": "high",
+  "title": "A Midsummer's Nightmare (film)",
+  "search_title_used": "A Midsummer's Nightmare",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Psychological thriller"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": null,
+  "original_network": [
+    "Lifetime"
+  ],
+  "production_companies": [
+    "A+E Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Eric Balfour",
+    "Thomas Cadrot",
+    "Casey Deidrick",
+    "Ellie Gall",
+    "Chelsea Gilligan",
+    "Paul Walter Hauser",
+    "Daisy Head",
+    "Anjali Jay",
+    "Jake Robinson",
+    "Dominic Monaghan",
+    "Rhys Ward",
+    "Courtney Love"
+  ],
+  "executive_producers": [
+    "Gary Fleder",
+    "Jeff Kwatinetz",
+    "Josh Barry"
+  ],
+  "premise_summary": "A Midsummer's Nightmare is a 2017 American psychological thriller television film directed by Gary Fleder and written by Anthony Jaswinski. It is a modern adaptation of the play A Midsummer Night's Dream by William Shakespeare. It aired on Lifetime on July 31, 2017.",
+  "wikipedia_extract": "A Midsummer's Nightmare is a 2017 American psychological thriller television film directed by Gary Fleder and written by Anthony Jaswinski. It is a modern adaptation of the play A Midsummer Night's Dream by William Shakespeare. It aired on Lifetime on July 31, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,66 @@
+{
+  "show_id": "CSI_Cyber_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/CSI:_Cyber",
+  "wiki_page_title": "CSI: Cyber",
+  "retrieval_timestamp": "2026-03-19T04:24:18.907864+00:00",
+  "retrieval_confidence": "medium",
+  "title": "CSI: Cyber",
+  "search_title_used": "CSI Cyber",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Drama"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 31,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Jerry Bruckheimer Television",
+    "Content Partners LLC",
+    "CBS Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Anthony E. Zuiker",
+    "Carol Mendelsohn",
+    "Ann Donahue"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Patricia Arquette",
+    "James Van Der Beek",
+    "Peter MacNicol",
+    "Shad Moss",
+    "Charley Koontz",
+    "Hayley Kiyoko",
+    "Ted Danson"
+  ],
+  "executive_producers": [
+    "Pam Veasey (showrunner)",
+    "Anthony E. Zuiker",
+    "Jerry Bruckheimer",
+    "Carol Mendelsohn",
+    "Ann Donahue",
+    "Jonathan Littman"
+  ],
+  "premise_summary": "CSI: Cyber is an American police procedural drama television series that premiered on March 4, 2015, on CBS. The series, starring Patricia Arquette and Ted Danson, is the third spin-off of CSI: Crime Scene Investigation and the fourth series in the CSI franchise. On May 12, 2016, CBS canceled the series after two seasons.",
+  "wikipedia_extract": "CSI: Cyber is an American police procedural drama television series that premiered on March 4, 2015, on CBS. The series, starring Patricia Arquette and Ted Danson, is the third spin-off of CSI: Crime Scene Investigation and the fourth series in the CSI franchise. On May 12, 2016, CBS canceled the series after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

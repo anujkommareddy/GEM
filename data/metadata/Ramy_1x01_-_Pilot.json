@@ -1,0 +1,70 @@
+{
+  "show_id": "Ramy_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ramy_(TV_series)",
+  "wiki_page_title": "Ramy (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:55:42.034887+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ramy (TV series)",
+  "search_title_used": "Ramy",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Arabic"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "A24",
+    "Cairo Cowboy",
+    "Foxera (season 1–2)",
+    "Morningside Entertainment (season 3)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ramy Youssef",
+    "Ari Katcher",
+    "Ryan Welch"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ramy Youssef",
+    "Hiam Abbass",
+    "Amr Waked",
+    "Dave Merheje",
+    "Mohammed Amer",
+    "May Calamawy",
+    "Laith Nakli"
+  ],
+  "executive_producers": [
+    "Ramy Youssef",
+    "Ari Katcher",
+    "Ryan Welch",
+    "Ravi Nandan",
+    "Jerrod Carmichael",
+    "Bridget Bedard",
+    "Christopher Storer",
+    "Cherien Dabis",
+    "Hallie Sekoff"
+  ],
+  "premise_summary": "Ramy is an American comedy-drama television series that premiered on April 19, 2019, on Hulu. In May 2019, Hulu renewed the series for a second season, which premiered on May 29, 2020. The series stars Ramy Youssef as the titular character. In July 2020, Hulu renewed the series for a third season, which premiered on September 30, 2022.",
+  "wikipedia_extract": "Ramy is an American comedy-drama television series that premiered on April 19, 2019, on Hulu. In May 2019, Hulu renewed the series for a second season, which premiered on May 29, 2020. The series stars Ramy Youssef as the titular character. In July 2020, Hulu renewed the series for a third season, which premiered on September 30, 2022.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

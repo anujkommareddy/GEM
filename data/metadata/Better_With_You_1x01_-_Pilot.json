@@ -1,0 +1,59 @@
+{
+  "show_id": "Better_With_You_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Better_with_You",
+  "wiki_page_title": "Better with You",
+  "retrieval_timestamp": "2026-03-19T04:21:59.872540+00:00",
+  "retrieval_confidence": "high",
+  "title": "Better with You",
+  "search_title_used": "Better With You",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Romantic comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Silver and Gold Productions",
+    "Bonanza Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Shana Goldberg-Meehan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "JoAnna Garcia Swisher",
+    "Jennifer Finnigan",
+    "Josh Cooke",
+    "Jake Lacy",
+    "Kurt Fuller",
+    "Debra Jo Rupp"
+  ],
+  "executive_producers": [
+    "Shana Goldberg-Meehan",
+    "Greg Malins"
+  ],
+  "premise_summary": "Better with You is an American television sitcom created by Shana Goldberg-Meehan that aired on ABC from September 22, 2010, to May 11, 2011. It stars JoAnna Garcia Swisher, Jennifer Finnigan, Josh Cooke, Jake Lacy, Kurt Fuller, and Debra Jo Rupp.",
+  "wikipedia_extract": "Better with You is an American television sitcom created by Shana Goldberg-Meehan that aired on ABC from September 22, 2010, to May 11, 2011. It stars JoAnna Garcia Swisher, Jennifer Finnigan, Josh Cooke, Jake Lacy, Kurt Fuller, and Debra Jo Rupp.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

@@ -1,0 +1,70 @@
+{
+  "show_id": "The_O.C_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_O.C.",
+  "wiki_page_title": "The O.C.",
+  "retrieval_timestamp": "2026-03-19T05:10:32.674186+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The O.C.",
+  "search_title_used": "The O.C",
+  "alternate_titles": [],
+  "start_year": 2003,
+  "end_year": 2007,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 92,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "College Hill Pictures",
+    "Inc.",
+    "Wonderland Sound and Vision",
+    "Hypnotic (season 1)",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Josh Schwartz"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Peter Gallagher",
+    "Kelly Rowan",
+    "Ben McKenzie",
+    "Mischa Barton",
+    "Adam Brody",
+    "Chris Carmack",
+    "Tate Donovan",
+    "Melinda Clarke",
+    "Rachel Bilson",
+    "Alan Dale",
+    "Willa Holland",
+    "Autumn Reeser"
+  ],
+  "executive_producers": [
+    "Dave Bartis (season 1)",
+    "Bob DeLaurentis",
+    "Doug Liman (season 1)",
+    "McG",
+    "Stephanie Savage (season 4)",
+    "Josh Schwartz"
+  ],
+  "premise_summary": "The O.C.  is an American teen drama television series created by Josh Schwartz that originally aired on Fox in the United States from August 5, 2003, to February 22, 2007, with a total of four seasons consisting of 92 episodes. The series title, \"O.C.\", is an initialism of Orange County, the location in Southern California in which the series is set.",
+  "wikipedia_extract": "The O.C.  is an American teen drama television series created by Josh Schwartz that originally aired on Fox in the United States from August 5, 2003, to February 22, 2007, with a total of four seasons consisting of 92 episodes. The series title, \"O.C.\", is an initialism of Orange County, the location in Southern California in which the series is set.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2007",
+  "franchise_status": null
+}

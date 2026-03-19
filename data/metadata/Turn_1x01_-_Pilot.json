@@ -1,0 +1,67 @@
+{
+  "show_id": "Turn_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Turn_of_the_Tide_(TV_series)",
+  "wiki_page_title": "Turn of the Tide (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:14:51.223494+00:00",
+  "retrieval_confidence": "high",
+  "title": "Turn of the Tide (TV series)",
+  "search_title_used": "Turn",
+  "alternate_titles": [],
+  "start_year": 2023,
+  "end_year": null,
+  "country": [
+    "Portugal"
+  ],
+  "original_language": [
+    "PortugueseEnglishItalian"
+  ],
+  "genres": [
+    "Thriller",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 19,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "UKBAR Filmes"
+  ],
+  "distributor": null,
+  "creators": [
+    "Augusto Fraga"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "José Condessa",
+    "Helena Caldeira",
+    "André Leitão",
+    "Rodrigo Tomás",
+    "Maria João Bastos",
+    "Albano Jerónimo",
+    "Rafael Morais",
+    "Afonso Pimentel",
+    "Kelly Bailey",
+    "Pêpê Rapazote",
+    "Francesco Acquaroli",
+    "Adriano Carvalho",
+    "Marcantonio Del Carlo",
+    "Paolla Oliveira",
+    "Caio Blat"
+  ],
+  "executive_producers": [
+    "Pandora da Cunha Telles",
+    "Augusto Fraga",
+    "Pablo Iraola"
+  ],
+  "premise_summary": "Turn of the Tide is a Portuguese drama television series based on a true story, created by Augusto Fraga. It follows Eduardo, a young fisherman, and his friends who find a boat full of cocaine washed up on the shore in the Azorean village of Rabo de Peixe in São Miguel Island. They decide to sell the drug, but soon they face the wrath of the drug lord who owns it, the police who are after it, and a series of unpredictable events that put their lives at risk. The series is a thrilling and realistic tale of greed, ambition and survival.",
+  "wikipedia_extract": "Turn of the Tide is a Portuguese drama television series based on a true story, created by Augusto Fraga. It follows Eduardo, a young fisherman, and his friends who find a boat full of cocaine washed up on the shore in the Azorean village of Rabo de Peixe in São Miguel Island. They decide to sell the drug, but soon they face the wrath of the drug lord who owns it, the police who are after it, and a series of unpredictable events that put their lives at risk. The series is a thrilling and realistic tale of greed, ambition and survival.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

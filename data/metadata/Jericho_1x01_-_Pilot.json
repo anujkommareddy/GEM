@@ -1,0 +1,71 @@
+{
+  "show_id": "Jericho_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Jericho_(2006_TV_series)",
+  "wiki_page_title": "Jericho (2006 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:43:02.966060+00:00",
+  "retrieval_confidence": "high",
+  "title": "Jericho (2006 TV series)",
+  "search_title_used": "Jericho",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Post-apocalyptic",
+    "Action",
+    "Drama",
+    "Science Fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 29,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "CBS Paramount Network Television",
+    "Junction Entertainment",
+    "Fixed Mark Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Stephen Chbosky",
+    "Josh Schaer",
+    "Jonathan E. Steinberg"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Skeet Ulrich",
+    "Ashley Scott",
+    "Lennie James",
+    "Michael Gaston",
+    "Sprague Grayden",
+    "Erik Knudsen",
+    "Kenneth Mitchell",
+    "Brad Beyer",
+    "Shoshannah Stern",
+    "Pamela Reed",
+    "Gerald McRaney",
+    "Alicia Coppola"
+  ],
+  "executive_producers": [
+    "Jon Turteltaub",
+    "Stephen Chbosky",
+    "Carol Barbee",
+    "Karim Zreik"
+  ],
+  "premise_summary": "Jericho is an American post-apocalyptic action drama television series, which centers on the residents of the fictional city of Jericho, Kansas, in the aftermath of a nuclear attack on 23 major cities in the contiguous United States. It was produced by CBS Paramount Network Television and Junction Entertainment, with executive producers Jon Turteltaub, Stephen Chbosky, and Carol Barbee. It was shown in more than 30 countries.",
+  "wikipedia_extract": "Jericho is an American post-apocalyptic action drama television series, which centers on the residents of the fictional city of Jericho, Kansas, in the aftermath of a nuclear attack on 23 major cities in the contiguous United States. It was produced by CBS Paramount Network Television and Junction Entertainment, with executive producers Jon Turteltaub, Stephen Chbosky, and Carol Barbee. It was shown in more than 30 countries.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

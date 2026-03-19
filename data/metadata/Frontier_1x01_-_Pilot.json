@@ -1,0 +1,61 @@
+{
+  "show_id": "Frontier_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Frontier_(2016_TV_series)",
+  "wiki_page_title": "Frontier (2016 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:32:46.682582+00:00",
+  "retrieval_confidence": "high",
+  "title": "Frontier (2016 TV series)",
+  "search_title_used": "Frontier",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "Canada"
+  ],
+  "original_language": [
+    "English",
+    "Cree"
+  ],
+  "genres": [
+    "Historical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 3,
+  "episodes": 18,
+  "original_network": [
+    "Discovery Channel (Canada)",
+    "Netflix (international)"
+  ],
+  "production_companies": [
+    "Take the Shot Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Rob Blackie"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jason Momoa",
+    "Greg Bryk",
+    "Kyle M. Hamilton",
+    "Alun Armstrong",
+    "Landon Liboiron",
+    "Zoe Boyle",
+    "Jessica Matten",
+    "Christian McKay",
+    "Evan Jonigkeit",
+    "Shawn Doyle"
+  ],
+  "executive_producers": [
+    "Brad Peyton"
+  ],
+  "premise_summary": "Frontier is a Canadian historical drama television series co-created by Rob Blackie and Peter Blackie, chronicling the North American fur trade in colonial Canada/Rupert's Land, sometime in the late 18th century or early 19th century. The series is co-produced by Discovery Canada, as the channel's first original scripted commission, and Netflix. The series premiered on November 6, 2016.",
+  "wikipedia_extract": "Frontier is a Canadian historical drama television series co-created by Rob Blackie and Peter Blackie, chronicling the North American fur trade in colonial Canada/Rupert's Land, sometime in the late 18th century or early 19th century. The series is co-produced by Discovery Canada, as the channel's first original scripted commission, and Netflix. The series premiered on November 6, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

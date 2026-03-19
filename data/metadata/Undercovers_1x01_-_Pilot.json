@@ -1,0 +1,50 @@
+{
+  "show_id": "Undercovers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Undercovers_(TV_series)",
+  "wiki_page_title": "Undercovers (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:15:32.940765+00:00",
+  "retrieval_confidence": "high",
+  "title": "Undercovers (TV series)",
+  "search_title_used": "Undercovers",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "J. J. Abrams"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Gugu Mbatha-Raw"
+  ],
+  "executive_producers": [
+    "J. J. Abrams"
+  ],
+  "premise_summary": "Undercovers is an American action spy television series created by J. J. Abrams and Josh Reims that aired on NBC from September 22 to December 29, 2010. They were executive producers of the pilot along with Abrams' frequent collaborator Bryan Burk.",
+  "wikipedia_extract": "Undercovers is an American action spy television series created by J. J. Abrams and Josh Reims that aired on NBC from September 22 to December 29, 2010. They were executive producers of the pilot along with Abrams' frequent collaborator Bryan Burk.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

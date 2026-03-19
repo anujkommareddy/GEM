@@ -1,0 +1,64 @@
+{
+  "show_id": "Manifest_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Manifest_(TV_series)",
+  "wiki_page_title": "Manifest (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:47:22.532218+00:00",
+  "retrieval_confidence": "high",
+  "title": "Manifest (TV series)",
+  "search_title_used": "Manifest",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Supernatural"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 62,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Compari Entertainment",
+    "Jeff Rake Productions",
+    "Universal Television (2018–2021)",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jeff Rake"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Melissa Roxburgh",
+    "Josh Dallas",
+    "Athena Karkanis",
+    "J."
+  ],
+  "executive_producers": [
+    "Robert Zemeckis",
+    "Jack Rapke",
+    "Jacqueline Levine",
+    "Jeff Rake",
+    "David Frankel (pilot)",
+    "Joe Chappelle",
+    "Len Goldstein",
+    "Romeo Tirone"
+  ],
+  "premise_summary": "Manifest is an American supernatural drama television series created by Jeff Rake that premiered on September 24, 2018, on NBC. It centers on the passengers and crew on a commercial airliner who suddenly reappear after their plane goes missing and they are presumed dead for five and a half years. It stars Melissa Roxburgh, Josh Dallas, Athena Karkanis, J. R. Ramirez, Luna Blaise, Jack Messina, Parveen Kaur, Matt Long, Holly Taylor, Daryl Edwards, and Ty Doran.",
+  "wikipedia_extract": "Manifest is an American supernatural drama television series created by Jeff Rake that premiered on September 24, 2018, on NBC. It centers on the passengers and crew on a commercial airliner who suddenly reappear after their plane goes missing and they are presumed dead for five and a half years. It stars Melissa Roxburgh, Josh Dallas, Athena Karkanis, J. R. Ramirez, Luna Blaise, Jack Messina, Parveen Kaur, Matt Long, Holly Taylor, Daryl Edwards, and Ty Doran.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

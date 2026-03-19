@@ -1,0 +1,66 @@
+{
+  "show_id": "Matador_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Matador_(American_TV_series)",
+  "wiki_page_title": "Matador (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:47:45.593115+00:00",
+  "retrieval_confidence": "high",
+  "title": "Matador (American TV series)",
+  "search_title_used": "Matador",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "El Rey Network"
+  ],
+  "production_companies": [
+    "K/O Paper Products",
+    "Rodriguez International Pictures",
+    "FactoryMade Ventures",
+    "Entertainment One"
+  ],
+  "distributor": null,
+  "creators": [
+    "Roberto Orci",
+    "Andrew Orci",
+    "Dan Dworkin",
+    "Jay Beattie"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Gabriel Luna",
+    "Nicky Whelan",
+    "Neil Hopkins",
+    "Alfred Molina",
+    "Tanc Sade"
+  ],
+  "executive_producers": [
+    "Jay Beattie",
+    "Dan Dworkin",
+    "Roberto Orci",
+    "Alex Kurtzman",
+    "Heather Kadin",
+    "Robert Rodriguez"
+  ],
+  "premise_summary": "Matador is an American television series co-created by Roberto Orci, Andrew Orci, Dan Dworkin, and Jay Beattie. The series chronicled the rise of popular soccer star Tony \"Matador\" Bravo, known for his exploits both on and off the field. Unbeknownst to the public and his family, he is also a skilled covert operative performing missions for a branch of the CIA. The series premiered on July 15, 2014, on the newly launched channel El Rey Network.",
+  "wikipedia_extract": "Matador is an American television series co-created by Roberto Orci, Andrew Orci, Dan Dworkin, and Jay Beattie. The series chronicled the rise of popular soccer star Tony \"Matador\" Bravo, known for his exploits both on and off the field. Unbeknownst to the public and his family, he is also a skilled covert operative performing missions for a branch of the CIA. The series premiered on July 15, 2014, on the newly launched channel El Rey Network.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

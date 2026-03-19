@@ -1,0 +1,65 @@
+{
+  "show_id": "Fresh_Off_the_Boat_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fresh_Off_the_Boat",
+  "wiki_page_title": "Fresh Off the Boat",
+  "retrieval_timestamp": "2026-03-19T04:32:27.386975+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fresh Off the Boat",
+  "search_title_used": "Fresh Off the Boat",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "EnglishMandarin"
+  ],
+  "genres": [
+    "SitcomFamily drama"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 6,
+  "episodes": 116,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Fierce Baby Productions",
+    "The Detective Agency",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nahnatchka Khan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Randall Park",
+    "Constance Wu",
+    "Hudson Yang",
+    "Forrest Wheeler",
+    "Ian Chen",
+    "Lucille Soong",
+    "Chelsey Crisp",
+    "Ray Wise"
+  ],
+  "executive_producers": [
+    "Jake Kasdan",
+    "Nahnatchka Khan",
+    "Melvin Mar",
+    "Keith Heisler",
+    "Matt Kuhn",
+    "Laura McCreary",
+    "Randall Park (season 3-6)"
+  ],
+  "premise_summary": "Fresh Off the Boat is an American television sitcom created by Nahnatchka Khan and produced by 20th Century Fox Television for ABC. It is loosely inspired by the life of chef and food personality Eddie Huang and his 2013 autobiography of the same name. Huang was the executive producer of the series, and narrated its first season. Depicting the life of a Taiwanese-American family in Florida in the 1990s, the series stars Randall Park, Constance Wu, Hudson Yang, Forrest Wheeler, Ian Chen, and Lucille Soong as the Huang family as well as Chelsey Crisp and Ray Wise portraying the family's next-door neighbors.",
+  "wikipedia_extract": "Fresh Off the Boat is an American television sitcom created by Nahnatchka Khan and produced by 20th Century Fox Television for ABC. It is loosely inspired by the life of chef and food personality Eddie Huang and his 2013 autobiography of the same name. Huang was the executive producer of the series, and narrated its first season. Depicting the life of a Taiwanese-American family in Florida in the 1990s, the series stars Randall Park, Constance Wu, Hudson Yang, Forrest Wheeler, Ian Chen, and Lucille Soong as the Huang family as well as Chelsey Crisp and Ray Wise portraying the family's next-door neighbors.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

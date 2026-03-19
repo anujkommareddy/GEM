@@ -1,0 +1,52 @@
+{
+  "show_id": "30_Rock_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/30_Rock",
+  "wiki_page_title": "30 Rock",
+  "retrieval_timestamp": "2026-03-19T04:17:22.813229+00:00",
+  "retrieval_confidence": "high",
+  "title": "30 Rock",
+  "search_title_used": "30 Rock",
+  "alternate_titles": [],
+  "start_year": 2006,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 7,
+  "episodes": 138,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Broadway Video"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tina Fey"
+  ],
+  "showrunners": [
+    "Tina FeyRobert Carlock"
+  ],
+  "lead_cast": [
+    "Tina Fey"
+  ],
+  "executive_producers": [
+    "Lorne Michaels"
+  ],
+  "premise_summary": "30 Rock is an American satirical surrealist sitcom television series created by Tina Fey that originally aired on NBC from October 11, 2006, to January 31, 2013. The series, based on Fey's experiences as head writer for Saturday Night Live, takes place behind the scenes of a fictional live sketch comedy show depicted as airing on NBC. The series's name refers to 30 Rockefeller Plaza in New York City, where the NBC Studios are located and where Saturday Night Live is written, produced, and performed. The series was produced by Lorne Michaels's Broadway Video and Fey's Little Stranger, in association with NBCUniversal.",
+  "wikipedia_extract": "30 Rock is an American satirical surrealist sitcom television series created by Tina Fey that originally aired on NBC from October 11, 2006, to January 31, 2013. The series, based on Fey's experiences as head writer for Saturday Night Live, takes place behind the scenes of a fictional live sketch comedy show depicted as airing on NBC. The series's name refers to 30 Rockefeller Plaza in New York City, where the NBC Studios are located and where Saturday Night Live is written, produced, and performed. The series was produced by Lorne Michaels's Broadway Video and Fey's Little Stranger, in association with NBCUniversal.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

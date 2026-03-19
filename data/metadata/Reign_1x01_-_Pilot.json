@@ -1,0 +1,78 @@
+{
+  "show_id": "Reign_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Reign_(TV_series)",
+  "wiki_page_title": "Reign (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:56:27.839424+00:00",
+  "retrieval_confidence": "high",
+  "title": "Reign (TV series)",
+  "search_title_used": "Reign",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2017,
+  "country": [
+    "United States",
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical drama",
+    "Romantic drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 78,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Joyful Girl Productions",
+    "Take 5 Productions",
+    "Whizbang Films"
+  ],
+  "distributor": null,
+  "creators": [
+    "Laurie McCarthy",
+    "Stephanie SenGupta"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Adelaide Kane",
+    "Megan Follows",
+    "Torrance Coombs",
+    "Toby Regbo",
+    "Jenessa Grant",
+    "Celina Sinden",
+    "Caitlin Stasey",
+    "Anna Popplewell",
+    "Alan van Sprang",
+    "Jonathan Keltz",
+    "Sean Teale",
+    "Craig Parker",
+    "Rose Williams",
+    "Rachel Skarsten",
+    "Charlie Carrick",
+    "Ben Geurens",
+    "Spencer MacPherson",
+    "Dan Jeannotte",
+    "Jonathan Goad",
+    "Will Kemp"
+  ],
+  "executive_producers": [
+    "Laurie McCarthy",
+    "Stephanie SenGupta",
+    "Brad Silberling",
+    "John Weber",
+    "Frank Siracusa"
+  ],
+  "premise_summary": "Reign is an historical romantic drama television series created by Laurie McCarthy\nand Stephanie SenGupta for The CW. Set in the late 16th century, the series revolves around the life of Mary, Queen of Scots, and her rise to power in the French court. The series stars Adelaide Kane as Queen Mary Stuart, alongside an ensemble cast. The series premiered on October 17, 2013, on The CW and concluded after four seasons on June 16, 2017.",
+  "wikipedia_extract": "Reign is an historical romantic drama television series created by Laurie McCarthy\nand Stephanie SenGupta for The CW. Set in the late 16th century, the series revolves around the life of Mary, Queen of Scots, and her rise to power in the French court. The series stars Adelaide Kane as Queen Mary Stuart, alongside an ensemble cast. The series premiered on October 17, 2013, on The CW and concluded after four seasons on June 16, 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

@@ -1,0 +1,72 @@
+{
+  "show_id": "Haven_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Haven_(TV_series)",
+  "wiki_page_title": "Haven (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:36:15.597234+00:00",
+  "retrieval_confidence": "high",
+  "title": "Haven (TV series)",
+  "search_title_used": "Haven",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2015,
+  "country": [
+    "United States",
+    "Canada"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Supernatural drama",
+    "Fantasy",
+    "Mystery",
+    "Horror",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 78,
+  "original_network": [
+    "Syfy (United States)",
+    "Showcase (Canada)"
+  ],
+  "production_companies": [
+    "Big Motion Pictures Productions",
+    "Entertainment One Television",
+    "Piller/Segan/Shepherd",
+    "Universal Networks International",
+    "Canwest Global (season 1)",
+    "Shaw Media (seasons 2–5)"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Emily Rose",
+    "Lucas Bryant",
+    "Nicholas Campbell",
+    "Eric Balfour"
+  ],
+  "executive_producers": [
+    "Sam Ernst",
+    "Jim Dunn",
+    "David MacLeod",
+    "John Morayniss",
+    "Noreen Halpern",
+    "Laszlo Barna",
+    "Gabrielle Stanton",
+    "Matt McGuiness",
+    "Scott Shepherd",
+    "Shawn Piller",
+    "Lloyd Segan"
+  ],
+  "premise_summary": "Haven is a supernatural drama television series developed by Jim Dunn and Sam Ernst, loosely based on the Stephen King novel The Colorado Kid (2005). The series, which deals with strange events in a fictional town in Maine named Haven, was filmed on the South Shore of Nova Scotia, and is an American-Canadian co-production. It stars Emily Rose, Lucas Bryant, Nicholas Campbell and Eric Balfour, whose characters struggle to help townspeople with supernatural afflictions and protect the town from the effects of those afflictions.",
+  "wikipedia_extract": "Haven is a supernatural drama television series developed by Jim Dunn and Sam Ernst, loosely based on the Stephen King novel The Colorado Kid (2005). The series, which deals with strange events in a fictional town in Maine named Haven, was filmed on the South Shore of Nova Scotia, and is an American-Canadian co-production. It stars Emily Rose, Lucas Bryant, Nicholas Campbell and Eric Balfour, whose characters struggle to help townspeople with supernatural afflictions and protect the town from the effects of those afflictions.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

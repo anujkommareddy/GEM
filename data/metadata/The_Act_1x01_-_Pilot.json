@@ -1,0 +1,61 @@
+{
+  "show_id": "The_Act_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Act_(TV_series)",
+  "wiki_page_title": "The Act (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:47.928868+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Act (TV series)",
+  "search_title_used": "The Act",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Biographical",
+    "Crime drama"
+  ],
+  "format_type": "limited_series",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "Hulu"
+  ],
+  "production_companies": [
+    "Eat the Cat",
+    "Writ Large",
+    "Universal Content Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nick Antosca",
+    "Michelle Dean"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Patricia Arquette",
+    "Joey King",
+    "AnnaSophia Robb",
+    "Chloë Sevigny",
+    "Calum Worthy"
+  ],
+  "executive_producers": [
+    "Nick Antosca",
+    "Michelle Dean",
+    "Britton Rizzio",
+    "Gregory Shephard"
+  ],
+  "premise_summary": "The Act is an American biographical crime drama television limited series that premiered in eight parts on March 20, 2019, on Hulu. The plot is based on the life of Gypsy Rose Blanchard and the murder of her mother, Dee Dee Blanchard, who was accused of abusing her daughter by fabricating illness and disabilities. Joey King portrayed Gypsy, while Patricia Arquette played her mother, Dee Dee Blanchard. AnnaSophia Robb, Chloë Sevigny, and Calum Worthy star in supporting roles.",
+  "wikipedia_extract": "The Act is an American biographical crime drama television limited series that premiered in eight parts on March 20, 2019, on Hulu. The plot is based on the life of Gypsy Rose Blanchard and the murder of her mother, Dee Dee Blanchard, who was accused of abusing her daughter by fabricating illness and disabilities. Joey King portrayed Gypsy, while Patricia Arquette played her mother, Dee Dee Blanchard. AnnaSophia Robb, Chloë Sevigny, and Calum Worthy star in supporting roles.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

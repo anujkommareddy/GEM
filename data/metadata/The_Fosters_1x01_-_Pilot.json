@@ -1,0 +1,74 @@
+{
+  "show_id": "The_Fosters_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Fosters_(American_TV_series)",
+  "wiki_page_title": "The Fosters (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:07:49.443016+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Fosters (American TV series)",
+  "search_title_used": "The Fosters",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Family drama",
+    "Teen drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 104,
+  "original_network": [
+    "Freeform"
+  ],
+  "production_companies": [
+    "ProdCo Original",
+    "Blazing Elm Entertainment",
+    "Nuyorican Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Bradley Bredeweg",
+    "Peter Paige"
+  ],
+  "showrunners": [
+    "Bradley Bredeweg",
+    "Peter Paige",
+    "Joanna Johnson"
+  ],
+  "lead_cast": [
+    "Teri Polo",
+    "Sherri Saum",
+    "Jake T. Austin",
+    "Hayden Byerly",
+    "David Lambert",
+    "Maia Mitchell",
+    "Danny Nucci",
+    "Cierra Ramirez",
+    "Noah Centineo"
+  ],
+  "executive_producers": [
+    "Peter Paige",
+    "Bradley Bredeweg",
+    "Greg Gugliotta",
+    "Jennifer Lopez",
+    "Simon Fields",
+    "Benny Medina",
+    "John Ziffren",
+    "Joanna Johnson",
+    "Elaine Goldsmith-Thomas"
+  ],
+  "premise_summary": "The Fosters is an American family drama television series created by Peter Paige and Bradley Bredeweg. It premiered in the United States on June 3, 2013, on the ABC Family television network and concluded on June 6, 2018. It followed the lives of the Adams-Foster family led by a lesbian couple, Stef Foster, a police officer, and Lena Adams, a school vice principal, who raise one biological son and four adopted teenagers in San Diego, California.",
+  "wikipedia_extract": "The Fosters is an American family drama television series created by Peter Paige and Bradley Bredeweg. It premiered in the United States on June 3, 2013, on the ABC Family television network and concluded on June 6, 2018. It followed the lives of the Adams-Foster family led by a lesbian couple, Stef Foster, a police officer, and Lena Adams, a school vice principal, who raise one biological son and four adopted teenagers in San Diego, California.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

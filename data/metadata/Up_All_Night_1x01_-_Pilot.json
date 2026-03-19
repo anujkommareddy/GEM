@@ -1,0 +1,62 @@
+{
+  "show_id": "Up_All_Night_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Up_All_Night_(TV_series)",
+  "wiki_page_title": "Up All Night (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:15:55.775947+00:00",
+  "retrieval_confidence": "high",
+  "title": "Up All Night (TV series)",
+  "search_title_used": "Up All Night",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 35,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Broadway Video",
+    "Universal Media Studios (episodes 1-6)",
+    "Universal Television (episodes 7-35)",
+    "Open 4 Business Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Emily Spivey"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Christina Applegate",
+    "Maya Rudolph",
+    "Will Arnett",
+    "Jennifer Hall",
+    "Luka Jones"
+  ],
+  "executive_producers": [
+    "Lorne Michaels",
+    "Erin David",
+    "DJ Nash",
+    "Emily Spivey",
+    "Jon Pollack",
+    "Tucker Cawley"
+  ],
+  "premise_summary": "Up All Night is an American television sitcom created by Emily Spivey that aired on NBC from September 14, 2011, to December 13, 2012. The show starred Christina Applegate, Will Arnett, Jennifer Hall, Luka Jones, and Maya Rudolph.",
+  "wikipedia_extract": "Up All Night is an American television sitcom created by Emily Spivey that aired on NBC from September 14, 2011, to December 13, 2012. The show starred Christina Applegate, Will Arnett, Jennifer Hall, Luka Jones, and Maya Rudolph.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

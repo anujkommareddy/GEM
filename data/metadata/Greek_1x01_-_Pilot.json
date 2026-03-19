@@ -1,0 +1,63 @@
+{
+  "show_id": "Greek_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Greek_(TV_series)",
+  "wiki_page_title": "Greek (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:34:51.391115+00:00",
+  "retrieval_confidence": "high",
+  "title": "Greek (TV series)",
+  "search_title_used": "Greek",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 74,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "Piller/Segan Company"
+  ],
+  "distributor": null,
+  "creators": [
+    "Patrick Sean Smith"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Clark Duke",
+    "Tiffany Dupont",
+    "Scott Michael Foster",
+    "Spencer Grammer",
+    "Paul James",
+    "Jake McDorman",
+    "Amber Stevens",
+    "Dilshad Vadsaria",
+    "Jacob Zachar"
+  ],
+  "executive_producers": [
+    "Lloyd Segan",
+    "Shawn Piller",
+    "Patrick Sean Smith",
+    "Anne Kenney",
+    "Rob Bragin",
+    "John Ziffren"
+  ],
+  "premise_summary": "Greek is an American comedy-drama television series that aired on ABC Family from July 9, 2007, to March 7, 2011. The series follows students of the fictitious Cyprus-Rhodes University (CRU), located in Ohio, who participate in the school's Greek system.",
+  "wikipedia_extract": "Greek is an American comedy-drama television series that aired on ABC Family from July 9, 2007, to March 7, 2011. The series follows students of the fictitious Cyprus-Rhodes University (CRU), located in Ohio, who participate in the school's Greek system.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

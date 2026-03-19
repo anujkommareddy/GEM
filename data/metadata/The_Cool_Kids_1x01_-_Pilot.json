@@ -1,0 +1,63 @@
+{
+  "show_id": "The_Cool_Kids_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Cool_Kids_(TV_series)",
+  "wiki_page_title": "The Cool Kids (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:06:37.275500+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Cool Kids (TV series)",
+  "search_title_used": "The Cool Kids",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "RCG Productions",
+    "Nest Egg Productions (pilot)",
+    "Enrico Pallazzo (episode 2–22)",
+    "3 Arts Entertainment",
+    "FXP",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Charlie Day",
+    "Paul Fruchbom"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Alan Grier",
+    "Martin Mull",
+    "Leslie Jordan",
+    "Vicki Lawrence"
+  ],
+  "executive_producers": [
+    "Charlie Day",
+    "Patrick Walsh",
+    "Kevin Abbott (pilot)",
+    "Nicholas Frenkel",
+    "Don Scardino"
+  ],
+  "premise_summary": "The Cool Kids is an American television sitcom created by Charlie Day and Paul Fruchbom for Fox. Starring David Alan Grier, Martin Mull, Leslie Jordan, and Vicki Lawrence, the series follows three male residents of a retirement community who are forced to adapt to the arrival of a new, rebellious female occupant. On October 19, 2018, it was announced that Fox had ordered an additional nine episodes of the series, bringing the first season total up to twenty-two episodes. On May 10, 2019, The Cool Kids was canceled by Fox after one season.",
+  "wikipedia_extract": "The Cool Kids is an American television sitcom created by Charlie Day and Paul Fruchbom for Fox. Starring David Alan Grier, Martin Mull, Leslie Jordan, and Vicki Lawrence, the series follows three male residents of a retirement community who are forced to adapt to the arrival of a new, rebellious female occupant. On October 19, 2018, it was announced that Fox had ordered an additional nine episodes of the series, bringing the first season total up to twenty-two episodes. On May 10, 2019, The Cool Kids was canceled by Fox after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

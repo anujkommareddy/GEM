@@ -1,0 +1,60 @@
+{
+  "show_id": "Suburgatory_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Suburgatory",
+  "wiki_page_title": "Suburgatory",
+  "retrieval_timestamp": "2026-03-19T05:03:14.413728+00:00",
+  "retrieval_confidence": "high",
+  "title": "Suburgatory",
+  "search_title_used": "Suburgatory",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 3,
+  "episodes": 57,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Piece of Pie Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Emily Kapnek"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jeremy Sisto",
+    "Jane Levy",
+    "Ana Gasteyer",
+    "Rex Lee",
+    "Carly Chaikin",
+    "Allie Grant",
+    "Chris Parnell",
+    "Alan Tudyk",
+    "Cheryl Hines"
+  ],
+  "executive_producers": [
+    "Emily Kapnek",
+    "Michael Fresco"
+  ],
+  "premise_summary": "Suburgatory is an American television sitcom created by Emily Kapnek that aired on ABC from September 28, 2011, to May 14, 2014. The series originally aired on Wednesday nights at 8:30/7:30 Central following The Middle. The title is a portmanteau, devised by former CNN Senior Producer Linda Keenan, of the words \"suburban\" and \"purgatory\". On May 9, 2014, Suburgatory was canceled by ABC after three seasons.",
+  "wikipedia_extract": "Suburgatory is an American television sitcom created by Emily Kapnek that aired on ABC from September 28, 2011, to May 14, 2014. The series originally aired on Wednesday nights at 8:30/7:30 Central following The Middle. The title is a portmanteau, devised by former CNN Senior Producer Linda Keenan, of the words \"suburban\" and \"purgatory\". On May 9, 2014, Suburgatory was canceled by ABC after three seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

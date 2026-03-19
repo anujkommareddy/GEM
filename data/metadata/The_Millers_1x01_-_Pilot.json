@@ -1,0 +1,60 @@
+{
+  "show_id": "The_Millers_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Millers",
+  "wiki_page_title": "The Millers",
+  "retrieval_timestamp": "2026-03-19T05:09:53.549721+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Millers",
+  "search_title_used": "The Millers",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 34,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Amigos de Garcia Productions",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Greg Garcia"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Will Arnett",
+    "Margo Martindale",
+    "Beau Bridges",
+    "J. B. Smoove",
+    "Jayma Mays",
+    "Nelson Franklin",
+    "Eve Moon",
+    "Lulu Wilson",
+    "Sean Hayes"
+  ],
+  "executive_producers": [
+    "Greg Garcia",
+    "James Burrows"
+  ],
+  "premise_summary": "The Millers is an American sitcom television series that was created by Greg Garcia and stars Will Arnett as Nathan Miller and Margo Martindale as Carol Miller. The multi-camera series aired from October 3, 2013, to July 18, 2015, and ran 34 episodes over two seasons on CBS.",
+  "wikipedia_extract": "The Millers is an American sitcom television series that was created by Greg Garcia and stars Will Arnett as Nathan Miller and Margo Martindale as Carol Miller. The multi-camera series aired from October 3, 2013, to July 18, 2015, and ran 34 episodes over two seasons on CBS.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

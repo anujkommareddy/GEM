@@ -1,0 +1,92 @@
+{
+  "show_id": "EUPHORIA-PILOT",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)",
+  "wiki_page_title": "Euphoria (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:41.984266+00:00",
+  "retrieval_confidence": "high",
+  "title": "Euphoria (American TV series)",
+  "search_title_used": "EUPHORIA",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 18,
+  "original_network": [
+    "HBO"
+  ],
+  "production_companies": [
+    "The Reasonable Bunch",
+    "A24",
+    "Little Lamb",
+    "DreamCrew",
+    "ADD Content Agency",
+    "HOT",
+    "Tedy Productions",
+    "HBO Entertainment",
+    "Tiny Goat"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sam Levinson"
+  ],
+  "showrunners": [
+    "Sam Levinson"
+  ],
+  "lead_cast": [
+    "Zendaya",
+    "Maude Apatow",
+    "Angus Cloud",
+    "Eric Dane",
+    "Alexa Demie",
+    "Jacob Elordi",
+    "Barbie Ferreira",
+    "Nika King",
+    "Storm Reid",
+    "Hunter Schafer",
+    "Algee Smith",
+    "Sydney Sweeney",
+    "Colman Domingo",
+    "Javon Walton",
+    "Austin Abrams",
+    "Dominic Fike"
+  ],
+  "executive_producers": [
+    "Sam Levinson",
+    "Kevin Turen",
+    "Ravi Nandan",
+    "Drake",
+    "Adel \"Future\" Nur",
+    "Ron Leshem",
+    "Daphna Levin",
+    "Hadas Mozes Lichtenstein",
+    "Gary Lennon",
+    "Mirit Toovi",
+    "Tmira Yardeni",
+    "Yoram Mokadi",
+    "Jim Kleverweis",
+    "Zendaya",
+    "Will Greenfield",
+    "Ashley Levinson",
+    "Hunter Schafer",
+    "Sara E. White"
+  ],
+  "premise_summary": "Euphoria is an American teen drama television series created and principally written by Sam Levinson for HBO. It is based on the Israeli miniseries of the same name created by Ron Leshem and Daphna Levin. The series stars Zendaya as Rue Bennett, a troubled teenage drug addict who struggles to get sober, find her place in the world, and adjust to her relationships after rehab. Though Rue is the central focus of the show, the beginning of most episodes provides backstories for the rest of the main characters.",
+  "wikipedia_extract": "Euphoria is an American teen drama television series created and principally written by Sam Levinson for HBO. It is based on the Israeli miniseries of the same name created by Ron Leshem and Daphna Levin. The series stars Zendaya as Rue Bennett, a troubled teenage drug addict who struggles to get sober, find her place in the world, and adjust to her relationships after rehab. Though Rue is the central focus of the show, the beginning of most episodes provides backstories for the rest of the main characters.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

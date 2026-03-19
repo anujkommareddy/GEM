@@ -1,0 +1,60 @@
+{
+  "show_id": "Mind_Games_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mind_Games_(TV_series)",
+  "wiki_page_title": "Mind Games (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:48:47.344247+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mind Games (TV series)",
+  "search_title_used": "Mind Games",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Letter Eleven",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kyle Killen"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Steve Zahn",
+    "Christian Slater",
+    "Megalyn Echikunwoke",
+    "Wynn Everett",
+    "Gregory Marcel",
+    "Cedric Sanders",
+    "Jaime Ray Newman"
+  ],
+  "executive_producers": [
+    "Kyle Killen",
+    "Keith Redmon",
+    "Timothy Busfield",
+    "Miguel Sapochnik"
+  ],
+  "premise_summary": "Mind Games is an American comedy-drama television series created by Kyle Killen that aired on ABC. The show is about two brothers who run a problem solving firm called Edwards and Associates that employs solutions based on psychological manipulation. It premiered on February 25, 2014, and was canceled on March 27, 2014.",
+  "wikipedia_extract": "Mind Games is an American comedy-drama television series created by Kyle Killen that aired on ABC. The show is about two brothers who run a problem solving firm called Edwards and Associates that employs solutions based on psychological manipulation. It premiered on February 25, 2014, and was canceled on March 27, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

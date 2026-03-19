@@ -1,0 +1,50 @@
+{
+  "show_id": "The_Glades_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Glades_(TV_series)",
+  "wiki_page_title": "The Glades (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:07:57.121563+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Glades (TV series)",
+  "search_title_used": "The Glades",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 49,
+  "original_network": [
+    "A&E"
+  ],
+  "production_companies": [
+    "Innuendo Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Clifton Campbell"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matt Passmore"
+  ],
+  "executive_producers": [
+    "Clifton Campbell"
+  ],
+  "premise_summary": "The Glades is an American crime drama television series, created by Clifton Campbell, that aired on the A&E network for four seasons from July 11, 2010, to August 26, 2013.",
+  "wikipedia_extract": "The Glades is an American crime drama television series, created by Clifton Campbell, that aired on the A&E network for four seasons from July 11, 2010, to August 26, 2013.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

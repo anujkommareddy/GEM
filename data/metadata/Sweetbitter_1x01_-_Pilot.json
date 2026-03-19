@@ -1,0 +1,64 @@
+{
+  "show_id": "Sweetbitter_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sweetbitter_(TV_series)",
+  "wiki_page_title": "Sweetbitter (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:03:48.840947+00:00",
+  "retrieval_confidence": "high",
+  "title": "Sweetbitter (TV series)",
+  "search_title_used": "Sweetbitter",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 14,
+  "original_network": [
+    "Starz"
+  ],
+  "production_companies": [
+    "Sleeping Indian Inc.",
+    "Plan B Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Stephanie Danler"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ella Purnell",
+    "Tom Sturridge",
+    "Caitlin FitzGerald",
+    "Evan Jonigkeit",
+    "Eden Epstein",
+    "Jasmine Mathews",
+    "Daniyar",
+    "Paul Sparks"
+  ],
+  "executive_producers": [
+    "Stuart Zicherman",
+    "Stephanie Danler",
+    "Brad Pitt",
+    "Dede Gardner",
+    "Jeremy Kleiner",
+    "Sarah Esberg",
+    "Richard Shepard"
+  ],
+  "premise_summary": "Sweetbitter is an American drama television series, based on the 2016 novel of the same name by Stephanie Danler and inspired by her time working in New York’s well-known restaurant Union Square Café. The show premiered on May 6, 2018, on Starz. In July 2018, it was announced that Starz had renewed the series for a second season, which premiered on July 14, 2019. In December 2019, the series was canceled after two seasons.",
+  "wikipedia_extract": "Sweetbitter is an American drama television series, based on the 2016 novel of the same name by Stephanie Danler and inspired by her time working in New York’s well-known restaurant Union Square Café. The show premiered on May 6, 2018, on Starz. In July 2018, it was announced that Starz had renewed the series for a second season, which premiered on July 14, 2019. In December 2019, the series was canceled after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

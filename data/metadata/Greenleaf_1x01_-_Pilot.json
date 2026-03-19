@@ -1,0 +1,63 @@
+{
+  "show_id": "Greenleaf_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Greenleaf_(TV_series)",
+  "wiki_page_title": "Greenleaf (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:34:55.168109+00:00",
+  "retrieval_confidence": "high",
+  "title": "Greenleaf (TV series)",
+  "search_title_used": "Greenleaf",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 60,
+  "original_network": [
+    "Oprah Winfrey Network"
+  ],
+  "production_companies": [
+    "Pine CityHarpo FilmsLionsgate Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Craig Wright"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Merle Dandridge",
+    "Kim Hawthorne",
+    "Desiree Ross",
+    "Lamman Rucker",
+    "Tye White",
+    "Lynn Whitfield",
+    "Deborah Joy Winans",
+    "Keith David",
+    "Lovie Simone",
+    "Greg Alan Williams",
+    "Rick Fox"
+  ],
+  "executive_producers": [
+    "Oprah Winfrey",
+    "Craig Wright",
+    "Clement Virgo"
+  ],
+  "premise_summary": "Greenleaf is an American drama television series created by Craig Wright, and executive produced by Oprah Winfrey and Lionsgate Television. Clement Virgo also serves as an executive producer and director. It stars Keith David, Lynn Whitfield, and Merle Dandridge. Greenleaf premiered on the Oprah Winfrey Network (OWN) on June 21, 2016.",
+  "wikipedia_extract": "Greenleaf is an American drama television series created by Craig Wright, and executive produced by Oprah Winfrey and Lionsgate Television. Clement Virgo also serves as an executive producer and director. It stars Keith David, Lynn Whitfield, and Merle Dandridge. Greenleaf premiered on the Oprah Winfrey Network (OWN) on June 21, 2016.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

@@ -1,0 +1,62 @@
+{
+  "show_id": "Impulse_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Impulse_(TV_series)",
+  "wiki_page_title": "Impulse (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:41:45.373601+00:00",
+  "retrieval_confidence": "high",
+  "title": "Impulse (TV series)",
+  "search_title_used": "Impulse",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "YouTube Premium"
+  ],
+  "production_companies": [
+    "Hypnotic",
+    "Universal Content Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Maddie Hasson",
+    "Sarah Desjardins",
+    "Enuka Okuma",
+    "Craig Arnold",
+    "Tanner Stine",
+    "Keegan-Michael Key",
+    "Missi Pyle",
+    "Daniel Maslany",
+    "Callum Keith Rennie"
+  ],
+  "executive_producers": [
+    "Gene Klein",
+    "Jeffrey Lieber",
+    "David Bartis",
+    "Doug Liman",
+    "Lauren LeFranc"
+  ],
+  "premise_summary": "Impulse is an American science fiction drama television series based on the 2013 Steven Gould novel Impulse. The novel was one of a series following Gould's novel Jumper. The series is a stand-alone spin-off to the 2008 film adaptation of the book.",
+  "wikipedia_extract": "Impulse is an American science fiction drama television series based on the 2013 Steven Gould novel Impulse. The novel was one of a series following Gould's novel Jumper. The series is a stand-alone spin-off to the 2008 film adaptation of the book.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

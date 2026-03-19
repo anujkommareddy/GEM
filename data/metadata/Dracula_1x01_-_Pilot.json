@@ -1,0 +1,66 @@
+{
+  "show_id": "Dracula_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dracula_(2013_TV_series)",
+  "wiki_page_title": "Dracula (2013 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:22.574354+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dracula (2013 TV series)",
+  "search_title_used": "Dracula",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United Kingdom",
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Gothic horror",
+    "Thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "NBC (US)Sky Living (UK)"
+  ],
+  "production_companies": [
+    "Universal Television",
+    "Carnival Films",
+    "Flame Ventures",
+    "Playground Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Cole Haddon Daniel Knauff"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jonathan Rhys Meyers",
+    "Jessica De Gouw",
+    "Thomas Kretschmann",
+    "Victoria Smurfit",
+    "Oliver Jackson-Cohen",
+    "Nonso Anozie",
+    "Katie McGrath"
+  ],
+  "executive_producers": [
+    "Colin Callender",
+    "Daniel Knauf",
+    "Tony Krantz",
+    "Gareth Neame",
+    "Anne Mensahn"
+  ],
+  "premise_summary": "Dracula is a horror drama television series. The series, a reimagining of Bram Stoker's 1897 novel Dracula, was produced by London-based Carnival Films; it aired in the United States on NBC and in the United Kingdom on Sky Living from 25 October 2013, to 24 January 2014. It was created by Cole Haddon and Daniel Knauf, while Daniel Knauf served as showrunner and head writer.",
+  "wikipedia_extract": "Dracula is a horror drama television series. The series, a reimagining of Bram Stoker's 1897 novel Dracula, was produced by London-based Carnival Films; it aired in the United States on NBC and in the United Kingdom on Sky Living from 25 October 2013, to 24 January 2014. It was created by Cole Haddon and Daniel Knauf, while Daniel Knauf served as showrunner and head writer.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

@@ -1,0 +1,64 @@
+{
+  "show_id": "Guys_With_Kids_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Guys_with_Kids",
+  "wiki_page_title": "Guys with Kids",
+  "retrieval_timestamp": "2026-03-19T04:35:14.200965+00:00",
+  "retrieval_confidence": "high",
+  "title": "Guys with Kids",
+  "search_title_used": "Guys With Kids",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 17,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Holiday Road",
+    "Charlie Grandy Productions",
+    "Universal Television",
+    "Open 4 Business Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jimmy Fallon",
+    "Charlie Grandy",
+    "Amy Ozols"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Anthony Anderson",
+    "Jesse Bradford",
+    "Zach Cregger",
+    "Tempestt Bledsoe",
+    "Erinn Hayes",
+    "Jamie-Lynn Sigler"
+  ],
+  "executive_producers": [
+    "Jimmy Fallon",
+    "Charlie Grandy",
+    "Amy Ozols",
+    "Rick Weiner",
+    "Kenny Schwartz"
+  ],
+  "premise_summary": "Guys with Kids is an American sitcom television series that aired on NBC, from September 11, 2012, to February 27, 2013, as part of the 2012–13 television schedule. The series was created by Jimmy Fallon, Charlie Grandy, and Amy Ozols, and stars Anthony Anderson, Jesse Bradford, Zach Cregger, Jamie-Lynn Sigler, Erinn Hayes, and Tempestt Bledsoe. The series chronicles the lives of three friends, and their respective partners, as they raise their children in a modern environment.",
+  "wikipedia_extract": "Guys with Kids is an American sitcom television series that aired on NBC, from September 11, 2012, to February 27, 2013, as part of the 2012–13 television schedule. The series was created by Jimmy Fallon, Charlie Grandy, and Amy Ozols, and stars Anthony Anderson, Jesse Bradford, Zach Cregger, Jamie-Lynn Sigler, Erinn Hayes, and Tempestt Bledsoe. The series chronicles the lives of three friends, and their respective partners, as they raise their children in a modern environment.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

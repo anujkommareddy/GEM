@@ -1,0 +1,44 @@
+{
+  "show_id": "Onion_News_Empire_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Onion_News_Network",
+  "wiki_page_title": "Onion News Network",
+  "retrieval_timestamp": "2026-03-19T04:52:24.052538+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Onion News Network",
+  "search_title_used": "Onion News Empire",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Parody"
+  ],
+  "format_type": null,
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "IFC"
+  ],
+  "production_companies": null,
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Brian HuskeySuzanne SenaKyla Grogan"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Onion News Network is a parody television news show produced by The Onion that originated as a YouTube video series in 2007 and was further developed into a 22 minute television program in 2011, with two seasons of ten episodes aired on IFC.",
+  "wikipedia_extract": "Onion News Network is a parody television news show produced by The Onion that originated as a YouTube video series in 2007 and was further developed into a 22 minute television program in 2011, with two seasons of ten episodes aired on IFC.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

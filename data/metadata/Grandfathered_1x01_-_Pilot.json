@@ -1,0 +1,61 @@
+{
+  "show_id": "Grandfathered_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Grandfathered_(TV_series)",
+  "wiki_page_title": "Grandfathered (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:34:43.646940+00:00",
+  "retrieval_confidence": "high",
+  "title": "Grandfathered (TV series)",
+  "search_title_used": "Grandfathered",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Rhode Island Ave. Productions",
+    "Consolidated Chunworks",
+    "20th Century Fox Television",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Daniel Chun"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "John Stamos",
+    "Paget Brewster",
+    "Josh Peck",
+    "Christina Milian",
+    "Ravi Patel",
+    "Kelly Jenrette"
+  ],
+  "executive_producers": [
+    "Chris Koch",
+    "John Stamos",
+    "Dan Fogelman",
+    "Daniel Chun"
+  ],
+  "premise_summary": "Grandfathered is an American sitcom created by Daniel Chun for Fox. Originally titled Grandpa, the show was picked up to series on May 8, 2015, and premiered on September 29, 2015. On October 15, 2015, Fox ordered an additional six scripts for the first season. On October 28, 2015, Fox ordered a full season of 22 episodes for the first season.",
+  "wikipedia_extract": "Grandfathered is an American sitcom created by Daniel Chun for Fox. Originally titled Grandpa, the show was picked up to series on May 8, 2015, and premiered on September 29, 2015. On October 15, 2015, Fox ordered an additional six scripts for the first season. On October 28, 2015, Fox ordered a full season of 22 episodes for the first season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2016",
+  "franchise_status": null
+}

@@ -1,0 +1,60 @@
+{
+  "show_id": "Somewhere_Between_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Somewhere_Between_(TV_series)",
+  "wiki_page_title": "Somewhere Between (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:01:27.312046+00:00",
+  "retrieval_confidence": "high",
+  "title": "Somewhere Between (TV series)",
+  "search_title_used": "Somewhere Between",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "The Lion & the Rose",
+    "ITV Studios America",
+    "Thunderbird Entertainment"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Paula Patton",
+    "Devon Sawa",
+    "JR Bourne",
+    "Aria Birch",
+    "Serge Houde"
+  ],
+  "executive_producers": [
+    "Stephen Tolkin",
+    "Ivan Fecan",
+    "Joseph Broido",
+    "Tim Gamble",
+    "Matthew O'Connor",
+    "Choi Ran"
+  ],
+  "premise_summary": "Somewhere Between is an American drama television series commissioned by ABC and produced by ITV Studios America and Thunderbird Entertainment. The series is an American adaptation of the Korean mystery TV show God's Gift: 14 Days, which aired on SBS. The series follows a mother who tries to change the fate of her daughter's murder. It stars Paula Patton, while Stephen Tolkin serves as writer and executive producer. Production began on March 7, 2017, in Vancouver, British Columbia. The series premiered as a summer replacement on July 24, 2017, and was cancelled after one season of 10 episodes.",
+  "wikipedia_extract": "Somewhere Between is an American drama television series commissioned by ABC and produced by ITV Studios America and Thunderbird Entertainment. The series is an American adaptation of the Korean mystery TV show God's Gift: 14 Days, which aired on SBS. The series follows a mother who tries to change the fate of her daughter's murder. It stars Paula Patton, while Stephen Tolkin serves as writer and executive producer. Production began on March 7, 2017, in Vancouver, British Columbia. The series premiered as a summer replacement on July 24, 2017, and was cancelled after one season of 10 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

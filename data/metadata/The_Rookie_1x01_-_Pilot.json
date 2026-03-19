@@ -1,0 +1,77 @@
+{
+  "show_id": "The_Rookie_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Rookie",
+  "wiki_page_title": "The Rookie",
+  "retrieval_timestamp": "2026-03-19T05:11:35.816638+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Rookie",
+  "search_title_used": "The Rookie",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural",
+    "Crime drama",
+    "Action"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 8,
+  "episodes": 137,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Entertainment One (seasons 1–5)",
+    "Lionsgate Television (season 6–present)",
+    "Perfectman Pictures",
+    "ABC Signature (seasons 1–6)Credited as ABC Studios for seasons 1–2",
+    "20th Television (season 7–present)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Alexi Hawley"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Nathan Fillion",
+    "Alyssa Diaz",
+    "Richard T. Jones",
+    "Titus Makin Jr.",
+    "Mercedes Mason",
+    "Melissa O'Neil",
+    "Eric Winter",
+    "Afton Williamson",
+    "Mekia Cox",
+    "Shawn Ashmore",
+    "Jenna Dewan",
+    "Tru Valentino",
+    "Lisseth Chavez",
+    "Deric Augustine"
+  ],
+  "executive_producers": [
+    "Alexi Hawley",
+    "Nathan Fillion",
+    "Mark Gordon",
+    "Nicholas Pepper",
+    "Michelle Chapman",
+    "Jon Steinberg",
+    "Liz Friedlander",
+    "William Norcross",
+    "Terence Paul Winter"
+  ],
+  "premise_summary": "The Rookie is an American police procedural television series created by Alexi Hawley for ABC. The series stars Nathan Fillion, Alyssa Diaz, Richard T. Jones, Titus Makin Jr., Mercedes Mason, Melissa O'Neil, Eric Winter, Afton Williamson, Mekia Cox, Shawn Ashmore, Jenna Dewan, Tru Valentino, Lisseth Chavez, and Deric Augustine. It follows John Nolan, a man in his 40s, who becomes the oldest rookie at the Los Angeles Police Department (LAPD). It is based on real-life LAPD officer William Norcross, who moved to Los Angeles in 2015 and joined the department in his mid-40s.",
+  "wikipedia_extract": "The Rookie is an American police procedural television series created by Alexi Hawley for ABC. The series stars Nathan Fillion, Alyssa Diaz, Richard T. Jones, Titus Makin Jr., Mercedes Mason, Melissa O'Neil, Eric Winter, Afton Williamson, Mekia Cox, Shawn Ashmore, Jenna Dewan, Tru Valentino, Lisseth Chavez, and Deric Augustine. It follows John Nolan, a man in his 40s, who becomes the oldest rookie at the Los Angeles Police Department (LAPD). It is based on real-life LAPD officer William Norcross, who moved to Los Angeles in 2015 and joined the department in his mid-40s.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,50 @@
+{
+  "show_id": "State_Of_Georgia_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/State_of_Georgia_(TV_series)",
+  "wiki_page_title": "State of Georgia (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:35.666047+00:00",
+  "retrieval_confidence": "high",
+  "title": "State of Georgia (TV series)",
+  "search_title_used": "State Of Georgia",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "ABC Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jeff Greenstein"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Raven-Symoné"
+  ],
+  "executive_producers": [
+    "Kirk J. Rudell"
+  ],
+  "premise_summary": "State of Georgia is an American television sitcom. It stars Raven-Symoné, Majandra Delfino, and Loretta Devine. The half-hour multi-cam comedy series stars Raven-Symoné as Georgia, an aspiring actress with a larger-than-life personality, and her science geek best friend, Jo, who are trying to make professional and personal headway in New York City. The series ran on ABC Family from June 29 to August 17, 2011. The pilot episode had 1.32 million viewers.",
+  "wikipedia_extract": "State of Georgia is an American television sitcom. It stars Raven-Symoné, Majandra Delfino, and Loretta Devine. The half-hour multi-cam comedy series stars Raven-Symoné as Georgia, an aspiring actress with a larger-than-life personality, and her science geek best friend, Jo, who are trying to make professional and personal headway in New York City. The series ran on ABC Family from June 29 to August 17, 2011. The pilot episode had 1.32 million viewers.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

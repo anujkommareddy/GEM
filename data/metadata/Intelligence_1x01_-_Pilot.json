@@ -1,0 +1,58 @@
+{
+  "show_id": "Intelligence_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Intelligence_(British_TV_series)",
+  "wiki_page_title": "Intelligence (British TV series)",
+  "retrieval_timestamp": "2026-03-19T04:42:24.283713+00:00",
+  "retrieval_confidence": "high",
+  "title": "Intelligence (British TV series)",
+  "search_title_used": "Intelligence",
+  "alternate_titles": [],
+  "start_year": 2020,
+  "end_year": 2023,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "half-hour",
+  "seasons": null,
+  "episodes": 13,
+  "original_network": [
+    "Sky One (series 1–2)",
+    "Sky Comedy (special)"
+  ],
+  "production_companies": [
+    "Expectation Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nick Mohammed"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Schwimmer",
+    "Nick Mohammed",
+    "Jane Stanness",
+    "Sylvestra Le Touzel",
+    "Gana Bayarsaikhan",
+    "Eliot Salt",
+    "Oliver Birch"
+  ],
+  "executive_producers": [
+    "Nerys Evans",
+    "Morwenna Gordon"
+  ],
+  "premise_summary": "Intelligence is a British comedy television series created by Nick Mohammed and starring Mohammed and David Schwimmer. It premiered on 21 February 2020 on Sky One. That same month, it was renewed for a second series which premiered on 8 June 2021. A one–hour special was announced in April 2023, titled Intelligence: A Special Agent Special, that sees Jerry and Joseph fight off a rival operative trying to take down their business and destroy them. The special premiered on 8 April 2023 on Sky Comedy.",
+  "wikipedia_extract": "Intelligence is a British comedy television series created by Nick Mohammed and starring Mohammed and David Schwimmer. It premiered on 21 February 2020 on Sky One. That same month, it was renewed for a second series which premiered on 8 June 2021. A one–hour special was announced in April 2023, titled Intelligence: A Special Agent Special, that sees Jerry and Joseph fight off a rival operative trying to take down their business and destroy them. The special premiered on 8 April 2023 on Sky Comedy.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

@@ -1,0 +1,100 @@
+{
+  "show_id": "lost-101-pilot-2004",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Lost_(TV_series)",
+  "wiki_page_title": "Lost (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:22:17.640832+00:00",
+  "retrieval_confidence": "high",
+  "title": "Lost (TV series)",
+  "search_title_used": "lost",
+  "alternate_titles": [],
+  "start_year": 2004,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Hybridlast=VanDerWerff"
+  ],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 121,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Grass Skirt Productions",
+    "Bad Robot",
+    "ABC StudiosCredited as Touchstone Television for seasons 1–3"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jeffrey Lieber",
+    "J. J. Abrams",
+    "Damon Lindelof"
+  ],
+  "showrunners": [
+    "Damon Lindelof",
+    "Carlton Cuse"
+  ],
+  "lead_cast": [
+    "Naveen Andrews",
+    "Emilie de Ravin",
+    "Matthew Fox",
+    "Jorge Garcia",
+    "Maggie Grace",
+    "Josh Holloway",
+    "Malcolm David Kelley",
+    "Daniel Dae Kim",
+    "Yunjin Kim",
+    "Evangeline Lilly",
+    "Dominic Monaghan",
+    "Terry O'Quinn",
+    "Harold Perrineau",
+    "Ian Somerhalder",
+    "Adewale Akinnuoye-Agbaje",
+    "Michelle Rodriguez",
+    "Cynthia Watros",
+    "Henry Ian Cusick",
+    "Michael Emerson",
+    "Elizabeth Mitchell",
+    "Kiele Sanchez",
+    "Rodrigo Santoro",
+    "Jeremy Davies",
+    "Ken Leung",
+    "Rebecca Mader",
+    "Néstor Carbonell",
+    "Jeff Fahey",
+    "Zuleikha Robinson",
+    "Sam Anderson",
+    "L. Scott Caldwell",
+    "François Chau",
+    "Fionnula Flanagan",
+    "John Terry",
+    "Sonya Walger"
+  ],
+  "executive_producers": [
+    "J. J. Abrams",
+    "Damon Lindelof",
+    "Bryan Burk",
+    "Carlton Cuse",
+    "Jack Bender",
+    "Jeff Pinkner",
+    "Stephen Williams",
+    "Edward Kitsis",
+    "Adam Horowitz",
+    "Jean Higgins",
+    "Elizabeth Sarnoff"
+  ],
+  "premise_summary": "Lost is an American science fiction adventure drama television series created by Jeffrey Lieber, J. J. Abrams, and Damon Lindelof that aired on ABC from September 22, 2004, to May 23, 2010, with a total of 121 episodes over six seasons. It contains elements of supernatural fiction and follows the survivors of a commercial jet airliner flying between Sydney and Los Angeles after the plane crashes on a mysterious island somewhere in the South Pacific Ocean. Episodes typically feature a primary storyline set on the island, augmented by flashback or flashforward sequences which provide additional insight into the involved characters.",
+  "wikipedia_extract": "Lost is an American science fiction adventure drama television series created by Jeffrey Lieber, J. J. Abrams, and Damon Lindelof that aired on ABC from September 22, 2004, to May 23, 2010, with a total of 121 episodes over six seasons. It contains elements of supernatural fiction and follows the survivors of a commercial jet airliner flying between Sydney and Los Angeles after the plane crashes on a mysterious island somewhere in the South Pacific Ocean. Episodes typically feature a primary storyline set on the island, augmented by flashback or flashforward sequences which provide additional insight into the involved characters.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

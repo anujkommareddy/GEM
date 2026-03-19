@@ -1,0 +1,85 @@
+{
+  "show_id": "glee-101-pilot-2009",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Glee_(TV_series)",
+  "wiki_page_title": "Glee (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:21:18.030498+00:00",
+  "retrieval_confidence": "high",
+  "title": "Glee (TV series)",
+  "search_title_used": "glee",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Jukebox musical",
+    "Comedy-drama",
+    "Romantic comedy",
+    "Teen drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 121,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": null,
+  "distributor": null,
+  "creators": [
+    "Ryan Murphy",
+    "Brad Falchuk",
+    "Ian Brennan"
+  ],
+  "showrunners": [
+    "Ryan Murphy"
+  ],
+  "lead_cast": [
+    "Dianna Agron",
+    "Chris Colfer",
+    "Jessalyn Gilsig",
+    "Jane Lynch",
+    "Jayma Mays",
+    "Kevin McHale",
+    "Lea Michele",
+    "Cory Monteith",
+    "Matthew Morrison",
+    "Amber Riley",
+    "Mark Salling",
+    "Jenna Ushkowitz",
+    "Heather Morris",
+    "Mike O'Malley",
+    "Naya Rivera",
+    "Darren Criss",
+    "Harry Shum Jr.",
+    "Chord Overstreet",
+    "Jacob Artist",
+    "Melissa Benoist",
+    "Blake Jenner",
+    "Alex Newell",
+    "Becca Tobin",
+    "Dot-Marie Jones"
+  ],
+  "executive_producers": [
+    "Ryan Murphy",
+    "Brad Falchuk",
+    "Dante Di Loreto",
+    "Ian Brennan",
+    "Russel Friend",
+    "Garrett Lerner",
+    "Bradley Buecker",
+    "Matthew Morrison (season 6)"
+  ],
+  "premise_summary": "Glee is an American jukebox musical comedy-drama television series created by Ryan Murphy, Brad Falchuk, and Ian Brennan for the Fox Broadcasting Company. Set at the fictional William McKinley High School in Lima, Ohio, the series follows the members of the New Directions, a glee club competing in the show choir circuit, as they navigate social issues regarding sexuality, gender, race, family, relationships, and teamwork. Each episode features on-screen musical performances chosen by Murphy and produced by Adam Anders and Peer Åström, ranging from show tunes to chart hits.",
+  "wikipedia_extract": "Glee is an American jukebox musical comedy-drama television series created by Ryan Murphy, Brad Falchuk, and Ian Brennan for the Fox Broadcasting Company. Set at the fictional William McKinley High School in Lima, Ohio, the series follows the members of the New Directions, a glee club competing in the show choir circuit, as they navigate social issues regarding sexuality, gender, race, family, relationships, and teamwork. Each episode features on-screen musical performances chosen by Murphy and produced by Adam Anders and Peer Åström, ranging from show tunes to chart hits.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

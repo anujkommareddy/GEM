@@ -1,0 +1,93 @@
+{
+  "show_id": "the-office-101-pilot-2005",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Office_(American_TV_series)",
+  "wiki_page_title": "The Office (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:25:44.646714+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Office (American TV series)",
+  "search_title_used": "the office",
+  "alternate_titles": [],
+  "start_year": 2005,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Mockumentary",
+    "Sitcom",
+    "Workplace comedy",
+    "Cringe comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 9,
+  "episodes": 201,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Deedle-Dee Productions",
+    "3 Arts Entertainment (uncredited)",
+    "Shine AmericaAlso credited as Reveille Productions (2005–12).",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Greg Daniels",
+    "Paul Lieberstein",
+    "Jennifer Celotta"
+  ],
+  "lead_cast": [
+    "Steve Carell",
+    "Rainn Wilson",
+    "John Krasinski",
+    "Jenna Fischer",
+    "B. J. Novak",
+    "Melora Hardin",
+    "David Denman",
+    "Leslie David Baker",
+    "Brian Baumgartner",
+    "Kate Flannery",
+    "Angela Kinsey",
+    "Oscar Nunez",
+    "Phyllis Smith",
+    "Ed Helms",
+    "Mindy Kaling",
+    "Paul Lieberstein",
+    "Creed Bratton",
+    "Craig Robinson",
+    "Ellie Kemper",
+    "Zach Woods",
+    "Amy Ryan",
+    "James Spader",
+    "Catherine Tate",
+    "Clark Duke",
+    "Jake Lacy"
+  ],
+  "executive_producers": [
+    "Ben Silverman",
+    "Greg Daniels",
+    "Ricky Gervais",
+    "Stephen Merchant",
+    "Howard Klein",
+    "Ken Kwapis",
+    "Paul Lieberstein",
+    "Jennifer Celotta",
+    "B. J. Novak",
+    "Mindy Kaling",
+    "Brent Forrester",
+    "Dan Sterling"
+  ],
+  "premise_summary": "The Office is an American mockumentary sitcom television series. It is based on the BBC series The Office created by Ricky Gervais and Stephen Merchant, and adapted for NBC by Greg Daniels. The show depicts the everyday work lives of office employees at the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. It aired from March 24, 2005, to May 16, 2013, for a total of nine seasons consisting of 201 episodes. The show was co-produced by Daniels' Deedle-Dee Productions, Reveille Productions and 3 Arts Entertainment in association with Universal Television. The original executive producers were Daniels, Gervais, Merchant, Howard Klein and Ben Silverman, with numerous others being promoted in later seasons.",
+  "wikipedia_extract": "The Office is an American mockumentary sitcom television series. It is based on the BBC series The Office created by Ricky Gervais and Stephen Merchant, and adapted for NBC by Greg Daniels. The show depicts the everyday work lives of office employees at the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. It aired from March 24, 2005, to May 16, 2013, for a total of nine seasons consisting of 201 episodes. The show was co-produced by Daniels' Deedle-Dee Productions, Reveille Productions and 3 Arts Entertainment in association with Universal Television. The original executive producers were Daniels, Gervais, Merchant, Howard Klein and Ben Silverman, with numerous others being promoted in later seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

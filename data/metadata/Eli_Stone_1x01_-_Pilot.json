@@ -1,0 +1,65 @@
+{
+  "show_id": "Eli_Stone_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Eli_Stone",
+  "wiki_page_title": "Eli Stone",
+  "retrieval_timestamp": "2026-03-19T04:30:01.671039+00:00",
+  "retrieval_confidence": "high",
+  "title": "Eli Stone",
+  "search_title_used": "Eli Stone",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2009,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Musical",
+    "Legal drama",
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 26,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Berlanti Television",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Greg Berlanti",
+    "Marc Guggenheim"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jonny Lee Miller",
+    "Victor Garber",
+    "Natasha Henstridge",
+    "Loretta Devine",
+    "Sam Jaeger",
+    "Laura Benanti",
+    "James Saito",
+    "Matt Letscher",
+    "Julie Gonzalo",
+    "Jason Winston George"
+  ],
+  "executive_producers": [
+    "Greg Berlanti",
+    "Marc Guggenheim",
+    "Ken Olin"
+  ],
+  "premise_summary": "Eli Stone is an American comedy legal drama television series created by Greg Berlanti and Marc Guggenheim. They served as executive producers alongside Ken Olin, who directed the pilot, with Melissa Berman producing. The series aired on ABC from January 31, 2008, to July 11, 2009, for two seasons.",
+  "wikipedia_extract": "Eli Stone is an American comedy legal drama television series created by Greg Berlanti and Marc Guggenheim. They served as executive producers alongside Ken Olin, who directed the pilot, with Melissa Berman producing. The series aired on ABC from January 31, 2008, to July 11, 2009, for two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2009",
+  "franchise_status": null
+}

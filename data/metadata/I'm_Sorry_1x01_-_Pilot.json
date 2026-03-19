@@ -1,0 +1,66 @@
+{
+  "show_id": "I'm_Sorry_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/I'm_Sorry_(TV_series)",
+  "wiki_page_title": "I'm Sorry (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:40:59.122697+00:00",
+  "retrieval_confidence": "high",
+  "title": "I'm Sorry (TV series)",
+  "search_title_used": "I'm Sorry",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "TruTV"
+  ],
+  "production_companies": [
+    "Pamplemousse Productions",
+    "Kablamo! (season 1)",
+    "A24 (season 2)",
+    "Lonely Island Classics",
+    "Gloria Sanchez Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Andrea Savage"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Andrea Savage",
+    "Tom Everett Scott",
+    "Olive Petrucci"
+  ],
+  "executive_producers": [
+    "Andrea Savage",
+    "Joey Slamon",
+    "Jessica Elbaum",
+    "Jason Zaro",
+    "Billy Rosenberg",
+    "Will Ferrell",
+    "Adam McKay",
+    "Andy Samberg",
+    "Jorma Taccone",
+    "Akiva Schaffer",
+    "}}"
+  ],
+  "premise_summary": "I'm Sorry is an American sitcom television series written by and starring Andrea Savage; it premiered July 12, 2017, on TruTV. On August 17, 2017, truTV renewed the series for a second season. On June 18, 2019, the series was renewed for a third season that was scheduled to return in 2020. However, on August 25, 2020, that decision was reversed when TruTV canceled the series after two seasons due to the COVID-19 pandemic.",
+  "wikipedia_extract": "I'm Sorry is an American sitcom television series written by and starring Andrea Savage; it premiered July 12, 2017, on TruTV. On August 17, 2017, truTV renewed the series for a second season. On June 18, 2019, the series was renewed for a third season that was scheduled to return in 2020. However, on August 25, 2020, that decision was reversed when TruTV canceled the series after two seasons due to the COVID-19 pandemic.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

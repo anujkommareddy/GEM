@@ -1,0 +1,88 @@
+{
+  "show_id": "The_100Pilot_828301fb_the-100-101-pilot-2014",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_100_(TV_series)",
+  "wiki_page_title": "The 100 (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:43.955053+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "The 100 (TV series)",
+  "search_title_used": "The100",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Dystopian",
+    "Post-apocalyptic",
+    "Science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 100,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Alloy Entertainment",
+    "CBS Television Studios",
+    "Warner Bros. Television",
+    "Bonanza Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Jason Rothenberg"
+  ],
+  "lead_cast": [
+    "Eliza Taylor",
+    "Paige Turco",
+    "Thomas McDonell",
+    "Eli Goree",
+    "Marie Avgeropoulos",
+    "Bob Morley",
+    "Kelly Hu",
+    "Christopher Larkin",
+    "Devon Bostick",
+    "Isaiah Washington",
+    "Henry Ian Cusick",
+    "Lindsey Morgan",
+    "Ricky Whittle",
+    "Richard Harmon",
+    "Zach McGowan",
+    "Tasya Teles",
+    "Shannon Kook",
+    "JR Bourne",
+    "Chuku Modu",
+    "Shelby Flannery"
+  ],
+  "executive_producers": [
+    "Jason Rothenberg",
+    "Leslie Morgenstein",
+    "Bruce Miller",
+    "Matt Miller",
+    "Gina Girolamo",
+    "Bharat Nalluri",
+    "Elizabeth Craft",
+    "Sarah Fain",
+    "Cheryl Dolans",
+    "Dean White",
+    "Kim Shumway",
+    "Ed Fraiman",
+    "Jeff Vlaming"
+  ],
+  "premise_summary": "The 100 is an American post-apocalyptic science fiction drama television series that premiered on March 19, 2014, on the CW network, and ended on September 30, 2020. Developed by Jason Rothenberg, the series is based on the young adult novel series The 100 by Kass Morgan. The 100 follows descendants of post-apocalyptic survivors from a space habitat, the Ark, who return to Earth nearly a century after a devastating nuclear apocalypse; the first people sent to Earth are a group of juvenile delinquents who encounter another group of survivors on the ground.",
+  "wikipedia_extract": "The 100 is an American post-apocalyptic science fiction drama television series that premiered on March 19, 2014, on the CW network, and ended on September 30, 2020. Developed by Jason Rothenberg, the series is based on the young adult novel series The 100 by Kass Morgan. The 100 follows descendants of post-apocalyptic survivors from a space habitat, the Ark, who return to Earth nearly a century after a devastating nuclear apocalypse; the first people sent to Earth are a group of juvenile delinquents who encounter another group of survivors on the ground.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

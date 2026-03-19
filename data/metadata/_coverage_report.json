@@ -1,0 +1,333 @@
+{
+  "generated_at": "2026-03-19T05:27:06.237755+00:00",
+  "total_shows": 1105,
+  "by_confidence": {
+    "high": 734,
+    "very_low": 109,
+    "medium": 183,
+    "low": 57,
+    "none": 22
+  },
+  "field_coverage": {
+    "title": {
+      "count": 1083,
+      "pct": 98.0
+    },
+    "start_year": {
+      "count": 1048,
+      "pct": 94.8
+    },
+    "end_year": {
+      "count": 836,
+      "pct": 75.7
+    },
+    "country": {
+      "count": 957,
+      "pct": 86.6
+    },
+    "original_language": {
+      "count": 936,
+      "pct": 84.7
+    },
+    "genres": {
+      "count": 924,
+      "pct": 83.6
+    },
+    "format_type": {
+      "count": 920,
+      "pct": 83.3
+    },
+    "runtime_class": {
+      "count": 900,
+      "pct": 81.4
+    },
+    "seasons": {
+      "count": 834,
+      "pct": 75.5
+    },
+    "episodes": {
+      "count": 945,
+      "pct": 85.5
+    },
+    "original_network": {
+      "count": 957,
+      "pct": 86.6
+    },
+    "production_companies": {
+      "count": 943,
+      "pct": 85.3
+    },
+    "creators": {
+      "count": 762,
+      "pct": 69.0
+    },
+    "showrunners": {
+      "count": 136,
+      "pct": 12.3
+    },
+    "lead_cast": {
+      "count": 928,
+      "pct": 84.0
+    },
+    "premise_summary": {
+      "count": 1079,
+      "pct": 97.6
+    },
+    "cancellation_status": {
+      "count": 854,
+      "pct": 77.3
+    }
+  },
+  "low_confidence_shows": [
+    {
+      "show_id": "32-brinkburn-street-s1-ep1-karen-laws",
+      "confidence": "very_low",
+      "wiki_page": "Raffey Cassidy"
+    },
+    {
+      "show_id": "InsecureInsecure_as_Fuck_5a2e50fb_insecure-101-insecure-as-fuck-2016",
+      "confidence": "very_low",
+      "wiki_page": "Insecure (TV series)"
+    },
+    {
+      "show_id": "Weird_CityThe_One_781ce49a_weird-city-101-the-one-2019",
+      "confidence": "very_low",
+      "wiki_page": "Weird City (TV series)"
+    },
+    {
+      "show_id": "Kevin_Can_Fk_HimselfLiving_the_Dream_443c1cd7_kevin-can-f-k-himself-101-living-the-dream-2021",
+      "confidence": "very_low",
+      "wiki_page": "Meanings of minor-planet names: 7001\u20138000"
+    },
+    {
+      "show_id": "Desperate_Housewives_Pilot_6a0d917a_desperate_housewives_--_the_pilot",
+      "confidence": "very_low",
+      "wiki_page": "Pilot (Desperate Housewives)"
+    },
+    {
+      "show_id": "For_the_People_1x01_-_Pilot",
+      "confidence": "low",
+      "wiki_page": "Normal People (TV series)"
+    },
+    {
+      "show_id": "DollfaceGuys_Girl_27748bdd_dollface-101-guys-girl-2019",
+      "confidence": "very_low",
+      "wiki_page": "Dollface"
+    },
+    {
+      "show_id": "noughts-and-crosses-s1-ep1-shooting-scripts",
+      "confidence": "low",
+      "wiki_page": "Noughts + Crosses"
+    },
+    {
+      "show_id": "The_Five_Mrs._Buchanens_Pilot_38c69697_five_mrs._buchanans_pilot",
+      "confidence": "none",
+      "wiki_page": ""
+    },
+    {
+      "show_id": "the-sopranos-101-piot-1999",
+      "confidence": "very_low",
+      "wiki_page": "Marina Viotti"
+    },
+    {
+      "show_id": "Black_BirdPilot_01c12724_black-bird-101-pilot-2022",
+      "confidence": "very_low",
+      "wiki_page": "Black Bird (miniseries)"
+    },
+    {
+      "show_id": "mr-robot-101-eps1-0-hellofriend-mov-2015",
+      "confidence": "very_low",
+      "wiki_page": "Eps1.0 hellofriend.mov"
+    },
+    {
+      "show_id": "Browsers_1x01_-_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "Silo (TV series)"
+    },
+    {
+      "show_id": "Cooper_Barrett's_Guide_to_Surviving_Your_20s_1x01_-_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "2022 in American television"
+    },
+    {
+      "show_id": "nightsleeper-episode-1-shooting-script",
+      "confidence": "very_low",
+      "wiki_page": "2024 in Australian television"
+    },
+    {
+      "show_id": "ocr_30_Rock_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "Obstacle course racing"
+    },
+    {
+      "show_id": "sherwood-series-1-episode-1-by-james-graham-final-shooting-script-october-2021",
+      "confidence": "very_low",
+      "wiki_page": "Kung Fu (1972 TV series)"
+    },
+    {
+      "show_id": "Battlestar_Galactica33_78781fa8_battlestar-galactica-101-33-2005",
+      "confidence": "none",
+      "wiki_page": ""
+    },
+    {
+      "show_id": "How_To_Be_A_Gentleman_1x01_-_Pilot",
+      "confidence": "low",
+      "wiki_page": "A Gentleman in Moscow (TV series)"
+    },
+    {
+      "show_id": "RUNRun_0c2c9a80_run-101-run-2020",
+      "confidence": "very_low",
+      "wiki_page": "Dual! Parallel Trouble Adventure"
+    },
+    {
+      "show_id": "True_DetectiveThe_Long_Bright_Dark_07ba6985_true-detective-101-the-long-bright-dark-2014",
+      "confidence": "very_low",
+      "wiki_page": "True Detective"
+    },
+    {
+      "show_id": "Your_HonorPart_One_e105cfff_your-honor-101-part-one-2020",
+      "confidence": "very_low",
+      "wiki_page": "Your Honor (American TV series)"
+    },
+    {
+      "show_id": "informer-s1-ep1-final-script-rory-haines-sohrab-noshirvani",
+      "confidence": "none",
+      "wiki_page": ""
+    },
+    {
+      "show_id": "In_The_Dark_1x01_-_Pilot",
+      "confidence": "low",
+      "wiki_page": "Dark (TV series)"
+    },
+    {
+      "show_id": "the-tourist-episode-1-final-script-2.8.21",
+      "confidence": "very_low",
+      "wiki_page": "The Chosen (TV series)"
+    },
+    {
+      "show_id": "insecure-101-insecure-as-fuck-2016",
+      "confidence": "low",
+      "wiki_page": "Insecure (TV series)"
+    },
+    {
+      "show_id": "Night_CourtPilot_2fdd8ae4_night-court-101-pilot-2023",
+      "confidence": "very_low",
+      "wiki_page": "Night Court (2023 TV series)"
+    },
+    {
+      "show_id": "MaggieThings_Begin_Where_They_End_82b71353_maggie-101-things-begin-where-they-end-2022",
+      "confidence": "very_low",
+      "wiki_page": "Life Begins (TV series)"
+    },
+    {
+      "show_id": "avbs-episode-1-goldenrod-revisions-21.05.21",
+      "confidence": "none",
+      "wiki_page": ""
+    },
+    {
+      "show_id": "I_Feel_Bad_All_Day_Everyday_About_Everything_1x01_-_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "List of television shows notable for negative reception"
+    },
+    {
+      "show_id": "The_Body_Politic_1x01_-_Pilot_(January_30_2009)",
+      "confidence": "very_low",
+      "wiki_page": "The Three-Body Problem (novel)"
+    },
+    {
+      "show_id": "Disjointed_1x01_-_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "Halo (TV series)"
+    },
+    {
+      "show_id": "UploadWelcome_to_Upload_a18c2668_upload-101-welcome-to-upload-2020",
+      "confidence": "low",
+      "wiki_page": "Upload (TV series)"
+    },
+    {
+      "show_id": "The_Lost_Girls_1x01_-_Pilot",
+      "confidence": "low",
+      "wiki_page": "Lost Girl"
+    },
+    {
+      "show_id": "Paradise_Pd_1x01_-_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "CitizenGO"
+    },
+    {
+      "show_id": "PowerNot_Exactly_How_We_Planned_a4476f4f_power-101-not-exactly-how-we-planned-2014",
+      "confidence": "very_low",
+      "wiki_page": "DC Universe (franchise)"
+    },
+    {
+      "show_id": "NarcosDescenso_4db67d15_narcos-101-descenso-2015",
+      "confidence": "very_low",
+      "wiki_page": "Narcos"
+    },
+    {
+      "show_id": "Exit_19_1x01_-_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "The Protector (American TV series)"
+    },
+    {
+      "show_id": "Russian_DollNothing_in_This_World_Is_Easy_d44e2cdb_russian-doll-101-nothing-in-this-world-is-easy-2019",
+      "confidence": "very_low",
+      "wiki_page": "Russian Doll (TV series)"
+    },
+    {
+      "show_id": "FuturamaSpace_Pilot_3000_46a75442_futurama-101-space-pilot-3000-1999",
+      "confidence": "very_low",
+      "wiki_page": "Futurama"
+    },
+    {
+      "show_id": "The_Good_Girls_Revolt_1x01_-_Pilot",
+      "confidence": "very_low",
+      "wiki_page": "Erin Darke"
+    },
+    {
+      "show_id": "ConstantineNon_Est_Asylum_c1d19f52_constantine-101-non-est-asylum-2014",
+      "confidence": "very_low",
+      "wiki_page": "Constantine (TV series)"
+    },
+    {
+      "show_id": "scandal-pilot-3-tv-script-pdf",
+      "confidence": "very_low",
+      "wiki_page": "A Very English Scandal (TV series)"
+    },
+    {
+      "show_id": "KindredDana_cfa819bd_kindred-101-dana-2022",
+      "confidence": "very_low",
+      "wiki_page": "Kindred (TV series)"
+    },
+    {
+      "show_id": "Poker_FaceDead_Mans_Hand_6f394822_poker-face-101-dead-mans-hand-2023",
+      "confidence": "very_low",
+      "wiki_page": "Poker Face (TV series)"
+    },
+    {
+      "show_id": "NETFLIX - The OA 1x01 (Pilot AKA Homecoming)",
+      "confidence": "very_low",
+      "wiki_page": "Kathleen Wilhoite"
+    },
+    {
+      "show_id": "Merry_Happy_Whatever_1x01_-_December_21_-_Welcome_Matt",
+      "confidence": "low",
+      "wiki_page": "Merry Happy Whatever"
+    },
+    {
+      "show_id": "Best_Friends_Forever_1x01_-_Pilot",
+      "confidence": "low",
+      "wiki_page": "Forever (2014 TV series)"
+    },
+    {
+      "show_id": "Im_Dying_Up_HerePilot_ebb903be_im-dying-up-here-101-pilot-2017",
+      "confidence": "very_low",
+      "wiki_page": "Big Mouth (South Korean TV series)"
+    },
+    {
+      "show_id": "Our_Flag_Means_DeathPilot_f32b131c_our-flag-means-death-101-pilot-2022",
+      "confidence": "very_low",
+      "wiki_page": "Our Flag Means Death"
+    }
+  ]
+}

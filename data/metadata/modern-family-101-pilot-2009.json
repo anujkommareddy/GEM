@@ -1,0 +1,86 @@
+{
+  "show_id": "modern-family-101-pilot-2009",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Modern_Family",
+  "wiki_page_title": "Modern Family",
+  "retrieval_timestamp": "2026-03-19T05:22:40.796414+00:00",
+  "retrieval_confidence": "high",
+  "title": "Modern Family",
+  "search_title_used": "modern family",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom",
+    "Cringe comedy",
+    "Mockumentarylast=Susman"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 11,
+  "episodes": 250,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Lloyd-Levitan(2009–12)",
+    "Picador Productions (2012–20)",
+    "Steven Levitan Productions (2012–20)",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Christopher Lloyd",
+    "Steven Levitan"
+  ],
+  "showrunners": [
+    "Steven Levitan",
+    "Christopher Lloyd"
+  ],
+  "lead_cast": [
+    "Ed O'Neill",
+    "Sofía Vergara",
+    "Julie Bowen",
+    "Ty Burrell",
+    "Jesse Tyler Ferguson",
+    "Eric Stonestreet",
+    "Sarah Hyland",
+    "Ariel Winter",
+    "Nolan Gould",
+    "Rico Rodriguez",
+    "Aubrey Anderson-Emmons",
+    "Jeremy Maguire",
+    "Reid Ewing"
+  ],
+  "executive_producers": [
+    "Steven Levitan",
+    "Christopher Lloyd",
+    "Jeffrey Morton",
+    "Paul Corrigan",
+    "Dan O'Shannon",
+    "Brad Walsh",
+    "Danny Zuker",
+    "Bill Wrubel",
+    "Jeffrey Richman",
+    "Abraham Higginbotham",
+    "Stephen Lloyd",
+    "Elaine Ko",
+    "Chuck Tatham",
+    "Vali Chandrasekaran",
+    "Jon Pollack",
+    "Jack Burditt"
+  ],
+  "premise_summary": "Modern Family is an American television sitcom created by Steven Levitan and Christopher Lloyd for ABC. It aired for 11 seasons from September 23, 2009, to April 8, 2020. The series follows the lives of three diverse but interrelated family set-ups living in suburban Los Angeles.",
+  "wikipedia_extract": "Modern Family is an American television sitcom created by Steven Levitan and Christopher Lloyd for ABC. It aired for 11 seasons from September 23, 2009, to April 8, 2020. The series follows the lives of three diverse but interrelated family set-ups living in suburban Los Angeles.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

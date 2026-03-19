@@ -1,0 +1,58 @@
+{
+  "show_id": "Fantasy_Island_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fantasy_Island_(1998_TV_series)",
+  "wiki_page_title": "Fantasy Island (1998 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:31:25.747610+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fantasy Island (1998 TV series)",
+  "search_title_used": "Fantasy Island",
+  "alternate_titles": [],
+  "start_year": 1998,
+  "end_year": 1999,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Fantasy",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Sonnenfeld Josephson Worldwide Entertainment",
+    "Columbia TriStar Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Malcolm McDowell",
+    "Mädchen Amick",
+    "Louis Lombardi",
+    "Edward Hibbert",
+    "Fyvush Finkel",
+    "Sylvia Sidney"
+  ],
+  "executive_producers": [
+    "Barry Josephson",
+    "Barry Sonnenfeld",
+    "Diane Frolov",
+    "Andrew Schneider"
+  ],
+  "premise_summary": "Fantasy Island is an American fantasy drama television series, broadcast on ABC from September 26, 1998 to January 23, 1999, during the 1998–99 television season. A remake of the original Fantasy Island television series, it starred Malcolm McDowell as Mr. Roarke and was developed by Bob Josephson.",
+  "wikipedia_extract": "Fantasy Island is an American fantasy drama television series, broadcast on ABC from September 26, 1998 to January 23, 1999, during the 1998–99 television season. A remake of the original Fantasy Island television series, it starred Malcolm McDowell as Mr. Roarke and was developed by Bob Josephson.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1999",
+  "franchise_status": null
+}

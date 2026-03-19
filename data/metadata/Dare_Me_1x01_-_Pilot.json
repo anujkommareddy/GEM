@@ -1,0 +1,66 @@
+{
+  "show_id": "Dare_Me_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dare_Me_(TV_series)",
+  "wiki_page_title": "Dare Me (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:27:16.177867+00:00",
+  "retrieval_confidence": "high",
+  "title": "Dare Me (TV series)",
+  "search_title_used": "Dare Me",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Megan Abbott",
+    "Drowning Girl Productions",
+    "Fair Harbor Productions",
+    "Film 44",
+    "Universal Content Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Willa Fitzgerald",
+    "Herizen Guardiola",
+    "Marlo Kelly",
+    "Rob Heaps",
+    "Zach Roerig",
+    "Paul Fitzgerald",
+    "Alison Thornton"
+  ],
+  "executive_producers": [
+    "Steph Green (pilot)",
+    "Karen Rosenfelt",
+    "Sarah Condon",
+    "Peter Berg",
+    "Michael Lombardo",
+    "Megan Abbott",
+    "Gina Fattore"
+  ],
+  "premise_summary": "Dare Me is an American teen drama mystery thriller television series based on the 2012 novel of the same name by Megan Abbott, co-developed with Gina Fattore. The series was picked up in late January 2019 and premiered on USA Network on December 29, 2019. In April 2020, USA Network canceled the series after one season.",
+  "wikipedia_extract": "Dare Me is an American teen drama mystery thriller television series based on the 2012 novel of the same name by Megan Abbott, co-developed with Gina Fattore. The series was picked up in late January 2019 and premiered on USA Network on December 29, 2019. In April 2020, USA Network canceled the series after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

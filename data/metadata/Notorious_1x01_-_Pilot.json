@@ -1,0 +1,59 @@
+{
+  "show_id": "Notorious_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Notorious_(2016_TV_series)",
+  "wiki_page_title": "Notorious (2016 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:51:28.324682+00:00",
+  "retrieval_confidence": "high",
+  "title": "Notorious (2016 TV series)",
+  "search_title_used": "Notorious",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Osprey Productions",
+    "ABC Studios",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Josh Berman",
+    "Allie Hagan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Piper Perabo",
+    "Daniel Sunjata",
+    "Sepideh Moafi"
+  ],
+  "executive_producers": [
+    "Michael Engler",
+    "Kenny Meiselas",
+    "Brian Gersh",
+    "Jeff Kwatinetz",
+    "Josh Barry"
+  ],
+  "premise_summary": "Notorious is an American crime and legal drama television series broadcast on ABC. The series, starring Piper Perabo and Daniel Sunjata, was announced on May 12, 2016. The series premiered on Thursday, September 22, 2016. On October 25, 2016, the number of episodes was reduced by ABC from thirteen to ten; however, the series remained on the network's schedule until December 8, 2016, when the final episode of the first season was broadcast.\nThe series was officially cancelled in May 2017.",
+  "wikipedia_extract": "Notorious is an American crime and legal drama television series broadcast on ABC. The series, starring Piper Perabo and Daniel Sunjata, was announced on May 12, 2016. The series premiered on Thursday, September 22, 2016. On October 25, 2016, the number of episodes was reduced by ABC from thirteen to ten; however, the series remained on the network's schedule until December 8, 2016, when the final episode of the first season was broadcast.\nThe series was officially cancelled in May 2017.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

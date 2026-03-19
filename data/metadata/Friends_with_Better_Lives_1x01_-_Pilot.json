@@ -1,0 +1,60 @@
+{
+  "show_id": "Friends_with_Better_Lives_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Friends_with_Better_Lives",
+  "wiki_page_title": "Friends with Better Lives",
+  "retrieval_timestamp": "2026-03-19T04:32:38.911908+00:00",
+  "retrieval_confidence": "high",
+  "title": "Friends with Better Lives",
+  "search_title_used": "Friends with Better Lives",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Liscolaide Productions",
+    "Hemingson Entertainment",
+    "Kapital Entertainment",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dana Klein"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "James Van Der Beek",
+    "Majandra Delfino",
+    "Zoe Lister-Jones",
+    "Brooklyn Decker",
+    "Rick Donald",
+    "Kevin Connolly"
+  ],
+  "executive_producers": [
+    "Dana Klein",
+    "Aaron Kaplan",
+    "David Hemingson"
+  ],
+  "premise_summary": "Friends with Better Lives is an American sitcom television series created by Dana Klein. The multi-camera series premiered on CBS on March 31, 2014, as part of the 2013–14 American television season.",
+  "wikipedia_extract": "Friends with Better Lives is an American sitcom television series created by Dana Klein. The multi-camera series premiered on CBS on March 31, 2014, as part of the 2013–14 American television season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

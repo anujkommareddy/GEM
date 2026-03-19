@@ -1,0 +1,57 @@
+{
+  "show_id": "Knight_Rider_-_Pilot_(2008)",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)",
+  "wiki_page_title": "Knight Rider (1982 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:43:57.291035+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Knight Rider (1982 TV series)",
+  "search_title_used": "Knight Rider ()",
+  "alternate_titles": [],
+  "start_year": 1982,
+  "end_year": 1986,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Actionurl=http://www.allocine.fr/series/ficheserie_gen_cserie=367.html"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 90,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Glen A. Larson Productions",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Glen A. Larson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "David Hasselhoff",
+    "Edward Mulhare",
+    "Patricia McPherson",
+    "Rebecca Holden",
+    "Peter Parros"
+  ],
+  "executive_producers": [
+    "Glen A. Larson",
+    "Robert Foster",
+    "R.A. Cinader"
+  ],
+  "premise_summary": "Knight Rider is an American action crime drama television series created and produced by Glen A. Larson. The series was originally broadcast on NBC from September 26, 1982, to April 4, 1986. The show stars David Hasselhoff as Michael Knight, a sleek and modern crime fighter assisted by KITT, an advanced, artificially intelligent, self-aware, and nearly indestructible car. This was the last series Larson devised at Universal Television before he moved to 20th Century Fox Television. While the series received negative reviews from critics during its initial run, retrospective reviews have been more positive from audiences and critics alike. The series has received a cult following.",
+  "wikipedia_extract": "Knight Rider is an American action crime drama television series created and produced by Glen A. Larson. The series was originally broadcast on NBC from September 26, 1982, to April 4, 1986. The show stars David Hasselhoff as Michael Knight, a sleek and modern crime fighter assisted by KITT, an advanced, artificially intelligent, self-aware, and nearly indestructible car. This was the last series Larson devised at Universal Television before he moved to 20th Century Fox Television. While the series received negative reviews from critics during its initial run, retrospective reviews have been more positive from audiences and critics alike. The series has received a cult following.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1986",
+  "franchise_status": null
+}

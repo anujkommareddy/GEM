@@ -1,0 +1,67 @@
+{
+  "show_id": "American_Housewife_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/American_Housewife",
+  "wiki_page_title": "American Housewife",
+  "retrieval_timestamp": "2026-03-19T04:19:26.234994+00:00",
+  "retrieval_confidence": "high",
+  "title": "American Housewife",
+  "search_title_used": "American Housewife",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 5,
+  "episodes": 103,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Eight Sisters Productions",
+    "Weiner & Schwartz Productions",
+    "Kapital Entertainment",
+    "ABC SignatureCredited as ABC Studios through season 4"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sarah Dunn"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Katy Mixon",
+    "Diedrich Bader",
+    "Meg Donnelly",
+    "Daniel DiMaggio",
+    "Julia Butters",
+    "Ali Wong",
+    "Carly Hughes",
+    "Giselle Eisenberg"
+  ],
+  "executive_producers": [
+    "Sarah Dunn",
+    "Aaron Kaplan",
+    "Kenny Schwartz",
+    "Rick Wiener",
+    "Katy Mixon (season 4-5)",
+    "Randall Winston (season 5)",
+    "Jonathan Fener (season 5)",
+    "Ruben Fleischer (pilot)"
+  ],
+  "premise_summary": "American Housewife is an American television sitcom created and written by Sarah Dunn and executive produced with Aaron Kaplan, Kenny Schwartz, Rick Wiener, and, for the pilot only, Ruben Fleischer. The show, which premiered on ABC on October 11, 2016, is a Kapital Entertainment–ABC Signature co-production.",
+  "wikipedia_extract": "American Housewife is an American television sitcom created and written by Sarah Dunn and executive produced with Aaron Kaplan, Kenny Schwartz, Rick Wiener, and, for the pilot only, Ruben Fleischer. The show, which premiered on ABC on October 11, 2016, is a Kapital Entertainment–ABC Signature co-production.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

@@ -1,0 +1,65 @@
+{
+  "show_id": "Gone_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Gone_(2017_TV_series)",
+  "wiki_page_title": "Gone (2017 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:34:13.018357+00:00",
+  "retrieval_confidence": "high",
+  "title": "Gone (2017 TV series)",
+  "search_title_used": "Gone",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2018,
+  "country": [
+    "Germany"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "TF1 (France)",
+    "VOX"
+  ],
+  "production_companies": [
+    "The Colleton Company",
+    "The Neptune Way",
+    "VOX",
+    "TF1",
+    "NBCUniversal International Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matt Lopez"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Leven Rambin",
+    "Danny Pino",
+    "Andy Mientus",
+    "Chris Noth",
+    "Tracie Thoms"
+  ],
+  "executive_producers": [
+    "Matt Lopez",
+    "JoAnn Alfano",
+    "Melissa R. Byer",
+    "Treena Hancock",
+    "Kim Moses",
+    "Barry O'Brien",
+    "Sara Colleton"
+  ],
+  "premise_summary": "Gone is an internationally co-produced police procedural crime drama television series created by Matt Lopez and produced by NBCUniversal International Studios. Based on Chelsea Cain's 2014 novel One Kick, the series revolves around Kit \"Kick\" Lannigan, a child abduction survivor, who is recruited by FBI agent Frank Novak for a special task force dedicated to solving missing persons cases. The supporting cast features Danny Pino as John Bishop, Andy Mientus as James Finley and Tracie Thoms as FBI agent Maya Kennedy.",
+  "wikipedia_extract": "Gone is an internationally co-produced police procedural crime drama television series created by Matt Lopez and produced by NBCUniversal International Studios. Based on Chelsea Cain's 2014 novel One Kick, the series revolves around Kit \"Kick\" Lannigan, a child abduction survivor, who is recruited by FBI agent Frank Novak for a special task force dedicated to solving missing persons cases. The supporting cast features Danny Pino as John Bishop, Andy Mientus as James Finley and Tracie Thoms as FBI agent Maya Kennedy.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

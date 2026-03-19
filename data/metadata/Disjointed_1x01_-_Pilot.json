@@ -1,0 +1,89 @@
+{
+  "show_id": "Disjointed_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Halo_(TV_series)",
+  "wiki_page_title": "Halo (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:28:48.026663+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Halo (TV series)",
+  "search_title_used": "Disjointed",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": 2024,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action-adventure",
+    "Drama",
+    "Military science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 17,
+  "original_network": [
+    "Paramount+"
+  ],
+  "production_companies": [
+    "Showtime Networks",
+    "343 Industries",
+    "Amblin Television",
+    "Chapter Eleven",
+    "One Big Picture",
+    "David Wiener"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Kyle Killen",
+    "Steven Kane",
+    "David Wiener"
+  ],
+  "lead_cast": [
+    "Pablo Schreiber",
+    "Shabana Azmi",
+    "Natasha Culzac",
+    "Olive Gray",
+    "Yerin Ha",
+    "Bentley Kalu",
+    "Kate Kennedy",
+    "Charlie Murphy",
+    "Danny Sapani",
+    "Jen Taylor",
+    "Bokeem Woodbine",
+    "Natascha McElhone",
+    "Joseph Morgan",
+    "Christina Bennington",
+    "Fiona O'Shaughnessy",
+    "Cristina Rodlo",
+    "Viktor Åkerblom",
+    "Tylan Bailey",
+    "Harry Lloyd"
+  ],
+  "executive_producers": [
+    "Steven Spielberg",
+    "Steven Kane",
+    "Kiki Wolfkill",
+    "Frank O'Connor",
+    "Bonnie Ross",
+    "Justin Falvey",
+    "Darryl Frank",
+    "Otto Bathurst",
+    "Toby Leslie",
+    "Kyle Killen",
+    "Scott Pennington",
+    "David Wiener",
+    "Gian Paolo Varani"
+  ],
+  "premise_summary": "Halo is an American military science fiction television series developed by Kyle Killen and Steven Kane for the streaming service Paramount+. Based on the video game franchise created by Bungie and developed by 343 Industries, the series follows a 26th-century war between the United Nations Space Command and the Covenant, a theocratic-military alliance of several alien races determined to eradicate humanity. Pablo Schreiber and Jen Taylor star as Master Chief Petty Officer John-117 and Cortana respectively; the latter reprises her voice role from the video game series.",
+  "wikipedia_extract": "Halo is an American military science fiction television series developed by Kyle Killen and Steven Kane for the streaming service Paramount+. Based on the video game franchise created by Bungie and developed by 343 Industries, the series follows a 26th-century war between the United Nations Space Command and the Covenant, a theocratic-military alliance of several alien races determined to eradicate humanity. Pablo Schreiber and Jen Taylor star as Master Chief Petty Officer John-117 and Cortana respectively; the latter reprises her voice role from the video game series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2024",
+  "franchise_status": null
+}

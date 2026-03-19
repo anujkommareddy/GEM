@@ -1,0 +1,67 @@
+{
+  "show_id": "Awkward_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Awkward_(TV_series)",
+  "wiki_page_title": "Awkward (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:20:31.451277+00:00",
+  "retrieval_confidence": "high",
+  "title": "Awkward (TV series)",
+  "search_title_used": "Awkward",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2016,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama",
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 5,
+  "episodes": 89,
+  "original_network": [
+    "MTV"
+  ],
+  "production_companies": [
+    "Crazy Cat Lady Productions",
+    "MTV Production Development"
+  ],
+  "distributor": null,
+  "creators": [
+    "Lauren Iungerich"
+  ],
+  "showrunners": [
+    "Lauren Iungerich (seasons 1–3)",
+    "Chris Alberghini (seasons 4 & 5)",
+    "Mike Chessler (seasons 4 & 5)"
+  ],
+  "lead_cast": [
+    "Ashley Rickards",
+    "Beau Mirchoff",
+    "Nikki DeLoach",
+    "Jillian Rose Reed",
+    "Brett Davern",
+    "Molly Tarlov",
+    "Desi Lydic",
+    "Jessica Lu",
+    "Greer Grammer"
+  ],
+  "executive_producers": [
+    "Lauren Iungerich",
+    "Erin Ehrlich",
+    "Chris Alberghini",
+    "Mike Chessler"
+  ],
+  "premise_summary": "Awkward is an American teen comedy-drama television series created by Lauren Iungerich for MTV. The show's central character is Jenna Hamilton, a Palos Verdes, California, teenager who struggles with her identity, especially after an accident is misconstrued as a suicide attempt.",
+  "wikipedia_extract": "Awkward is an American teen comedy-drama television series created by Lauren Iungerich for MTV. The show's central character is Jenna Hamilton, a Palos Verdes, California, teenager who struggles with her identity, especially after an accident is misconstrued as a suicide attempt.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2016",
+  "franchise_status": null
+}

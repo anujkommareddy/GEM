@@ -1,0 +1,74 @@
+{
+  "show_id": "Under_The_Dome_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Under_the_Dome_(TV_series)",
+  "wiki_page_title": "Under the Dome (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:15:29.148305+00:00",
+  "retrieval_confidence": "high",
+  "title": "Under the Dome (TV series)",
+  "search_title_used": "Under The Dome",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama",
+    "Mystery thriller",
+    "Science fiction"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 39,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Amblin Television",
+    "Baer Bones",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Mike Vogel",
+    "Rachelle Lefevre",
+    "Natalie Martinez",
+    "Britt Robertson",
+    "Alexander Koch",
+    "Nicholas Strong",
+    "Colin Ford",
+    "Jolene Purdy",
+    "Aisha Hinds",
+    "Jeff Fahey",
+    "Dean Norris",
+    "Mackenzie Lintz",
+    "Eddie Cahill",
+    "Karla Crome",
+    "Kylie Bunbury"
+  ],
+  "executive_producers": [
+    "Steven Spielberg",
+    "Stephen King",
+    "Stacey Snider",
+    "Darryl Frank",
+    "Justin Falvey",
+    "Jack Bender",
+    "Brian K. Vaughan",
+    "Neal Baer",
+    "Tim Schlattmann"
+  ],
+  "premise_summary": "Under the Dome is an American science fiction mystery drama television series that premiered on CBS on June 24, 2013, and concluded on September 10, 2015. The series was developed by Brian K. Vaughan and loosely based on the 2009 novel by Stephen King.",
+  "wikipedia_extract": "Under the Dome is an American science fiction mystery drama television series that premiered on CBS on June 24, 2013, and concluded on September 10, 2015. The series was developed by Brian K. Vaughan and loosely based on the 2009 novel by Stephen King.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

@@ -1,0 +1,50 @@
+{
+  "show_id": "The_Exes_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Exes",
+  "wiki_page_title": "The Exes",
+  "retrieval_timestamp": "2026-03-19T05:07:08.214010+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Exes",
+  "search_title_used": "The Exes",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 64,
+  "original_network": [
+    "TV Land"
+  ],
+  "production_companies": [
+    "Mark Reisman ProductionsAcme ProductionsTV Land Original Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mark Reisman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kristen JohnstonDonald FaisonWayne KnightDavid Alan BascheKelly Stables"
+  ],
+  "executive_producers": [
+    "Mark ReismanFranco E. BarioMichael HanelMindy SchultheisLarry W. JonesKeith Cox"
+  ],
+  "premise_summary": "The Exes is an American sitcom starring Kristen Johnston, Donald Faison, Wayne Knight, David Alan Basche, and Kelly Stables. It debuted on TV Land on November 30, 2011, airing on Wednesday nights at 10:30 p.m. The series was created by Mark Reisman and follows three divorced men who live in a New York City apartment owned by their divorce lawyer.",
+  "wikipedia_extract": "The Exes is an American sitcom starring Kristen Johnston, Donald Faison, Wayne Knight, David Alan Basche, and Kelly Stables. It debuted on TV Land on November 30, 2011, airing on Wednesday nights at 10:30 p.m. The series was created by Mark Reisman and follows three divorced men who live in a New York City apartment owned by their divorce lawyer.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

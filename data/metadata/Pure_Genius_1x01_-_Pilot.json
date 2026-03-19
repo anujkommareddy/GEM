@@ -1,0 +1,62 @@
+{
+  "show_id": "Pure_Genius_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pure_Genius",
+  "wiki_page_title": "Pure Genius",
+  "retrieval_timestamp": "2026-03-19T04:55:07.231613+00:00",
+  "retrieval_confidence": "high",
+  "title": "Pure Genius",
+  "search_title_used": "Pure Genius",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "True Jack Productions",
+    "CBS Television Studios",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jason Katims",
+    "Sarah Watson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Augustus Prew",
+    "Dermot Mulroney",
+    "Odette Annable",
+    "Brenda Song",
+    "Reshma Shetty",
+    "Aaron Jennings",
+    "Ward Horton"
+  ],
+  "executive_producers": [
+    "Sarah Watson",
+    "David Semel",
+    "Michelle Lee",
+    "Jason Katims"
+  ],
+  "premise_summary": "Pure Genius is an American medical drama television series created by Jason Katims that aired on CBS from October 27, 2016 to January 26, 2017. The series stars Augustus Prew as James Bell, who is a Silicon Valley tech billionaire, and Dermot Mulroney as Dr. Walter Wallace. It was produced by True Jack Production, CBS Television Studios and Universal Television. In May 2017, CBS cancelled the series after one season due to negative reviews from critics and lack of an audience.",
+  "wikipedia_extract": "Pure Genius is an American medical drama television series created by Jason Katims that aired on CBS from October 27, 2016 to January 26, 2017. The series stars Augustus Prew as James Bell, who is a Silicon Valley tech billionaire, and Dermot Mulroney as Dr. Walter Wallace. It was produced by True Jack Production, CBS Television Studios and Universal Television. In May 2017, CBS cancelled the series after one season due to negative reviews from critics and lack of an audience.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,69 @@
+{
+  "show_id": "The_Bear_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)",
+  "wiki_page_title": "The Bear (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:05:19.288068+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Bear (TV series)",
+  "search_title_used": "The Bear",
+  "alternate_titles": [],
+  "start_year": 2022,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy-drama",
+    "Psychological drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 38,
+  "original_network": [
+    "FX on Hulu"
+  ],
+  "production_companies": [
+    "FXP"
+  ],
+  "distributor": null,
+  "creators": [
+    "Christopher Storer"
+  ],
+  "showrunners": [
+    "Christopher Storer",
+    "Joanna Calo"
+  ],
+  "lead_cast": [
+    "Jeremy Allen White",
+    "Ebon Moss-Bachrach",
+    "Ayo Edebiri",
+    "Lionel Boyce",
+    "Liza Colón-Zayas",
+    "Abby Elliott",
+    "Matty Matheson",
+    "Edwin Lee Gibson"
+  ],
+  "executive_producers": [
+    "Joanna Calo",
+    "Josh Senior",
+    "Christopher Storer",
+    "Tyson Bidner",
+    "Hiro Murai",
+    "Nate Matteson",
+    "Matty Matheson",
+    "Cooper Wehde",
+    "Rene Gube"
+  ],
+  "premise_summary": "The Bear is an American comedy-drama television series created by Christopher Storer for FX on Hulu. Jeremy Allen White stars as Carmy Berzatto, an award-winning chef who returns to his hometown of Chicago to manage the chaotic kitchen at his deceased brother's Italian beef sandwich shop. The regular cast includes Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce, Liza Colón-Zayas, Abby Elliott, Matty Matheson, and Edwin Lee Gibson.",
+  "wikipedia_extract": "The Bear is an American comedy-drama television series created by Christopher Storer for FX on Hulu. Jeremy Allen White stars as Carmy Berzatto, an award-winning chef who returns to his hometown of Chicago to manage the chaotic kitchen at his deceased brother's Italian beef sandwich shop. The regular cast includes Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce, Liza Colón-Zayas, Abby Elliott, Matty Matheson, and Edwin Lee Gibson.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

@@ -1,0 +1,59 @@
+{
+  "show_id": "Married_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Married_(TV_series)",
+  "wiki_page_title": "Married (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:47:37.774452+00:00",
+  "retrieval_confidence": "high",
+  "title": "Married (TV series)",
+  "search_title_used": "Married",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 23,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "Principato-Young Entertainment",
+    "Night Eater Productions",
+    "FX Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Andrew Gurland"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Judy Greer",
+    "Nat Faxon",
+    "Jenny Slate",
+    "Brett Gelman",
+    "Sarah Burns"
+  ],
+  "executive_producers": [
+    "Andrew Gurland",
+    "Salamo Levin",
+    "Paul Young",
+    "Peter Principato"
+  ],
+  "premise_summary": "Married is an American sitcom created by Andrew Gurland, which aired on FX from July 17, 2014, to October 1, 2015. The series stars Judy Greer, Nat Faxon, Jenny Slate, and Brett Gelman. On September 30, 2014, FX renewed Married for a 13 episode second season which premiered on July 16, 2015. On October 26, 2015, FX cancelled the series after two seasons and 23 episodes.",
+  "wikipedia_extract": "Married is an American sitcom created by Andrew Gurland, which aired on FX from July 17, 2014, to October 1, 2015. The series stars Judy Greer, Nat Faxon, Jenny Slate, and Brett Gelman. On September 30, 2014, FX renewed Married for a 13 episode second season which premiered on July 16, 2015. On October 26, 2015, FX cancelled the series after two seasons and 23 episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

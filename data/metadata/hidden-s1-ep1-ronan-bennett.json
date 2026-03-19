@@ -1,0 +1,61 @@
+{
+  "show_id": "hidden-s1-ep1-ronan-bennett",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Hidden_(2011_TV_series)",
+  "wiki_page_title": "Hidden (2011 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:21:25.689740+00:00",
+  "retrieval_confidence": "low",
+  "title": "Hidden (2011 TV series)",
+  "search_title_used": "hidden ronan bennett",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2011,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 4,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Origin Pictures",
+    "BBC Northern Ireland"
+  ],
+  "distributor": null,
+  "creators": [
+    "Ronan Bennett",
+    "Walter Bernstein"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Philip Glenister",
+    "Thekla Reuten",
+    "Anna Chancellor",
+    "Séainín Brennan",
+    "Michael Winder",
+    "David Suchet",
+    "Ben Smith",
+    "Andrew Scarborough"
+  ],
+  "executive_producers": [
+    "David M. Thompson",
+    "Ed Rubin",
+    "Stephen Wright"
+  ],
+  "premise_summary": "Hidden is a British television drama starring Philip Glenister, Thekla Reuten, Anna Chancellor, Michael Winder, Andrew Scarborough and David Suchet, which debuted on BBC One on 6 October 2011. The four-part series was directed by Niall MacCormick, produced by Christopher Hall, and created by Ronan Bennett and Walter Bernstein.",
+  "wikipedia_extract": "Hidden is a British television drama starring Philip Glenister, Thekla Reuten, Anna Chancellor, Michael Winder, Andrew Scarborough and David Suchet, which debuted on BBC One on 6 October 2011. The four-part series was directed by Niall MacCormick, produced by Christopher Hall, and created by Ronan Bennett and Walter Bernstein.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

@@ -1,0 +1,66 @@
+{
+  "show_id": "Glory_Daze_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Glory_Daze_(2010_TV_series)",
+  "wiki_page_title": "Glory Daze (2010 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:33:37.886335+00:00",
+  "retrieval_confidence": "high",
+  "title": "Glory Daze (2010 TV series)",
+  "search_title_used": "Glory Daze",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "TBS"
+  ],
+  "production_companies": [
+    "The Walt Becker Company",
+    "Warner Horizon Television",
+    "TBS Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Walt Becker",
+    "Michael LeSieur"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kelly Blatz",
+    "Matt Bush",
+    "Drew Seeley",
+    "Hartley Sawyer",
+    "Callard Harris",
+    "Julianna Guill",
+    "Tim Jo",
+    "James Earl",
+    "Josh Brener",
+    "Chris D'Elia",
+    "Tim Meadows"
+  ],
+  "executive_producers": [
+    "Walt Becker",
+    "Dan Cohen",
+    "Michael LeSieur",
+    "F.J. Pratt"
+  ],
+  "premise_summary": "Glory Daze is an American comedy-drama television series. The one-hour series revolves around a group of college freshmen who pledge a fraternity in 1986. The series aired from November 16, 2010, to January 18, 2011, on TBS.",
+  "wikipedia_extract": "Glory Daze is an American comedy-drama television series. The one-hour series revolves around a group of college freshmen who pledge a fraternity in 1986. The series aired from November 16, 2010, to January 18, 2011, on TBS.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

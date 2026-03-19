@@ -1,0 +1,65 @@
+{
+  "show_id": "LA_to_Vegas_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Vegas_(2012_TV_series)",
+  "wiki_page_title": "Vegas (2012 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:44:16.762008+00:00",
+  "retrieval_confidence": "low",
+  "title": "Vegas (2012 TV series)",
+  "search_title_used": "LA to Vegas",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Period dramaCrime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 21,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Happy Valley Films",
+    "Tree Line Film",
+    "Arthur Sarkissian Productions",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nicholas Pileggi",
+    "Greg Walker"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Dennis Quaid",
+    "Michael Chiklis",
+    "Carrie-Anne Moss",
+    "Taylor Handley",
+    "Sarah Jones",
+    "Jason O'Mara"
+  ],
+  "executive_producers": [
+    "Greg Walker",
+    "Nicholas Pileggi",
+    "Arthur M. Sarkissian",
+    "Cathy Konrad",
+    "James Mangold",
+    "Dennis Quaid",
+    "Michael Chiklis"
+  ],
+  "premise_summary": "Vegas is an American period drama television series that ran on CBS from September 25, 2012 to May 10, 2013. The series starred Dennis Quaid and Michael Chiklis. The series was co-created by Las Vegas chronicler and Casino screenwriter Nicholas Pileggi, who also wrote the pilot.",
+  "wikipedia_extract": "Vegas is an American period drama television series that ran on CBS from September 25, 2012 to May 10, 2013. The series starred Dennis Quaid and Michael Chiklis. The series was co-created by Las Vegas chronicler and Casino screenwriter Nicholas Pileggi, who also wrote the pilot.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

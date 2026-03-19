@@ -1,0 +1,61 @@
+{
+  "show_id": "Big_Time_In_Hollywood,_Fl_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Big_Time_in_Hollywood,_FL",
+  "wiki_page_title": "Big Time in Hollywood, FL",
+  "retrieval_timestamp": "2026-03-19T04:22:11.603790+00:00",
+  "retrieval_confidence": "high",
+  "title": "Big Time in Hollywood, FL",
+  "search_title_used": "Big Time In Hollywood, Fl",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Dark comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Comedy Central"
+  ],
+  "production_companies": [
+    "Red Hour Productions Brillstein Entertainment Partners"
+  ],
+  "distributor": null,
+  "creators": [
+    "Alex AnfangerDan Schimpf"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Alex Anfanger",
+    "Lenny Jacobson",
+    "Jon Bass",
+    "Kathy Baker",
+    "Stephen Tobolowsky"
+  ],
+  "executive_producers": [
+    "Alex Anfanger",
+    "Dan Schimpf",
+    "Ben Stiller",
+    "Debbie Liebling",
+    "Stuart Cornfeld",
+    "Mike Rosenstein",
+    "Lee Kernis",
+    "Brian Stern"
+  ],
+  "premise_summary": "Big Time in Hollywood, FL is an American sitcom created and written by Alex Anfanger and Dan Schimpf. A 10-episode first season was ordered by the American cable television network Comedy Central, which premiered on March 25, 2015.",
+  "wikipedia_extract": "Big Time in Hollywood, FL is an American sitcom created and written by Alex Anfanger and Dan Schimpf. A 10-episode first season was ordered by the American cable television network Comedy Central, which premiered on March 25, 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

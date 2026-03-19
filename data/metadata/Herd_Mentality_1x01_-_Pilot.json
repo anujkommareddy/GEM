@@ -1,0 +1,47 @@
+{
+  "show_id": "Herd_Mentality_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Beartown_(TV_series)",
+  "wiki_page_title": "Beartown (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:38:58.272116+00:00",
+  "retrieval_confidence": "very_low",
+  "title": "Beartown (TV series)",
+  "search_title_used": "Herd Mentality",
+  "alternate_titles": [],
+  "start_year": 2020,
+  "end_year": 2020,
+  "country": [
+    "Sweden"
+  ],
+  "original_language": [
+    "Swedish"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 5,
+  "original_network": [
+    "HBO Nordic"
+  ],
+  "production_companies": [
+    "Filmlance International"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Ulf Stenberg",
+    "Miriam Ingrid"
+  ],
+  "executive_producers": null,
+  "premise_summary": "Beartown is a five-episode 2020 drama series directed by Peter Grönlund. Based on Fredrik Backman's 2016 novel of the same name, the series centres on the fallout of a violent incident between two teenagers in a rural, declining town in Northern Sweden, where hockey is not just a sport but a way of life. The series features an ensemble cast led by Ulf Stenberg, Miriam Ingrid, and Oliver Dufåker.",
+  "wikipedia_extract": "Beartown is a five-episode 2020 drama series directed by Peter Grönlund. Based on Fredrik Backman's 2016 novel of the same name, the series centres on the fallout of a violent incident between two teenagers in a rural, declining town in Northern Sweden, where hockey is not just a sport but a way of life. The series features an ensemble cast led by Ulf Stenberg, Miriam Ingrid, and Oliver Dufåker.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

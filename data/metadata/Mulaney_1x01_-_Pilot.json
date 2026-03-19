@@ -1,0 +1,58 @@
+{
+  "show_id": "Mulaney_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mulaney",
+  "wiki_page_title": "Mulaney",
+  "retrieval_timestamp": "2026-03-19T04:50:03.851380+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mulaney",
+  "search_title_used": "Mulaney",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Broadway Video",
+    "Jurny Mulurny Television",
+    "3 Arts Entertainment",
+    "Universal Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Mulaney"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "John Mulaney",
+    "Nasim Pedrad",
+    "Seaton Smith",
+    "Zack Pearlman",
+    "Elliott Gould",
+    "Martin Short"
+  ],
+  "executive_producers": [
+    "Lorne MichaelsJohn MulaneyAndy AckermanAndy SingerDave BeckyDavid MinerJon Pollack"
+  ],
+  "premise_summary": "Mulaney is an American sitcom that aired on Fox from October 5, 2014, to February 15, 2015. Stand-up comedian and former Saturday Night Live writer John Mulaney created the show and starred as a fictionalized version of himself. At the beginning of each episode, and sometimes throughout, Mulaney performed stand-up comedy to the studio audience. The show suffered from low ratings and poor critical reviews, and was cancelled in February 2015.",
+  "wikipedia_extract": "Mulaney is an American sitcom that aired on Fox from October 5, 2014, to February 15, 2015. Stand-up comedian and former Saturday Night Live writer John Mulaney created the show and starred as a fictionalized version of himself. At the beginning of each episode, and sometimes throughout, Mulaney performed stand-up comedy to the studio audience. The show suffered from low ratings and poor critical reviews, and was cancelled in February 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

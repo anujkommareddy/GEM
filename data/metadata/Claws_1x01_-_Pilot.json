@@ -1,0 +1,70 @@
+{
+  "show_id": "Claws_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Claws_(TV_series)",
+  "wiki_page_title": "Claws (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:25:40.525797+00:00",
+  "retrieval_confidence": "high",
+  "title": "Claws (TV series)",
+  "search_title_used": "Claws",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Dark comedy",
+    "Crime drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": null,
+  "seasons": 4,
+  "episodes": 40,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Le Train Train",
+    "Warner Horizon Television (seasons 1-3)",
+    "Warner Bros. Television (season 4)",
+    "Studio T (season 1-2)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Eliot Laurence"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Niecy Nash",
+    "Carrie Preston",
+    "Judy Reyes",
+    "Karrueche Tran",
+    "Jenn Lyon",
+    "Jack Kesy",
+    "Kevin Rankin",
+    "Jason Antoon",
+    "Harold Perrineau",
+    "Dean Norris",
+    "Jimmy Jean-Louis",
+    "Suleka Mathew",
+    "Evan Daigle"
+  ],
+  "executive_producers": [
+    "Eliot Laurence",
+    "Rashida Jones",
+    "Will McCormack",
+    "Janine Sherman Barrois",
+    "Howard Deutch"
+  ],
+  "premise_summary": "Claws is an American comedy-drama television series created by Eliot Laurence that aired on TNT from June 11, 2017, to February 6, 2022. Set in Palmetto, Florida, the series is mostly filmed in New Orleans. The series was ordered for a first season containing 10 episodes on December 13, 2016, and was originally developed as a half-hour, single-camera comedy for HBO. Three more ten-episode seasons followed, in 2017, 2018 and 2021.",
+  "wikipedia_extract": "Claws is an American comedy-drama television series created by Eliot Laurence that aired on TNT from June 11, 2017, to February 6, 2022. Set in Palmetto, Florida, the series is mostly filmed in New Orleans. The series was ordered for a first season containing 10 episodes on December 13, 2016, and was originally developed as a half-hour, single-camera comedy for HBO. Three more ten-episode seasons followed, in 2017, 2018 and 2021.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2022",
+  "franchise_status": null
+}

@@ -1,0 +1,82 @@
+{
+  "show_id": "One_Tree_Hill_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/One_Tree_Hill_(TV_series)",
+  "wiki_page_title": "One Tree Hill (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:52:20.184041+00:00",
+  "retrieval_confidence": "high",
+  "title": "One Tree Hill (TV series)",
+  "search_title_used": "One Tree Hill",
+  "alternate_titles": [],
+  "start_year": 2003,
+  "end_year": 2006,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama",
+    "Coming-of-age",
+    "Romance"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 9,
+  "episodes": 187,
+  "original_network": [
+    "The WB"
+  ],
+  "production_companies": [
+    "Tollin/Robbins Productions",
+    "Warner Bros. Television",
+    "Mastermind Laboratories (2008–2012",
+    "season 5 episode 18 – season 9)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mark Schwahn"
+  ],
+  "showrunners": [
+    "Mark Schwahn"
+  ],
+  "lead_cast": [
+    "Chad Michael Murray",
+    "James Lafferty",
+    "Hilarie Burton",
+    "Bethany Joy Lenz",
+    "Paul Johansson",
+    "Sophia Bush",
+    "Barry Corbin",
+    "Craig Sheffer",
+    "Moira Kelly",
+    "Barbara Alyn Woods",
+    "Lee Norris",
+    "Antwon Tanner",
+    "Danneel Harris",
+    "Jackson Brundage",
+    "Lisa Goldstein",
+    "Austin Nichols",
+    "Robert Buckley",
+    "Shantel VanSanten",
+    "Jana Kramer",
+    "Stephen Colletti",
+    "Tyler Hilton"
+  ],
+  "executive_producers": [
+    "Mark Schwahn",
+    "Michael Tollin",
+    "Brian Robbins",
+    "Joe Davola",
+    "Greg Prange",
+    "Mark B. Perry"
+  ],
+  "premise_summary": "One Tree Hill is an American teen drama television series created by Mark Schwahn, which premiered on September 23, 2003, on the WB. After the series' third season, the WB merged with UPN to form the CW, and from September 27, 2006, the series was broadcast by the CW in the United States until the end of its run on April 4, 2012. The show is set in the fictional town of Tree Hill, North Carolina, and initially follows the lives of two half-brothers, played by Chad Michael Murray and James Lafferty, who compete for positions on their school's basketball team and the drama that ensues from the brothers' respective romantic relationships.",
+  "wikipedia_extract": "One Tree Hill is an American teen drama television series created by Mark Schwahn, which premiered on September 23, 2003, on the WB. After the series' third season, the WB merged with UPN to form the CW, and from September 27, 2006, the series was broadcast by the CW in the United States until the end of its run on April 4, 2012. The show is set in the fictional town of Tree Hill, North Carolina, and initially follows the lives of two half-brothers, played by Chad Michael Murray and James Lafferty, who compete for positions on their school's basketball team and the drama that ensues from the brothers' respective romantic relationships.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2006",
+  "franchise_status": null
+}

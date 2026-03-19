@@ -1,0 +1,68 @@
+{
+  "show_id": "Hanna_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Hanna_(TV_series)",
+  "wiki_page_title": "Hanna (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:35:36.816433+00:00",
+  "retrieval_confidence": "high",
+  "title": "Hanna (TV series)",
+  "search_title_used": "Hanna",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 22,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "NBCUniversal International Studios",
+    "Tomorrow Studios",
+    "Working Title Television",
+    "Focus Features",
+    "Amazon Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Farr"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Esme Creed-Miles",
+    "Mireille Enos",
+    "Joel Kinnaman",
+    "Noah Taylor",
+    "Dermot Mulroney",
+    "Ray Liotta"
+  ],
+  "executive_producers": [
+    "David Farr",
+    "JoAnn Alfano",
+    "Tom Coan",
+    "Andrew Woodhead",
+    "Tim Bevan",
+    "Eric Fellner",
+    "Marty Adelstein",
+    "Becky Clements",
+    "Scott Nemes"
+  ],
+  "premise_summary": "Hanna is an American action drama television series, based on the 2011 film of the same name, for Amazon Prime Video. The series was created and written by David Farr and stars Esme Creed-Miles and Mireille Enos. The first episode was made available on Amazon Prime Video as a time-limited preview on February 3, 2019. The full eight-episode first season was released on March 29, 2019, and the second season was released on July 3, 2020. In July 2020, the series was renewed for a third and final season. It premiered on November 24, 2021.",
+  "wikipedia_extract": "Hanna is an American action drama television series, based on the 2011 film of the same name, for Amazon Prime Video. The series was created and written by David Farr and stars Esme Creed-Miles and Mireille Enos. The first episode was made available on Amazon Prime Video as a time-limited preview on February 3, 2019. The full eight-episode first season was released on March 29, 2019, and the second season was released on July 3, 2020. In July 2020, the series was renewed for a third and final season. It premiered on November 24, 2021.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

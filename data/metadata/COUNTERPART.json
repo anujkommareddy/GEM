@@ -1,0 +1,71 @@
+{
+  "show_id": "COUNTERPART",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Counterpart_(TV_series)",
+  "wiki_page_title": "Counterpart (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:24:15.156911+00:00",
+  "retrieval_confidence": "high",
+  "title": "Counterpart (TV series)",
+  "search_title_used": "COUNTERPART",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "German"
+  ],
+  "genres": [
+    "Thriller",
+    "Science fiction"
+  ],
+  "format_type": "thriller_horror",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Starz"
+  ],
+  "production_companies": [
+    "Gilbert Films",
+    "Anonymous Content",
+    "Gate 34",
+    "MRC",
+    "Studio Babelsberg",
+    "Starz Originals"
+  ],
+  "distributor": null,
+  "creators": [
+    "Justin Marks"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "J. K. Simmons",
+    "Olivia Williams",
+    "Harry Lloyd",
+    "Nazanin Boniadi",
+    "Sara Serraiocco",
+    "Ulrich Thomsen",
+    "Nicholas Pinnock",
+    "Betty Gabriel",
+    "James Cromwell"
+  ],
+  "executive_producers": [
+    "Amy Berg",
+    "Justin Marks",
+    "Bard Dorros",
+    "Keith Redmon",
+    "Morten Tyldum",
+    "Jordan Horowitz",
+    "Gary Gilbert"
+  ],
+  "premise_summary": "Counterpart is an American science fiction thriller television series starring J. K. Simmons. It was created by Justin Marks and was first broadcast on the premium cable network Starz. The series ran for 20 episodes across two seasons. It premiered on December 10, 2017, and aired its final episode on February 17, 2019.",
+  "wikipedia_extract": "Counterpart is an American science fiction thriller television series starring J. K. Simmons. It was created by Justin Marks and was first broadcast on the premium cable network Starz. The series ran for 20 episodes across two seasons. It premiered on December 10, 2017, and aired its final episode on February 17, 2019.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

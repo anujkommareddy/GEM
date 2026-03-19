@@ -1,0 +1,68 @@
+{
+  "show_id": "Reaper_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Reaper_(TV_series)",
+  "wiki_page_title": "Reaper (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:55:53.452710+00:00",
+  "retrieval_confidence": "high",
+  "title": "Reaper (TV series)",
+  "search_title_used": "Reaper",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2009,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Supernatural",
+    "Comedy",
+    "Dark humor"
+  ],
+  "format_type": "comedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 31,
+  "original_network": [
+    "The CW"
+  ],
+  "production_companies": [
+    "Dark Baby Productions",
+    "The Mark Gordon Company",
+    "ABC Studios",
+    "Fazekas & Butters"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michele Fazekas",
+    "Tara Butters"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Bret Harrison",
+    "Tyler Labine",
+    "Missy Peregrym",
+    "Ray Wise",
+    "Rick Gonzalez",
+    "Jenny Wade",
+    "Valarie Rae Miller",
+    "Donavon Stinson",
+    "Andrew Airlie"
+  ],
+  "executive_producers": [
+    "Michele Fazekas",
+    "Tara Butters",
+    "Tom Spezialy",
+    "Mark Gordon",
+    "Deborah Spera"
+  ],
+  "premise_summary": "Reaper is an American comedy television series that focuses on Sam Oliver, a \"reaper\" who works for the Devil by retrieving souls that have escaped from Hell.",
+  "wikipedia_extract": "Reaper is an American comedy television series that focuses on Sam Oliver, a \"reaper\" who works for the Devil by retrieving souls that have escaped from Hell.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2009",
+  "franchise_status": null
+}

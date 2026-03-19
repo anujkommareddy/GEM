@@ -1,0 +1,58 @@
+{
+  "show_id": "The_Way_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Way_(TV_series)",
+  "wiki_page_title": "The Way (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:12:46.190966+00:00",
+  "retrieval_confidence": "high",
+  "title": "The Way (TV series)",
+  "search_title_used": "The Way",
+  "alternate_titles": [],
+  "start_year": 2024,
+  "end_year": 2024,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": null,
+  "seasons": null,
+  "episodes": 3,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Little Door Productions",
+    "Red Seam"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Sheen",
+    "Adam Curtis",
+    "James Graham"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Steffan Rhodri",
+    "Sophie Melville",
+    "Callum Scott Howells",
+    "Mali Harries"
+  ],
+  "executive_producers": [
+    "Bethan Jones",
+    "Rebecca Ferguson",
+    "Michael Sheen",
+    "Adam Curtis",
+    "James Graham"
+  ],
+  "premise_summary": "The Way is a three-part British television series, created by James Graham, Michael Sheen and Adam Curtis, with Sheen directing from a Graham script. The series is set in the 2020s and follows the Driscoll family as they attempt to flee the United Kingdom, which has descended into anti-Welsh civil conflict following riots in Port Talbot. The series received mixed reviews from critics.",
+  "wikipedia_extract": "The Way is a three-part British television series, created by James Graham, Michael Sheen and Adam Curtis, with Sheen directing from a Graham script. The series is set in the 2020s and follows the Driscoll family as they attempt to flee the United Kingdom, which has descended into anti-Welsh civil conflict following riots in Port Talbot. The series received mixed reviews from critics.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2024",
+  "franchise_status": null
+}

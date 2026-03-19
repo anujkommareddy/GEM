@@ -1,0 +1,67 @@
+{
+  "show_id": "Treadstone_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Treadstone",
+  "wiki_page_title": "Treadstone",
+  "retrieval_timestamp": "2026-03-19T05:14:28.277594+00:00",
+  "retrieval_confidence": "high",
+  "title": "Treadstone",
+  "search_title_used": "Treadstone",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action drama",
+    "Conspiracy thriller"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Universal Content Productions",
+    "Tailwind Productions",
+    "Captivate Entertainment",
+    "Imperative Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Tim Kring"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jeremy Irvine",
+    "Tracy Ifeachor",
+    "Han Hyo-joo",
+    "Omar Metwally",
+    "Brian J. Smith",
+    "Gabrielle Scharnitzky",
+    "Emilia Schüle",
+    "Michelle Forbes"
+  ],
+  "executive_producers": [
+    "Tim Kring",
+    "Ramin Bahrani",
+    "Ben Smith",
+    "Jeffrey Weiner",
+    "Justin Levy",
+    "Bradley Thomas",
+    "Dan Friedkin"
+  ],
+  "premise_summary": "Treadstone is an American action drama television series created by Tim Kring, who is also the executive producer alongside Ramin Bahrani, Ben Smith, Jeffrey Weiner, Justin Levy, Bradley Thomas, and Dan Friedkin. It is part of the Bourne franchise and serves as a prequel to The Bourne Identity (2002). A \"special preview\" of the pilot aired on USA Network on September 24, 2019, ahead of its October 15, 2019, premiere. Treadstone received generally mixed reviews from critics and in May 2020, the series was canceled after one season of ten episodes.",
+  "wikipedia_extract": "Treadstone is an American action drama television series created by Tim Kring, who is also the executive producer alongside Ramin Bahrani, Ben Smith, Jeffrey Weiner, Justin Levy, Bradley Thomas, and Dan Friedkin. It is part of the Bourne franchise and serves as a prequel to The Bourne Identity (2002). A \"special preview\" of the pilot aired on USA Network on September 24, 2019, ahead of its October 15, 2019, premiere. Treadstone received generally mixed reviews from critics and in May 2020, the series was canceled after one season of ten episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

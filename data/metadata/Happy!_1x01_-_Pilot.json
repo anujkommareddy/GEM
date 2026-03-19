@@ -1,0 +1,70 @@
+{
+  "show_id": "Happy!_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Happy!_(TV_series)",
+  "wiki_page_title": "Happy! (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:35:56.650925+00:00",
+  "retrieval_confidence": "high",
+  "title": "Happy! (TV series)",
+  "search_title_used": "Happy!",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English and Spanish"
+  ],
+  "genres": [
+    "Action",
+    "Black comedy",
+    "Crime",
+    "Fantasy drama",
+    "Thriller"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 18,
+  "original_network": [
+    "Syfy"
+  ],
+  "production_companies": [
+    "Hypernormal (season 2)",
+    "Original Film",
+    "Littleton Road",
+    "Universal Content Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Grant Morrison",
+    "Darick Robertson"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Christopher Meloni",
+    "Ritchie Coster",
+    "Lili Mirojnick",
+    "Medina Senghore",
+    "Patrick Fischler",
+    "Christopher Fitzgerald",
+    "Bryce Lorenzo"
+  ],
+  "executive_producers": [
+    "Neal H. Moritz",
+    "Pavun Shetty",
+    "Toby Jaffe",
+    "Christopher Meloni",
+    "Brian Taylor",
+    "Grant Morrison",
+    "Patrick MacManus"
+  ],
+  "premise_summary": "Happy! is an American black comedy action television series based on the four-part graphic novel of the same name created by writer Grant Morrison and artist Darick Robertson, with Brian Taylor serving as director for a majority of the episodes.",
+  "wikipedia_extract": "Happy! is an American black comedy action television series based on the four-part graphic novel of the same name created by writer Grant Morrison and artist Darick Robertson, with Brian Taylor serving as director for a majority of the episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

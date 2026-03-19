@@ -1,0 +1,66 @@
+{
+  "show_id": "Da_Vinci's_Demons_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Da_Vinci's_Demons",
+  "wiki_page_title": "Da Vinci's Demons",
+  "retrieval_timestamp": "2026-03-19T04:27:04.768301+00:00",
+  "retrieval_confidence": "high",
+  "title": "Da Vinci's Demons",
+  "search_title_used": "Da Vinci's Demons",
+  "alternate_titles": [],
+  "start_year": null,
+  "end_year": null,
+  "country": [
+    "United States",
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Historical fantasy",
+    "Drama",
+    "Adventure"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 28,
+  "original_network": [
+    "Starz (United States)",
+    "Fox (United Kingdom)"
+  ],
+  "production_companies": [
+    "Phantom Four Films",
+    "Adjacent Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "David S. Goyer"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tom Riley",
+    "Laura Haddock",
+    "Blake Ritson",
+    "Elliot Cowan",
+    "Lara Pulver",
+    "James Faulkner",
+    "Gregg Chillin"
+  ],
+  "executive_producers": [
+    "David S. Goyer",
+    "Julie Gardner",
+    "Jane Tranter",
+    "Brian Nelson",
+    "Lee Morris",
+    "Rose Lam"
+  ],
+  "premise_summary": "Da Vinci's Demons is a historical fantasy drama television series that presents a fictional account of Leonardo da Vinci's early life. The series was conceived by David S. Goyer and stars Tom Riley in the title role. It was developed and produced in collaboration with BBC Worldwide and was shot in Wales. The series has been distributed to over 120 countries.",
+  "wikipedia_extract": "Da Vinci's Demons is a historical fantasy drama television series that presents a fictional account of Leonardo da Vinci's early life. The series was conceived by David S. Goyer and stars Tom Riley in the title role. It was developed and produced in collaboration with BBC Worldwide and was shot in Wales. The series has been distributed to over 120 countries.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

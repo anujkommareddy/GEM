@@ -1,0 +1,76 @@
+{
+  "show_id": "Teen_Wolf_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Teen_Wolf_(2011_TV_series)",
+  "wiki_page_title": "Teen Wolf (2011 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:04:15.578039+00:00",
+  "retrieval_confidence": "high",
+  "title": "Teen Wolf (2011 TV series)",
+  "search_title_used": "Teen Wolf",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Supernatural thriller",
+    "Teen drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 6,
+  "episodes": 100,
+  "original_network": [
+    "MTV"
+  ],
+  "production_companies": [
+    "Adelstein Productions",
+    "DiGa Vision",
+    "First Cause",
+    "Inc.",
+    "Lost Marbles Television",
+    "Siesta Productions",
+    "MTV Production Development",
+    "MGM Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Tyler Posey",
+    "Crystal Reed",
+    "Dylan O'Brien",
+    "Tyler Hoechlin",
+    "Holland Roden",
+    "Colton Haynes",
+    "Shelley Hennig",
+    "Arden Cho",
+    "Dylan Sprayberry",
+    "Linden Ashby",
+    "Melissa Ponzio",
+    "JR Bourne"
+  ],
+  "executive_producers": [
+    "Jeff Davis",
+    "Marty Adelstein",
+    "René Echevarria",
+    "Michael Thorn",
+    "Tony DiSanto",
+    "Liz Gateley",
+    "Russell Mulcahy",
+    "Joseph P. Genier",
+    "Tim Andrew",
+    "Karen Gorodetzky"
+  ],
+  "premise_summary": "Teen Wolf is an American supernatural teen drama television series developed by Jeff Davis for MTV. Serving as a supernatural reimagining of the 1985 film of the same name, the series is the fourth installment overall in the titular franchise. Tyler Posey portrays a young werewolf who defends his California town from supernatural creatures and other threats.",
+  "wikipedia_extract": "Teen Wolf is an American supernatural teen drama television series developed by Jeff Davis for MTV. Serving as a supernatural reimagining of the 1985 film of the same name, the series is the fourth installment overall in the titular franchise. Tyler Posey portrays a young werewolf who defends his California town from supernatural creatures and other threats.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

@@ -1,0 +1,50 @@
+{
+  "show_id": "Covert_Affairs_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Covert_Affairs",
+  "wiki_page_title": "Covert Affairs",
+  "retrieval_timestamp": "2026-03-19T04:26:33.921453+00:00",
+  "retrieval_confidence": "high",
+  "title": "Covert Affairs",
+  "search_title_used": "Covert Affairs",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 75,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Universal Cable Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matt CormanChris Ord"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Piper Perabo"
+  ],
+  "executive_producers": [
+    "Matt CormanChris OrdJames Parriott"
+  ],
+  "premise_summary": "Covert Affairs is an American action drama television series filmed in Toronto, Canada, starring Piper Perabo and Christopher Gorham that premiered on Tuesday, July 13, 2010. On January 6, 2015, USA Network canceled Covert Affairs after five seasons.",
+  "wikipedia_extract": "Covert Affairs is an American action drama television series filmed in Toronto, Canada, starring Piper Perabo and Christopher Gorham that premiered on Tuesday, July 13, 2010. On January 6, 2015, USA Network canceled Covert Affairs after five seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,71 @@
+{
+  "show_id": "breaking-bad-101-pilot-2008",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad",
+  "wiki_page_title": "Breaking Bad",
+  "retrieval_timestamp": "2026-03-19T05:20:10.818550+00:00",
+  "retrieval_confidence": "high",
+  "title": "Breaking Bad",
+  "search_title_used": "breaking bad",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Spanish"
+  ],
+  "genres": [
+    "Crime drama",
+    "Thriller",
+    "Neo-Western",
+    "Black comedy",
+    "Tragedy"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 5,
+  "episodes": 62,
+  "original_network": [
+    "AMC"
+  ],
+  "production_companies": [
+    "High Bridge Entertainment",
+    "Gran Via Productions",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Vince Gilligan"
+  ],
+  "showrunners": [
+    "Vince Gilligan"
+  ],
+  "lead_cast": [
+    "Bryan Cranston",
+    "Anna Gunn",
+    "Aaron Paul",
+    "Dean Norris",
+    "Betsy Brandt",
+    "RJ Mitte",
+    "Giancarlo Esposito",
+    "Bob Odenkirk",
+    "Jonathan Banks",
+    "Laura Fraser",
+    "Jesse Plemons"
+  ],
+  "executive_producers": [
+    "Vince Gilligan",
+    "Mark Johnson",
+    "Michelle MacLaren"
+  ],
+  "premise_summary": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan for AMC. Set and filmed in Albuquerque, New Mexico, the series follows Walter White, played by Bryan Cranston, an over-qualified, dispirited high-school chemistry teacher struggling with a recent diagnosis of stage-three lung cancer. White turns to a life of crime and partners with a former student, Jesse Pinkman, played by Aaron Paul, to produce and distribute methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal underworld. The series also stars Anna Gunn, Dean Norris, RJ Mitte, Betsy Brandt, Giancarlo Esposito, Jonathan Banks, and Bob Odenkirk.",
+  "wikipedia_extract": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan for AMC. Set and filmed in Albuquerque, New Mexico, the series follows Walter White, played by Bryan Cranston, an over-qualified, dispirited high-school chemistry teacher struggling with a recent diagnosis of stage-three lung cancer. White turns to a life of crime and partners with a former student, Jesse Pinkman, played by Aaron Paul, to produce and distribute methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal underworld. The series also stars Anna Gunn, Dean Norris, RJ Mitte, Betsy Brandt, Giancarlo Esposito, Jonathan Banks, and Bob Odenkirk.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

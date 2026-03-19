@@ -1,0 +1,46 @@
+{
+  "show_id": "White_Famous_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Scared_Famous_(TV_series)",
+  "wiki_page_title": "Scared Famous (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:17:38.514834+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Scared Famous (TV series)",
+  "search_title_used": "White Famous",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "HorrorReality television"
+  ],
+  "format_type": "reality",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 8,
+  "original_network": [
+    "VH1"
+  ],
+  "production_companies": [
+    "Renegade 83"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": [
+    "Nina L. Diaz"
+  ],
+  "premise_summary": "Scared Famous is a horror reality television series hosted by Redman. It features ten cast members from various VH1 shows competing in horror-themed challenges inside a haunted house in Savannah, Georgia for a prize of up to $100,000 for their favorite charity.",
+  "wikipedia_extract": "Scared Famous is a horror reality television series hosted by Redman. It features ten cast members from various VH1 shows competing in horror-themed challenges inside a haunted house in Savannah, Georgia for a prize of up to $100,000 for their favorite charity.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

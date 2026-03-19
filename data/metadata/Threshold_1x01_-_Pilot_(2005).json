@@ -1,0 +1,62 @@
+{
+  "show_id": "Threshold_1x01_-_Pilot_(2005)",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Threshold_(TV_series)",
+  "wiki_page_title": "Threshold (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:13:34.429029+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Threshold (TV series)",
+  "search_title_used": "Threshold ()",
+  "alternate_titles": [],
+  "start_year": 2005,
+  "end_year": 2005,
+  "country": [
+    "United States",
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Science fictionDrama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS (2005)",
+    "Sky1 (2006)"
+  ],
+  "production_companies": [
+    "Braga Productions",
+    "Heyday Films",
+    "Phantom Four Films",
+    "Paramount Network Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Bragi F. Schut"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Carla Gugino",
+    "Brian Van Holt",
+    "Brent Spiner",
+    "Rob Benedict",
+    "Peter Dinklage",
+    "Charles S. Dutton"
+  ],
+  "executive_producers": [
+    "Brannon Braga",
+    "David S. Goyer",
+    "David Heyman"
+  ],
+  "premise_summary": "Threshold is a science fiction drama television series that ran on CBS from September 16 to November 22, 2005. Produced by Brannon Braga, David S. Goyer and David Heyman, the series focuses on a secret government project investigating the first contact with an extraterrestrial species.",
+  "wikipedia_extract": "Threshold is a science fiction drama television series that ran on CBS from September 16 to November 22, 2005. Produced by Brannon Braga, David S. Goyer and David Heyman, the series focuses on a secret government project investigating the first contact with an extraterrestrial species.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2005",
+  "franchise_status": null
+}

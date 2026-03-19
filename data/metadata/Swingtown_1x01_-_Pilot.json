@@ -1,0 +1,59 @@
+{
+  "show_id": "Swingtown_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Swingtown",
+  "wiki_page_title": "Swingtown",
+  "retrieval_timestamp": "2026-03-19T05:03:52.597697+00:00",
+  "retrieval_confidence": "high",
+  "title": "Swingtown",
+  "search_title_used": "Swingtown",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2008,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Mike Kelley-Alan Poul Productions",
+    "CBS Paramount Network Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Mike Kelley"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Molly Parker",
+    "Jack Davenport",
+    "Grant Show",
+    "Lana Parrilla",
+    "Josh Hopkins",
+    "Miriam Shor",
+    "Shanna Collins"
+  ],
+  "executive_producers": [
+    "Alan Poul",
+    "Carol Barbee",
+    "Mike Kelley"
+  ],
+  "premise_summary": "Swingtown is an American drama television series created by Mike Kelley as a summer replacement series for CBS aired from June 5 to September 5, 2008. The show is a historical relationship drama about the impact of sexual and social liberation in 1970s American suburban households, with story arcs involving open marriages and key parties.",
+  "wikipedia_extract": "Swingtown is an American drama television series created by Mike Kelley as a summer replacement series for CBS aired from June 5 to September 5, 2008. The show is a historical relationship drama about the impact of sexual and social liberation in 1970s American suburban households, with story arcs involving open marriages and key parties.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2008",
+  "franchise_status": null
+}

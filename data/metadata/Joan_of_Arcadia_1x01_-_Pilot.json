@@ -1,0 +1,62 @@
+{
+  "show_id": "Joan_of_Arcadia_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Joan_of_Arcadia",
+  "wiki_page_title": "Joan of Arcadia",
+  "retrieval_timestamp": "2026-03-19T04:43:06.991714+00:00",
+  "retrieval_confidence": "high",
+  "title": "Joan of Arcadia",
+  "search_title_used": "Joan of Arcadia",
+  "alternate_titles": [],
+  "start_year": 2003,
+  "end_year": 2005,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Fantasy",
+    "Family drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 45,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Barbara Hall Productions",
+    "CBS Productions",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Barbara Hall"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Joe Mantegna",
+    "Mary Steenburgen",
+    "Amber Tamblyn",
+    "Jason Ritter",
+    "Michael Welch",
+    "Chris Marquette",
+    "Becky Wahlstrom"
+  ],
+  "executive_producers": [
+    "Barbara Hall (2003–2004)",
+    "Jim Hayman (2003–2004)",
+    "Peter Schindler (2003–2004)",
+    "Stephen Nathan (2004–2005)"
+  ],
+  "premise_summary": "Joan of Arcadia is an American fantasy family drama television series telling the story of teenager Joan Girardi, who sees and speaks with God and performs tasks she is given. The series originally aired on Fridays on CBS for two seasons, from September 26, 2003, to April 22, 2005.",
+  "wikipedia_extract": "Joan of Arcadia is an American fantasy family drama television series telling the story of teenager Joan Girardi, who sees and speaks with God and performs tasks she is given. The series originally aired on Fridays on CBS for two seasons, from September 26, 2003, to April 22, 2005.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2005",
+  "franchise_status": null
+}

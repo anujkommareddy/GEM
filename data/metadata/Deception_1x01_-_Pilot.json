@@ -1,0 +1,62 @@
+{
+  "show_id": "Deception_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Deception_(2018_TV_series)",
+  "wiki_page_title": "Deception (2018 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:27:50.647346+00:00",
+  "retrieval_confidence": "high",
+  "title": "Deception (2018 TV series)",
+  "search_title_used": "Deception",
+  "alternate_titles": [],
+  "start_year": 2018,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Berlanti Productions",
+    "VHPT Company",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chris Fedak"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Jack Cutmore-Scott",
+    "Ilfenesh Hadera",
+    "Lenora Crichlow",
+    "Justin Chon",
+    "Laila Robins",
+    "Amaury Nolasco",
+    "Vinnie Jones"
+  ],
+  "executive_producers": [
+    "Greg Berlanti",
+    "Chris Fedak",
+    "Martin Gero",
+    "Sarah Schechter",
+    "David Nutter"
+  ],
+  "premise_summary": "Deception is an American crime procedural drama television series created for ABC by Chris Fedak. The series was produced by Berlanti Productions and VHPT Company in association with Warner Bros. Television, with Fedak serving as showrunner. The series premiered on March 11, 2018.",
+  "wikipedia_extract": "Deception is an American crime procedural drama television series created for ABC by Chris Fedak. The series was produced by Berlanti Productions and VHPT Company in association with Warner Bros. Television, with Fedak serving as showrunner. The series premiered on March 11, 2018.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

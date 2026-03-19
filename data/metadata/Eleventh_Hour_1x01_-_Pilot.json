@@ -1,0 +1,46 @@
+{
+  "show_id": "Eleventh_Hour_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Eleventh_Hour_(American_TV_series)",
+  "wiki_page_title": "Eleventh Hour (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:57.928925+00:00",
+  "retrieval_confidence": "high",
+  "title": "Eleventh Hour (American TV series)",
+  "search_title_used": "Eleventh Hour",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2009,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Police procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 18,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Jerry Bruckheimer Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Rufus Sewell"
+  ],
+  "executive_producers": [
+    "Jerry Bruckheimer"
+  ],
+  "premise_summary": "Eleventh Hour is an American science-based drama television series, which is based on the 2006 British series of the same name. The series was a joint venture between Jerry Bruckheimer Television, Granada America and Warner Bros. Television. The series ran on CBS for one season from October 9, 2008 to April 2, 2009.",
+  "wikipedia_extract": "Eleventh Hour is an American science-based drama television series, which is based on the 2006 British series of the same name. The series was a joint venture between Jerry Bruckheimer Television, Granada America and Warner Bros. Television. The series ran on CBS for one season from October 9, 2008 to April 2, 2009.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2009",
+  "franchise_status": null
+}

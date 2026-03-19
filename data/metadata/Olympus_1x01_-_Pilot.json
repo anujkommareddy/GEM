@@ -1,0 +1,65 @@
+{
+  "show_id": "Olympus_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Olympus_(TV_series)",
+  "wiki_page_title": "Olympus (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:51:52.447019+00:00",
+  "retrieval_confidence": "high",
+  "title": "Olympus (TV series)",
+  "search_title_used": "Olympus",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "CanadaUnited Kingdom"
+  ],
+  "original_language": null,
+  "genres": [
+    "Fantasy",
+    "Mythological"
+  ],
+  "format_type": "fantasy",
+  "runtime_class": null,
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "Super Channel"
+  ],
+  "production_companies": [
+    "Reunion Pictures",
+    "Great Point Media",
+    "LipSync Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Nick Willing"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tom York",
+    "Sonya Cassidy",
+    "Sonita Henry",
+    "Graham Shiels",
+    "Cas Anvar",
+    "John Emmet Tracy",
+    "Wayne Burns",
+    "Matt Frewer",
+    "Alan C. Peterson",
+    "Sophia Lauchlin Hirt"
+  ],
+  "executive_producers": [
+    "Robert Halmi Jr.",
+    "Jim Reeve",
+    "Grant Rosenberg",
+    "Matthew O'Connor",
+    "Robert Halmi Sr.",
+    "Nick Willing"
+  ],
+  "premise_summary": "Olympus is a Canadian/British fantasy television series that premiered on Syfy in the USA and Super Channel in Canada on 2 April 2015. A retelling of Greek myths, the first season had thirteen episodes, and concluded on 2 July 2015. The series was cancelled in July 2015, and was poorly received by critics.",
+  "wikipedia_extract": "Olympus is a Canadian/British fantasy television series that premiered on Syfy in the USA and Super Channel in Canada on 2 April 2015. A retelling of Greek myths, the first season had thirteen episodes, and concluded on 2 July 2015. The series was cancelled in July 2015, and was poorly received by critics.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

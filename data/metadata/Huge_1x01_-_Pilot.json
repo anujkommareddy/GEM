@@ -1,0 +1,48 @@
+{
+  "show_id": "Huge_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Huge_(TV_series)",
+  "wiki_page_title": "Huge (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:40:39.932167+00:00",
+  "retrieval_confidence": "high",
+  "title": "Huge (TV series)",
+  "search_title_used": "Huge",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "ABC Family"
+  ],
+  "production_companies": [
+    "Dooley & Company ProductionsHalf Full EntertainmentAlloy Entertainment"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Nikki Blonsky"
+  ],
+  "executive_producers": [
+    "Winnie HolzmanKim RozenfeldLeslie MorgensteinBob Levy"
+  ],
+  "premise_summary": "Huge is an American teen drama television series that aired on ABC Family. The series is based on the young adult novel series of the same name by Sasha Paley. The hour-long drama series revolves around eight teens sent to a summer weight loss camp called Camp Victory. Winnie Holzman and her daughter Savannah Dooley wrote the plot.",
+  "wikipedia_extract": "Huge is an American teen drama television series that aired on ABC Family. The series is based on the young adult novel series of the same name by Sasha Paley. The hour-long drama series revolves around eight teens sent to a summer weight loss camp called Camp Victory. Winnie Holzman and her daughter Savannah Dooley wrote the plot.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

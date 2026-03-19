@@ -1,0 +1,58 @@
+{
+  "show_id": "Brockmire_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Brockmire",
+  "wiki_page_title": "Brockmire",
+  "retrieval_timestamp": "2026-03-19T04:23:48.565903+00:00",
+  "retrieval_confidence": "high",
+  "title": "Brockmire",
+  "search_title_used": "Brockmire",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 32,
+  "original_network": [
+    "IFC"
+  ],
+  "production_companies": [
+    "Funny or Die",
+    "How 2 Pictures"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Hank Azaria",
+    "Amanda Peet",
+    "Tyrel Jackson Williams",
+    "J. K. Simmons",
+    "Tawny Newsome",
+    "Reina Hardesty"
+  ],
+  "executive_producers": [
+    "Hank Azaria",
+    "Tim Kirkby",
+    "Joel Church-Cooper",
+    "Mike Farah",
+    "Joe Farrell"
+  ],
+  "premise_summary": "Brockmire is an American sitcom that premiered on April 5, 2017, on IFC. The show stars Hank Azaria, Amanda Peet, and Tyrel Jackson Williams, with J. K. Simmons guest starring in the third season. Azaria plays a baseball play-by-play announcer based on a character he created for a comedy web series in 2010. IFC renewed the series for a third season and a final fourth season. The series finale aired on May 6, 2020.",
+  "wikipedia_extract": "Brockmire is an American sitcom that premiered on April 5, 2017, on IFC. The show stars Hank Azaria, Amanda Peet, and Tyrel Jackson Williams, with J. K. Simmons guest starring in the third season. Azaria plays a baseball play-by-play announcer based on a character he created for a comedy web series in 2010. IFC renewed the series for a third season and a final fourth season. The series finale aired on May 6, 2020.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "renewed",
+  "franchise_status": null
+}

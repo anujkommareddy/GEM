@@ -1,0 +1,83 @@
+{
+  "show_id": "13_Reasons_Why_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/13_Reasons_Why",
+  "wiki_page_title": "13 Reasons Why",
+  "retrieval_timestamp": "2026-03-19T04:17:11.170151+00:00",
+  "retrieval_confidence": "high",
+  "title": "13 Reasons Why",
+  "search_title_used": "13 Reasons Why",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2020,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Teen drama",
+    "Mystery",
+    "Psychological thriller",
+    "Coming of age"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 49,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "July Moon Productions",
+    "Kicked to the Curb Productions",
+    "That Kid Ed Productions",
+    "Anonymous Content",
+    "Paramount Television Studios"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Dylan Minnette",
+    "Katherine Langford",
+    "Christian Navarro",
+    "Alisha Boe",
+    "Brandon Flynn",
+    "Justin Prentice",
+    "Miles Heizer",
+    "Ross Butler",
+    "Devin Druid",
+    "Amy Hargreaves",
+    "Derek Luke",
+    "Kate Walsh",
+    "Brian d'Arcy James",
+    "Grace Saif",
+    "Brenda Strong",
+    "Timothy Granaderos",
+    "Mark Pellegrino",
+    "Tyler Barnhardt",
+    "Jan Luis Castellanos",
+    "Deaken Bluman",
+    "Gary Sinise"
+  ],
+  "executive_producers": [
+    "Brian Yorkey",
+    "Diana Son",
+    "Tom McCarthy",
+    "Joy Gorman Wettels",
+    "Steve Golin",
+    "Michael Sugar",
+    "Selena Gomez",
+    "Mandy Teefey",
+    "Kristel Laiblin"
+  ],
+  "premise_summary": "13 Reasons Why is an American teen drama television series based on the 2007 novel Thirteen Reasons Why by author Jay Asher. Developed for Netflix by Brian Yorkey and with Selena Gomez serving as an executive producer, the series stars Dylan Minnette and Katherine Langford alongside an ensemble cast. The series follows the students of the fictional Liberty High School and the wide range of social issues affecting modern youth.",
+  "wikipedia_extract": "13 Reasons Why is an American teen drama television series based on the 2007 novel Thirteen Reasons Why by author Jay Asher. Developed for Netflix by Brian Yorkey and with Selena Gomez serving as an executive producer, the series stars Dylan Minnette and Katherine Langford alongside an ensemble cast. The series follows the students of the fictional Liberty High School and the wide range of social issues affecting modern youth.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2020",
+  "franchise_status": null
+}

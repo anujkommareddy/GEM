@@ -1,0 +1,62 @@
+{
+  "show_id": "I_Am_the_Night_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/I_Am_the_Night_(TV_series)",
+  "wiki_page_title": "I Am the Night (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:41:07.139827+00:00",
+  "retrieval_confidence": "high",
+  "title": "I Am the Night (TV series)",
+  "search_title_used": "I Am the Night",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [],
+  "format_type": null,
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 6,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "Studio T",
+    "Jenkins+Pine Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sam Sheridan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Chris Pine",
+    "India Eisley",
+    "Jefferson Mays",
+    "Leland Orser",
+    "Yul Vazquez",
+    "Justin Cornwell",
+    "Dylan Smith",
+    "Golden Brooks",
+    "Jay Paulson",
+    "Connie Nielsen"
+  ],
+  "executive_producers": [
+    "Patty Jenkins",
+    "Chris Pine",
+    "Carl Franklin",
+    "Michael Sugar",
+    "Sam Sheridan"
+  ],
+  "premise_summary": "I Am the Night is an American biographical period crime drama limited television series created and written by Sam Sheridan, and starring Chris Pine and India Eisley. Set in 1965, it focuses on Fauna Hodel, an adopted teenager who uncovers the truth behind her maternal ancestry, specifically her connection to her grandfather George Hodel, a renowned physician and suspect in the Black Dahlia murder. It is loosely based on Fauna Hodel's memoir, One Day She'll Darken (2008). Jefferson Mays, Connie Nielsen, Leland Orser, Yul Vazquez, Jay Paulson, and Golden Brooks appear in supporting roles.",
+  "wikipedia_extract": "I Am the Night is an American biographical period crime drama limited television series created and written by Sam Sheridan, and starring Chris Pine and India Eisley. Set in 1965, it focuses on Fauna Hodel, an adopted teenager who uncovers the truth behind her maternal ancestry, specifically her connection to her grandfather George Hodel, a renowned physician and suspect in the Black Dahlia murder. It is loosely based on Fauna Hodel's memoir, One Day She'll Darken (2008). Jefferson Mays, Connie Nielsen, Leland Orser, Yul Vazquez, Jay Paulson, and Golden Brooks appear in supporting roles.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

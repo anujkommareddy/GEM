@@ -1,0 +1,65 @@
+{
+  "show_id": "Kevin_Can_Wait_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Kevin_Can_Wait",
+  "wiki_page_title": "Kevin Can Wait",
+  "retrieval_timestamp": "2026-03-19T04:43:26.596695+00:00",
+  "retrieval_confidence": "high",
+  "title": "Kevin Can Wait",
+  "search_title_used": "Kevin Can Wait",
+  "alternate_titles": [],
+  "start_year": 2016,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 48,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Hey Eddie Productions",
+    "Mohawk Productions (season 1 episodes 1–13)",
+    "CBS Television Studios",
+    "Sony Pictures Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Kevin James}}"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kevin James",
+    "Erinn Hayes",
+    "Taylor Spreitler",
+    "Ryan Cartwright",
+    "Lenny Venito",
+    "Leonard Earl Howze",
+    "James DiGiacomo",
+    "Mary-Charles Jones",
+    "Leah Remini"
+  ],
+  "executive_producers": [
+    "Kevin James",
+    "Rock Reuben",
+    "Jeff Sussman",
+    "Andy Fickman",
+    "Steve Mosko",
+    "Bruce Helford (season 1 episodes 1–13)",
+    "Rob Long (season 1 episodes 14–24 and season 2)"
+  ],
+  "premise_summary": "Kevin Can Wait is an American television sitcom starring Kevin James that aired on CBS from September 19, 2016, to May 7, 2018. The series was created by James, Rock Reuben, and Bruce Helford, marking James' second starring role in a CBS sitcom, following The King of Queens (1998–2007). The show was directed by Andy Fickman.",
+  "wikipedia_extract": "Kevin Can Wait is an American television sitcom starring Kevin James that aired on CBS from September 19, 2016, to May 7, 2018. The series was created by James, Rock Reuben, and Bruce Helford, marking James' second starring role in a CBS sitcom, following The King of Queens (1998–2007). The show was directed by Andy Fickman.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

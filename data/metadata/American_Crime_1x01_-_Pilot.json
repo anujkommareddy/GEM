@@ -1,0 +1,71 @@
+{
+  "show_id": "American_Crime_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/American_Crime_(TV_series)",
+  "wiki_page_title": "American Crime (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:19:14.727223+00:00",
+  "retrieval_confidence": "high",
+  "title": "American Crime (TV series)",
+  "search_title_used": "American Crime",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 29,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "#LiveLikeLisa (pilot only)",
+    "The International Famous Players Radio Pictures Corporation Entertainment Company",
+    "Stearns Castle Entertainment",
+    "ABC Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "John Ridley"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Felicity Huffman",
+    "Timothy Hutton",
+    "W. Earl Brown",
+    "Richard Cabral",
+    "Caitlin Gerard",
+    "Benito Martinez",
+    "Penelope Ann Miller",
+    "Elvis Nolasco",
+    "Johnny Ortiz",
+    "Lili Taylor",
+    "Trevor Jackson",
+    "Connor Jessup",
+    "Joey Pollari",
+    "Angelique Rivera",
+    "Regina King"
+  ],
+  "executive_producers": [
+    "John Ridley",
+    "Michael J. McDonald",
+    "Julie Hébert"
+  ],
+  "premise_summary": "American Crime is an American anthology crime drama television series created by John Ridley that aired on ABC from March 5, 2015, to April 30, 2017. The first season centers on race, class, and gender politics as it follows the lives of the participants in a trial who are forever changed during the legal process.",
+  "wikipedia_extract": "American Crime is an American anthology crime drama television series created by John Ridley that aired on ABC from March 5, 2015, to April 30, 2017. The first season centers on race, class, and gender politics as it follows the lives of the participants in a trial who are forever changed during the legal process.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

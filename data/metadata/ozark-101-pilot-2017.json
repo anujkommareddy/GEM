@@ -1,0 +1,82 @@
+{
+  "show_id": "ozark-101-pilot-2017",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ozark_(TV_series)",
+  "wiki_page_title": "Ozark (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:23:15.669012+00:00",
+  "retrieval_confidence": "high",
+  "title": "Ozark (TV series)",
+  "search_title_used": "ozark",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2022,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Serial drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 4,
+  "episodes": 44,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "MRC Television",
+    "Aggregate Films",
+    "Zero Gravity Management",
+    "Headhunter Films",
+    "Man",
+    "Woman & Child Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Bill Dubuque",
+    "Mark Williams"
+  ],
+  "showrunners": [
+    "Chris Mundy"
+  ],
+  "lead_cast": [
+    "Jason Bateman",
+    "Laura Linney",
+    "Sofia Hublitz",
+    "Skylar Gaertner",
+    "Julia Garner",
+    "Jordana Spiro",
+    "Jason Butler Harner",
+    "Esai Morales",
+    "Peter Mullan",
+    "Lisa Emery",
+    "Charlie Tahan",
+    "Janet McTeer",
+    "Tom Pelphrey",
+    "Jessica Frances Dukes",
+    "Felix Solis",
+    "Damian Young",
+    "Alfonso Herrera",
+    "Adam Rothenberg"
+  ],
+  "executive_producers": [
+    "Jason Bateman",
+    "Chris Mundy",
+    "Bill Dubuque",
+    "Mark Williams",
+    "David Manson",
+    "Patrick Markey",
+    "John Shiban"
+  ],
+  "premise_summary": "Ozark is an American crime drama television series created by Bill Dubuque and Mark Williams for Netflix and produced by MRC Television and Aggregate Films. The series stars Jason Bateman and Laura Linney as Marty and Wendy Byrde, a married couple who moves their family to the Lake of the Ozarks to continue their work laundering money for a Mexican drug cartel. Bateman also serves as a director and executive producer for the series.",
+  "wikipedia_extract": "Ozark is an American crime drama television series created by Bill Dubuque and Mark Williams for Netflix and produced by MRC Television and Aggregate Films. The series stars Jason Bateman and Laura Linney as Marty and Wendy Byrde, a married couple who moves their family to the Lake of the Ozarks to continue their work laundering money for a Mexican drug cartel. Bateman also serves as a director and executive producer for the series.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2022",
+  "franchise_status": null
+}

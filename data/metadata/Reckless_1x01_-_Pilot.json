@@ -1,0 +1,62 @@
+{
+  "show_id": "Reckless_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Reckless_(American_TV_series)",
+  "wiki_page_title": "Reckless (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:56:01.056355+00:00",
+  "retrieval_confidence": "high",
+  "title": "Reckless (American TV series)",
+  "search_title_used": "Reckless",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Sander-Moses Productions",
+    "CBS Television Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dana Stevens"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Anna Wood",
+    "Cam Gigandet",
+    "Shawn Hatosy",
+    "Georgina Haig",
+    "Adam Rodríguez",
+    "Michael Gladis",
+    "Kim Wayans",
+    "Gregory Harrison"
+  ],
+  "executive_producers": [
+    "Catherine Hardwicke",
+    "Corey Miller",
+    "Dana Stevens",
+    "Ian Sander",
+    "Kim Moses"
+  ],
+  "premise_summary": "Reckless is an American legal drama television series created by Dana Stevens. The series stars Anna Wood, Cam Gigandet, Adam Rodríguez, Shawn Hatosy, Kim Wayans, Gregory Harrison, Michael Gladis, and Georgina Haig. It premiered on CBS on June 29, 2014.",
+  "wikipedia_extract": "Reckless is an American legal drama television series created by Dana Stevens. The series stars Anna Wood, Cam Gigandet, Adam Rodríguez, Shawn Hatosy, Kim Wayans, Gregory Harrison, Michael Gladis, and Georgina Haig. It premiered on CBS on June 29, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

@@ -1,0 +1,50 @@
+{
+  "show_id": "Work_It_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Work_It_(TV_series)",
+  "wiki_page_title": "Work It (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:18:16.816300+00:00",
+  "retrieval_confidence": "high",
+  "title": "Work It (TV series)",
+  "search_title_used": "Work It",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Summer School ProductionsBonanza ProductionsWarner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Andrew ReichTed Cohen"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ben KoldykeAmaury NolascoBeth LackeJohn CaparuloRebecca MaderRochelle AytesKate ReindersKirstin EggersHannah Sullivan"
+  ],
+  "executive_producers": [
+    "Andrew ReichTed Cohen"
+  ],
+  "premise_summary": "Work It is an American television sitcom that aired on ABC from January 3 to January 10, 2012. Set in St. Louis, the series is about two men who must dress as women in order to keep a job in a bad economy.",
+  "wikipedia_extract": "Work It is an American television sitcom that aired on ABC from January 3 to January 10, 2012. Set in St. Louis, the series is about two men who must dress as women in order to keep a job in a bad economy.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

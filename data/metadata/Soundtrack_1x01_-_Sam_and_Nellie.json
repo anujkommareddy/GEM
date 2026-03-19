@@ -1,0 +1,62 @@
+{
+  "show_id": "Soundtrack_1x01_-_Sam_and_Nellie",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Soundtrack_(TV_series)",
+  "wiki_page_title": "Soundtrack (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:01:42.759470+00:00",
+  "retrieval_confidence": "low",
+  "title": "Soundtrack (TV series)",
+  "search_title_used": "Soundtrack Sam and Nellie",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": null,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Musical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "Netflix"
+  ],
+  "production_companies": [
+    "Random Acts Productions",
+    "Annapurna Television",
+    "20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Joshua Safran"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Paul James",
+    "Callie Hernandez",
+    "Marianne Jean-Baptiste",
+    "Jenna Dewan",
+    "Jahmil French",
+    "Megan Ferguson",
+    "Isaiah Givens",
+    "Madeleine Stowe",
+    "Campbell Scott"
+  ],
+  "executive_producers": [
+    "Joshua Safran",
+    "Megan Ellison",
+    "Ali Krug"
+  ],
+  "premise_summary": "Soundtrack is an American musical drama television series created by Joshua Safran, that premiered on Netflix on December 18, 2019. The series is executive produced by Safran alongside Megan Ellison and Ali Krug and stars Paul James, Callie Hernandez, Marianne Jean-Baptiste, Jenna Dewan, Jahmil French, Megan Ferguson, Isaiah Givens, Madeleine Stowe, and Campbell Scott. In January 2020, the series was canceled after one season.",
+  "wikipedia_extract": "Soundtrack is an American musical drama television series created by Joshua Safran, that premiered on Netflix on December 18, 2019. The series is executive produced by Safran alongside Megan Ellison and Ali Krug and stars Paul James, Callie Hernandez, Marianne Jean-Baptiste, Jenna Dewan, Jahmil French, Megan Ferguson, Isaiah Givens, Madeleine Stowe, and Campbell Scott. In January 2020, the series was canceled after one season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

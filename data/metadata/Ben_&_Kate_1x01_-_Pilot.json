@@ -1,0 +1,50 @@
+{
+  "show_id": "Ben_&_Kate_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Ben_and_Kate",
+  "wiki_page_title": "Ben and Kate",
+  "retrieval_timestamp": "2026-03-19T04:21:33.355964+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Ben and Kate",
+  "search_title_used": "Ben & Kate",
+  "alternate_titles": [],
+  "start_year": 2012,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 16,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Hemingway Drive ProductionsChernin Entertainment20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dana Fox"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Dakota JohnsonNat FaxonLucy PunchMaggie Elizabeth JonesEcho Kellum"
+  ],
+  "executive_producers": [
+    "Peter CherninDana FoxKatherine PopeJake KasdanJohn QuaintanceDavid FeeneyDavid Katzenberg"
+  ],
+  "premise_summary": "Ben and Kate is an American single-camera sitcom television series created by Dana Fox. It ran on Fox from September 25, 2012 to January 22, 2013, as part of the 2012–13 television season. The series stars Dakota Johnson and Nat Faxon as a duo of siblings. It was produced by 20th Century Fox Television and Chernin Entertainment. Fox also served as an executive producer, alongside Peter Chernin, Katherine Pope, and Jake Kasdan.",
+  "wikipedia_extract": "Ben and Kate is an American single-camera sitcom television series created by Dana Fox. It ran on Fox from September 25, 2012 to January 22, 2013, as part of the 2012–13 television season. The series stars Dakota Johnson and Nat Faxon as a duo of siblings. It was produced by 20th Century Fox Television and Chernin Entertainment. Fox also served as an executive producer, alongside Peter Chernin, Katherine Pope, and Jake Kasdan.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

@@ -1,0 +1,67 @@
+{
+  "show_id": "Prodigal_Son_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Prodigal_Son_(TV_series)",
+  "wiki_page_title": "Prodigal Son (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:54:43.894698+00:00",
+  "retrieval_confidence": "high",
+  "title": "Prodigal Son (TV series)",
+  "search_title_used": "Prodigal Son",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Procedural"
+  ],
+  "format_type": "procedural",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 33,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Berlanti Productions",
+    "Sklaverworth Productions",
+    "VHPT! Co.",
+    "Warner Bros. Television",
+    "Fox Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chris Fedak & Sam Sklaver"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Tom Payne",
+    "Lou Diamond Phillips",
+    "Halston Sage",
+    "Aurora Perrineau",
+    "Frank Harts",
+    "Keiko Agena",
+    "Bellamy Young",
+    "Michael Sheen"
+  ],
+  "executive_producers": [
+    "Lee Toland Krieger",
+    "Sarah Schechter",
+    "Sam Sklaver",
+    "Chris Fedak",
+    "Greg Berlanti",
+    "Adam Kane"
+  ],
+  "premise_summary": "Prodigal Son is an American procedural drama television series created by Chris Fedak and Sam Sklaver for the Fox Broadcasting Company that premiered on September 23, 2019, and concluded on May 18, 2021. In October 2019, the series was picked up for a full season. In May 2020, the series was renewed for a second season which premiered on January 12, 2021. In May 2021, the series was canceled after two seasons.",
+  "wikipedia_extract": "Prodigal Son is an American procedural drama television series created by Chris Fedak and Sam Sklaver for the Fox Broadcasting Company that premiered on September 23, 2019, and concluded on May 18, 2021. In October 2019, the series was picked up for a full season. In May 2020, the series was renewed for a second season which premiered on January 12, 2021. In May 2021, the series was canceled after two seasons.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

@@ -1,0 +1,50 @@
+{
+  "show_id": "Fairly_Legal_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Fairly_Legal",
+  "wiki_page_title": "Fairly Legal",
+  "retrieval_timestamp": "2026-03-19T04:31:10.390134+00:00",
+  "retrieval_confidence": "high",
+  "title": "Fairly Legal",
+  "search_title_used": "Fairly Legal",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal dramaComedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 23,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Universal Cable ProductionsGarfield St. Productions (season 1)Steve Stark Productions (season 1)Ocko & Company (season 2)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michael Sardo"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Sarah ShahiMichael TruccoVirginia WilliamsBaron VaughnRyan Johnson"
+  ],
+  "executive_producers": [
+    "Peter OckoMichael SardoSteve StarkRuss BuchholzAnton Cropper"
+  ],
+  "premise_summary": "Fairly Legal is an American legal comedy-drama television series which aired on USA Network from January 20, 2011, to June 15, 2012. The series starred Sarah Shahi, Michael Trucco, Virginia Williams, Baron Vaughn, and Ryan Johnson. USA Network canceled the show on November 1, 2012, after two seasons, due to low ratings.",
+  "wikipedia_extract": "Fairly Legal is an American legal comedy-drama television series which aired on USA Network from January 20, 2011, to June 15, 2012. The series starred Sarah Shahi, Michael Trucco, Virginia Williams, Baron Vaughn, and Ryan Johnson. USA Network canceled the show on November 1, 2012, after two seasons, due to low ratings.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

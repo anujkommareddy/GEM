@@ -1,0 +1,59 @@
+{
+  "show_id": "Kirstie_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Kirstie_(TV_series)",
+  "wiki_page_title": "Kirstie (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:43:53.423805+00:00",
+  "retrieval_confidence": "high",
+  "title": "Kirstie (TV series)",
+  "search_title_used": "Kirstie",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "TV Land"
+  ],
+  "production_companies": [
+    "Marco Pennette Productions",
+    "True Blue Productions",
+    "TV Land Original Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Marco Pennette"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Kirstie Alley",
+    "Eric Petersen",
+    "Michael Richards",
+    "Rhea Perlman"
+  ],
+  "executive_producers": [
+    "Jason Weinberg",
+    "Keith Cox",
+    "Kirstie Alley",
+    "Larry W. Jones",
+    "Marco Pennette"
+  ],
+  "premise_summary": "Kirstie is an American television sitcom starring Kirstie Alley that aired on TV Land from December 4, 2013, to February 26, 2014. TV Land cancelled Kirstie on July 29, 2014.",
+  "wikipedia_extract": "Kirstie is an American television sitcom starring Kirstie Alley that aired on TV Land from December 4, 2013, to February 26, 2014. TV Land cancelled Kirstie on July 29, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

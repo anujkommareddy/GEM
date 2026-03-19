@@ -1,0 +1,58 @@
+{
+  "show_id": "Lipstick_Jungle_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Lipstick_Jungle_(TV_series)",
+  "wiki_page_title": "Lipstick Jungle (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:45:18.413464+00:00",
+  "retrieval_confidence": "high",
+  "title": "Lipstick Jungle (TV series)",
+  "search_title_used": "Lipstick Jungle",
+  "alternate_titles": [],
+  "start_year": 2008,
+  "end_year": 2009,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Universal Media Studios",
+    "Blackie and Blondie Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Brooke Shields",
+    "Kim Raver",
+    "Lindsay Price",
+    "Paul Blackthorne",
+    "Andrew McCarthy",
+    "Robert Buckley",
+    "David Noroña",
+    "Kathy Searle"
+  ],
+  "executive_producers": [
+    "Candace Bushnell",
+    "Oliver Goldstick",
+    "Timothy Busfield"
+  ],
+  "premise_summary": "Lipstick Jungle is an American comedy-drama television series developed by DeAnn Heline and Eileen Heisler that aired on NBC from February 7, 2008, to January 9, 2009. The series was produced by NBC Universal Television Studio. The hour-long series was based on the best-selling novel of the same name by Candace Bushnell, who also served as executive producer alongside showrunner/head writer Oliver Goldstick. The pilot was directed by Gary Winick.",
+  "wikipedia_extract": "Lipstick Jungle is an American comedy-drama television series developed by DeAnn Heline and Eileen Heisler that aired on NBC from February 7, 2008, to January 9, 2009. The series was produced by NBC Universal Television Studio. The hour-long series was based on the best-selling novel of the same name by Candace Bushnell, who also served as executive producer alongside showrunner/head writer Oliver Goldstick. The pilot was directed by Gary Winick.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2009",
+  "franchise_status": null
+}

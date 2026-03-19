@@ -1,0 +1,57 @@
+{
+  "show_id": "Making_History_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Making_History_(TV_series)",
+  "wiki_page_title": "Making History (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:46:55.670736+00:00",
+  "retrieval_confidence": "high",
+  "title": "Making History (TV series)",
+  "search_title_used": "Making History",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2017,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 9,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Julius Sharpe International Petroleum & WritingLord Miller Productions20th Century Fox Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Julius Sharpe"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Adam Pally",
+    "Leighton Meester",
+    "Yassir Lester",
+    "John Gemberling",
+    "Neil Casey"
+  ],
+  "executive_producers": [
+    "Julius Sharpe",
+    "Phil LordChristopher Miller",
+    "Seth Cohen",
+    "Jared Hess"
+  ],
+  "premise_summary": "Making History is an American sitcom created by Julius Sharpe for the Fox Broadcasting Company. Executive-produced by Phil Lord and Christopher Miller and created and written by Sharpe, the show stars Adam Pally, Leighton Meester, and Yassir Lester.",
+  "wikipedia_extract": "Making History is an American sitcom created by Julius Sharpe for the Fox Broadcasting Company. Executive-produced by Phil Lord and Christopher Miller and created and written by Sharpe, the show stars Adam Pally, Leighton Meester, and Yassir Lester.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2017",
+  "franchise_status": null
+}

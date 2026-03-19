@@ -1,0 +1,59 @@
+{
+  "show_id": "Benched_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Benched_(TV_series)",
+  "wiki_page_title": "Benched (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:21:37.071406+00:00",
+  "retrieval_confidence": "high",
+  "title": "Benched (TV series)",
+  "search_title_used": "Benched",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2014,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 12,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "The Mark Gordon CompanyABC Signature"
+  ],
+  "distributor": null,
+  "creators": [
+    "Michaela Watkins",
+    "Damon Jones"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Eliza Coupe",
+    "Jay Harrington",
+    "Carter MacIntyre",
+    "Oscar Nunez",
+    "Jolene Purdy"
+  ],
+  "executive_producers": [
+    "Michaela Watkins",
+    "Damon Jones",
+    "John Enbom",
+    "Mark Gordon",
+    "Andrea Shay"
+  ],
+  "premise_summary": "Benched is an American single-camera sitcom, created by Michaela Watkins and Damon Jones, about a high-powered corporate lawyer's fall from grace into the rough-and-tumble world of a public defender. The series stars Eliza Coupe and Jay Harrington in pivotal roles with Maria Bamford, Jolene Purdy, Carter MacIntyre and Oscar Nunez as the supporting cast. The show premiered on USA Network on October 28, 2014.",
+  "wikipedia_extract": "Benched is an American single-camera sitcom, created by Michaela Watkins and Damon Jones, about a high-powered corporate lawyer's fall from grace into the rough-and-tumble world of a public defender. The series stars Eliza Coupe and Jay Harrington in pivotal roles with Maria Bamford, Jolene Purdy, Carter MacIntyre and Oscar Nunez as the supporting cast. The show premiered on USA Network on October 28, 2014.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2014",
+  "franchise_status": null
+}

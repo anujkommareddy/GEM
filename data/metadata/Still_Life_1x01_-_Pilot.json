@@ -1,0 +1,79 @@
+{
+  "show_id": "Still_Life_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/The_Facts_of_Life_(TV_series)",
+  "wiki_page_title": "The Facts of Life (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:43.427547+00:00",
+  "retrieval_confidence": "medium",
+  "title": "The Facts of Life (TV series)",
+  "search_title_used": "Still Life",
+  "alternate_titles": [],
+  "start_year": 1979,
+  "end_year": 1988,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 9,
+  "episodes": 201,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "T.A.T. Communications Co. (seasons 1–3)",
+    "Embassy Television (seasons 4–7)",
+    "Embassy Communications (seasons 8–9)",
+    "ELP Communications (season 9)",
+    "Columbia Pictures Television (season 9)"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dick Clair",
+    "Jenna McMahon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Charlotte Rae",
+    "Lisa Whelchel",
+    "Kim Fields",
+    "Mindy Cohn",
+    "Nancy McKeon",
+    "John Lawlor",
+    "Jenny O'Hara",
+    "Felice Schachter",
+    "Julie Piekarski",
+    "Julie Anne Haddock",
+    "Molly Ringwald",
+    "Pamela Segall",
+    "Mackenzie Astin",
+    "George Clooney",
+    "Cloris Leachman",
+    "Sherrie Krenn",
+    "Geri Jewell",
+    "Ryan Cassidy"
+  ],
+  "executive_producers": [
+    "Jack Elinson (seasons 2–7)",
+    "Jerry Mayer (seasons 3–6)",
+    "Linda Marsh",
+    "Margie Peters (seasons 5–6)",
+    "Deidre Fay",
+    "Stuart Wolpert (seasons 6–7)",
+    "Irma Kalish",
+    "Richard Gurman (seasons 8–9)"
+  ],
+  "premise_summary": "The Facts of Life is an American television sitcom created by Dick Clair and Jenna McMahon that originally aired on NBC for nine seasons from August 24, 1979 to May 7, 1988. Originally a spin-off of Diff'rent Strokes, the series follows Charlotte Rae as Mrs. Edna Garrett as she becomes a house mother and later dietitian at the fictional Eastland School, an all-girls boarding school in Peekskill, New York.",
+  "wikipedia_extract": "The Facts of Life is an American television sitcom created by Dick Clair and Jenna McMahon that originally aired on NBC for nine seasons from August 24, 1979 to May 7, 1988. Originally a spin-off of Diff'rent Strokes, the series follows Charlotte Rae as Mrs. Edna Garrett as she becomes a house mother and later dietitian at the fictional Eastland School, an all-girls boarding school in Peekskill, New York.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_1988",
+  "franchise_status": null
+}

@@ -1,0 +1,66 @@
+{
+  "show_id": "Sneaky_Pete_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sneaky_Pete",
+  "wiki_page_title": "Sneaky Pete",
+  "retrieval_timestamp": "2026-03-19T05:01:23.463885+00:00",
+  "retrieval_confidence": "high",
+  "title": "Sneaky Pete",
+  "search_title_used": "Sneaky Pete",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2019,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 30,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Shore Z Productions Nemo FilmsMoonshot EntertainmentExhibit ASony Pictures TelevisionAmazon Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Shore",
+    "Bryan Cranston"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Giovanni Ribisi",
+    "Marin Ireland",
+    "Shane McRae",
+    "Libe Barer",
+    "Michael Drayer",
+    "Peter Gerety",
+    "Margo Martindale",
+    "Jane Adams",
+    "Efrat Dor"
+  ],
+  "executive_producers": [
+    "Graham Yost",
+    "Michael Dinner",
+    "Fred Golan",
+    "Bryan Cranston",
+    "Seth Gordon",
+    "James Degus",
+    "David Shore (Pilot)",
+    "Erin Gunn"
+  ],
+  "premise_summary": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović, a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale.",
+  "wikipedia_extract": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović, a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2019",
+  "franchise_status": null
+}

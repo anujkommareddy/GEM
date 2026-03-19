@@ -1,0 +1,73 @@
+{
+  "show_id": "Hannibal_1x01",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Hannibal_(TV_series)",
+  "wiki_page_title": "Hannibal (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:35:41.445550+00:00",
+  "retrieval_confidence": "high",
+  "title": "Hannibal (TV series)",
+  "search_title_used": "Hannibal",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Psychological horror",
+    "Crime drama}}"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 3,
+  "episodes": 39,
+  "original_network": [
+    "NBC"
+  ],
+  "production_companies": [
+    "Dino de Laurentiis Company",
+    "Living Dead Guy Productions",
+    "AXN Original Productions",
+    "Gaumont International Television",
+    "Chiswick Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": [
+    "Bryan Fuller"
+  ],
+  "lead_cast": [
+    "Hugh Dancy",
+    "Mads Mikkelsen",
+    "Caroline Dhavernas",
+    "Hettienne Park",
+    "Laurence Fishburne",
+    "Scott Thompson",
+    "Aaron Abrams",
+    "Gillian Anderson"
+  ],
+  "executive_producers": [
+    "Bryan Fuller",
+    "Martha De Laurentiis",
+    "Sidonie Dumas",
+    "Christophe Riandee",
+    "Katie O'Connell",
+    "Elisa Roth",
+    "Sara Colleton",
+    "David Slade",
+    "Chris Brancato",
+    "Jesse Alexander",
+    "Michael Rymer",
+    "Steve Lightfoot"
+  ],
+  "premise_summary": "Hannibal is an American psychological horror-thriller television series developed by Bryan Fuller for NBC. The series is based on characters and elements appearing in Thomas Harris' novels Red Dragon (1981), Hannibal (1999), and Hannibal Rising (2006) and focuses on the relationship between Federal Bureau of Investigation (FBI) special investigator Will Graham and Dr. Hannibal Lecter, a forensic psychiatrist destined to become Graham's most cunning enemy and, at the same time, the only person who can understand him.",
+  "wikipedia_extract": "Hannibal is an American psychological horror-thriller television series developed by Bryan Fuller for NBC. The series is based on characters and elements appearing in Thomas Harris' novels Red Dragon (1981), Hannibal (1999), and Hannibal Rising (2006) and focuses on the relationship between Federal Bureau of Investigation (FBI) special investigator Will Graham and Dr. Hannibal Lecter, a forensic psychiatrist destined to become Graham's most cunning enemy and, at the same time, the only person who can understand him.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

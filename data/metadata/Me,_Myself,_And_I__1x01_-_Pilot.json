@@ -1,0 +1,63 @@
+{
+  "show_id": "Me,_Myself,_And_I__1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Me,_Myself_&_I_(TV_series)",
+  "wiki_page_title": "Me, Myself & I (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:47:53.222323+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Me, Myself & I (TV series)",
+  "search_title_used": "Me, Myself, And I",
+  "alternate_titles": [],
+  "start_year": 2017,
+  "end_year": 2018,
+  "country": [
+    "United States"
+  ],
+  "original_language": null,
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Melon Entertainment",
+    "Kapital Entertainment",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Dan Kopelman"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Bobby Moynihan",
+    "Jack Dylan Grazer",
+    "Brian Unger",
+    "Jaleel White",
+    "Kelen Coleman",
+    "Mandell Maughan",
+    "Christopher Paul Richards",
+    "Reylynn Caster",
+    "Skylar Gray",
+    "Sharon Lawrence",
+    "John Larroquette"
+  ],
+  "executive_producers": [
+    "Dan Kopelman",
+    "Aaron Kaplan",
+    "Dana Honor",
+    "Randall Einhorn"
+  ],
+  "premise_summary": "Me, Myself & I is an American television sitcom created by Dan Kopelman that aired on CBS. The series starred Bobby Moynihan, Jack Dylan Grazer, John Larroquette, Brian Unger, Jaleel White, Kelen Coleman, Mandell Maughan, Christopher Paul Richards, Reylynn Caster, and Skylar Gray.",
+  "wikipedia_extract": "Me, Myself & I is an American television sitcom created by Dan Kopelman that aired on CBS. The series starred Bobby Moynihan, Jack Dylan Grazer, John Larroquette, Brian Unger, Jaleel White, Kelen Coleman, Mandell Maughan, Christopher Paul Richards, Reylynn Caster, and Skylar Gray.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2018",
+  "franchise_status": null
+}

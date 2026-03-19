@@ -1,0 +1,72 @@
+{
+  "show_id": "Mom_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mom_(TV_series)",
+  "wiki_page_title": "Mom (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:49:21.687284+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mom (TV series)",
+  "search_title_used": "Mom",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2021,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "SitcomComedy drama"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 8,
+  "episodes": 170,
+  "original_network": [
+    "CBS"
+  ],
+  "production_companies": [
+    "Chuck Lorre Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Chuck Lorre",
+    "Eddie Gorodetsky",
+    "Gemma Baker"
+  ],
+  "showrunners": [
+    "Chuck Lorre",
+    "Gemma Baker"
+  ],
+  "lead_cast": [
+    "Anna Faris",
+    "Allison Janney",
+    "Sadie Calvano",
+    "Nate Corddry",
+    "Matt Jones",
+    "French Stewart",
+    "Spencer Daniels",
+    "Blake Garrett Rosenthal",
+    "Mimi Kennedy",
+    "Jaime Pressly",
+    "Beth Hall",
+    "William Fichtner",
+    "Kristen Johnston"
+  ],
+  "executive_producers": [
+    "Chuck Lorre",
+    "Eddie Gorodetsky",
+    "Nick Bakay",
+    "Gemma Baker",
+    "Warren Bell"
+  ],
+  "premise_summary": "Mom is an American television sitcom created by Chuck Lorre, Eddie Gorodetsky and Gemma Baker that aired for eight seasons on CBS from September 23, 2013, to May 13, 2021. Set in Napa, California, it follows dysfunctional mother/daughter duo Bonnie and Christy Plunkett, who, after having been estranged for years while both struggled with addiction, attempt to pull their lives together by trying to stay sober. It stars Anna Faris and Allison Janney, with Mimi Kennedy, Jaime Pressly, Beth Hall, William Fichtner, Sadie Calvano, Blake Garrett Rosenthal, Matt Jones, French Stewart and Kristen Johnston in supporting roles.",
+  "wikipedia_extract": "Mom is an American television sitcom created by Chuck Lorre, Eddie Gorodetsky and Gemma Baker that aired for eight seasons on CBS from September 23, 2013, to May 13, 2021. Set in Napa, California, it follows dysfunctional mother/daughter duo Bonnie and Christy Plunkett, who, after having been estranged for years while both struggled with addiction, attempt to pull their lives together by trying to stay sober. It stars Anna Faris and Allison Janney, with Mimi Kennedy, Jaime Pressly, Beth Hall, William Fichtner, Sadie Calvano, Blake Garrett Rosenthal, Matt Jones, French Stewart and Kristen Johnston in supporting roles.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2021",
+  "franchise_status": null
+}

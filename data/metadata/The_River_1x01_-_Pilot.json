@@ -1,0 +1,55 @@
+{
+  "show_id": "The_River_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/River_(TV_series)",
+  "wiki_page_title": "River (TV series)",
+  "retrieval_timestamp": "2026-03-19T05:11:28.013955+00:00",
+  "retrieval_confidence": "medium",
+  "title": "River (TV series)",
+  "search_title_used": "The River",
+  "alternate_titles": [],
+  "start_year": 2015,
+  "end_year": 2015,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": null,
+  "episodes": 6,
+  "original_network": [
+    "BBC One"
+  ],
+  "production_companies": [
+    "Kudos"
+  ],
+  "distributor": null,
+  "creators": [
+    "Abi Morgan"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Stellan Skarsgård",
+    "Nicola Walker",
+    "Adeel Akhtar"
+  ],
+  "executive_producers": [
+    "Jane Featherstone",
+    "Manda Levin",
+    "Abi Morgan",
+    "Lucy Richer"
+  ],
+  "premise_summary": "River is a six-part British television drama series, created and written by Abi Morgan and starring Stellan Skarsgård and Nicola Walker. It premiered on BBC One on 13 October 2015 and internationally on Netflix on 18 November 2015. The series is a police procedural. Detective Inspector John River is suffering from guilt over a recent loss.",
+  "wikipedia_extract": "River is a six-part British television drama series, created and written by Abi Morgan and starring Stellan Skarsgård and Nicola Walker. It premiered on BBC One on 13 October 2015 and internationally on Netflix on 18 November 2015. The series is a police procedural. Detective Inspector John River is suffering from guilt over a recent loss.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

@@ -1,0 +1,46 @@
+{
+  "show_id": "Stingray_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Stingray_(1964_TV_series)",
+  "wiki_page_title": "Stingray (1964 TV series)",
+  "retrieval_timestamp": "2026-03-19T05:02:51.132195+00:00",
+  "retrieval_confidence": "high",
+  "title": "Stingray (1964 TV series)",
+  "search_title_used": "Stingray",
+  "alternate_titles": [],
+  "start_year": 1963,
+  "end_year": null,
+  "country": [
+    "United Kingdom"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Children's science fiction"
+  ],
+  "format_type": "sci_fi",
+  "runtime_class": "half-hour",
+  "seasons": null,
+  "episodes": 39,
+  "original_network": [
+    "ITV"
+  ],
+  "production_companies": [
+    "AP Films in association with ATV and ITC Entertainment"
+  ],
+  "distributor": null,
+  "creators": [
+    "Gerry & Sylvia Anderson"
+  ],
+  "showrunners": null,
+  "lead_cast": null,
+  "executive_producers": null,
+  "premise_summary": "Stingray is a British children's science fiction television series created by Gerry and Sylvia Anderson and produced by AP Films (APF) for ITC Entertainment. Filmed in 1963 using a combination of electronic marionette puppetry and scale model special effects, it was APF's sixth puppet series and the third to be produced under the banner of \"Supermarionation\". It premiered in October 1964 and ran for 39 half-hour episodes.",
+  "wikipedia_extract": "Stingray is a British children's science fiction television series created by Gerry and Sylvia Anderson and produced by AP Films (APF) for ITC Entertainment. Filmed in 1963 using a combination of electronic marionette puppetry and scale model special effects, it was APF's sixth puppet series and the third to be produced under the banner of \"Supermarionation\". It premiered in October 1964 and ran for 39 half-hour episodes.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": null,
+  "franchise_status": null
+}

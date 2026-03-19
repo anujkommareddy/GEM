@@ -1,0 +1,49 @@
+{
+  "show_id": "Wilfred_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Wilfred_(American_TV_series)",
+  "wiki_page_title": "Wilfred (American TV series)",
+  "retrieval_timestamp": "2026-03-19T05:17:53.717217+00:00",
+  "retrieval_confidence": "high",
+  "title": "Wilfred (American TV series)",
+  "search_title_used": "Wilfred",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "SitcomBlack comedy"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 49,
+  "original_network": [
+    "FX"
+  ],
+  "production_companies": [
+    "Zook",
+    "Inc.Prospect ParkRenegade AustraliaSBS AustraliaFX Productions"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Elijah Wood"
+  ],
+  "executive_producers": [
+    "Randall Einhorn"
+  ],
+  "premise_summary": "Wilfred is an American sitcom that aired from June 23, 2011, to August 13, 2014, for a total of four seasons. Based on the Australian SBS One series of the same name, it stars Elijah Wood and series co-creator Jason Gann, reprising his role of the eponymous dog. The series was adapted for the American television channel FX by Family Guy veteran David Zuckerman, and moved to FXX for its fourth and final season.",
+  "wikipedia_extract": "Wilfred is an American sitcom that aired from June 23, 2011, to August 13, 2014, for a total of four seasons. Based on the Australian SBS One series of the same name, it stars Elijah Wood and series co-creator Jason Gann, reprising his role of the eponymous dog. The series was adapted for the American television channel FX by Family Guy veteran David Zuckerman, and moved to FXX for its fourth and final season.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2013",
+  "franchise_status": null
+}

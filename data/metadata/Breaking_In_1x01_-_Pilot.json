@@ -1,0 +1,50 @@
+{
+  "show_id": "Breaking_In_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Breaking_In_(TV_series)",
+  "wiki_page_title": "Breaking In (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:23:37.290941+00:00",
+  "retrieval_confidence": "high",
+  "title": "Breaking In (TV series)",
+  "search_title_used": "Breaking In",
+  "alternate_titles": [],
+  "start_year": 2011,
+  "end_year": 2012,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Sony Pictures TelevisionHappy Madison ProductionsAdam F. Goldberg Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Adam F. GoldbergSeth Gordon"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Bret HarrisonAlphonso McAuleyChristian SlaterOdette AnnableMegan MullallyErin Richards"
+  ],
+  "executive_producers": [
+    "Adam F. GoldbergAdam SandlerDoug RobinsonJack GiarraputoSeth GordonDavid Windsor"
+  ],
+  "premise_summary": "Breaking In is an American television sitcom created by Adam F. Goldberg and Seth Gordon that aired on Fox from April 6, 2011 to August 22, 2012. The series debuted as a mid-season replacement following American Idol.",
+  "wikipedia_extract": "Breaking In is an American television sitcom created by Adam F. Goldberg and Seth Gordon that aired on Fox from April 6, 2011 to August 22, 2012. The series debuted as a mid-season replacement following American Idol.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2012",
+  "franchise_status": null
+}

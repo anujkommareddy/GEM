@@ -1,0 +1,60 @@
+{
+  "show_id": "Eastwick_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Eastwick_(TV_series)",
+  "wiki_page_title": "Eastwick (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:29:50.160932+00:00",
+  "retrieval_confidence": "high",
+  "title": "Eastwick (TV series)",
+  "search_title_used": "Eastwick",
+  "alternate_titles": [],
+  "start_year": 2009,
+  "end_year": 2010,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Comedy drama",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 13,
+  "original_network": [
+    "ABC"
+  ],
+  "production_companies": [
+    "Curly Girly Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Ashley Benson",
+    "Jon Bernthal",
+    "Veronica Cartwright",
+    "Jaime Ray Newman",
+    "Lindsay Price",
+    "Rebecca Romijn",
+    "Sara Rue",
+    "Johann Urb",
+    "Paul Gross"
+  ],
+  "executive_producers": [
+    "Maggie Friedman",
+    "Marc David Alpert"
+  ],
+  "premise_summary": "Eastwick is an American fantasy comedy-drama television series based on John Updike's 1984 novel The Witches of Eastwick which aired on ABC from September 23, 2009 until February 14, 2010. The series was developed by Maggie Friedman, and starred Paul Gross as Darryl Van Horne, alongside Jaime Ray Newman, Lindsay Price, and Rebecca Romijn as the eponymous witches.",
+  "wikipedia_extract": "Eastwick is an American fantasy comedy-drama television series based on John Updike's 1984 novel The Witches of Eastwick which aired on ABC from September 23, 2009 until February 14, 2010. The series was developed by Maggie Friedman, and starred Paul Gross as Darryl Van Horne, alongside Jaime Ray Newman, Lindsay Price, and Rebecca Romijn as the eponymous witches.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2010",
+  "franchise_status": null
+}

@@ -1,0 +1,61 @@
+{
+  "show_id": "Satisfaction_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Satisfaction_(American_TV_series)",
+  "wiki_page_title": "Satisfaction (American TV series)",
+  "retrieval_timestamp": "2026-03-19T04:58:45.780098+00:00",
+  "retrieval_confidence": "high",
+  "title": "Satisfaction (American TV series)",
+  "search_title_used": "Satisfaction",
+  "alternate_titles": [],
+  "start_year": 2014,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 20,
+  "original_network": [
+    "USA Network"
+  ],
+  "production_companies": [
+    "Krasnoff/Foster Entertainment",
+    "Rhythm Arts Entertainment",
+    "Sony Pictures Television",
+    "Universal Cable Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Sean Jablonski"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Matt Passmore",
+    "Stéphanie Szostak",
+    "Blair Redford",
+    "Katherine LaNasa",
+    "Michelle DeShon",
+    "Deanna Russo"
+  ],
+  "executive_producers": [
+    "Russ Krasnoff",
+    "Gary Foster",
+    "Sean Jablonski",
+    "Mike Listo"
+  ],
+  "premise_summary": "Satisfaction is a drama television series created by Sean Jablonski. It premiered on the USA Network on July 17, 2014.\nOn February 26, 2016, USA cancelled Satisfaction after two seasons. Season 1 was released on DVD on January 20, 2015.",
+  "wikipedia_extract": "Satisfaction is a drama television series created by Sean Jablonski. It premiered on the USA Network on July 17, 2014.\nOn February 26, 2016, USA cancelled Satisfaction after two seasons. Season 1 was released on DVD on January 20, 2015.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

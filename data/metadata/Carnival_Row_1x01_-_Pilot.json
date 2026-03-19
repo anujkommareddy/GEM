@@ -1,0 +1,76 @@
+{
+  "show_id": "Carnival_Row_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Carnival_Row",
+  "wiki_page_title": "Carnival Row",
+  "retrieval_timestamp": "2026-03-19T04:24:34.270626+00:00",
+  "retrieval_confidence": "high",
+  "title": "Carnival Row",
+  "search_title_used": "Carnival Row",
+  "alternate_titles": [],
+  "start_year": 2019,
+  "end_year": 2023,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Crime drama",
+    "Neo-noir",
+    "Political",
+    "Steampunkauthor=Emma Fraser"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 18,
+  "original_network": [
+    "Amazon Prime Video"
+  ],
+  "production_companies": [
+    "Siesta Productions (season 1)",
+    "CrimeThink (season 2)",
+    "Legendary Television",
+    "Amazon Studios"
+  ],
+  "distributor": null,
+  "creators": [
+    "René Echevarria",
+    "Travis Beacham"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Orlando Bloom",
+    "Cara Delevingne",
+    "Simon McBurney",
+    "Tamzin Merchant",
+    "David Gyasi",
+    "Andrew Gower",
+    "Karla Crome",
+    "Arty Froushan",
+    "Indira Varma",
+    "Jared Harris",
+    "Caroline Ford",
+    "Jay Ali",
+    "Joanne Whalley",
+    "Jamie Harris",
+    "Ariyon Bakare"
+  ],
+  "executive_producers": [
+    "René Echevarria",
+    "Travis Beacham",
+    "Marc Guggenheim",
+    "Jon Amiel",
+    "Orlando Bloom",
+    "Cara Delevingne"
+  ],
+  "premise_summary": "Carnival Row is an American fantasy television series created by René Echevarria and Travis Beacham, based on Beacham's unproduced film spec script, A Killing on Carnival Row. Starring Orlando Bloom and Cara Delevingne, the series follows mythological beings who must survive as oppressed refugees in human society, as a detective works to solve murders connected with them.",
+  "wikipedia_extract": "Carnival Row is an American fantasy television series created by René Echevarria and Travis Beacham, based on Beacham's unproduced film spec script, A Killing on Carnival Row. Starring Orlando Bloom and Cara Delevingne, the series follows mythological beings who must survive as oppressed refugees in human society, as a detective works to solve murders connected with them.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2023",
+  "franchise_status": null
+}

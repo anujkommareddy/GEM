@@ -1,0 +1,61 @@
+{
+  "show_id": "Melissa_and_Joey_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Melissa_&_Joey",
+  "wiki_page_title": "Melissa & Joey",
+  "retrieval_timestamp": "2026-03-19T04:48:04.831060+00:00",
+  "retrieval_confidence": "medium",
+  "title": "Melissa & Joey",
+  "search_title_used": "Melissa and Joey",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Sitcom"
+  ],
+  "format_type": "sitcom",
+  "runtime_class": "half-hour",
+  "seasons": 4,
+  "episodes": 104,
+  "original_network": [
+    "Freeform"
+  ],
+  "production_companies": [
+    "Hartbreak Films",
+    "JL Veritas"
+  ],
+  "distributor": null,
+  "creators": [
+    "David Kendall",
+    "Bob Young"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Melissa Joan Hart",
+    "Joey Lawrence",
+    "Taylor Spreitler",
+    "Nick Robinson"
+  ],
+  "executive_producers": [
+    "David Kendall",
+    "Bob Young",
+    "Melissa Joan Hart",
+    "Joey Lawrence",
+    "Paula Hart",
+    "John Ziffren",
+    "Seth Kurland"
+  ],
+  "premise_summary": "Melissa & Joey is an American television sitcom created by David Kendall and Bob Young, and starring Melissa Joan Hart and Joey Lawrence. It aired for four seasons between 2010 and 2015 on ABC Family. The series title reflects the actors' names, not their characters', as it follows local politician Melanie \"Mel\" Burke (Hart) and Joseph \"Joe\" Longo (Lawrence), whom Mel hires to look after her niece Lennox Scanlon and nephew Ryder Scanlon after a Ponzi scheme run by Mel's sister and brother-in-law leaves Joe broke.",
+  "wikipedia_extract": "Melissa & Joey is an American television sitcom created by David Kendall and Bob Young, and starring Melissa Joan Hart and Joey Lawrence. It aired for four seasons between 2010 and 2015 on ABC Family. The series title reflects the actors' names, not their characters', as it follows local politician Melanie \"Mel\" Burke (Hart) and Joseph \"Joe\" Longo (Lawrence), whom Mel hires to look after her niece Lennox Scanlon and nephew Ryder Scanlon after a Ponzi scheme run by Mel's sister and brother-in-law leaves Joe broke.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

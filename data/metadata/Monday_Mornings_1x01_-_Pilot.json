@@ -1,0 +1,60 @@
+{
+  "show_id": "Monday_Mornings_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Monday_Mornings",
+  "wiki_page_title": "Monday Mornings",
+  "retrieval_timestamp": "2026-03-19T04:49:25.479658+00:00",
+  "retrieval_confidence": "high",
+  "title": "Monday Mornings",
+  "search_title_used": "Monday Mornings",
+  "alternate_titles": [],
+  "start_year": 2013,
+  "end_year": 2013,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Medical drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 10,
+  "original_network": [
+    "TNT"
+  ],
+  "production_companies": [
+    "David E. Kelley Productions",
+    "TNT Original Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "David E. Kelley"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Ving Rhames",
+    "Jamie Bamber",
+    "Jennifer Finnigan",
+    "Bill Irwin",
+    "Keong Sim",
+    "Sarayu Rao",
+    "Emily Swallow",
+    "Alfred Molina"
+  ],
+  "executive_producers": [
+    "Bill D'Elia",
+    "Sanjay Gupta",
+    "David E. Kelley"
+  ],
+  "premise_summary": "Monday Mornings is an American medical drama television series created by David E. Kelley that ran on TNT from February 4 to April 8, 2013, and aired Mondays after Dallas. It is based on the 2012 novel of the same name by Sanjay Gupta. In May 2012, TNT placed a ten-episode order for the series. On May 10, 2013, TNT canceled Monday Mornings after one season, along with Southland.",
+  "wikipedia_extract": "Monday Mornings is an American medical drama television series created by David E. Kelley that ran on TNT from February 4 to April 8, 2013, and aired Mondays after Dallas. It is based on the 2012 novel of the same name by Sanjay Gupta. In May 2012, TNT placed a ten-episode order for the series. On May 10, 2013, TNT canceled Monday Mornings after one season, along with Southland.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "cancelled",
+  "franchise_status": null
+}

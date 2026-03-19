@@ -1,0 +1,79 @@
+{
+  "show_id": "Men_In_Trees_Pilot_d15c4035_Men-In-Trees",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Mad_Men",
+  "wiki_page_title": "Mad Men",
+  "retrieval_timestamp": "2026-03-19T04:48:12.639815+00:00",
+  "retrieval_confidence": "high",
+  "title": "Mad Men",
+  "search_title_used": "Men",
+  "alternate_titles": [],
+  "start_year": 2007,
+  "end_year": 2015,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Period drama",
+    "Serial drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 7,
+  "episodes": 92,
+  "original_network": [
+    "AMC"
+  ],
+  "production_companies": [
+    "Weiner Bros. Productions",
+    "Lionsgate Television",
+    "RadicalMedia (pilot only)",
+    "AMC Original Productions"
+  ],
+  "distributor": null,
+  "creators": [
+    "Matthew Weiner"
+  ],
+  "showrunners": [
+    "Matthew Weiner"
+  ],
+  "lead_cast": [
+    "Jon Hamm",
+    "Elisabeth Moss",
+    "Vincent Kartheiser",
+    "January Jones",
+    "Christina Hendricks",
+    "Bryan Batt",
+    "Michael Gladis",
+    "Aaron Staton",
+    "Rich Sommer",
+    "Maggie Siff",
+    "John Slattery",
+    "Robert Morse",
+    "Jared Harris",
+    "Kiernan Shipka",
+    "Jessica Paré",
+    "Christopher Stanley",
+    "Jay R. Ferguson",
+    "Kevin Rahm",
+    "Ben Feldman",
+    "Mason Vale Cotton"
+  ],
+  "executive_producers": [
+    "Matthew Weiner",
+    "Scott Hornbacher",
+    "Andre Jacquemetton",
+    "Maria Jacquemetton",
+    "Janet Leahy"
+  ],
+  "premise_summary": "Mad Men is an American period drama television series created by Matthew Weiner for AMC. It ran from July 19, 2007 until May 17, 2015, with seven seasons and 92 episodes. The series title is allegedly borrowed from the phrase advertisers working on Madison Avenue used to refer to themselves, although, the only documented use of the phrase may derive from the late-1950s work of James Kelly, an advertising executive and writer.",
+  "wikipedia_extract": "Mad Men is an American period drama television series created by Matthew Weiner for AMC. It ran from July 19, 2007 until May 17, 2015, with seven seasons and 92 episodes. The series title is allegedly borrowed from the phrase advertisers working on Madison Avenue used to refer to themselves, although, the only documented use of the phrase may derive from the late-1950s work of James Kelly, an advertising executive and writer.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2015",
+  "franchise_status": null
+}

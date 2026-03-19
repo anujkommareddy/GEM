@@ -1,0 +1,62 @@
+{
+  "show_id": "Human_Target_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Human_Target_(2010_TV_series)",
+  "wiki_page_title": "Human Target (2010 TV series)",
+  "retrieval_timestamp": "2026-03-19T04:40:43.783620+00:00",
+  "retrieval_confidence": "high",
+  "title": "Human Target (2010 TV series)",
+  "search_title_used": "Human Target",
+  "alternate_titles": [],
+  "start_year": 2010,
+  "end_year": 2011,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Action",
+    "Comedy-drama",
+    "Spy thriller"
+  ],
+  "format_type": "dramedy",
+  "runtime_class": "hour",
+  "seasons": 2,
+  "episodes": 25,
+  "original_network": [
+    "Fox"
+  ],
+  "production_companies": [
+    "Wonderland Sound and Vision",
+    "DC Entertainment",
+    "Bonanza Productions",
+    "Warner Bros. Television"
+  ],
+  "distributor": null,
+  "creators": null,
+  "showrunners": null,
+  "lead_cast": [
+    "Mark Valley",
+    "Chi McBride",
+    "Jackie Earle Haley",
+    "Indira Varma",
+    "Janet Montgomery"
+  ],
+  "executive_producers": [
+    "Jonathan E. Steinberg",
+    "Brad Kern",
+    "Kevin Hooks",
+    "McG",
+    "Peter Johnson",
+    "Matt Miller"
+  ],
+  "premise_summary": "Human Target is an American spy action television series that was broadcast by Fox in the United States. Based loosely on the Human Target comic book character created by Len Wein and Carmine Infantino for DC Comics, it is the second series based on this title developed for television, the first TV series having been aired in 1992 on ABC. Developed by Jonathan E. Steinberg, Human Target premiered on CTV in Canada and on Fox in the United States in January 2010.",
+  "wikipedia_extract": "Human Target is an American spy action television series that was broadcast by Fox in the United States. Based loosely on the Human Target comic book character created by Len Wein and Carmine Infantino for DC Comics, it is the second series based on this title developed for television, the first TV series having been aired in 1992 on ABC. Developed by Jonathan E. Steinberg, Human Target premiered on CTV in Canada and on Fox in the United States in January 2010.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2011",
+  "franchise_status": null
+}

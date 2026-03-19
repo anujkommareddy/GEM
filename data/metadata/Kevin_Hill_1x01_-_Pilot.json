@@ -1,0 +1,60 @@
+{
+  "show_id": "Kevin_Hill_1x01_-_Pilot",
+  "evidence_type": "show_metadata",
+  "source_type": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Kevin_Hill_(TV_series)",
+  "wiki_page_title": "Kevin Hill (TV series)",
+  "retrieval_timestamp": "2026-03-19T04:43:34.340534+00:00",
+  "retrieval_confidence": "high",
+  "title": "Kevin Hill (TV series)",
+  "search_title_used": "Kevin Hill",
+  "alternate_titles": [],
+  "start_year": 2004,
+  "end_year": 2005,
+  "country": [
+    "United States"
+  ],
+  "original_language": [
+    "English"
+  ],
+  "genres": [
+    "Legal drama"
+  ],
+  "format_type": "drama",
+  "runtime_class": "hour",
+  "seasons": 1,
+  "episodes": 22,
+  "original_network": [
+    "UPN"
+  ],
+  "production_companies": [
+    "Icon Productions",
+    "Touchstone Television"
+  ],
+  "distributor": null,
+  "creators": [
+    "Jorge A. Reyes"
+  ],
+  "showrunners": null,
+  "lead_cast": [
+    "Taye Diggs",
+    "Jon Seda",
+    "Patrick Breen",
+    "Christina Hendricks",
+    "Kate Levering",
+    "Michael Michele",
+    "Meagan Good"
+  ],
+  "executive_producers": [
+    "Nancy Cotton",
+    "Bruce Davey",
+    "Samantha Howard Corbin",
+    "Alex Taub"
+  ],
+  "premise_summary": "Kevin Hill is an American legal drama that aired on UPN from September 29, 2004, to May 18, 2005. Produced by Icon Productions and Touchstone Television, it was filmed and produced in Toronto, Ontario, Canada.",
+  "wikipedia_extract": "Kevin Hill is an American legal drama that aired on UPN from September 29, 2004, to May 18, 2005. Produced by Icon Productions and Touchstone Television, it was filmed and produced in Toronto, Ontario, Canada.",
+  "reception_notes": null,
+  "awards_summary": null,
+  "cancellation_status": "ended_2005",
+  "franchise_status": null
+}
