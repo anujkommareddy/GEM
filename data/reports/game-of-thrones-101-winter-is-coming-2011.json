@@ -1,0 +1,139 @@
+{
+  "show_id": "game-of-thrones-101-winter-is-coming-2011",
+  "generated_at": "2026-03-19T17:57:07.415714+00:00",
+  "engine_version": "v3_expanded",
+  "model": "gpt-5-mini",
+  "scoring_mode": "new_dims_merged_with_v2",
+  "verdict": {
+    "label": "STRONG SIGNAL",
+    "weighted_score": 91.6,
+    "percentile": 100,
+    "description": "This script scores in the top tier of the GEM corpus. The dimensions that historically separate transcendent shows from the rest are firing.",
+    "one_line": "Epic fantasy with a clear, high-stakes premise (a continent-spanning political struggle + supernatural threat) that naturally attracts broad, multi-quadrant audiences."
+  },
+  "strengths": [
+    {
+      "dimension": "world_density_and_texture",
+      "display_name": "World Density & Texture",
+      "score": 10.0,
+      "note": "Westeros is rendered with immense specificity\u2014geography, institutions, history, and omen-driven culture\u2014that instantly implies a vast ecosystem of off-screen life and story potential."
+    },
+    {
+      "dimension": "latent_depth_slow_burn_potential",
+      "display_name": "Latent Depth & Slow-Burn Potential",
+      "score": 10.0,
+      "note": "Characters and incidents in the pilot reveal only surface stakes while seeding deep mysteries, moral contradictions, and institutional tensions that clearly promise long-term payoff."
+    }
+  ],
+  "risks": [
+    {
+      "dimension": "creative_originality_and_boldness",
+      "display_name": "Creative Originality & Boldness",
+      "score": 8.0,
+      "note": "Not a wholly unprecedented concept (fantasy epics exist), but the script takes bold tonal and narrative choices for television\u2014mixing intimate family drama with brutal, mythic elements and a sweeping geographic scope. The willingness to present grim, ambiguous omens and morally complex characters is a confident, distinctive voice."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "audience_appeal_marketability",
+      "display_name": "Audience Appeal & Marketability",
+      "short_desc": "Breadth of commercial hook \u2014 how clearly this reaches an identifiable audience.",
+      "score": 9.0,
+      "weight": 2.5,
+      "winner_avg": 8.0,
+      "vs_winner_avg": 1.0,
+      "reasoning": "Epic fantasy with a clear, high-stakes premise (a continent-spanning political struggle + supernatural threat) that naturally attracts broad, multi-quadrant audiences. Visual spectacle, multiple age/gender hooks (family drama, political intrigue, action, myth), and obvious word-of-mouth elements (mystery of the Others, direwolf omen) give it large commercial upside."
+    },
+    {
+      "dimension": "tonal_specificity",
+      "display_name": "Tonal Specificity",
+      "short_desc": "Distinctiveness and control of the show's tonal fingerprint \u2014 the hardest quality to fake.",
+      "score": 9.0,
+      "weight": 2.5,
+      "winner_avg": 8.2,
+      "vs_winner_avg": 0.8,
+      "reasoning": "The script establishes a distinct, grimly elegiac tone\u2014cold, moral, and consequential\u2014blending intimate family moments with brutal, mythic threats that is immediately recognizable."
+    },
+    {
+      "dimension": "world_density_and_texture",
+      "display_name": "World Density & Texture",
+      "short_desc": "How fully realised the show's universe feels from the pilot alone.",
+      "score": 10.0,
+      "weight": 1.5,
+      "winner_avg": 8.1,
+      "vs_winner_avg": 1.9,
+      "reasoning": "Westeros is rendered with immense specificity\u2014geography, institutions, history, and omen-driven culture\u2014that instantly implies a vast ecosystem of off-screen life and story potential."
+    },
+    {
+      "dimension": "conceptual_hook_clarity",
+      "display_name": "Conceptual Hook & Clarity",
+      "short_desc": "How instantly and compellingly the premise is communicated.",
+      "score": 9.0,
+      "weight": 1.0,
+      "winner_avg": 8.7,
+      "vs_winner_avg": 0.3,
+      "reasoning": "The pilot establishes its central hooks early and clearly: an ancient supernatural threat beyond the Wall, a powerful lord (Ned Stark) and his family confronted with omens, and a sprawling realm connected by the raven-map device. Stakes and story engines (political power, family honor, looming supernatural danger) are easy to grasp by the end of the episode."
+    },
+    {
+      "dimension": "resonant_originality",
+      "display_name": "Resonant Originality",
+      "short_desc": "The feeling that this premise is both fresh and inevitable \u2014 the hallmark of transcendent concepts.",
+      "score": 9.0,
+      "weight": 1.0,
+      "winner_avg": 8.1,
+      "vs_winner_avg": 0.9,
+      "reasoning": "The pilot marries epic fantasy elements (the Others, direwolves) with brutal political realism and a multi-POV structure in a way that feels both utterly fresh and inexplicably inevitable in hindsight."
+    },
+    {
+      "dimension": "relationship_density_and_ensemble_engine",
+      "display_name": "Relationship Density & Ensemble Engine",
+      "short_desc": "The richness of the relational web and its capacity to generate story independently.",
+      "score": 9.0,
+      "weight": 1.0,
+      "winner_avg": 8.0,
+      "vs_winner_avg": 1.0,
+      "reasoning": "The Stark family and their retinue create multiple durable dynamics\u2014parent/child, sibling rivalry, lord/ward, bannerman tensions\u2014that feel capable of generating sustained, interlocking drama across seasons."
+    },
+    {
+      "dimension": "latent_depth_slow_burn_potential",
+      "display_name": "Latent Depth & Slow-Burn Potential",
+      "short_desc": "What the script is holding back \u2014 hidden layers that reward long-term viewing.",
+      "score": 10.0,
+      "weight": 0.1,
+      "winner_avg": 8.4,
+      "vs_winner_avg": 1.6,
+      "reasoning": "Characters and incidents in the pilot reveal only surface stakes while seeding deep mysteries, moral contradictions, and institutional tensions that clearly promise long-term payoff."
+    },
+    {
+      "dimension": "character_appeal_and_long_term_potential",
+      "display_name": "Character Appeal & Longevity",
+      "short_desc": "Strength of leads and their capacity to sustain a multi-season arc.",
+      "score": 9.0,
+      "weight": 0.1,
+      "winner_avg": 8.6,
+      "vs_winner_avg": 0.4,
+      "reasoning": "A memorable ensemble is introduced with distinct personalities and contradictions (Ned's duty vs. compassion; Jon's outsider status; Robb/Bran/Jon sibling dynamics). The characters feel lived-in, generate obvious interpersonal and political engines, and suggest multiple durable arcs that can sustain many seasons."
+    },
+    {
+      "dimension": "narrative_momentum_engagement",
+      "display_name": "Narrative Momentum",
+      "short_desc": "Pace, escalation, and the pull toward the next episode.",
+      "score": 9.0,
+      "weight": 0.05,
+      "winner_avg": 8.3,
+      "vs_winner_avg": 0.7,
+      "reasoning": "The pilot moves with purpose: inciting incidents (the Others, the execution, discovery of the direwolf pups) are well-paced and layered, scenes escalate stakes, and multiple narrative doors are opened. It compels curiosity about what comes next."
+    },
+    {
+      "dimension": "creative_originality_and_boldness",
+      "display_name": "Creative Originality & Boldness",
+      "short_desc": "How formally daring or conceptually distinctive the script is.",
+      "score": 8.0,
+      "weight": 0.05,
+      "winner_avg": 8.0,
+      "vs_winner_avg": 0.0,
+      "reasoning": "Not a wholly unprecedented concept (fantasy epics exist), but the script takes bold tonal and narrative choices for television\u2014mixing intimate family drama with brutal, mythic elements and a sweeping geographic scope. The willingness to present grim, ambiguous omens and morally complex characters is a confident, distinctive voice."
+    }
+  ],
+  "producer_takeaway": "Read this script. Standout signal on World Density & Texture. Watch: Creative Originality & Boldness is dragging. Ranks in the top 1% of the GEM corpus."
+}
