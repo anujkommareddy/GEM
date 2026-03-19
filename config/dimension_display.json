@@ -1,0 +1,42 @@
+{
+  "audience_appeal_marketability": {
+    "display_name": "Audience Appeal & Marketability",
+    "short_desc": "Breadth of commercial hook — how clearly this reaches an identifiable audience."
+  },
+  "conceptual_hook_clarity": {
+    "display_name": "Conceptual Hook & Clarity",
+    "short_desc": "How instantly and compellingly the premise is communicated."
+  },
+  "character_appeal_and_long_term_potential": {
+    "display_name": "Character Appeal & Longevity",
+    "short_desc": "Strength of leads and their capacity to sustain a multi-season arc."
+  },
+  "creative_originality_and_boldness": {
+    "display_name": "Creative Originality & Boldness",
+    "short_desc": "How formally daring or conceptually distinctive the script is."
+  },
+  "narrative_momentum_engagement": {
+    "display_name": "Narrative Momentum",
+    "short_desc": "Pace, escalation, and the pull toward the next episode."
+  },
+  "resonant_originality": {
+    "display_name": "Resonant Originality",
+    "short_desc": "The feeling that this premise is both fresh and inevitable — the hallmark of transcendent concepts."
+  },
+  "world_density_and_texture": {
+    "display_name": "World Density & Texture",
+    "short_desc": "How fully realised the show's universe feels from the pilot alone."
+  },
+  "tonal_specificity": {
+    "display_name": "Tonal Specificity",
+    "short_desc": "Distinctiveness and control of the show's tonal fingerprint — the hardest quality to fake."
+  },
+  "latent_depth_slow_burn_potential": {
+    "display_name": "Latent Depth & Slow-Burn Potential",
+    "short_desc": "What the script is holding back — hidden layers that reward long-term viewing."
+  },
+  "relationship_density_and_ensemble_engine": {
+    "display_name": "Relationship Density & Ensemble Engine",
+    "short_desc": "The richness of the relational web and its capacity to generate story independently."
+  }
+}

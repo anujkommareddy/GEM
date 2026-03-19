@@ -1,0 +1,21 @@
+{
+  "verdict_thresholds": {
+    "STRONG SIGNAL":   90,
+    "WORTH THE READ":  72,
+    "MIXED":           50,
+    "PASS":             0
+  },
+  "verdict_descriptions": {
+    "STRONG SIGNAL":   "This script scores in the top tier of the GEM corpus. The dimensions that historically separate transcendent shows from the rest are firing.",
+    "WORTH THE READ":  "Above-average signal on the core dimensions. Worth a full read — the concept or execution has real upside even if not all cylinders are firing.",
+    "MIXED":           "Some dimensions show promise but the script underperforms on enough key signals to warrant caution. Significant development likely needed.",
+    "PASS":            "Scores below the threshold on the dimensions most predictive of transcendence. Not recommended for further development in current form."
+  },
+  "n_strengths": 3,
+  "n_risks": 2,
+  "strength_threshold_above_own_avg": 0.3,
+  "risk_threshold_below_own_avg": 0.3,
+  "score_scale": 100,
+  "one_line_model": "gpt-4o-mini",
+  "one_line_prompt": "You are a senior TV development executive. Based ONLY on the dimension-level reasoning below, write a single crisp sentence (max 25 words) that captures the core signal of this pilot script. Do not add any new claims — only synthesise what is stated. Be direct and producer-facing.\n\nDimension reasoning:\n{reasoning_block}\n\nOne sentence:"
+}

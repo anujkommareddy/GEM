@@ -1,0 +1,151 @@
+{
+  "show_id": "Street_Lawyer_1x01_-_Pilot",
+  "generated_at": "2026-03-19T16:10:15.959562+00:00",
+  "engine_version": "v3_expanded",
+  "model": "gpt-5-mini",
+  "scoring_mode": "new_dims_merged_with_v2",
+  "verdict": {
+    "label": "PASS",
+    "weighted_score": 38.8,
+    "percentile": 0,
+    "description": "Scores below the threshold on the dimensions most predictive of transcendence. Not recommended for further development in current form.",
+    "one_line": "The tone is a consistent, earnest legal suspense with moral weight, but it lacks a distinctive tonal fingerprint that would make the show immediately recognizable."
+  },
+  "strengths": [
+    {
+      "dimension": "tonal_specificity",
+      "display_name": "Tonal Specificity",
+      "score": 5.0,
+      "note": "The tone is a consistent, earnest legal suspense with moral weight, but it lacks a distinctive tonal fingerprint that would make the show immediately recognizable."
+    },
+    {
+      "dimension": "world_density_and_texture",
+      "display_name": "World Density & Texture",
+      "score": 6.0,
+      "note": "The pilot establishes a credible legal ecosystem\u2014firm politics, police response, shelters and media\u2014that can generate stories, but the social texture isn't yet richly layered or singular."
+    },
+    {
+      "dimension": "resonant_originality",
+      "display_name": "Resonant Originality",
+      "score": 6.0,
+      "note": "The sudden moral pivot of a successful corporate lawyer toward homelessness advocacy is compelling and graspable but feels rooted in familiar Grisham/legal\u2011thriller terrain rather than truly inevitable-seeming originality."
+    }
+  ],
+  "risks": [
+    {
+      "dimension": "narrative_momentum_engagement",
+      "display_name": "Narrative Momentum",
+      "score": 1.0,
+      "note": "The pilot contains no inciting incident, pacing, or ending to create momentum. There is nothing to compel a viewer to a second episode."
+    },
+    {
+      "dimension": "creative_originality_and_boldness",
+      "display_name": "Creative Originality & Boldness",
+      "score": 1.0,
+      "note": "With no material to review, there is no evidence of voice, stylistic choices, or risk-taking. Originality cannot be inferred from an empty submission."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "tonal_specificity",
+      "display_name": "Tonal Specificity",
+      "short_desc": "Distinctiveness and control of the show's tonal fingerprint \u2014 the hardest quality to fake.",
+      "score": 5.0,
+      "weight": 2.5,
+      "winner_avg": 8.2,
+      "vs_winner_avg": -3.2,
+      "reasoning": "The tone is a consistent, earnest legal suspense with moral weight, but it lacks a distinctive tonal fingerprint that would make the show immediately recognizable."
+    },
+    {
+      "dimension": "world_density_and_texture",
+      "display_name": "World Density & Texture",
+      "short_desc": "How fully realised the show's universe feels from the pilot alone.",
+      "score": 6.0,
+      "weight": 1.5,
+      "winner_avg": 8.1,
+      "vs_winner_avg": -2.1,
+      "reasoning": "The pilot establishes a credible legal ecosystem\u2014firm politics, police response, shelters and media\u2014that can generate stories, but the social texture isn't yet richly layered or singular."
+    },
+    {
+      "dimension": "resonant_originality",
+      "display_name": "Resonant Originality",
+      "short_desc": "The feeling that this premise is both fresh and inevitable \u2014 the hallmark of transcendent concepts.",
+      "score": 6.0,
+      "weight": 1.0,
+      "winner_avg": 8.1,
+      "vs_winner_avg": -2.1,
+      "reasoning": "The sudden moral pivot of a successful corporate lawyer toward homelessness advocacy is compelling and graspable but feels rooted in familiar Grisham/legal\u2011thriller terrain rather than truly inevitable-seeming originality."
+    },
+    {
+      "dimension": "relationship_density_and_ensemble_engine",
+      "display_name": "Relationship Density & Ensemble Engine",
+      "short_desc": "The richness of the relational web and its capacity to generate story independently.",
+      "score": 6.0,
+      "weight": 1.0,
+      "winner_avg": 8.0,
+      "vs_winner_avg": -2.0,
+      "reasoning": "There are several recurring relationships (partners, romantic interest, assistant, firm hierarchy) that promise durable conflict, but the pilot still centers energy largely on the lead rather than a fully generative ensemble web."
+    },
+    {
+      "dimension": "audience_appeal_marketability",
+      "display_name": "Audience Appeal & Marketability",
+      "short_desc": "Breadth of commercial hook \u2014 how clearly this reaches an identifiable audience.",
+      "score": 1.0,
+      "weight": 2.5,
+      "winner_avg": 8.0,
+      "vs_winner_avg": -7.0,
+      "reasoning": "The submitted file contains no readable content\u2014no premise, characters, or scenes\u2014so there is nothing to evaluate for marketability. With no evident genre or emotional promise, addressable audience and word-of-mouth hooks cannot be assessed."
+    },
+    {
+      "dimension": "conceptual_hook_clarity",
+      "display_name": "Conceptual Hook & Clarity",
+      "short_desc": "How instantly and compellingly the premise is communicated.",
+      "score": 1.0,
+      "weight": 1.0,
+      "winner_avg": 8.7,
+      "vs_winner_avg": -7.7,
+      "reasoning": "No discernible central premise or hook appears in the provided text. A pilot must establish its engine and stakes quickly; absent any content, the hook is impossible to determine."
+    },
+    {
+      "dimension": "latent_depth_slow_burn_potential",
+      "display_name": "Latent Depth & Slow-Burn Potential",
+      "short_desc": "What the script is holding back \u2014 hidden layers that reward long-term viewing.",
+      "score": 8.0,
+      "weight": 0.1,
+      "winner_avg": 8.4,
+      "vs_winner_avg": -0.4,
+      "reasoning": "The protagonist's existential crisis and the moral question of wealth versus homelessness suggest substantial thematic reserves and character development that could pay off over multiple seasons."
+    },
+    {
+      "dimension": "character_appeal_and_long_term_potential",
+      "display_name": "Character Appeal & Longevity",
+      "short_desc": "Strength of leads and their capacity to sustain a multi-season arc.",
+      "score": 1.0,
+      "weight": 0.1,
+      "winner_avg": 8.6,
+      "vs_winner_avg": -7.6,
+      "reasoning": "There are no characters, relationships, or beats to judge. Without identifiable leads or supporting cast, long-term arcs and durability cannot be evaluated."
+    },
+    {
+      "dimension": "creative_originality_and_boldness",
+      "display_name": "Creative Originality & Boldness",
+      "short_desc": "How formally daring or conceptually distinctive the script is.",
+      "score": 1.0,
+      "weight": 0.05,
+      "winner_avg": 8.0,
+      "vs_winner_avg": -7.0,
+      "reasoning": "With no material to review, there is no evidence of voice, stylistic choices, or risk-taking. Originality cannot be inferred from an empty submission."
+    },
+    {
+      "dimension": "narrative_momentum_engagement",
+      "display_name": "Narrative Momentum",
+      "short_desc": "Pace, escalation, and the pull toward the next episode.",
+      "score": 1.0,
+      "weight": 0.05,
+      "winner_avg": 8.3,
+      "vs_winner_avg": -7.3,
+      "reasoning": "The pilot contains no inciting incident, pacing, or ending to create momentum. There is nothing to compel a viewer to a second episode."
+    }
+  ],
+  "producer_takeaway": "Not recommended in current form. Standout signal on Tonal Specificity. Watch: Narrative Momentum is dragging. Ranks in the bottom 1% of the GEM corpus."
+}

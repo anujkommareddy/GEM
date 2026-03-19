@@ -1,0 +1,151 @@
+{
+  "show_id": "breaking-bad-101-pilot-2008",
+  "generated_at": "2026-03-19T16:10:20.656539+00:00",
+  "engine_version": "v3_expanded",
+  "model": "gpt-5-mini",
+  "scoring_mode": "new_dims_merged_with_v2",
+  "verdict": {
+    "label": "WORTH THE READ",
+    "weighted_score": 87.7,
+    "percentile": 99,
+    "description": "Above-average signal on the core dimensions. Worth a full read \u2014 the concept or execution has real upside even if not all cylinders are firing.",
+    "one_line": "The script nails a distinct tonal cocktail\u2014quiet domestic melancholy, darkly comic absurdity, and simmering violence\u2014giving the show an immediately recognizable emotional voice."
+  },
+  "strengths": [
+    {
+      "dimension": "resonant_originality",
+      "display_name": "Resonant Originality",
+      "score": 10.0,
+      "note": "The pilot crystallizes an audacious, easily grasped premise\u2014a meek chemistry teacher turned meth cook\u2014that feels both wholly original and retrospectively inevitable."
+    },
+    {
+      "dimension": "character_appeal_and_long_term_potential",
+      "display_name": "Character Appeal & Longevity",
+      "score": 10.0,
+      "note": "Walter White is written around a vivid contradiction (understated, respectable life vs. extreme actions) that inherently sustains multi-season arcs. Supporting characters (Skyler, Jr., Hank, coworkers) are distinct and set up durable relational engines for drama and escalation."
+    },
+    {
+      "dimension": "latent_depth_slow_burn_potential",
+      "display_name": "Latent Depth & Slow-Burn Potential",
+      "score": 10.0,
+      "note": "The pilot deliberately withholds and seeds deep moral and psychological conflicts\u2014Walt\u2019s hidden competence and compromises, family stakes, and criminal systems\u2014promising rich, slow-burn payoffs."
+    }
+  ],
+  "risks": [
+    {
+      "dimension": "relationship_density_and_ensemble_engine",
+      "display_name": "Relationship Density & Ensemble Engine",
+      "score": 8.0,
+      "note": "Multiple durable dynamics are sketched (Walt/Skyler/Jr., Hank as foil, implied criminal partnerships) that create a web of tensions capable of sustaining long-term, character-driven drama."
+    },
+    {
+      "dimension": "audience_appeal_marketability",
+      "display_name": "Audience Appeal & Marketability",
+      "score": 8.0,
+      "note": "High-concept drama that\u2019s easy to pitch and emotionally immediate: a meek family man who becomes embroiled in violent criminality. The premise has natural word-of-mouth hooks and appeals to drama/thriller viewers across age groups, though its dark tone skews adult."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "tonal_specificity",
+      "display_name": "Tonal Specificity",
+      "short_desc": "Distinctiveness and control of the show's tonal fingerprint \u2014 the hardest quality to fake.",
+      "score": 9.0,
+      "weight": 2.5,
+      "winner_avg": 8.2,
+      "vs_winner_avg": 0.8,
+      "reasoning": "The script nails a distinct tonal cocktail\u2014quiet domestic melancholy, darkly comic absurdity, and simmering violence\u2014giving the show an immediately recognizable emotional voice."
+    },
+    {
+      "dimension": "audience_appeal_marketability",
+      "display_name": "Audience Appeal & Marketability",
+      "short_desc": "Breadth of commercial hook \u2014 how clearly this reaches an identifiable audience.",
+      "score": 8.0,
+      "weight": 2.5,
+      "winner_avg": 8.0,
+      "vs_winner_avg": -0.0,
+      "reasoning": "High-concept drama that\u2019s easy to pitch and emotionally immediate: a meek family man who becomes embroiled in violent criminality. The premise has natural word-of-mouth hooks and appeals to drama/thriller viewers across age groups, though its dark tone skews adult."
+    },
+    {
+      "dimension": "world_density_and_texture",
+      "display_name": "World Density & Texture",
+      "short_desc": "How fully realised the show's universe feels from the pilot alone.",
+      "score": 9.0,
+      "weight": 1.5,
+      "winner_avg": 8.1,
+      "vs_winner_avg": 0.9,
+      "reasoning": "A richly specific Inland Empire milieu (school, car wash, trailer-park labs, suburban domesticity and criminal backchannels) establishes layered social and economic pressures that naturally generate stories."
+    },
+    {
+      "dimension": "resonant_originality",
+      "display_name": "Resonant Originality",
+      "short_desc": "The feeling that this premise is both fresh and inevitable \u2014 the hallmark of transcendent concepts.",
+      "score": 10.0,
+      "weight": 1.0,
+      "winner_avg": 8.1,
+      "vs_winner_avg": 1.9,
+      "reasoning": "The pilot crystallizes an audacious, easily grasped premise\u2014a meek chemistry teacher turned meth cook\u2014that feels both wholly original and retrospectively inevitable."
+    },
+    {
+      "dimension": "conceptual_hook_clarity",
+      "display_name": "Conceptual Hook & Clarity",
+      "short_desc": "How instantly and compellingly the premise is communicated.",
+      "score": 9.0,
+      "weight": 1.0,
+      "winner_avg": 8.7,
+      "vs_winner_avg": 0.3,
+      "reasoning": "The pilot hooks immediately with a striking visual (the Winnebago/cow pasture scene) and then reframes with 'ONE MONTH EARLIER,' making the engine \u2014 a radical transformation of an ordinary man \u2014 crystal clear within the pilot. Stakes and the show's central question land fast and simply."
+    },
+    {
+      "dimension": "relationship_density_and_ensemble_engine",
+      "display_name": "Relationship Density & Ensemble Engine",
+      "short_desc": "The richness of the relational web and its capacity to generate story independently.",
+      "score": 8.0,
+      "weight": 1.0,
+      "winner_avg": 8.0,
+      "vs_winner_avg": -0.0,
+      "reasoning": "Multiple durable dynamics are sketched (Walt/Skyler/Jr., Hank as foil, implied criminal partnerships) that create a web of tensions capable of sustaining long-term, character-driven drama."
+    },
+    {
+      "dimension": "character_appeal_and_long_term_potential",
+      "display_name": "Character Appeal & Longevity",
+      "short_desc": "Strength of leads and their capacity to sustain a multi-season arc.",
+      "score": 10.0,
+      "weight": 0.1,
+      "winner_avg": 8.6,
+      "vs_winner_avg": 1.4,
+      "reasoning": "Walter White is written around a vivid contradiction (understated, respectable life vs. extreme actions) that inherently sustains multi-season arcs. Supporting characters (Skyler, Jr., Hank, coworkers) are distinct and set up durable relational engines for drama and escalation."
+    },
+    {
+      "dimension": "latent_depth_slow_burn_potential",
+      "display_name": "Latent Depth & Slow-Burn Potential",
+      "short_desc": "What the script is holding back \u2014 hidden layers that reward long-term viewing.",
+      "score": 10.0,
+      "weight": 0.1,
+      "winner_avg": 8.4,
+      "vs_winner_avg": 1.6,
+      "reasoning": "The pilot deliberately withholds and seeds deep moral and psychological conflicts\u2014Walt\u2019s hidden competence and compromises, family stakes, and criminal systems\u2014promising rich, slow-burn payoffs."
+    },
+    {
+      "dimension": "creative_originality_and_boldness",
+      "display_name": "Creative Originality & Boldness",
+      "short_desc": "How formally daring or conceptually distinctive the script is.",
+      "score": 9.0,
+      "weight": 0.05,
+      "winner_avg": 8.0,
+      "vs_winner_avg": 1.0,
+      "reasoning": "The tonal/structural gamble \u2014 taking us inside a protagonist\u2019s moral unravelling and pairing mundane suburban life with brutal criminality \u2014 feels fresh and bold. The pilot\u2019s visual choices and tonal contrasts mark a distinctive voice rather than a by-the-numbers drama."
+    },
+    {
+      "dimension": "narrative_momentum_engagement",
+      "display_name": "Narrative Momentum",
+      "short_desc": "Pace, escalation, and the pull toward the next episode.",
+      "score": 9.0,
+      "weight": 0.05,
+      "winner_avg": 8.3,
+      "vs_winner_avg": 0.7,
+      "reasoning": "The teaser is propulsive and the 'one month earlier' structure creates immediate narrative curiosity. Pacing balances character setup with escalating stakes and closes on a compelling, visceral hook that strongly compels a next episode."
+    }
+  ],
+  "producer_takeaway": "Worth your time. Standout signal on Resonant Originality. Watch: Relationship Density & Ensemble Engine is dragging. Ranks in the top 1% of the GEM corpus."
+}
