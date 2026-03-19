@@ -43,28 +43,89 @@ MAX_CHARS = 15000   # same truncation limit as corpus scoring
 
 # ─── Text Extraction ────────────────────────────────────────────────────────────
 
-def extract_text_from_pdf(path: Path) -> str:
-    """Extract text from a PDF using pdfplumber (preferred) or pdfminer fallback."""
+# Minimum character yield we'll accept from digital extraction before
+# falling back to OCR. Scripts are typically 50-100+ pages, so anything
+# under ~500 chars almost certainly means the PDF is image-only.
+MIN_DIGITAL_CHARS = 500
+
+
+def _extract_digital(path: Path) -> str:
+    """
+    Try to extract text digitally (no OCR) using pdfplumber, then pdfminer.
+    Returns empty string if neither library is available or yields nothing useful.
+    """
+    # pdfplumber — best for screenplay PDFs (handles columns/tables well)
     try:
         import pdfplumber
-        text_parts = []
+        parts = []
         with pdfplumber.open(str(path)) as pdf:
             for page in pdf.pages:
                 t = page.extract_text()
                 if t:
-                    text_parts.append(t)
-        return "\n".join(text_parts)
+                    parts.append(t)
+        return "\n".join(parts)
     except ImportError:
         pass
 
+    # pdfminer fallback
     try:
-        from pdfminer.high_level import extract_text
-        return extract_text(str(path))
+        from pdfminer.high_level import extract_text as pm_extract
+        return pm_extract(str(path)) or ""
+    except ImportError:
+        return ""
+
+
+def _extract_ocr(path: Path) -> str:
+    """
+    OCR fallback for image-based / scanned PDFs.
+    Converts each page to an image, then runs Tesseract.
+    Requires: pdf2image + pytesseract + a Tesseract binary.
+    """
+    try:
+        from pdf2image import convert_from_path
+        import pytesseract
     except ImportError:
         raise RuntimeError(
-            "PDF extraction requires pdfplumber or pdfminer.six.\n"
-            "Install with:  pip install pdfplumber --break-system-packages"
+            "OCR requires pdf2image and pytesseract.\n"
+            "Install with:\n"
+            "  pip install pdf2image pytesseract --break-system-packages\n"
+            "  # macOS: brew install tesseract poppler\n"
+            "  # Linux: sudo apt-get install tesseract-ocr poppler-utils"
         )
+
+    logger.info("PDF appears to be image-based — running OCR (this may take a minute)...")
+    pages = convert_from_path(str(path), dpi=200)
+    logger.info(f"  OCR: processing {len(pages)} pages...")
+    parts = []
+    for i, img in enumerate(pages, 1):
+        text = pytesseract.image_to_string(img, lang="eng")
+        if text.strip():
+            parts.append(text)
+        if i % 10 == 0:
+            logger.info(f"  OCR: {i}/{len(pages)} pages done")
+    return "\n".join(parts)
+
+
+def extract_text_from_pdf(path: Path) -> str:
+    """
+    Extract text from a PDF.
+    Strategy:
+      1. Try digital extraction (fast, free, accurate for text-layer PDFs).
+      2. If yield is suspiciously low (< MIN_DIGITAL_CHARS), the PDF is likely
+         scanned/image-based — fall back to OCR automatically.
+    """
+    text = _extract_digital(path)
+
+    if len(text.strip()) >= MIN_DIGITAL_CHARS:
+        logger.info(f"Digital extraction succeeded ({len(text):,} chars)")
+        return text
+
+    if text.strip():
+        logger.info(f"Digital extraction yielded only {len(text.strip())} chars — looks image-based. Trying OCR...")
+    else:
+        logger.info("No text found via digital extraction — PDF is image-based. Running OCR...")
+
+    return _extract_ocr(path)
 
 
 def extract_text(path: Path) -> str:
@@ -81,7 +142,12 @@ def extract_text(path: Path) -> str:
         text = path.read_text(encoding="utf-8", errors="ignore")
 
     if not text.strip():
-        raise ValueError(f"No text could be extracted from '{path}'. Is the file empty or image-only?")
+        raise ValueError(
+            f"No text could be extracted from '{path}'.\n"
+            "  If this is a scanned PDF, ensure tesseract is installed:\n"
+            "    macOS: brew install tesseract poppler\n"
+            "    Linux: sudo apt-get install tesseract-ocr poppler-utils"
+        )
 
     logger.info(f"Extracted {len(text):,} characters from {path.name}")
     return text
