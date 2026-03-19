@@ -1,0 +1,2292 @@
+{
+  "total_flags": 254,
+  "generated_at": "2026-03-19T07:20:41.804630+00:00",
+  "flags": [
+    {
+      "show_id": "The_Neighbours_1x01_-_Pilot",
+      "title": "Neighbours",
+      "label": "loser",
+      "seasons": 41,
+      "cancellation_status": "cancelled",
+      "issue": "labeled loser but ran 41 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Night_SkyTo_the_Stars_d9d42547_night-sky-101-to-the-stars-2022",
+      "title": "Dancing with the Stars (American TV series)",
+      "label": "loser",
+      "seasons": 34,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 34 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Shark_1x01_-_Pilot",
+      "title": "Shark Tank",
+      "label": "loser",
+      "seasons": 17,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 17 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Hunters_1x01_-_Pilot",
+      "title": "Ghost Hunters (TV series)",
+      "label": "loser",
+      "seasons": 16,
+      "cancellation_status": "cancelled",
+      "issue": "labeled loser but ran 16 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Rush_1x01_-_Pilot",
+      "title": "Gold Rush (TV series)",
+      "label": "loser",
+      "seasons": 15,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 15 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Blue_Bloods_1x01_-_Pilot",
+      "title": "Blue Bloods",
+      "label": "loser",
+      "seasons": 14,
+      "cancellation_status": "ended_2024",
+      "issue": "labeled loser but ran 14 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Heart_Matters_1x01_-_Pilot",
+      "title": "When Calls the Heart",
+      "label": "loser",
+      "seasons": 13,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 13 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Dynasty_1x01_-_Pilot",
+      "title": "Dynasty (1981 TV series)",
+      "label": "loser",
+      "seasons": 9,
+      "cancellation_status": "ended_1989",
+      "issue": "labeled loser but ran 9 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Last_Man_Standing_1x01_-_Pilot",
+      "title": "Last Man Standing (American TV series)",
+      "label": "loser",
+      "seasons": 9,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 9 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "One_Day_at_a_TimeThis_Is_It_478df1cb_one-day-at-a-time-101-this-is-it-2017",
+      "title": "One Day at a Time (1975 TV series)",
+      "label": "loser",
+      "seasons": 9,
+      "cancellation_status": "ended_1984",
+      "issue": "labeled loser but ran 9 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "One_Tree_Hill_1x01_-_Pilot",
+      "title": "One Tree Hill (TV series)",
+      "label": "loser",
+      "seasons": 9,
+      "cancellation_status": "ended_2006",
+      "issue": "labeled loser but ran 9 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Still_Life_1x01_-_Pilot",
+      "title": "The Facts of Life (TV series)",
+      "label": "loser",
+      "seasons": 9,
+      "cancellation_status": "ended_1988",
+      "issue": "labeled loser but ran 9 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Arrow_1x01_-_Pilot",
+      "title": "Arrow (TV series)",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Entourage_1x01-Pilot",
+      "title": "Entourage (American TV series)",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_2011",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "FBI_1x01_-_Pilot",
+      "title": "FBI (TV series)",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Fear_The_Walking_Dead_1x01_-_Pilot",
+      "title": "Fear the Walking Dead",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Here_Comes_The_Neighborhood_1x01_-_Pilot",
+      "title": "The Neighborhood (TV series)",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Homeland_Security_1x01_-_Pilot",
+      "title": "Homeland (TV series)",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Ironside_1x01_-_Pilot",
+      "title": "Ironside (1967 TV series)",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_1975",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Royal_Pains_1x01_-_Pilot",
+      "title": "Royal Pains",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "S.W.A.T._1x01_-_Pilot",
+      "title": "S.W.A.T. (2017 TV series)",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_2025",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Rookie_1x01_-_Pilot",
+      "title": "The Rookie",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Vampire_Diaries_1x01_-_Pilot",
+      "title": "The Vampire Diaries",
+      "label": "loser",
+      "seasons": 8,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 8 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "30_Rock_Pilot",
+      "title": "30 Rock",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "All_American_1x01_-_Pilot",
+      "title": "All American (TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Billions_1x01_-_Pilot",
+      "title": "Billions (TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Bosch_1x01_-_Pilot",
+      "title": "Bosch (TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "CalifornicationPilot_e494bd31_californication-101-pilot-2007",
+      "title": "Californication (TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "ElementaryPilot_1dcc8dfd_elementary-101-pilot-2012",
+      "title": "Elementary (TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Gilmore_Girls_1x01_-_Pilot",
+      "title": "Gilmore Girls",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2006",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Men_In_Trees_Pilot_d15c4035_Men-In-Trees",
+      "title": "Mad Men",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "New_Girl_1x01_-_Pilot",
+      "title": "New Girl",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Once-Upon-A-Time-1x01-Pilot",
+      "title": "Once Upon a Time (TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Queen_Sugar_1x01_-_Pilot",
+      "title": "Queen Sugar",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Ray_Donovan_1x01_-_Pilot",
+      "title": "Ray Donovan",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "RiverdaleChapter_One_The_Rivers_Edge_d1d84cc8_riverdale-101-chapter-1-the-rivers-edge-2017",
+      "title": "Riverdale (American TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Seal_Team_1x01_-_Pilot",
+      "title": "SEAL Team (TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Chi_1x01_-_Pilot",
+      "title": "The Chi",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Good_Doctor_1x01_-_Pilot",
+      "title": "The Good Doctor (American TV series)",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2024",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Young_Sheldon_1x01_-_Pilot",
+      "title": "Young Sheldon",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2024",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "parks-and-recreation-101-pilot-2009",
+      "title": "Parks and Recreation",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "the-good-wife-101-pilot-2009",
+      "title": "The Good Wife",
+      "label": "loser",
+      "seasons": 7,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 7 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "77987-Bojack-Horseman-Pilot-by-Raphael-Bob-Waksberg",
+      "title": "BoJack Horseman",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "American_Superstore_1x01_-_Pilot",
+      "title": "Superstore (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Animal_Kingdom_1x01_-_Pilot",
+      "title": "Animal Kingdom (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Baby_Daddy_1x01_-_Pilot",
+      "title": "Baby Daddy",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Bull_1x01_-_Pilot",
+      "title": "Bull (2016 TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Dark_Shadows_2f61408c_dark_shadows__new__pilot",
+      "title": "Dark Shadows",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_1971",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Drop_Dead_Diva_1x01_-_Pilot",
+      "title": "Drop Dead Diva",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Fresh_Off_the_Boat_1x01_-_Pilot",
+      "title": "Fresh Off the Boat",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Girls-Pilot",
+      "title": "Girls (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Grimm_1x01_-_Pilot",
+      "title": "Grimm (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Kingdom_1x01_-_Pilot",
+      "title": "Animal Kingdom (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Longmire_1x01_-_Pilot",
+      "title": "Longmire (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Lucifer_1x01_-_Pilot",
+      "title": "Lucifer (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Madam_Secretary_1x01_-_Pilot",
+      "title": "Madam Secretary (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Mike_&_Molly_1x01_-_Pilot",
+      "title": "Mike & Molly",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Nashville_1x01_-_Pilot",
+      "title": "Nashville (2012 TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Party_of_Five_1x01_-_Pilot",
+      "title": "Party of Five",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2000",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Spin_City_1x01_-_Pilot",
+      "title": "Spin City",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2002",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Americans_1x01_-_Pilot",
+      "title": "The Americans",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Mindy_Project_1x01_-_Pilot",
+      "title": "The Mindy Project",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Resident_1x01_-_Pilot",
+      "title": "The Resident (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Two_Broke_Girls_1x01_-_Pilot",
+      "title": "2 Broke Girls",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "White_Collar_1x01_-_Pilot",
+      "title": "White Collar (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "community-101-pilot-2009",
+      "title": "Community (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "the-expanse-101-pilot-2015",
+      "title": "The Expanse (TV series)",
+      "label": "loser",
+      "seasons": 6,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 6 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "84622-Friday-Night-Lights-1x01-Pilot",
+      "title": "Friday Night Lights (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2008",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "A_Million_Little_Things_1x01_-_Pilot",
+      "title": "A Million Little Things",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "American_Housewife_1x01_-_Pilot",
+      "title": "American Housewife",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Awkward_1x01_-_Pilot",
+      "title": "Awkward (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "BallersPilot_ddaf011e_ballers-101-pilot-2015",
+      "title": "Ballers",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Bates_Motel_1x01_Pilot",
+      "title": "Bates Motel (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Blindspot_1x01_-_Pilot",
+      "title": "Blindspot (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Bob_Hearts_Abishola_1x01_-_Pilot",
+      "title": "Bob Hearts Abishola",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Charlie's_Angels_1x01_-_Pilot",
+      "title": "Charlie's Angels",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_1981",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "ChuckPilot_dd50ed61_chuck-101-pilot-2007",
+      "title": "Chuck (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2012",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Covert_Affairs_1x01_-_Pilot",
+      "title": "Covert Affairs",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "cancelled",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Days_Of_Molly_Dodd_1x01_-_Pilot",
+      "title": "The Days and Nights of Molly Dodd",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_1988",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Empire_1x01_-_Pilot",
+      "title": "Boardwalk Empire",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "FargoThe_Crocodiles_Dilemma_29e0fe2e_fargo-101-the-crocodiles-dilemma-2014",
+      "title": "Fargo (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2024",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Fringe_1x01_-_Pilot",
+      "title": "Fringe (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Girlfriends_Guide_To_Divorce_1x01_-_Pilot",
+      "title": "Girlfriends' Guide to Divorce",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Grace_Under_Fire_1x01_-_Pilot",
+      "title": "Grace Under Fire",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_1998",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Greenleaf_1x01_-_Pilot",
+      "title": "Greenleaf (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Haven_1x01_-_Pilot",
+      "title": "Haven (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Hell_on_Wheels_1x01_-_Pilot",
+      "title": "Hell on Wheels (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Jane_the_Virgin_1x01_-_Pilot",
+      "title": "Jane the Virgin",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Leverage_1x01_-_Pilot",
+      "title": "Leverage (American TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2012",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Person_of_Interest_1x01_-_Pilot",
+      "title": "Person of Interest (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Queen_Of_The_South_1x01_-_Pilot",
+      "title": "Queen of the South (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Sea_Change_1x01_-_Pilot",
+      "title": "The Sea Beyond (Italian TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Search_Party_1x01_-_Pilot",
+      "title": "Search Party (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Secret_Life_of_the_American_Teenager_1x01_-_Pilot",
+      "title": "The Secret Life of the American Teenager",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Switched_At_Birth_1x01_-_Pilot",
+      "title": "Switched at Birth (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Affair_1x01_-_Pilot",
+      "title": "The Affair (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Bold_Type_1x01_-_Pilot",
+      "title": "The Bold Type",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Fosters_1x01_-_Pilot",
+      "title": "The Fosters (American TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Last_Ship_1x01_-_Pilot",
+      "title": "The Last Ship (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Lost_Girls_1x01_-_Pilot",
+      "title": "Lost Girl",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "low"
+    },
+    {
+      "show_id": "The_Odd_Couple_1x01_-_Pilot",
+      "title": "The Odd Couple (1970 TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_1975",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Twilight_ZoneWhere_is_Everybody_352ce3cc_the-twilight-zone-101-where-is-everybody-1959",
+      "title": "The Twilight Zone (1959 TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_1964",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "low"
+    },
+    {
+      "show_id": "Titans_1x01_-_Pilot",
+      "title": "Teen Titans (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2006",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Transparent_1x01_-_Pilot",
+      "title": "Transparent (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Warehouse_13_1x01_-_Pilot",
+      "title": "Warehouse 13",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Young_and_Hungry_1x01_-_Pilot",
+      "title": "Young & Hungry",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Youre_the_Worst_1x01_-_Pilot",
+      "title": "You're the Worst",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "arrested-development-101-pilot-2003",
+      "title": "Arrested Development",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2006",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "iZombie_1x01_-_Pilot",
+      "title": "IZombie (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "insecure-101-insecure-as-fuck-2016",
+      "title": "Insecure (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "low"
+    },
+    {
+      "show_id": "six-feet-under-101-pilot-2001",
+      "title": "Six Feet Under (TV series)",
+      "label": "loser",
+      "seasons": 5,
+      "cancellation_status": "ended_2005",
+      "issue": "labeled loser but ran 5 seasons",
+      "confidence": "high"
+    },
+    {
+      "show_id": "12_Monkeys_1x01_-_Pilot",
+      "title": "12 Monkeys (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "13_Reasons_Why_1x01_-_Pilot",
+      "title": "13 Reasons Why",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "AMC - The Killing 1x01",
+      "title": "The Killing (American TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "AP_Bio_1x01_-_Pilot",
+      "title": "A.P. Bio",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Angie_Tribeca_1x01_-_Pilot",
+      "title": "Angie Tribeca",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "AtlantaThe_Big_Bang_dca23ca5_atlanta-101-the-big-bang-2016",
+      "title": "Atlanta (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Atypical_1x01_-_Pilot",
+      "title": "Atypical",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Banshee_1x01_-_Pilot",
+      "title": "Banshee (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Beauty_and_the_Beast_1x01_-_Pilot",
+      "title": "Beauty & the Beast (2012 TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Being_Mary_Jane_1x01_-_Pilot",
+      "title": "Being Mary Jane",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Black_Lightning_1x01_-_Pilot",
+      "title": "Black Lightning (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Black_Sails_1x01_-_Pilot",
+      "title": "Black Sails (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Brockmire_1x01_-_Pilot",
+      "title": "Brockmire",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Chase_1x01_-_Pilot",
+      "title": "The Paper Chase (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_1979",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Claws_1x01_-_Pilot",
+      "title": "Claws (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Crazy_Ex-Girlfriend_1x01_-_Pilot",
+      "title": "Crazy Ex-Girlfriend",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "low"
+    },
+    {
+      "show_id": "Devious_Maids_1x01_-_Pilot",
+      "title": "Devious Maids",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Doom_Patrol_1x01_-_Pilot",
+      "title": "Doom Patrol (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Eastbound_DownChapter_1_c8048a89_eastbound-and-down-101-chapter-1-2009",
+      "title": "Eastbound & Down",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Evening_Shade_1x01_-_Pilot",
+      "title": "Evening Shade",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_1994",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Everybody_Hates_Chris_1x01_-_Pilot",
+      "title": "Everybody Hates Chris",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2006",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Evil_1x01_-_Pilot",
+      "title": "Evil (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Godfather_Of_Harlem_1x01_-_By_Whatever_Means_Necessary",
+      "title": "Godfather of Harlem",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "low"
+    },
+    {
+      "show_id": "Goliath_1x01_-_Pilot",
+      "title": "Goliath (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Greek_1x01_-_Pilot",
+      "title": "Greek (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2011",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Hart_Of_Dixie_1x01_-_Pilot",
+      "title": "Hart of Dixie",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Jack_Ryan_1x01_-_Pilot",
+      "title": "Jack Ryan (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Knight_Rider_-_Pilot_(2008)",
+      "title": "Knight Rider (1982 TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_1986",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Last_Man_on_Earth_1x01_-_Pilot_(As_Broadcast)",
+      "title": "The Last Man on Earth (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Man_With_A_Plan_1x01_-_Pilot",
+      "title": "Man with a Plan (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Manifest_1x01_-_Pilot",
+      "title": "Manifest (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Melissa_and_Joey_1x01_-_Pilot",
+      "title": "Melissa & Joey",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Miracle_Workers_1x01_-_Pilot",
+      "title": "Miracle Workers (2019 TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Motive_1x01_-_Pilot",
+      "title": "Motive (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Mozart_in_the_Jungle_1x01_-_Pilot",
+      "title": "Mozart in the Jungle",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Mr_Robot_1x01_-_Pilot",
+      "title": "Mr. Robot",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Naked_Hotel_1x01_-_Pilot",
+      "title": "Naked City (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_1963",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Nikita_1x01_-_Pilot",
+      "title": "Nikita (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "No_Activity_1x01_-_Pilot",
+      "title": "No Activity (American TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "On_My_Block_1x01_-_Pilot",
+      "title": "On My Block",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Preacher_1x01_-_Pilot",
+      "title": "Preacher (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Rectify_1x01_-_Pilot_1x01",
+      "title": "Rectify",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Reign_1x01_-_Pilot",
+      "title": "Reign (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Rogue_1x01_-_Pilot",
+      "title": "Rogue (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Roswell_New_Mexico_1x01_-_Pilot",
+      "title": "Roswell, New Mexico (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Scorpion_1x01_-_Pilot",
+      "title": "Scorpion (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Servant_1x01_-_Reborn",
+      "title": "Servant (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Street_Lawyer_1x01_-_Pilot",
+      "title": "The Lincoln Lawyer (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Survivors_Remorse_1x01_-_Pilot",
+      "title": "Survivor's Remorse",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Bridge_1x01",
+      "title": "The Bridge (2011 TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_C_Word_1x01_-_Pilot",
+      "title": "The Big C (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Detour_1x01_-_Pilot",
+      "title": "The Detour (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Exes_1x01_-_Pilot",
+      "title": "The Exes",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Glades_1x01_-_Pilot",
+      "title": "The Glades (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Interestings_1x01_-_Pilot",
+      "title": "The Witcher (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Last_O.G_1x01_-_Pilot",
+      "title": "The Last O.G.",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Night_Shift_1x01_-_Pilot",
+      "title": "The Night Shift (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_O.C_1x01_-_Pilot",
+      "title": "The O.C.",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2007",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Sinner_1x01_-_Pilot",
+      "title": "The Sinner (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Umbrella_Academy_1x01_-_We_Only_See_Each_Other_at_Weddings_and_Funerals",
+      "title": "The Umbrella Academy (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2024",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "low"
+    },
+    {
+      "show_id": "Unforgettable_1x01_-_Pilot",
+      "title": "Unforgettable (American TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "UploadWelcome_to_Upload_a18c2668_upload-101-welcome-to-upload-2020",
+      "title": "Upload (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "low"
+    },
+    {
+      "show_id": "Wilfred_1x01_-_Pilot",
+      "title": "Wilfred (American TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2013",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Wiseguy_1x01_-_Pilot",
+      "title": "Wiseguy (TV series)",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_1990",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "the-good-place-101-everything-is-great-2017",
+      "title": "The Good Place",
+      "label": "loser",
+      "seasons": 4,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 4 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Alexa_And_Katie_1x01_-_Pilot",
+      "title": "Alexa & Katie",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "All_Rise_1x01_-_Pilot",
+      "title": "All Rise (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Allegiance_1x01_-_Pilot",
+      "title": "Allegiance (Canadian TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "American_Crime_1x01_-_Pilot",
+      "title": "American Crime (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Another_Period_1x01_-_Pilot",
+      "title": "Another Period",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Ash_vs_Evil_Dead_1x01_-_Pilot",
+      "title": "Ash vs Evil Dead",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Bloodline_1x01_-_Pilot",
+      "title": "Bloodline (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "CBS-Code-Black-1x01-Pilot",
+      "title": "Code Black (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Code_Black_1x01_-_Pilot",
+      "title": "Code Black (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Colony_1x01_-_Pilot",
+      "title": "Colony (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Da_Vinci's_Demons_1x01_-_Pilot",
+      "title": "Da Vinci's Demons",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "DaveThe_Gander_8727861c_dave-101-the-gander-2020",
+      "title": "Dave (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Designated_Survivor_1x01_-_Pilot",
+      "title": "Designated Survivor (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Difficult_People_1x01_-_Pilot",
+      "title": "Difficult People",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "First_Wives_Club_1x01_-_Pilot",
+      "title": "First Wives Club (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Frontier_1x01_-_Pilot",
+      "title": "Frontier (2016 TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Glow_1x01_-_Pilot",
+      "title": "GLOW (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "HULU - The Path 1x01 (Pilot)",
+      "title": "The Path (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Hanna_1x01_-_Pilot",
+      "title": "Hanna (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Hannibal_1x01",
+      "title": "Hannibal (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Hap_&_Leonard_1x01_-_Pilot",
+      "title": "Hap and Leonard (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "House_Calls_1x01_-_Pilot",
+      "title": "House Calls (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_1982",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "In_The_Dark_1x01_-_Pilot",
+      "title": "Dark (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "low"
+    },
+    {
+      "show_id": "Inside_the_Box_1x01_-_Pilot",
+      "title": "Out of the Box (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2000",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Into_the_Badlands_1x01_-_Pilot",
+      "title": "Into the Badlands (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Invasion_1x01_-_Pilot",
+      "title": "Invasion (2021 TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Kung-Fu_1x01_-_Pilot",
+      "title": "Kung Fu (1972 TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Lethal_Weapon_1x01_-_Pilot",
+      "title": "Lethal Weapon (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Liza_On_Demand_1x01_-_Pilot",
+      "title": "Liza on Demand",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Love_1x01_-_Pilot",
+      "title": "Love (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Love_is__1x01_-_Pilot",
+      "title": "Love (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Man_Seeking_Woman_1x01_-_Pilot",
+      "title": "Man Seeking Woman",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "ManiacThe_Chosen_One_d345cb22_maniac-101-the-chosen-one-2018",
+      "title": "Maniac Mansion (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_1993",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Men_at_Work_1x01_-_Pilot",
+      "title": "Men at Work (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2014",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Missing_1x01_-_Pilot",
+      "title": "Missing (Canadian TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2006",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Mr._Mercedes_1x01_-_Pilot",
+      "title": "Mr. Mercedes (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Odyssey_1x01_-_Pilot",
+      "title": "The Odyssey (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_1994",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Orville_1x01_-_Pilot",
+      "title": "The Orville",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Pennyworth_1x01_-_Pilot",
+      "title": "Pennyworth (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Perception_1x01_-_Pilot",
+      "title": "Perception (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Playing_House_1x01_-_Pilot",
+      "title": "Playing House (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Quantico_1x01_-_Pilot",
+      "title": "Quantico (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Ramy_1x01_-_Pilot",
+      "title": "Ramy (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Ransom_1x01_-_Pilot",
+      "title": "Ransom (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Red_Oaks_1x01_-_Pilot",
+      "title": "Red Oaks",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Rise_1x01_-_Pilot",
+      "title": "All Rise (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Salem_1x01_-_Pilot",
+      "title": "Salem (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Santa_Clarita_Diet_1x01_-_Pilot",
+      "title": "Santa Clarita Diet",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Scream_1x01_-_Pilot",
+      "title": "Scream (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2016",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "SeePilot_944dc813_see-101-pilot-2019",
+      "title": "See (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2022",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Shades_Of_Blue_1x01_-_Pilot",
+      "title": "Shades of Blue (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Shadowhunters_1x01_-_Pilot",
+      "title": "Shadowhunters",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Shooter_1x01_-_Pilot",
+      "title": "Shooter (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Sneaky_Pete_1x01_-_Pilot",
+      "title": "Sneaky Pete",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Star_1x01_-_Pilot",
+      "title": "Star (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Stuck_In_The_Middle_1x01_-_Pilot",
+      "title": "Stuck in the Middle (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Code_1x01_-_Pilot",
+      "title": "Code Black (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Crossing_1x01_-_Pilot",
+      "title": "Sullivan's Crossing (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "renewed",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Family_1x01_-_Pilot",
+      "title": "Spy \u00d7 Family (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "The_Following_1x01_-_Pilot",
+      "title": "The Following",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Greatest_American_Hero_1x01_-_Pilot",
+      "title": "The Greatest American Hero",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_1983",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Other_Two_1x01_-_Pilot",
+      "title": "The Other Two",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "The_Station_1x01_-_Pilot",
+      "title": "Berlin Station (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2019",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Tick_1x01_-_Pilot",
+      "title": "The Tick (1994 TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_1996",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Turn_1x01_-_Pilot",
+      "title": "Turn of the Tide (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Under_The_Dome_1x01_-_Pilot",
+      "title": "Under the Dome (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2015",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "United_States_of_Tara,_The_1x01_-_Pilot",
+      "title": "United States of Tara",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2011",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Veronicas_Closet_1x01_-_Pilot",
+      "title": "Veronica's Closet",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2000",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "Vida_1x01_-_Pilot",
+      "title": "Vida (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Warrior_1x01_-_Pilot",
+      "title": "Warrior (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2020",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Wicked_City_1x01_-_Pilot",
+      "title": "Wicked City (2022 TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": null,
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Wrecked_1x01_-_Pilot",
+      "title": "Wrecked (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2018",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "YellowjacketsPilot_694b1703_yellowjackets-101-pilot-2021",
+      "title": "Yellowjackets (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2023",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "Zero_Hour_1x01_-_Pilot",
+      "title": "Zero Hour (2004 TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2006",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "master-of-none-101-plan-b-2015",
+      "title": "Master of None",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2021",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "the-leftovers-101-pilot-2014",
+      "title": "The Leftovers (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2017",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "high"
+    },
+    {
+      "show_id": "time-s1-ep1-final",
+      "title": "The Wheel of Time (TV series)",
+      "label": "loser",
+      "seasons": 3,
+      "cancellation_status": "ended_2025",
+      "issue": "labeled loser but ran 3 seasons without cancellation",
+      "confidence": "medium"
+    },
+    {
+      "show_id": "LA_Law_1x01_-_Pilot",
+      "title": "Law & Order: LA",
+      "label": "winner",
+      "seasons": 1,
+      "cancellation_status": "cancelled",
+      "issue": "labeled winner but cancelled after 1 season",
+      "confidence": "high"
+    }
+  ]
+}

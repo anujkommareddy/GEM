@@ -1,0 +1,532 @@
+{
+  "unknown": {
+    "label": "unknown",
+    "dims": [
+      "audience_appeal_marketability",
+      "conceptual_hook_clarity",
+      "character_appeal_and_long_term_potential",
+      "creative_originality_and_boldness",
+      "narrative_momentum_engagement",
+      "resonant_originality",
+      "world_density_and_texture",
+      "tonal_specificity",
+      "latent_depth_slow_burn_potential",
+      "relationship_density_and_ensemble_engine"
+    ],
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 0.8318010682076876,
+      "character_appeal_and_long_term_potential": 0.1,
+      "creative_originality_and_boldness": 0.05,
+      "narrative_momentum_engagement": 0.8037825059101655,
+      "resonant_originality": 0.75,
+      "world_density_and_texture": 1.0,
+      "tonal_specificity": 1.2196830400140093,
+      "latent_depth_slow_burn_potential": 2.5,
+      "relationship_density_and_ensemble_engine": 0.1
+    },
+    "tune_accuracy": 99.49,
+    "holdout_accuracy": 100.0,
+    "holdout_enrichment": 20.0,
+    "improvements": 8,
+    "v2_baseline_pct": 84.01,
+    "vs_baseline": 15.99,
+    "gap_analysis": {
+      "creative_originality_and_boldness": {
+        "winner_avg": 7.964,
+        "loser_avg": 6.255,
+        "gap": 1.709,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "tonal_specificity": {
+        "winner_avg": 8.179,
+        "loser_avg": 6.786,
+        "gap": 1.393,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "resonant_originality": {
+        "winner_avg": 8.086,
+        "loser_avg": 6.72,
+        "gap": 1.366,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "character_appeal_and_long_term_potential": {
+        "winner_avg": 8.629,
+        "loser_avg": 7.317,
+        "gap": 1.311,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "latent_depth_slow_burn_potential": {
+        "winner_avg": 8.436,
+        "loser_avg": 7.376,
+        "gap": 1.059,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "world_density_and_texture": {
+        "winner_avg": 8.107,
+        "loser_avg": 7.142,
+        "gap": 0.965,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "conceptual_hook_clarity": {
+        "winner_avg": 8.736,
+        "loser_avg": 7.786,
+        "gap": 0.95,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "narrative_momentum_engagement": {
+        "winner_avg": 8.293,
+        "loser_avg": 7.375,
+        "gap": 0.918,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "audience_appeal_marketability": {
+        "winner_avg": 8.014,
+        "loser_avg": 7.133,
+        "gap": 0.881,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "relationship_density_and_ensemble_engine": {
+        "winner_avg": 8.043,
+        "loser_avg": 7.174,
+        "gap": 0.869,
+        "winner_n": 140,
+        "loser_n": 760
+      }
+    },
+    "optimized_at": "2026-03-19T07:53:14.805141+00:00"
+  },
+  "dramedy": {
+    "label": "dramedy",
+    "dims": [
+      "audience_appeal_marketability",
+      "conceptual_hook_clarity",
+      "character_appeal_and_long_term_potential",
+      "creative_originality_and_boldness",
+      "narrative_momentum_engagement",
+      "resonant_originality",
+      "world_density_and_texture",
+      "tonal_specificity",
+      "latent_depth_slow_burn_potential",
+      "relationship_density_and_ensemble_engine"
+    ],
+    "weights": {
+      "audience_appeal_marketability": 0.7713860432536556,
+      "conceptual_hook_clarity": 0.8318010682076876,
+      "character_appeal_and_long_term_potential": 1.147885474126609,
+      "creative_originality_and_boldness": 1.4963663427020402,
+      "narrative_momentum_engagement": 0.8037825059101655,
+      "resonant_originality": 1.1960423780754752,
+      "world_density_and_texture": 0.844934769284651,
+      "tonal_specificity": 1.2196830400140093,
+      "latent_depth_slow_burn_potential": 0.9272392960336223,
+      "relationship_density_and_ensemble_engine": 0.7608790823920848
+    },
+    "tune_accuracy": 100.0,
+    "holdout_accuracy": 100.0,
+    "holdout_enrichment": 50.0,
+    "improvements": 0,
+    "v2_baseline_pct": 84.01,
+    "vs_baseline": 15.99,
+    "gap_analysis": {
+      "creative_originality_and_boldness": {
+        "winner_avg": 7.964,
+        "loser_avg": 6.255,
+        "gap": 1.709,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "tonal_specificity": {
+        "winner_avg": 8.179,
+        "loser_avg": 6.786,
+        "gap": 1.393,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "resonant_originality": {
+        "winner_avg": 8.086,
+        "loser_avg": 6.72,
+        "gap": 1.366,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "character_appeal_and_long_term_potential": {
+        "winner_avg": 8.629,
+        "loser_avg": 7.317,
+        "gap": 1.311,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "latent_depth_slow_burn_potential": {
+        "winner_avg": 8.436,
+        "loser_avg": 7.376,
+        "gap": 1.059,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "world_density_and_texture": {
+        "winner_avg": 8.107,
+        "loser_avg": 7.142,
+        "gap": 0.965,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "conceptual_hook_clarity": {
+        "winner_avg": 8.736,
+        "loser_avg": 7.786,
+        "gap": 0.95,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "narrative_momentum_engagement": {
+        "winner_avg": 8.293,
+        "loser_avg": 7.375,
+        "gap": 0.918,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "audience_appeal_marketability": {
+        "winner_avg": 8.014,
+        "loser_avg": 7.133,
+        "gap": 0.881,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "relationship_density_and_ensemble_engine": {
+        "winner_avg": 8.043,
+        "loser_avg": 7.174,
+        "gap": 0.869,
+        "winner_n": 140,
+        "loser_n": 760
+      }
+    },
+    "optimized_at": "2026-03-19T07:53:14.851650+00:00"
+  },
+  "sitcom": {
+    "label": "sitcom",
+    "dims": [
+      "audience_appeal_marketability",
+      "conceptual_hook_clarity",
+      "character_appeal_and_long_term_potential",
+      "creative_originality_and_boldness",
+      "narrative_momentum_engagement",
+      "resonant_originality",
+      "world_density_and_texture",
+      "tonal_specificity",
+      "latent_depth_slow_burn_potential",
+      "relationship_density_and_ensemble_engine"
+    ],
+    "weights": {
+      "audience_appeal_marketability": 2.5,
+      "conceptual_hook_clarity": 0.05,
+      "character_appeal_and_long_term_potential": 0.1,
+      "creative_originality_and_boldness": 0.05,
+      "narrative_momentum_engagement": 0.05,
+      "resonant_originality": 0.5,
+      "world_density_and_texture": 0.1,
+      "tonal_specificity": 3.0,
+      "latent_depth_slow_burn_potential": 0.5,
+      "relationship_density_and_ensemble_engine": 3.0
+    },
+    "tune_accuracy": 97.23,
+    "holdout_accuracy": 100.0,
+    "holdout_enrichment": 100.0,
+    "improvements": 18,
+    "v2_baseline_pct": 84.01,
+    "vs_baseline": 15.99,
+    "gap_analysis": {
+      "creative_originality_and_boldness": {
+        "winner_avg": 7.964,
+        "loser_avg": 6.255,
+        "gap": 1.709,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "tonal_specificity": {
+        "winner_avg": 8.179,
+        "loser_avg": 6.786,
+        "gap": 1.393,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "resonant_originality": {
+        "winner_avg": 8.086,
+        "loser_avg": 6.72,
+        "gap": 1.366,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "character_appeal_and_long_term_potential": {
+        "winner_avg": 8.629,
+        "loser_avg": 7.317,
+        "gap": 1.311,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "latent_depth_slow_burn_potential": {
+        "winner_avg": 8.436,
+        "loser_avg": 7.376,
+        "gap": 1.059,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "world_density_and_texture": {
+        "winner_avg": 8.107,
+        "loser_avg": 7.142,
+        "gap": 0.965,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "conceptual_hook_clarity": {
+        "winner_avg": 8.736,
+        "loser_avg": 7.786,
+        "gap": 0.95,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "narrative_momentum_engagement": {
+        "winner_avg": 8.293,
+        "loser_avg": 7.375,
+        "gap": 0.918,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "audience_appeal_marketability": {
+        "winner_avg": 8.014,
+        "loser_avg": 7.133,
+        "gap": 0.881,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "relationship_density_and_ensemble_engine": {
+        "winner_avg": 8.043,
+        "loser_avg": 7.174,
+        "gap": 0.869,
+        "winner_n": 140,
+        "loser_n": 760
+      }
+    },
+    "optimized_at": "2026-03-19T07:53:14.925151+00:00"
+  },
+  "drama": {
+    "label": "drama",
+    "dims": [
+      "audience_appeal_marketability",
+      "conceptual_hook_clarity",
+      "character_appeal_and_long_term_potential",
+      "creative_originality_and_boldness",
+      "narrative_momentum_engagement",
+      "resonant_originality",
+      "world_density_and_texture",
+      "tonal_specificity",
+      "latent_depth_slow_burn_potential",
+      "relationship_density_and_ensemble_engine"
+    ],
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 0.8318010682076876,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 0.25,
+      "narrative_momentum_engagement": 2.0,
+      "resonant_originality": 1.1960423780754752,
+      "world_density_and_texture": 2.0,
+      "tonal_specificity": 1.5,
+      "latent_depth_slow_burn_potential": 0.1,
+      "relationship_density_and_ensemble_engine": 0.7608790823920848
+    },
+    "tune_accuracy": 97.41,
+    "holdout_accuracy": 96.61,
+    "holdout_enrichment": 61.5,
+    "improvements": 7,
+    "v2_baseline_pct": 84.01,
+    "vs_baseline": 12.6,
+    "gap_analysis": {
+      "creative_originality_and_boldness": {
+        "winner_avg": 7.964,
+        "loser_avg": 6.255,
+        "gap": 1.709,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "tonal_specificity": {
+        "winner_avg": 8.179,
+        "loser_avg": 6.786,
+        "gap": 1.393,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "resonant_originality": {
+        "winner_avg": 8.086,
+        "loser_avg": 6.72,
+        "gap": 1.366,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "character_appeal_and_long_term_potential": {
+        "winner_avg": 8.629,
+        "loser_avg": 7.317,
+        "gap": 1.311,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "latent_depth_slow_burn_potential": {
+        "winner_avg": 8.436,
+        "loser_avg": 7.376,
+        "gap": 1.059,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "world_density_and_texture": {
+        "winner_avg": 8.107,
+        "loser_avg": 7.142,
+        "gap": 0.965,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "conceptual_hook_clarity": {
+        "winner_avg": 8.736,
+        "loser_avg": 7.786,
+        "gap": 0.95,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "narrative_momentum_engagement": {
+        "winner_avg": 8.293,
+        "loser_avg": 7.375,
+        "gap": 0.918,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "audience_appeal_marketability": {
+        "winner_avg": 8.014,
+        "loser_avg": 7.133,
+        "gap": 0.881,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "relationship_density_and_ensemble_engine": {
+        "winner_avg": 8.043,
+        "loser_avg": 7.174,
+        "gap": 0.869,
+        "winner_n": 140,
+        "loser_n": 760
+      }
+    },
+    "optimized_at": "2026-03-19T07:53:15.082329+00:00"
+  },
+  "comedy": {
+    "label": "comedy",
+    "dims": [
+      "audience_appeal_marketability",
+      "conceptual_hook_clarity",
+      "character_appeal_and_long_term_potential",
+      "creative_originality_and_boldness",
+      "narrative_momentum_engagement",
+      "resonant_originality",
+      "world_density_and_texture",
+      "tonal_specificity",
+      "latent_depth_slow_burn_potential",
+      "relationship_density_and_ensemble_engine"
+    ],
+    "weights": {
+      "audience_appeal_marketability": 0.1,
+      "conceptual_hook_clarity": 2.5,
+      "character_appeal_and_long_term_potential": 1.5,
+      "creative_originality_and_boldness": 0.25,
+      "narrative_momentum_engagement": 0.5,
+      "resonant_originality": 1.0,
+      "world_density_and_texture": 1.5,
+      "tonal_specificity": 0.25,
+      "latent_depth_slow_burn_potential": 0.1,
+      "relationship_density_and_ensemble_engine": 3.0
+    },
+    "tune_accuracy": 97.96,
+    "holdout_accuracy": 100.0,
+    "holdout_enrichment": 50.0,
+    "improvements": 10,
+    "v2_baseline_pct": 84.01,
+    "vs_baseline": 15.99,
+    "gap_analysis": {
+      "creative_originality_and_boldness": {
+        "winner_avg": 7.964,
+        "loser_avg": 6.255,
+        "gap": 1.709,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "tonal_specificity": {
+        "winner_avg": 8.179,
+        "loser_avg": 6.786,
+        "gap": 1.393,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "resonant_originality": {
+        "winner_avg": 8.086,
+        "loser_avg": 6.72,
+        "gap": 1.366,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "character_appeal_and_long_term_potential": {
+        "winner_avg": 8.629,
+        "loser_avg": 7.317,
+        "gap": 1.311,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "latent_depth_slow_burn_potential": {
+        "winner_avg": 8.436,
+        "loser_avg": 7.376,
+        "gap": 1.059,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "world_density_and_texture": {
+        "winner_avg": 8.107,
+        "loser_avg": 7.142,
+        "gap": 0.965,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "conceptual_hook_clarity": {
+        "winner_avg": 8.736,
+        "loser_avg": 7.786,
+        "gap": 0.95,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "narrative_momentum_engagement": {
+        "winner_avg": 8.293,
+        "loser_avg": 7.375,
+        "gap": 0.918,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "audience_appeal_marketability": {
+        "winner_avg": 8.014,
+        "loser_avg": 7.133,
+        "gap": 0.881,
+        "winner_n": 140,
+        "loser_n": 760
+      },
+      "relationship_density_and_ensemble_engine": {
+        "winner_avg": 8.043,
+        "loser_avg": 7.174,
+        "gap": 0.869,
+        "winner_n": 140,
+        "loser_n": 760
+      }
+    },
+    "optimized_at": "2026-03-19T07:53:15.100405+00:00"
+  }
+}

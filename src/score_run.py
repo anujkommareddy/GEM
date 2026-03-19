@@ -5,12 +5,20 @@ Runs a full LLM scoring pass and stores results in a versioned directory.
 NEVER modifies previous scoring runs.
 
 Usage:
-    python3 src/score_run.py --run v3_expanded                  # Full run
-    python3 src/score_run.py --run v3_expanded --dry-run        # Preview cost, no LLM calls
-    python3 src/score_run.py --run v3_expanded --limit 10       # Score first 10 (test)
-    python3 src/score_run.py --run v3_expanded --resume         # Resume interrupted run
-    python3 src/score_run.py --run v3_expanded --analyze-only   # Just run analysis (no scoring)
-    python3 src/score_run.py list-runs                          # Show all scoring versions
+    python3 src/score_run.py --run v3_expanded                           # Full run (all 10 dims)
+    python3 src/score_run.py --run v3_expanded --dry-run                 # Preview cost, no LLM calls
+    python3 src/score_run.py --run v3_expanded --limit 10                # Score first 10 (test)
+    python3 src/score_run.py --run v3_expanded --resume                  # Resume interrupted run
+    python3 src/score_run.py --run v3_expanded --analyze-only            # Just run analysis (no scoring)
+    python3 src/score_run.py --run v3_expanded --new-dims-only           # Score only 5 new dims, merge v2 base scores
+    python3 src/score_run.py --run v3_expanded --new-dims-only --dry-run # Preview new-dims-only run
+    python3 src/score_run.py list-runs                                   # Show all scoring versions
+
+--new-dims-only mode:
+    Scores ONLY the 5 new dimensions via LLM (cheaper). For shows with existing v2 scores,
+    merges those v2 base-dimension scores into the v3 record. For shows without v2 scores,
+    falls back to scoring all 10 dimensions. Use this when you already have v2 base scores
+    and only want to add the new dimensions.
 
 The run config is loaded from config/scoring_runs/{run_id}.json.
 Output goes to data/scoring/{run_id}/per_script/{show_id}.json
@@ -146,6 +154,73 @@ def load_new_dimensions(config: dict) -> List[dict]:
     dims = json.loads(dim_file.read_text())
     # Filter placeholder
     return [d for d in dims if d.get("name") != "example_dimension"]
+
+
+V2_RESULTS_DIR = BASE_DIR / "data/results/live/per_script"
+
+def load_v2_scores(show_id: str) -> Optional[dict]:
+    """
+    Load existing v2 base-dimension scores for a show.
+    Returns dict of {dim_name: {score, reasoning}} or None if not available.
+    """
+    path = V2_RESULTS_DIR / f"{show_id}.json"
+    if not path.exists():
+        return None
+    try:
+        d = json.loads(path.read_text())
+        if d.get("status") != "success":
+            return None
+        scoring = d.get("scoring", {})
+        if not scoring:
+            return None
+        # Normalize to {score, reasoning} format
+        normalized = {}
+        for dim, val in scoring.items():
+            if isinstance(val, dict):
+                normalized[dim] = {"score": float(val.get("score", 0)),
+                                   "reasoning": val.get("reasoning", "")}
+            elif isinstance(val, (int, float)):
+                normalized[dim] = {"score": float(val), "reasoning": ""}
+        return normalized if normalized else None
+    except Exception:
+        return None
+
+
+def build_new_dims_only_prompt(new_dimensions: List[dict]) -> str:
+    """
+    Build a prompt that scores ONLY the new dimensions (not the 5 base ones).
+    Used in --new-dims-only mode to save cost when v2 base scores already exist.
+    """
+    lines = [
+        "You are evaluating a TV pilot script for the GEM Transcendence Detector.",
+        "",
+        "Score ONLY the following dimensions. Return 1-10 with one-sentence reasoning.",
+        "",
+        "**Core principle:** Transcendent shows work across ALL genres. Not defined by",
+        "literary prestige but by ability to capture culture, sustain viewership,",
+        "generate conversation, and endure.",
+        "",
+        "---",
+        "",
+    ]
+
+    for i, dim in enumerate(new_dimensions, 1):
+        lines.append(f"### {i}. {dim['display_name']} (1-10)")
+        lines.append(f"**What it measures:** {dim['what_it_measures']}\n")
+        lines.append("**Strong signals (7-10):**")
+        for s in dim.get("strong_signals", []):
+            lines.append(f"- {s}")
+        lines.append("\n**Weak signals (1-6):**")
+        for s in dim.get("weak_signals", []):
+            lines.append(f"- {s}")
+        anchors = dim.get("anchors", {})
+        if anchors:
+            lines.append("\n**Scoring anchors:**")
+            for rng, ex in anchors.items():
+                lines.append(f"- {rng}: {ex}")
+        lines.append("")
+
+    return "\n".join(lines)
 
 
 def build_full_prompt(config: dict, new_dimensions: List[dict]) -> str:
@@ -418,13 +493,23 @@ def run_analysis(run_id: str, all_dimensions: List[str], new_dim_names: List[str
 # ─── Main Run ──────────────────────────────────────────────────
 
 def run_scoring(run_id: str, dry_run: bool = False, limit: int = None,
-                resume: bool = True, analyze_only: bool = False):
+                resume: bool = True, analyze_only: bool = False,
+                new_dims_only: bool = False, full_dims_list: str = None):
     config = load_run_config(run_id)
 
     # Init directories
     run_dir = get_run_dir(run_id)
     per_script_dir = run_dir / "per_script"
     per_script_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load full-dims override list (shows that must be scored with all 10 dims)
+    force_full_dims_set: set = set()
+    if full_dims_list:
+        try:
+            force_full_dims_set = set(Path(full_dims_list).read_text().strip().split("\n"))
+            logger.info(f"Force-full-dims list loaded: {len(force_full_dims_set)} shows")
+        except Exception as e:
+            logger.warning(f"Could not load full-dims-list: {e}")
 
     # Load dimensions
     new_dims = load_new_dimensions(config) if config.get("score_new_dims", True) else []
@@ -440,8 +525,17 @@ def run_scoring(run_id: str, dry_run: bool = False, limit: int = None,
         run_analysis(run_id, all_dims, new_dim_names)
         return
 
-    # Build prompt
-    scoring_prompt = build_full_prompt(config, new_dims)
+    # In new-dims-only mode, LLM only scores the 5 new dims; base scores come from v2
+    if new_dims_only:
+        if not new_dims:
+            print("ERROR: --new-dims-only requires new dimensions in config.")
+            sys.exit(1)
+        llm_dims = new_dim_names        # LLM scores only these
+        scoring_prompt = build_new_dims_only_prompt(new_dims)
+    else:
+        llm_dims = all_dims             # LLM scores all 10
+        # Build prompt
+        scoring_prompt = build_full_prompt(config, new_dims)
 
     # Load labels
     labels = load_labels_v2()
@@ -454,28 +548,47 @@ def run_scoring(run_id: str, dry_run: bool = False, limit: int = None,
         if d.is_dir():
             corpus_ids.add(d.name)
 
+    already_scored_count = 0
+    no_evidence_count = 0
     to_score = []
     for show_id in sorted(corpus_ids):
         if resume and already_scored(run_dir, show_id):
+            already_scored_count += 1
             continue
         ev_type, _ = get_evidence(show_id)
         if ev_type is None:
+            no_evidence_count += 1
             continue
         to_score.append(show_id)
 
     if limit:
         to_score = to_score[:limit]
 
-    already_done = len(corpus_ids) - len(to_score)
-    est_cost = len(to_score) * COST_PER_SCRIPT
+    # In new-dims-only mode, count how many have v2 scores to merge vs need full scoring
+    if new_dims_only:
+        has_v2   = [s for s in to_score if load_v2_scores(s) is not None]
+        needs_10 = [s for s in to_score if load_v2_scores(s) is None]
+        cost_new_only = len(has_v2)  * (COST_PER_SCRIPT * 0.5)   # ~half cost for 5 dims
+        cost_full_10  = len(needs_10) * COST_PER_SCRIPT
+        est_cost = cost_new_only + cost_full_10
+    else:
+        has_v2   = []
+        needs_10 = to_score
+        est_cost = len(to_score) * COST_PER_SCRIPT
 
     print(f"\n{'='*70}")
     print(f"SCORE RUN: {run_id}")
     print(f"{'='*70}")
-    print(f"Dimensions:        {len(all_dims)} ({len(new_dim_names)} new)")
+    if new_dims_only:
+        print(f"Mode:              NEW DIMS ONLY (5 new dims via LLM + merge v2 base scores)")
+        print(f"  With v2 scores:  {len(has_v2)} shows  → LLM scores 5 new dims, merge v2 base")
+        print(f"  No v2 scores:    {len(needs_10)} shows  → LLM scores all 10 dims")
+    else:
+        print(f"Dimensions:        {len(all_dims)} ({len(new_dim_names)} new)")
     print(f"New dims:          {new_dim_names or 'none'}")
     print(f"Shows to score:    {len(to_score)}")
-    print(f"Already done:      {already_done} (skipped)")
+    print(f"Already scored:    {already_scored_count} (resume skip)")
+    print(f"No evidence:       {no_evidence_count} (empty/corrupt files, skipped)")
     print(f"Estimated cost:    ~${est_cost:.2f}")
     print(f"Output dir:        {per_script_dir}")
     print(f"{'='*70}\n")
@@ -514,7 +627,26 @@ def run_scoring(run_id: str, dry_run: bool = False, limit: int = None,
         label = labels.get(show_id)
 
         try:
-            scores = score_one(client, show_id, text, scoring_prompt, all_dims)
+            force_full = show_id in force_full_dims_set
+            if new_dims_only and not force_full:
+                v2_scores = load_v2_scores(show_id)
+                if v2_scores is not None:
+                    # Score only the 5 new dims; merge with v2 base scores
+                    new_scores = score_one(client, show_id, text, scoring_prompt, llm_dims)
+                    merged_scores = {**v2_scores, **new_scores}  # v2 base + new 5
+                    scoring_mode = "new_dims_merged_with_v2"
+                else:
+                    # No v2 scores available — fall back to full 10-dim scoring
+                    logger.info(f"  [fallback] No v2 scores for {show_id}, scoring all 10 dims")
+                    full_prompt = build_full_prompt(config, new_dims)
+                    merged_scores = score_one(client, show_id, text, full_prompt, all_dims)
+                    scoring_mode = "full_10_dims_fallback"
+            else:
+                if force_full:
+                    logger.info(f"  [force-full-dims] {show_id}")
+                full_prompt = build_full_prompt(config, new_dims)
+                merged_scores = score_one(client, show_id, text, full_prompt, all_dims)
+                scoring_mode = "full_10_dims"
 
             result = {
                 "show_id":       show_id,
@@ -524,7 +656,8 @@ def run_scoring(run_id: str, dry_run: bool = False, limit: int = None,
                 "label":         label,
                 "evidence_type": ev_type,
                 "scored_at":     datetime.utcnow().isoformat(),
-                "scoring":       scores,
+                "scoring":       merged_scores,
+                "scoring_mode":  scoring_mode,
                 "status":        "success",
             }
             succeeded += 1
@@ -595,20 +728,27 @@ def main():
     sub = parser.add_subparsers(dest="command")
 
     p_run = sub.add_parser("run", help="Run scoring (default command)")
-    p_run.add_argument("--run",          required=True, help="Run ID (matches config/scoring_runs/*.json)")
-    p_run.add_argument("--dry-run",      action="store_true")
-    p_run.add_argument("--limit",        type=int, help="Score only first N shows")
-    p_run.add_argument("--no-resume",    action="store_true", help="Re-score even already-scored shows")
-    p_run.add_argument("--analyze-only", action="store_true", help="Skip scoring, run analysis only")
+    p_run.add_argument("--run",            required=True, help="Run ID (matches config/scoring_runs/*.json)")
+    p_run.add_argument("--dry-run",        action="store_true")
+    p_run.add_argument("--limit",          type=int, help="Score only first N shows")
+    p_run.add_argument("--no-resume",      action="store_true", help="Re-score even already-scored shows")
+    p_run.add_argument("--analyze-only",   action="store_true", help="Skip scoring, run analysis only")
+    p_run.add_argument("--full-dims-list", type=str, default=None,
+                           help="Path to file with show IDs (one per line) that must be scored with all 10 dims, even in --new-dims-only mode")
+    p_run.add_argument("--new-dims-only",  action="store_true",
+                       help="Score only the 5 new dims via LLM; merge v2 base scores for shows that have them")
 
     sub.add_parser("list-runs", help="Show all scoring versions")
 
     # Also support direct --run flag at top level for convenience
-    parser.add_argument("--run",          help="Run ID")
-    parser.add_argument("--dry-run",      action="store_true")
-    parser.add_argument("--limit",        type=int)
-    parser.add_argument("--no-resume",    action="store_true")
-    parser.add_argument("--analyze-only", action="store_true")
+    parser.add_argument("--run",           help="Run ID")
+    parser.add_argument("--dry-run",        action="store_true")
+    parser.add_argument("--limit",          type=int)
+    parser.add_argument("--no-resume",      action="store_true")
+    parser.add_argument("--analyze-only",   action="store_true")
+    parser.add_argument("--new-dims-only",  action="store_true")
+    parser.add_argument("--full-dims-list", type=str, default=None,
+                        help="Path to file with show IDs that must be scored with all 10 dims")
 
     args = parser.parse_args()
 
@@ -617,11 +757,13 @@ def main():
     elif args.run or (args.command == "run" and hasattr(args, "run")):
         run_id = args.run
         run_scoring(
-            run_id      = run_id,
-            dry_run     = args.dry_run,
-            limit       = args.limit,
-            resume      = not args.no_resume,
-            analyze_only= args.analyze_only,
+            run_id         = run_id,
+            dry_run        = args.dry_run,
+            limit          = args.limit,
+            resume         = not args.no_resume,
+            analyze_only   = args.analyze_only,
+            new_dims_only  = getattr(args, "new_dims_only", False),
+            full_dims_list = getattr(args, "full_dims_list", None),
         )
     else:
         parser.print_help()

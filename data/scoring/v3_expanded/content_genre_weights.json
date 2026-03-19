@@ -1,0 +1,87 @@
+{
+  "comedy": {
+    "holdout": 97.95918367346938,
+    "weights": {
+      "audience_appeal_marketability": 1.0,
+      "conceptual_hook_clarity": 3.25,
+      "character_appeal_and_long_term_potential": 1.0,
+      "creative_originality_and_boldness": 0,
+      "narrative_momentum_engagement": 0,
+      "resonant_originality": 0.25,
+      "world_density_and_texture": 0.25,
+      "tonal_specificity": 1.5,
+      "latent_depth_slow_burn_potential": 0,
+      "relationship_density_and_ensemble_engine": 1.5
+    },
+    "tune_w": 36,
+    "hold_w": 7
+  },
+  "crime_thriller": {
+    "holdout": 93.73737373737374,
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 0,
+      "character_appeal_and_long_term_potential": 0.25,
+      "creative_originality_and_boldness": 0,
+      "narrative_momentum_engagement": 1.0,
+      "resonant_originality": 0.75,
+      "world_density_and_texture": 0.5,
+      "tonal_specificity": 0.75,
+      "latent_depth_slow_burn_potential": 2.75,
+      "relationship_density_and_ensemble_engine": 1.0
+    },
+    "tune_w": 32,
+    "hold_w": 9
+  },
+  "drama": {
+    "holdout": 98.66666666666667,
+    "weights": {
+      "audience_appeal_marketability": 2.75,
+      "conceptual_hook_clarity": 7.5,
+      "character_appeal_and_long_term_potential": 7.75,
+      "creative_originality_and_boldness": 6.25,
+      "narrative_momentum_engagement": 1.25,
+      "resonant_originality": 1.25,
+      "world_density_and_texture": 3.5,
+      "tonal_specificity": 2.75,
+      "latent_depth_slow_burn_potential": 3.5,
+      "relationship_density_and_ensemble_engine": 3.75
+    },
+    "tune_w": 11,
+    "hold_w": 3
+  },
+  "other": {
+    "holdout": 100.0,
+    "weights": {
+      "audience_appeal_marketability": 2.0,
+      "conceptual_hook_clarity": 0,
+      "character_appeal_and_long_term_potential": 0,
+      "creative_originality_and_boldness": 0,
+      "narrative_momentum_engagement": 1.0,
+      "resonant_originality": 0.25,
+      "world_density_and_texture": 2.0,
+      "tonal_specificity": 1.5,
+      "latent_depth_slow_burn_potential": 0,
+      "relationship_density_and_ensemble_engine": 1.25
+    },
+    "tune_w": 17,
+    "hold_w": 6
+  },
+  "sci_fi_fantasy_horror": {
+    "holdout": 100.0,
+    "weights": {
+      "audience_appeal_marketability": 5.5,
+      "conceptual_hook_clarity": 2.0,
+      "character_appeal_and_long_term_potential": 3.0,
+      "creative_originality_and_boldness": 5.5,
+      "narrative_momentum_engagement": 0,
+      "resonant_originality": 9.0,
+      "world_density_and_texture": 3.25,
+      "tonal_specificity": 4.0,
+      "latent_depth_slow_burn_potential": 0,
+      "relationship_density_and_ensemble_engine": 3.5
+    },
+    "tune_w": 16,
+    "hold_w": 3
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "creative_originality_and_boldness": {
+    "winner_avg": 7.964,
+    "loser_avg": 6.255,
+    "gap": 1.709,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "tonal_specificity": {
+    "winner_avg": 8.179,
+    "loser_avg": 6.786,
+    "gap": 1.393,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "resonant_originality": {
+    "winner_avg": 8.086,
+    "loser_avg": 6.72,
+    "gap": 1.366,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "character_appeal_and_long_term_potential": {
+    "winner_avg": 8.629,
+    "loser_avg": 7.317,
+    "gap": 1.311,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "latent_depth_slow_burn_potential": {
+    "winner_avg": 8.436,
+    "loser_avg": 7.376,
+    "gap": 1.059,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "world_density_and_texture": {
+    "winner_avg": 8.107,
+    "loser_avg": 7.142,
+    "gap": 0.965,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "conceptual_hook_clarity": {
+    "winner_avg": 8.736,
+    "loser_avg": 7.786,
+    "gap": 0.95,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "narrative_momentum_engagement": {
+    "winner_avg": 8.293,
+    "loser_avg": 7.375,
+    "gap": 0.918,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "audience_appeal_marketability": {
+    "winner_avg": 8.014,
+    "loser_avg": 7.133,
+    "gap": 0.881,
+    "winner_n": 140,
+    "loser_n": 760
+  },
+  "relationship_density_and_ensemble_engine": {
+    "winner_avg": 8.043,
+    "loser_avg": 7.174,
+    "gap": 0.869,
+    "winner_n": 140,
+    "loser_n": 760
+  }
+}

@@ -1,22 +1,130 @@
 [
   {
-    "name": "example_dimension",
-    "display_name": "Example Dimension",
-    "what_it_measures": "One sentence: what signal does this capture?",
+    "name": "resonant_originality",
+    "display_name": "Resonant Originality",
+    "what_it_measures": "Whether the script feels fresh in a way that also lands immediately — not just novel, but surprising AND inevitable in hindsight. The feeling of 'I've never seen this, but of course this exists.'",
     "strong_signals": [
-      "Observable thing in the script that scores high (7-10)",
-      "Another strong signal"
+      "A premise or approach that feels genuinely new yet requires zero explanation to grasp",
+      "Formal or structural choices that feel daring but earned — risky without being alienating",
+      "A voice or angle that could only come from this specific creative sensibility, yet is universally legible",
+      "Moments that surprise you but feel retrospectively obvious — the 'why didn't anyone do this before?' quality"
     ],
     "weak_signals": [
-      "Observable thing that scores low (1-6)",
-      "Another weak signal"
+      "Bold or weird in ways that confuse rather than intrigue — risky but not landing",
+      "Novel premise that requires too much explanation or warm-up before it clicks",
+      "Competent execution of a familiar form with minor twists — safe originality",
+      "Originality that feels imported or grafted on rather than organic to the material"
     ],
     "anchors": {
-      "9-10": "Breaking Bad: [why it scores 9-10 on this dimension]",
-      "7-8": "The Office: [why it scores 7-8]",
-      "5-6": "A competent but forgettable show: [why]",
-      "3-4": "A weak pilot: [why]",
-      "1-2": "A failing pilot: [why]"
+      "9-10": "Breaking Bad: 'chemistry teacher becomes meth cook' is completely original yet instantly obvious why it works. The Wire: institutional crime drama from the inside is a totally fresh lens that clicks immediately.",
+      "7-8": "The Americans: fresh spy-genre angle (sleeper agents as married couple) is novel and intriguing but takes a beat to fully land. Fleabag: fourth-wall direct address feels fresh yet immediately natural.",
+      "5-6": "A procedural with one unusual setting or hook — feels new enough to get made but not genuinely surprising. Genre mashup that's interesting but doesn't feel inevitable.",
+      "3-4": "Derivative premise with surface-level freshness — one unusual casting choice or setting on an otherwise familiar show.",
+      "1-2": "Pure imitation of existing shows with no distinguishing angle. Feels like a pitch that starts 'it's X meets Y.'"
+    }
+  },
+  {
+    "name": "world_density_and_texture",
+    "display_name": "World Density & Texture",
+    "what_it_measures": "How rich, layered, and story-generating the world feels. Strong scripts imply a setting, social ecosystem, or environment with enough depth and specificity to support years of storytelling — not just a backdrop but an engine.",
+    "strong_signals": [
+      "The world has clear rules, hierarchies, and tensions that create ongoing story potential",
+      "Secondary characters and institutions feel like they have full lives beyond what we see",
+      "The setting itself generates story — geography, social structure, or context creates conflict naturally",
+      "Specific, granular details that make the world feel lived-in and real rather than generic",
+      "The pilot implies a large off-screen world with visible edges and interesting gaps"
+    ],
+    "weak_signals": [
+      "The setting is purely functional — a backdrop with no inherent story energy",
+      "World feels generic and interchangeable with any other show in the genre",
+      "No sense of ecosystem or social texture — characters exist in a vacuum",
+      "Rules of the world are vague or inconsistent",
+      "Limited sense that there are other stories happening beyond our protagonists"
+    ],
+    "anchors": {
+      "9-10": "The Wire: Baltimore's institutional ecosystem is so dense the show ran 5 seasons without repeating. The Sopranos: New Jersey mob world has social hierarchy, ritual, geography — every element generates story.",
+      "7-8": "Mad Men: the ad agency world of the 1960s has dense social rules and texture. Game of Thrones: the Westeros political ecosystem is explicitly rich with competing families and history.",
+      "5-6": "A procedural set in a specific profession — the world has some texture but is mostly a container for cases. The world is specific enough to recognize but doesn't generate story independently.",
+      "3-4": "Generic suburban or urban setting with no distinctive social texture. Characters could exist in almost any context.",
+      "1-2": "Completely featureless setting — the world has no discernible texture, rules, or story-generating capacity."
+    }
+  },
+  {
+    "name": "tonal_specificity",
+    "display_name": "Tonal Specificity",
+    "what_it_measures": "How distinct and hard-to-imitate the script's tonal identity feels. Strong scripts have a clear emotional, comedic, or dramatic signature that is immediately recognizable and could not be easily replicated by a different team.",
+    "strong_signals": [
+      "A consistent tonal register that is immediately recognizable — you could identify this show from a single scene",
+      "The tone blends elements (dark comedy, warmth under cynicism, absurdism with emotional stakes) in a ratio that feels unique to this show",
+      "Tonal choices feel confident and specific — not hedging between registers",
+      "The comedic or dramatic 'flavor' is distinct from other shows in the same genre",
+      "The pilot establishes a clear emotional contract with the audience — you know exactly what kind of show this is"
+    ],
+    "weak_signals": [
+      "Tone feels generic — could be any network drama or sitcom",
+      "Uncertain or hedging between registers in ways that feel unintentional rather than deliberate",
+      "The show's emotional signature is interchangeable with dozens of similar shows",
+      "Tonal inconsistencies that feel like a lack of creative control rather than intentional complexity",
+      "The vibe is correct for the genre but not specific to this show"
+    ],
+    "anchors": {
+      "9-10": "Fleabag: a specific blend of raw grief, dark comedy, and direct emotional intimacy that is completely unmistakable. Atlanta: surrealist Black Southern absurdism with genuine menace — instantly identifiable tonal fingerprint.",
+      "7-8": "Succession: a specific flavor of cringe-comedy-tragedy for the ultra-wealthy. The Good Place: warm philosophical sitcom with precise comic timing — distinct but more legible.",
+      "5-6": "A well-executed genre show with consistent tone but nothing that distinguishes it from the field. Solid drama or comedy that nails the expected register without adding anything new.",
+      "3-4": "Inconsistent or generic tone — feels like it's still figuring out what kind of show it wants to be. The emotional register is familiar and underdeveloped.",
+      "1-2": "No tonal identity — mood shifts arbitrarily, or the show adopts a completely generic register with no personality."
+    }
+  },
+  {
+    "name": "latent_depth_slow_burn_potential",
+    "display_name": "Latent Depth & Slow-Burn Potential",
+    "what_it_measures": "Whether the pilot suggests deeper long-term payoff even if restrained or understated on first pass. Strong scripts imply hidden reserves of character, thematic, or world depth that will reward continued viewing — the sense that there is much more beneath the surface.",
+    "strong_signals": [
+      "Characters who reveal one layer in the pilot but clearly have several more waiting",
+      "Thematic or philosophical undercurrents that are present but not over-explained",
+      "Scenes or details that feel richer on a second viewing than the first",
+      "A world or situation where you can sense unexplored corners and future complications",
+      "Restrained execution that feels confident — holds back not because it's empty but because it's patient"
+    ],
+    "weak_signals": [
+      "Everything on the surface — the pilot shows its full hand immediately with no sense of reserves",
+      "Characters fully explained in the pilot with no apparent deeper layers",
+      "Themes stated explicitly rather than implied — nothing left for the audience to discover",
+      "Frenetic pilot that front-loads excitement but implies nothing deeper beneath",
+      "No sense that the show will reveal more about itself over time"
+    ],
+    "anchors": {
+      "9-10": "Schitt's Creek: pilot appears to be a fish-out-of-water comedy but contains seeds of a show about family love and human decency that fully bloom three seasons in. Mad Men: the pilot reveals Don Draper's surface but the depth of his reinvented identity takes seasons to excavate.",
+      "7-8": "Severance: the pilot is deliberately withholding — you sense enormous depth but see only the surface. The Americans: restraint in the pilot implies deep character reservoirs ahead.",
+      "5-6": "A pilot with some character mystery or unresolved subtext that suggests more depth than average procedural, but the show's ceiling feels visible from the start.",
+      "3-4": "Thin pilot where what you see is what you get. Characters and world feel fully exhausted after one episode.",
+      "1-2": "Completely surface-level — no sense of any depth beneath what is shown. The pilot implies this is as complex as the show will get."
+    }
+  },
+  {
+    "name": "relationship_density_and_ensemble_engine",
+    "display_name": "Relationship Density & Ensemble Engine",
+    "what_it_measures": "How much recurring story energy exists in the relationships between characters. Strong scripts create multiple durable interpersonal dynamics — not just a protagonist with satellites, but a web of relationships that can independently generate conflict, comedy, and evolution across seasons.",
+    "strong_signals": [
+      "Multiple character relationships that each have their own distinct dynamic and story potential",
+      "The ensemble creates a system where any two characters in a room together generate material",
+      "Relationship tensions are structural rather than episodic — will still be present in season 3",
+      "Power dynamics, history, and competing desires between characters that are durable, not one-time",
+      "Secondary relationships (not just protagonist-centered) that feel generative and interesting"
+    ],
+    "weak_signals": [
+      "Protagonist-centric with thin relationships to functional satellites",
+      "Relationships established in the pilot feel resolved or exhaustible — no durable tension",
+      "Characters primarily defined by their relationship to the lead rather than to each other",
+      "Ensemble present but interchangeable — relationships lack distinct flavor",
+      "The show could sustain a season on plot alone, with characters as vehicles rather than engines"
+    ],
+    "anchors": {
+      "9-10": "Seinfeld: the four leads have entirely distinct dynamics with each other — George/Jerry is different from Elaine/Jerry is different from Kramer/George — infinite combinatorial energy. The Office: the ensemble web is so rich that even secondary characters like Kevin and Angela generate their own storylines.",
+      "7-8": "Parks and Recreation: the ensemble creates a system where any subset of characters generates material. Modern Family: three family units with distinct dynamics that can be combined endlessly.",
+      "5-6": "A procedural with a solid lead-partner dynamic and decent supporting cast — enough ensemble to sustain seasons but not a full generative web.",
+      "3-4": "Protagonist and 2-3 thin relationships. The show lives or dies on the lead alone. Supporting characters are functional.",
+      "1-2": "Solo protagonist or relationships so thin they do not constitute an ensemble engine. All story energy comes from plot, not character dynamics."
     }
   }
 ]

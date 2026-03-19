@@ -1,0 +1,106 @@
+{
+  "label": "global",
+  "dims": [
+    "audience_appeal_marketability",
+    "conceptual_hook_clarity",
+    "character_appeal_and_long_term_potential",
+    "creative_originality_and_boldness",
+    "narrative_momentum_engagement",
+    "resonant_originality",
+    "world_density_and_texture",
+    "tonal_specificity",
+    "latent_depth_slow_burn_potential",
+    "relationship_density_and_ensemble_engine"
+  ],
+  "weights": {
+    "audience_appeal_marketability": 2.5,
+    "conceptual_hook_clarity": 1.0,
+    "character_appeal_and_long_term_potential": 0.1,
+    "creative_originality_and_boldness": 0.05,
+    "narrative_momentum_engagement": 0.05,
+    "resonant_originality": 1.0,
+    "world_density_and_texture": 1.5,
+    "tonal_specificity": 2.5,
+    "latent_depth_slow_burn_potential": 0.1,
+    "relationship_density_and_ensemble_engine": 1.0
+  },
+  "tune_accuracy": 97.38,
+  "holdout_accuracy": 97.98,
+  "holdout_enrichment": 64.3,
+  "improvements": 19,
+  "v2_baseline_pct": 84.01,
+  "vs_baseline": 13.97,
+  "gap_analysis": {
+    "creative_originality_and_boldness": {
+      "winner_avg": 7.964,
+      "loser_avg": 6.255,
+      "gap": 1.709,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "tonal_specificity": {
+      "winner_avg": 8.179,
+      "loser_avg": 6.786,
+      "gap": 1.393,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "resonant_originality": {
+      "winner_avg": 8.086,
+      "loser_avg": 6.72,
+      "gap": 1.366,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "character_appeal_and_long_term_potential": {
+      "winner_avg": 8.629,
+      "loser_avg": 7.317,
+      "gap": 1.311,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "latent_depth_slow_burn_potential": {
+      "winner_avg": 8.436,
+      "loser_avg": 7.376,
+      "gap": 1.059,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "world_density_and_texture": {
+      "winner_avg": 8.107,
+      "loser_avg": 7.142,
+      "gap": 0.965,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "conceptual_hook_clarity": {
+      "winner_avg": 8.736,
+      "loser_avg": 7.786,
+      "gap": 0.95,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "narrative_momentum_engagement": {
+      "winner_avg": 8.293,
+      "loser_avg": 7.375,
+      "gap": 0.918,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "audience_appeal_marketability": {
+      "winner_avg": 8.014,
+      "loser_avg": 7.133,
+      "gap": 0.881,
+      "winner_n": 140,
+      "loser_n": 760
+    },
+    "relationship_density_and_ensemble_engine": {
+      "winner_avg": 8.043,
+      "loser_avg": 7.174,
+      "gap": 0.869,
+      "winner_n": 140,
+      "loser_n": 760
+    }
+  },
+  "optimized_at": "2026-03-19T07:44:42.539554+00:00"
+}
