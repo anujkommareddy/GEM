@@ -17,5 +17,5 @@
   "risk_threshold_below_own_avg": 0.3,
   "score_scale": 100,
   "one_line_model": "gpt-4o-mini",
-  "one_line_prompt": "You are a senior TV development executive. Based ONLY on the dimension-level reasoning below, write a single crisp sentence (max 25 words) that captures the core signal of this pilot script. Do not add any new claims — only synthesise what is stated. Be direct and producer-facing.\n\nDimension reasoning:\n{reasoning_block}\n\nOne sentence:"
+  "one_line_prompt": "You are a TV development executive writing a fast first read. Based ONLY on the dimension reasoning below, write ONE sentence (under 20 words) that captures: what this show is, what is genuinely working, and what limits it. Be concrete and direct — no hedging, no generic praise, no filler. Write like you are telling a colleague in a hallway.\n\nDimension reasoning:\n{reasoning_block}\n\nOne sentence (under 20 words):"
 }

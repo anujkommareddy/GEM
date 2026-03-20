@@ -148,56 +148,205 @@ def get_verdict(score_0_to_100: float, config: dict) -> tuple:
     return last, descriptions[last]
 
 
-def compute_strengths_and_risks(scoring: dict, weights: dict, config: dict):
+def compute_strengths_and_risks(scoring: dict, weights: dict, config: dict, gap_analysis: dict = None):
     """
-    Strengths: dimensions contributing most to the weighted score
-               (highest weight × score), further filtered to dims
-               scoring above the script's own average.
+    Strengths: dimensions that are genuinely strong in absolute terms
+               AND close to or above the winner benchmark.
+               Avoids surfacing fake 'strengths' on uniformly weak scripts.
 
-    Risks:     dimensions dragging the score down most — lowest
-               weighted contribution relative to script's own profile.
+    Risks:     dimensions that are genuinely weak (below absolute floor)
+               OR significantly below the winner benchmark.
     """
-    own_avg = sum(
-        scoring[d]["score"]
-        for d in ALL_DIMS if d in scoring and isinstance(scoring[d], dict)
-    ) / len([d for d in ALL_DIMS if d in scoring])
+    if gap_analysis is None:
+        gap_analysis = {}
 
-    contributions = []
+    STRENGTH_FLOOR  = 6.5   # Must score at least this to be a real strength
+    RISK_CEILING    = 5.5   # Anything at or below this is a genuine risk
+    WINNER_GAP_RISK = -1.5  # >1.5 below winner avg is a risk regardless of abs score
+
+    items = []
     for dim in ALL_DIMS:
         if dim not in scoring or not isinstance(scoring[dim], dict):
             continue
-        score = scoring[dim]["score"]
-        w = weights.get(dim, 0)
-        contribution = score * w
-        delta_from_avg = score - own_avg
-        contributions.append({
-            "dimension": dim,
-            "score": score,
-            "weight": w,
-            "contribution": contribution,
-            "delta_from_avg": round(delta_from_avg, 2),
+        score      = scoring[dim]["score"]
+        w          = weights.get(dim, 0)
+        winner_avg = gap_analysis.get(dim, {}).get("winner_avg", 6.0)
+        vs_winner  = round(score - winner_avg, 2)
+        items.append({
+            "dimension":    dim,
+            "score":        score,
+            "weight":       w,
+            "winner_avg":   winner_avg,
+            "vs_winner":    vs_winner,
+            "contribution": score * w,
         })
-
-    contributions.sort(key=lambda x: -x["contribution"])
 
     n_s = config.get("n_strengths", 3)
     n_r = config.get("n_risks", 2)
-    thresh = config.get("strength_threshold_above_own_avg", 0.0)
-    risk_thresh = config.get("risk_threshold_below_own_avg", 0.0)
 
-    # Strengths: top contributors that are also above script's own avg
-    strengths = [
-        c for c in contributions
-        if c["delta_from_avg"] >= thresh
-    ][:n_s]
+    # Genuine strength: above absolute floor AND within 0.5 of winner avg (or above it)
+    strengths = sorted(
+        [i for i in items if i["score"] >= STRENGTH_FLOOR and i["vs_winner"] >= -0.5],
+        key=lambda x: -x["contribution"]
+    )[:n_s]
 
-    # Risks: bottom contributors that are below script's own avg
-    risks = [
-        c for c in reversed(contributions)
-        if c["delta_from_avg"] <= -risk_thresh
-    ][:n_r]
+    # Genuine risk: below absolute ceiling OR significantly below winner avg
+    # Sort by worst gap from winner first
+    risks = sorted(
+        [i for i in items if i["score"] <= RISK_CEILING or i["vs_winner"] <= WINNER_GAP_RISK],
+        key=lambda x: x["vs_winner"]
+    )[:n_r]
 
     return strengths, risks
+
+
+# ─── Confidence ─────────────────────────────────────────────────────────────────
+
+def compute_confidence(weighted_score: float, verdict_label: str) -> str:
+    """
+    How confident is the verdict?
+    Based on distance from the nearest verdict boundary.
+      HIGH   > 8 points from boundary
+      MEDIUM  4–8 points
+      LOW    < 4 points
+    """
+    if verdict_label == "STRONG SIGNAL":
+        distance = weighted_score - 90
+    elif verdict_label == "WORTH THE READ":
+        distance = min(weighted_score - 72, 90 - weighted_score)
+    elif verdict_label == "MIXED":
+        distance = min(weighted_score - 50, 72 - weighted_score)
+    else:  # PASS
+        distance = 50 - weighted_score
+
+    if distance >= 8:
+        return "HIGH"
+    elif distance >= 4:
+        return "MEDIUM"
+    else:
+        return "LOW"
+
+
+# ─── Read Recommendation ────────────────────────────────────────────────────────
+
+def compute_read_recommendation(verdict_label: str, confidence: str) -> str:
+    """Practical one-line read recommendation based on verdict + confidence."""
+    if verdict_label == "STRONG SIGNAL":
+        return "Prioritize for deeper read"
+    elif verdict_label == "WORTH THE READ":
+        if confidence == "HIGH":
+            return "Worth reading this week"
+        else:
+            return "Worth a read — evaluate further"
+    elif verdict_label == "MIXED":
+        if confidence == "HIGH":
+            return "Read only if slate has room"
+        else:
+            return "Not a priority read"
+    else:  # PASS
+        return "Pass in current form"
+
+
+# ─── Opportunity Type ───────────────────────────────────────────────────────────
+
+def compute_opportunity_type(scoring: dict, verdict_label: str) -> str:
+    """
+    Classify the type of creative/commercial opportunity this script represents.
+    Based on the score profile of the highest-weight dimensions.
+    """
+    def s(dim):
+        val = scoring.get(dim, {})
+        return float(val.get("score", 0)) if isinstance(val, dict) else 0.0
+
+    aa = s("audience_appeal_marketability")
+    ts = s("tonal_specificity")
+    ch = s("conceptual_hook_clarity")
+    ca = s("character_appeal_and_long_term_potential")
+    ro = s("resonant_originality")
+    wd = s("world_density_and_texture")
+    rd = s("relationship_density_and_ensemble_engine")
+
+    if verdict_label == "STRONG SIGNAL":
+        if aa >= 8.0 and ts >= 8.0:
+            return "Commercial swing"
+        elif ts >= 8.5:
+            return "Voice-driven opportunity"
+        elif aa >= 8.5:
+            return "Market-ready, distinctive execution"
+        elif ro >= 8.0:
+            return "Prestige breakout potential"
+        else:
+            return "Strong all-around signal"
+
+    elif verdict_label == "WORTH THE READ":
+        if aa >= 7.5 and ts >= 7.0:
+            return "Commercial swing with upside"
+        elif ch >= 7.5 and ca < 6.5:
+            return "Concept-led opportunity"
+        elif ca >= 7.5 and rd >= 7.0:
+            return "Character-led opportunity"
+        elif ts >= 7.5:
+            return "Voice-driven, needs development"
+        elif ro >= 7.5:
+            return "Prestige / niche potential"
+        elif wd >= 7.5:
+            return "World-led opportunity"
+        else:
+            return "Solid platform script"
+
+    elif verdict_label == "MIXED":
+        peak = max(
+            s(d) for d in [
+                "audience_appeal_marketability", "tonal_specificity",
+                "world_density_and_texture", "resonant_originality",
+                "conceptual_hook_clarity",
+            ]
+        )
+        if peak >= 7.5:
+            return "Strong sample, uneven execution"
+        elif ch >= 6.5:
+            return "Intriguing concept, underpowered script"
+        else:
+            return "Intriguing but underpowered"
+
+    else:  # PASS
+        return "Not yet competitive"
+
+
+# ─── Highlights ─────────────────────────────────────────────────────────────────
+
+def compute_highlights(
+    strengths: list, risks: list,
+    scoring: dict, display: dict, verdict_label: str
+) -> dict:
+    """
+    For stronger scripts: 'Why It Stands Out' — bullets from genuine strengths.
+    For mixed/pass scripts: 'What Would Need to Improve' — bullets from real risks.
+    Grounded entirely in existing dimension reasoning. No LLM.
+    """
+    if verdict_label in ("STRONG SIGNAL", "WORTH THE READ"):
+        highlight_type = "why_it_stands_out"
+        source = strengths
+    else:
+        highlight_type = "what_would_need_to_improve"
+        source = risks
+
+    bullets = []
+    for item in source[:3]:
+        dim = item["dimension"]
+        name = display.get(dim, {}).get("display_name", dim)
+        dim_data = scoring.get(dim, {})
+        reasoning = dim_data.get("reasoning", "") if isinstance(dim_data, dict) else ""
+        if reasoning:
+            bullets.append(f"{name}: {reasoning}")
+
+    if not bullets:
+        if highlight_type == "why_it_stands_out":
+            bullets = ["No dimensions scored above the winner benchmark in current form."]
+        else:
+            bullets = ["Most dimensions are performing near or above the winner benchmark."]
+
+    return {"type": highlight_type, "bullets": bullets}
 
 
 # ─── One-Line LLM Synthesis ────────────────────────────────────────────────────
@@ -230,7 +379,7 @@ def generate_one_line(scoring: dict, weights: dict, config: dict) -> str:
 
     try:
         import openai
-        client = openai.OpenAI(api_key=api_key)
+        client = openai.OpenAI(api_key=api_key, timeout=30.0, max_retries=1)
         resp = client.chat.completions.create(
             model=config.get("one_line_model", "gpt-4o-mini"),
             messages=[{"role": "user", "content": prompt}],
@@ -238,7 +387,7 @@ def generate_one_line(scoring: dict, weights: dict, config: dict) -> str:
             temperature=0.3,
         )
         return resp.choices[0].message.content.strip().strip('"')
-    except Exception as e:
+    except Exception:
         return _fallback_one_line(scoring, weights)
 
 
@@ -257,36 +406,29 @@ def _fallback_one_line(scoring: dict, weights: dict) -> str:
 
 def generate_producer_takeaway(verdict_label: str, percentile: int,
                                 strengths: list, risks: list,
-                                display: dict) -> str:
-    """Pure template — no LLM."""
-    if verdict_label == "STRONG SIGNAL":
-        action = "Read this script."
-    elif verdict_label == "WORTH THE READ":
-        action = "Worth your time."
-    elif verdict_label == "MIXED":
-        action = "Proceed with caution."
-    else:
-        action = "Not recommended in current form."
+                                display: dict,
+                                read_recommendation: str = "",
+                                opportunity_type: str = "") -> str:
+    """
+    Actionable decision memo. Template-based, no LLM.
+    Answers: what should I do, what kind of opportunity is this, why.
+    """
+    parts = []
+
+    if read_recommendation:
+        parts.append(f"{read_recommendation}.")
 
     if strengths:
-        top_strength = display.get(strengths[0]["dimension"], {}).get("display_name", strengths[0]["dimension"])
-        strength_note = f" Standout signal on {top_strength}."
-    else:
-        strength_note = ""
+        top_name = display.get(strengths[0]["dimension"], {}).get("display_name", strengths[0]["dimension"])
+        parts.append(f"Lead signal: {top_name}.")
 
     if risks:
         top_risk = display.get(risks[0]["dimension"], {}).get("display_name", risks[0]["dimension"])
-        risk_note = f" Watch: {top_risk} is dragging."
-    else:
-        risk_note = ""
+        parts.append(f"Watch: {top_risk}.")
 
-    if percentile == 0:
-        pct_label = "the bottom 1%"
-    elif percentile >= 99:
-        pct_label = "the top 1%"
-    else:
-        pct_label = f"the {percentile}th percentile"
-    return f"{action}{strength_note}{risk_note} Ranks in {pct_label} of the GEM corpus."
+    parts.append(f"Outscores {percentile}% of the GEM corpus.")
+
+    return " ".join(parts)
 
 
 # ─── Report Assembly ────────────────────────────────────────────────────────────
@@ -307,8 +449,14 @@ def build_report(show_id: str, use_llm: bool = True) -> dict:
     weighted_score = compute_weighted_score(scoring, weights)
     verdict_label, verdict_desc = get_verdict(weighted_score, config)
 
-    # ── Strengths / Risks ─────────────────────────────────────────────────────
-    strengths, risks = compute_strengths_and_risks(scoring, weights, config)
+    # ── Strengths / Risks (benchmark-aware) ──────────────────────────────────
+    strengths, risks = compute_strengths_and_risks(scoring, weights, config, gap_analysis)
+
+    # ── Decision layer ────────────────────────────────────────────────────────
+    confidence          = compute_confidence(weighted_score, verdict_label)
+    read_recommendation = compute_read_recommendation(verdict_label, confidence)
+    opportunity_type    = compute_opportunity_type(scoring, verdict_label)
+    highlights          = compute_highlights(strengths, risks, scoring, display, verdict_label)
 
     # ── One-line summary ──────────────────────────────────────────────────────
     if use_llm:
@@ -341,14 +489,15 @@ def build_report(show_id: str, use_llm: bool = True) -> dict:
 
     # ── Producer takeaway ─────────────────────────────────────────────────────
     producer_takeaway = generate_producer_takeaway(
-        verdict_label, percentile, strengths, risks, display
+        verdict_label, percentile, strengths, risks, display,
+        read_recommendation, opportunity_type
     )
 
     return {
         "show_id":        show_id,
         "generated_at":   datetime.now(timezone.utc).isoformat(),
         "engine_version": record.get("run_id", "v3_expanded"),
-        "model":          record.get("model", "gpt-5-mini"),
+        "model":          record.get("model", "gpt-4o-mini"),
         "scoring_mode":   record.get("scoring_mode", ""),
 
         "verdict": {
@@ -358,6 +507,11 @@ def build_report(show_id: str, use_llm: bool = True) -> dict:
             "description":    verdict_desc,
             "one_line":       one_line,
         },
+
+        "confidence":          confidence,
+        "read_recommendation": read_recommendation,
+        "opportunity_type":    opportunity_type,
+        "highlights":          highlights,
 
         "strengths": [
             {

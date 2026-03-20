@@ -241,7 +241,7 @@ def score_script(show_id: str, text: str, config: dict, new_dims: list) -> dict:
         )
 
     import openai
-    client = openai.OpenAI(api_key=api_key)
+    client = openai.OpenAI(api_key=api_key, timeout=90.0, max_retries=0)
 
     new_dim_names = [d["name"] for d in new_dims]
     all_dims = BASE_DIMENSIONS + [n for n in new_dim_names if n not in BASE_DIMENSIONS]
@@ -287,7 +287,19 @@ def score_script(show_id: str, text: str, config: dict, new_dims: list) -> dict:
         else:
             raise ValueError(f"No JSON found in LLM response:\n{raw[:300]}")
 
-    parsed = json.loads(raw)
+    try:
+        parsed = json.loads(raw)
+    except json.JSONDecodeError:
+        # LLM sometimes returns slightly malformed JSON (unescaped newlines in
+        # reasoning fields, trailing commas, etc.). json_repair handles these.
+        try:
+            from json_repair import repair_json
+            parsed = json.loads(repair_json(raw))
+        except Exception as repair_err:
+            raise ValueError(
+                f"Could not parse LLM response as JSON (even after repair).\n"
+                f"Raw response (first 300 chars):\n{raw[:300]}"
+            ) from repair_err
 
     # Normalize
     scores = {}
